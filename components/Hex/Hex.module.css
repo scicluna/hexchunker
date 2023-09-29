@@ -1,16 +1,13 @@
 .hexagon {
-    --hex-size: 15rem;
-    /* This is the base size you can adjust */
-
     position: relative;
     width: var(--hex-size);
     height: var(--hex-size);
     /* sqrt(3) times the base size */
-    background-color: #eee;
+    background-color: #000000;
     /* This can be removed if you're using images */
     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    margin: 1px;
 }
-
 
 .hexagon::before,
 .hexagon::after {
