@@ -1,9 +1,15 @@
+import { char } from "@/components/Hex/Hex";
 import MainStage from "@/components/MainStage";
+import { readText } from "@/utils/readText";
 
-export default function Home() {
+export default async function Main() {
+
+  const island = await readText()
+  const islandChain = island.replace("\r", "").split("\n")
+
   return (
     <main>
-      <MainStage />
+      <MainStage islandChain={islandChain} />
     </main>
   )
 }
