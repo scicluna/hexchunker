@@ -16,8 +16,8 @@ export default function Hex({ tile, size, chunkSize }: HexProps) {
     return (
         <div style={{
             "--hex-size": `${size}rem`, marginBottom: `${-size * .25}rem`,
-            marginLeft: `${Math.floor(tile.pos / chunkSize) % 2 === 0 ? size * .5 : 0}rem`,
-            marginRight: `${Math.floor(tile.pos / chunkSize) % 2 === 0 ? -size * .5 : 0}rem`
+            marginLeft: `${Math.floor(tile.pos / chunkSize) % 2 === 0 ? size * (1.732 / 2 / 2) : 0}rem`,
+            marginRight: `${Math.floor(tile.pos / chunkSize) % 2 === 0 ? -size * (1.732 / 2 / 2) : 0}rem`
         } as React.CSSProperties}
             className={`relative ${style.hexagon}`} >
             <div>

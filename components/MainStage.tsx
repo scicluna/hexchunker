@@ -9,7 +9,7 @@ export default function MainStage({ islandChain }: MainStageProps) {
     const HEXSIZE = 20
     const CHUNKDIMENSIONS = 10
     return (
-        <main className="flex flex-col">
+        <main className="grid grid-cols-[repeat(10,1fr)]">
             {islandChain && islandChain.map((island, islandNumber) => (
                 <div className={`grid grid-cols-[repeat(10,1fr)] h-[${HEXSIZE}rem] max-w-fit`} key={islandNumber}>
                     {island.map(tile => (

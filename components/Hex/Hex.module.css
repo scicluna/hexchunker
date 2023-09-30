@@ -1,10 +1,8 @@
 .hexagon {
     position: relative;
-    width: var(--hex-size);
+    width: calc((1.732/2) * var(--hex-size));
     height: var(--hex-size);
-    /* sqrt(3) times the base size */
     background-color: #000000;
-    /* This can be removed if you're using images */
     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
     margin: 1px;
 }

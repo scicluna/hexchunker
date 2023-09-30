@@ -1,5 +1,6 @@
 import os
 import json
+import random
 
 def islandScaffold(folder_path, output_folder):
     if not os.path.exists(output_folder):
