@@ -5,7 +5,7 @@ type MainStageProps = {
     islandChain: Island[][]
 }
 
-export default function MainStage({ islandChain }: MainStageProps) {
+export default function World({ islandChain }: MainStageProps) {
     const HEXSIZE = 20
     const CHUNKDIMENSIONS = 10
     return (
