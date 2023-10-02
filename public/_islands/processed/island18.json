@@ -1,0 +1,702 @@
+[
+    {
+        "pos": 0,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 1,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Whirling Whirlpools",
+        "encounter": ""
+    },
+    {
+        "pos": 2,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Scenic Lookouts",
+        "encounter": "Aqua monsters"
+    },
+    {
+        "pos": 3,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Sacred Peaks",
+        "encounter": "Bandit camp"
+    },
+    {
+        "pos": 4,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Dragon lair"
+    },
+    {
+        "pos": 5,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Port-town",
+        "encounter": "Wild animals"
+    },
+    {
+        "pos": 6,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Nomadic tribe"
+    },
+    {
+        "pos": 7,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 8,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": ""
+    },
+    {
+        "pos": 9,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Scenic Lookouts",
+        "encounter": "Chaotic Shipwreck"
+    },
+    {
+        "pos": 10,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Sacred Peaks",
+        "encounter": "Bandit Camp"
+    },
+    {
+        "pos": 11,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Dragon Lair"
+    },
+    {
+        "pos": 12,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Port-Towns",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 13,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Nomadic Tribe"
+    },
+    {
+        "pos": 14,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 15,
+        "number": 18,
+        "terrain": "O",
+        "feature": "tranquil lagoon",
+        "encounter": "Fierce Animals"
+    },
+    {
+        "pos": 16,
+        "number": 18,
+        "terrain": "O",
+        "feature": "mossy cliffs",
+        "encounter": "Ancient Ruins"
+    },
+    {
+        "pos": 17,
+        "number": 18,
+        "terrain": "O",
+        "feature": "snow-capped peak",
+        "encounter": "Floating Objects"
+    },
+    {
+        "pos": 18,
+        "number": 18,
+        "terrain": "O",
+        "feature": "enchanted grove",
+        "encounter": ""
+    },
+    {
+        "pos": 19,
+        "number": 18,
+        "terrain": "O",
+        "feature": "port-town",
+        "encounter": ""
+    },
+    {
+        "pos": 20,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Roiling Waves"
+    },
+    {
+        "pos": 21,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Bandit Camps"
+    },
+    {
+        "pos": 22,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Crashing Waves;",
+        "encounter": "Dragon Lairs"
+    },
+    {
+        "pos": 23,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Scenic Lookouts;",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 24,
+        "number": 18,
+        "terrain": "M",
+        "feature": "Rich Mines;",
+        "encounter": "Nomadic Tribes"
+    },
+    {
+        "pos": 25,
+        "number": 18,
+        "terrain": "M",
+        "feature": "Druids Circles;",
+        "encounter": ""
+    },
+    {
+        "pos": 26,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Port-Town.",
+        "encounter": ""
+    },
+    {
+        "pos": 27,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Rolling Hills - Wandering Merchants"
+    },
+    {
+        "pos": 28,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean - Sea Monsters"
+    },
+    {
+        "pos": 29,
+        "number": 18,
+        "terrain": "O",
+        "feature": "crystalline shores",
+        "encounter": "Ocean - Shipwrecks"
+    },
+    {
+        "pos": 30,
+        "number": 18,
+        "terrain": "O",
+        "feature": "jagged cliff",
+        "encounter": "Plains - Nomadic Tribes"
+    },
+    {
+        "pos": 31,
+        "number": 18,
+        "terrain": "O",
+        "feature": "snow-capped peaks",
+        "encounter": ""
+    },
+    {
+        "pos": 32,
+        "number": 18,
+        "terrain": "O",
+        "feature": "ancient grove",
+        "encounter": ""
+    },
+    {
+        "pos": 33,
+        "number": 18,
+        "terrain": "H",
+        "feature": "port-towns (2 per map, adjacent to water)",
+        "encounter": "Sea Monsters"
+    },
+    {
+        "pos": 34,
+        "number": 18,
+        "terrain": "H",
+        "feature": "",
+        "encounter": "Bandit Camp"
+    },
+    {
+        "pos": 35,
+        "number": 18,
+        "terrain": "H",
+        "feature": "Glittering Reefs",
+        "encounter": "Dragon Lair"
+    },
+    {
+        "pos": 36,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Mystic Lookouts",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 37,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Verdant Mines",
+        "encounter": "Nomadic Tribes"
+    },
+    {
+        "pos": 38,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Sanctified Circles",
+        "encounter": ""
+    },
+    {
+        "pos": 39,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Coastal Port-Town",
+        "encounter": ""
+    },
+    {
+        "pos": 40,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Sea Monsters"
+    },
+    {
+        "pos": 41,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Bandit Camps"
+    },
+    {
+        "pos": 42,
+        "number": 18,
+        "terrain": "F",
+        "feature": "rocky shoreline",
+        "encounter": "Dragon Lairs"
+    },
+    {
+        "pos": 43,
+        "number": 18,
+        "terrain": "F",
+        "feature": "grassy knoll",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 44,
+        "number": 18,
+        "terrain": "F",
+        "feature": "snow-covered peak",
+        "encounter": "Nomadic Tribes"
+    },
+    {
+        "pos": 45,
+        "number": 18,
+        "terrain": "H",
+        "feature": "lush grove",
+        "encounter": ""
+    },
+    {
+        "pos": 46,
+        "number": 18,
+        "terrain": "H",
+        "feature": "verdant meadow",
+        "encounter": ""
+    },
+    {
+        "pos": 47,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Swirling Whirlpools"
+    },
+    {
+        "pos": 48,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Sneaking Bandits"
+    },
+    {
+        "pos": 49,
+        "number": 18,
+        "terrain": "O",
+        "feature": "crystal blue",
+        "encounter": "Fiery Dragon"
+    },
+    {
+        "pos": 50,
+        "number": 18,
+        "terrain": "O",
+        "feature": "rocky crags",
+        "encounter": "Roaming Animals"
+    },
+    {
+        "pos": 51,
+        "number": 18,
+        "terrain": "O",
+        "feature": "snow-capped summit",
+        "encounter": "Savage Warriors"
+    },
+    {
+        "pos": 52,
+        "number": 18,
+        "terrain": "F",
+        "feature": "forgotten glade",
+        "encounter": ""
+    },
+    {
+        "pos": 53,
+        "number": 18,
+        "terrain": "F",
+        "feature": "Mayfield Port-Town",
+        "encounter": "Roaring Waves"
+    },
+    {
+        "pos": 54,
+        "number": 18,
+        "terrain": "F",
+        "feature": "",
+        "encounter": "Bandit Camp"
+    },
+    {
+        "pos": 55,
+        "number": 18,
+        "terrain": "H",
+        "feature": "",
+        "encounter": "Dragon Lair"
+    },
+    {
+        "pos": 56,
+        "number": 18,
+        "terrain": "H",
+        "feature": "Coral Reefs",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 57,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": "Nomadic Tribes"
+    },
+    {
+        "pos": 58,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Rich Mines",
+        "encounter": ""
+    },
+    {
+        "pos": 59,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": ""
+    },
+    {
+        "pos": 60,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Port-towns",
+        "encounter": "Fiery creatures"
+    },
+    {
+        "pos": 61,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ancient temple"
+    },
+    {
+        "pos": 62,
+        "number": 18,
+        "terrain": "H",
+        "feature": "",
+        "encounter": "Floating wreckage"
+    },
+    {
+        "pos": 63,
+        "number": 18,
+        "terrain": "H",
+        "feature": "Crashing Waves",
+        "encounter": "Mountain golems"
+    },
+    {
+        "pos": 64,
+        "number": 18,
+        "terrain": "H",
+        "feature": "Mystic Lookouts",
+        "encounter": "Wild boar"
+    },
+    {
+        "pos": 65,
+        "number": 18,
+        "terrain": "M",
+        "feature": "Glacial Caves",
+        "encounter": ""
+    },
+    {
+        "pos": 66,
+        "number": 18,
+        "terrain": "M",
+        "feature": "Verdant Glades",
+        "encounter": ""
+    },
+    {
+        "pos": 67,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Rural Hills",
+        "encounter": "Bandit Camp"
+    },
+    {
+        "pos": 68,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 69,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Floating Objects"
+    },
+    {
+        "pos": 70,
+        "number": 18,
+        "terrain": "O",
+        "feature": "majestic plateau,",
+        "encounter": "Hidden Treasures"
+    },
+    {
+        "pos": 71,
+        "number": 18,
+        "terrain": "O",
+        "feature": "serene cove,",
+        "encounter": "Mountain Hermits"
+    },
+    {
+        "pos": 72,
+        "number": 18,
+        "terrain": "O",
+        "feature": "majestic plateau,",
+        "encounter": ""
+    },
+    {
+        "pos": 73,
+        "number": 18,
+        "terrain": "P",
+        "feature": "stormy waves,",
+        "encounter": ""
+    },
+    {
+        "pos": 74,
+        "number": 18,
+        "terrain": "P",
+        "feature": "rocky outcrop,",
+        "encounter": "Roaming Merchants"
+    },
+    {
+        "pos": 75,
+        "number": 18,
+        "terrain": "P",
+        "feature": "crystalline waters.",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 76,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Shipwrecks"
+    },
+    {
+        "pos": 77,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Hidden Treasures"
+    },
+    {
+        "pos": 78,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Bright Lighthouse",
+        "encounter": "Dragon Lairs"
+    },
+    {
+        "pos": 79,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Mystical Cairn",
+        "encounter": ""
+    },
+    {
+        "pos": 80,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Winding Paths",
+        "encounter": ""
+    },
+    {
+        "pos": 81,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Verdant Glades",
+        "encounter": "Furious wildcats"
+    },
+    {
+        "pos": 82,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Seaside Port",
+        "encounter": "Secret treasure"
+    },
+    {
+        "pos": 83,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Stealthy merchants"
+    },
+    {
+        "pos": 84,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Roaring dragons"
+    },
+    {
+        "pos": 85,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": ""
+    },
+    {
+        "pos": 86,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Scenic Lookouts",
+        "encounter": ""
+    },
+    {
+        "pos": 87,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Whirlpools",
+        "encounter": "Sea Monsters"
+    },
+    {
+        "pos": 88,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Sunken Cities",
+        "encounter": "Bandit Camps"
+    },
+    {
+        "pos": 89,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ancient Ruins"
+    },
+    {
+        "pos": 90,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 91,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": "Nomadic Tribes"
+    },
+    {
+        "pos": 92,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Scenic Lookouts",
+        "encounter": ""
+    },
+    {
+        "pos": 93,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Rich Mines",
+        "encounter": ""
+    },
+    {
+        "pos": 94,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Druid Circles",
+        "encounter": "Hill - Bandit Camp"
+    },
+    {
+        "pos": 95,
+        "number": 18,
+        "terrain": "O",
+        "feature": "Port-Town",
+        "encounter": "Mountain - Dragon Lair"
+    },
+    {
+        "pos": 96,
+        "number": 18,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean - Sea Monsters"
+    },
+    {
+        "pos": 97,
+        "number": 18,
+        "terrain": "O",
+        "feature": "grassy knolls",
+        "encounter": "Forest - Wild Animals"
+    },
+    {
+        "pos": 98,
+        "number": 18,
+        "terrain": "O",
+        "feature": "snow-capped peaks",
+        "encounter": "Plains - Nomadic Tribes"
+    },
+    {
+        "pos": 99,
+        "number": 18,
+        "terrain": "O",
+        "feature": "jagged rocks",
+        "encounter": ""
+    }
+]

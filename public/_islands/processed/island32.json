@@ -1,0 +1,702 @@
+[
+    {
+        "pos": 0,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 1,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 2,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Crashing Waves\"",
+        "encounter": "For the input terrain string \"OHMFP\", the generated encounters output would look like:"
+    },
+    {
+        "pos": 3,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Majestic Grove\"",
+        "encounter": "\"Foaming Waves\""
+    },
+    {
+        "pos": 4,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Steep Ravine\"",
+        "encounter": "\"Tumbling Rocks\""
+    },
+    {
+        "pos": 5,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Snowy Summit\"",
+        "encounter": "\"Majestic Peak\""
+    },
+    {
+        "pos": 6,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Tranquil Meadow\"",
+        "encounter": "\"Mysterious Glade\""
+    },
+    {
+        "pos": 7,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Blazing Sun\""
+    },
+    {
+        "pos": 8,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 9,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Tidal Pool\"",
+        "encounter": ""
+    },
+    {
+        "pos": 10,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Enchanted Glade\"",
+        "encounter": "For the input terrain string \"OHMFP\", generated encounters output look like:"
+    },
+    {
+        "pos": 11,
+        "number": 32,
+        "terrain": "M",
+        "feature": "\"Lonely Outcrop\"",
+        "encounter": "\"Foamy Waves\""
+    },
+    {
+        "pos": 12,
+        "number": 32,
+        "terrain": "M",
+        "feature": "\"Sunlit Pass\"",
+        "encounter": "\"Mossy Slope\""
+    },
+    {
+        "pos": 13,
+        "number": 32,
+        "terrain": "M",
+        "feature": "\"Meadow Stream\"",
+        "encounter": "\"Craggy Peaks\""
+    },
+    {
+        "pos": 14,
+        "number": 32,
+        "terrain": "M",
+        "feature": "",
+        "encounter": "\"Mystical Glade\""
+    },
+    {
+        "pos": 15,
+        "number": 32,
+        "terrain": "M",
+        "feature": "\"Giant Clam\"",
+        "encounter": "\"Windswept Fields\""
+    },
+    {
+        "pos": 16,
+        "number": 32,
+        "terrain": "P",
+        "feature": "\"Craggy Ravine\"",
+        "encounter": ""
+    },
+    {
+        "pos": 17,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Spiraling Path\"",
+        "encounter": "\"Tidal Wave\", \"Crashing Surf\""
+    },
+    {
+        "pos": 18,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Gnarled Roots\"",
+        "encounter": "\"Cresting Ridge\", \"Foggy Cliffs\""
+    },
+    {
+        "pos": 19,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Rolling Hills\"",
+        "encounter": "\"Rocky Caverns\", \"Steep Slopes\""
+    },
+    {
+        "pos": 20,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Mysterious Glade\", \"Ancient Trees\""
+    },
+    {
+        "pos": 21,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Rocky Pathway\"",
+        "encounter": "\"Burning Sandstorm\", \"Open Grassland\""
+    },
+    {
+        "pos": 22,
+        "number": 32,
+        "terrain": "P",
+        "feature": "\"Mountain Overlook\"",
+        "encounter": ""
+    },
+    {
+        "pos": 23,
+        "number": 32,
+        "terrain": "F",
+        "feature": "\"Treed Grove\"",
+        "encounter": ""
+    },
+    {
+        "pos": 24,
+        "number": 32,
+        "terrain": "F",
+        "feature": "\"Ocean Cliffs\"",
+        "encounter": "\"Rocky Path\", \"Mountain Peak\""
+    },
+    {
+        "pos": 25,
+        "number": 32,
+        "terrain": "H",
+        "feature": "\"Cliffside Cave\"",
+        "encounter": "\"Prancing Horses\", \"Open Prairie\""
+    },
+    {
+        "pos": 26,
+        "number": 32,
+        "terrain": "P",
+        "feature": "",
+        "encounter": "\"Cresting Waves\", \"Coral Reef\""
+    },
+    {
+        "pos": 27,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Sandy Beach\"",
+        "encounter": "\"Lapping Lagoons\", \"Saltwater Lake\""
+    },
+    {
+        "pos": 28,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Majestic Forest\"",
+        "encounter": ""
+    },
+    {
+        "pos": 29,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Mountain Vista\"",
+        "encounter": ""
+    },
+    {
+        "pos": 30,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Rocky Summit\"",
+        "encounter": "\"Churning Waves\", \"Lonely Island\""
+    },
+    {
+        "pos": 31,
+        "number": 32,
+        "terrain": "P",
+        "feature": "\"Lush Meadow\"",
+        "encounter": "\"Towering Rock\", \"Mysterious Cave\""
+    },
+    {
+        "pos": 32,
+        "number": 32,
+        "terrain": "P",
+        "feature": "",
+        "encounter": "\"Jagged Cliffs\", \"Frosted Summit\""
+    },
+    {
+        "pos": 33,
+        "number": 32,
+        "terrain": "F",
+        "feature": "",
+        "encounter": "\"Magical Glade\", \"Ancient Tree\""
+    },
+    {
+        "pos": 34,
+        "number": 32,
+        "terrain": "F",
+        "feature": "\"Mossy Knoll\"",
+        "encounter": "\"Flowing Stream\", \"Chirping Birds\""
+    },
+    {
+        "pos": 35,
+        "number": 32,
+        "terrain": "H",
+        "feature": "\"Sunlit Glade\"",
+        "encounter": ""
+    },
+    {
+        "pos": 36,
+        "number": 32,
+        "terrain": "P",
+        "feature": "\"Gentle Slope\"",
+        "encounter": ""
+    },
+    {
+        "pos": 37,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Abandoned Farmhouse\"",
+        "encounter": "For terrain chunk FFHPO:"
+    },
+    {
+        "pos": 38,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Tidal Pool\"",
+        "encounter": "\"Mysterious Glade\""
+    },
+    {
+        "pos": 39,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Fantastical Fauna\""
+    },
+    {
+        "pos": 40,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Craggy Outcrop\""
+    },
+    {
+        "pos": 41,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Shipwreck\"",
+        "encounter": "\"Distant Village\""
+    },
+    {
+        "pos": 42,
+        "number": 32,
+        "terrain": "P",
+        "feature": "\"Wildflower Glade\"",
+        "encounter": "\"Restless Tide\""
+    },
+    {
+        "pos": 43,
+        "number": 32,
+        "terrain": "H",
+        "feature": "\"Crested Summit\"",
+        "encounter": ""
+    },
+    {
+        "pos": 44,
+        "number": 32,
+        "terrain": "H",
+        "feature": "\"Craggy Cliff\"",
+        "encounter": ""
+    },
+    {
+        "pos": 45,
+        "number": 32,
+        "terrain": "H",
+        "feature": "\"Rolling Dunes\"",
+        "encounter": "For the input terrain string \"OHMFP\", generated encounters output look like:"
+    },
+    {
+        "pos": 46,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Tsunami Wave\""
+    },
+    {
+        "pos": 47,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Granite Boulder\""
+    },
+    {
+        "pos": 48,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Wildflower Meadow\"",
+        "encounter": "\"Frostbitten Cave\""
+    },
+    {
+        "pos": 49,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Mushroom Grove\"",
+        "encounter": "\"Mysterious Glade\""
+    },
+    {
+        "pos": 50,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Mystic Glade\"",
+        "encounter": "\"Desert Oasis\""
+    },
+    {
+        "pos": 51,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Sacred Altar\"",
+        "encounter": ""
+    },
+    {
+        "pos": 52,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Rolling Hills\"",
+        "encounter": ""
+    },
+    {
+        "pos": 53,
+        "number": 32,
+        "terrain": "P",
+        "feature": "",
+        "encounter": "\"Tumbleweed Prairie\", \"Majestic Windmill\""
+    },
+    {
+        "pos": 54,
+        "number": 32,
+        "terrain": "P",
+        "feature": "",
+        "encounter": "\"Mysterious Glade\", \"Chattering Squirrels\""
+    },
+    {
+        "pos": 55,
+        "number": 32,
+        "terrain": "P",
+        "feature": "\"Coral Atoll\"",
+        "encounter": "\"Ancient Cedar\", \"Discarded Acorn\""
+    },
+    {
+        "pos": 56,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Majestic Oak\"",
+        "encounter": "\"Sunlit Summit\", \"Runoff Ravine\""
+    },
+    {
+        "pos": 57,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Mountain Pass\"",
+        "encounter": "\"Rambling Roadways\", \"Flowery Fields\""
+    },
+    {
+        "pos": 58,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Crystal Cave\"",
+        "encounter": ""
+    },
+    {
+        "pos": 59,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Verdant Field\"",
+        "encounter": ""
+    },
+    {
+        "pos": 60,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "For the input terrain string \"OHMFP\", generated encounters output look like:"
+    },
+    {
+        "pos": 61,
+        "number": 32,
+        "terrain": "O",
+        "feature": "Output:",
+        "encounter": "\"Cresting Wave\""
+    },
+    {
+        "pos": 62,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Underwater Volcano\"",
+        "encounter": "\"Cobwebbed Cave\""
+    },
+    {
+        "pos": 63,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Sheep Pasture\"",
+        "encounter": "\"Fiery Volcano\""
+    },
+    {
+        "pos": 64,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Abandoned Mine\"",
+        "encounter": "\"Mossy Creek\""
+    },
+    {
+        "pos": 65,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Windy Summit\"",
+        "encounter": "\"Starry Bluffs\""
+    },
+    {
+        "pos": 66,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Clear Lake\"",
+        "encounter": ""
+    },
+    {
+        "pos": 67,
+        "number": 32,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 68,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Tide Pool\"",
+        "encounter": "\"Surging Tide\", \"Deep Current\""
+    },
+    {
+        "pos": 69,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Mushroom Glade\"",
+        "encounter": "\"Cliff Face\", \"Grassy Knoll\""
+    },
+    {
+        "pos": 70,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Rocky Outcropping\"",
+        "encounter": "\"Cascading Waterfall\", \"Vertical Climb\""
+    },
+    {
+        "pos": 71,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Suspension Bridge\"",
+        "encounter": "\"Lush Canopy\", \"Tangled Roots\""
+    },
+    {
+        "pos": 72,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Wildflower Blooms\"",
+        "encounter": "\"Dusty Trail\", \"Vast Horizon\""
+    },
+    {
+        "pos": 73,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 74,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 75,
+        "number": 32,
+        "terrain": "M",
+        "feature": "\"Coral Island\"",
+        "encounter": "\"Glistening Shoals\", \"Sunken Wreckage\""
+    },
+    {
+        "pos": 76,
+        "number": 32,
+        "terrain": "M",
+        "feature": "\"Tall Grassland\"",
+        "encounter": "\"Rising Tide\", \"Treacherous Shoals\""
+    },
+    {
+        "pos": 77,
+        "number": 32,
+        "terrain": "H",
+        "feature": "",
+        "encounter": "\"Mysterious Glade\", \"Tangled Undergrowth\""
+    },
+    {
+        "pos": 78,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Stark Summit\", \"Distant Horizon\""
+    },
+    {
+        "pos": 79,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Tsunami Wave\"",
+        "encounter": "\"Jagged Cliffs\", \"Frigid Summit\""
+    },
+    {
+        "pos": 80,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Wildlife Sanctuary\"",
+        "encounter": "\"Vast Prairie\", \"Herd of Bison\""
+    },
+    {
+        "pos": 81,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Mountain Pass\"",
+        "encounter": ""
+    },
+    {
+        "pos": 82,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Echoing Cave\"",
+        "encounter": ""
+    },
+    {
+        "pos": 83,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Sunflower Prairie\"",
+        "encounter": "\"Salty Spray\", \"Cresting Wave\""
+    },
+    {
+        "pos": 84,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Craggy Cliff\", \"Sunlit Meadow\""
+    },
+    {
+        "pos": 85,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Misty Cave\", \"Avalanche Run\""
+    },
+    {
+        "pos": 86,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Shipwreck Site\"",
+        "encounter": "\"Mystic Glade\", \"Creeper Vines\""
+    },
+    {
+        "pos": 87,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Babbling Brook\"",
+        "encounter": "\"Dusty Trail\", \"Tumbleweed Field\""
+    },
+    {
+        "pos": 88,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Rocky Cliff\"",
+        "encounter": ""
+    },
+    {
+        "pos": 89,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Eroded Canyon\"",
+        "encounter": ""
+    },
+    {
+        "pos": 90,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Tranquil Lake\"",
+        "encounter": "For the input terrain string \"POOOO\", generated encounters should look like:"
+    },
+    {
+        "pos": 91,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Roaming Bison\", \"Starry Sky\""
+    },
+    {
+        "pos": 92,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Crashing Wave\", \"Mysterious Islet\""
+    },
+    {
+        "pos": 93,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Foaming Waves\"",
+        "encounter": ""
+    },
+    {
+        "pos": 94,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Granite Outcropping\"",
+        "encounter": ""
+    },
+    {
+        "pos": 95,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Majestic Seascape\"",
+        "encounter": "\"Tidal Wave\", \"Cresting Surf\""
+    },
+    {
+        "pos": 96,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Steep Trail\"",
+        "encounter": "\"Mysterious Glade\", \"Chirping Birds\""
+    },
+    {
+        "pos": 97,
+        "number": 32,
+        "terrain": "O",
+        "feature": "\"Shimmering Horizon\"",
+        "encounter": "\"Winding Paths\", \"Towering Peaks\""
+    },
+    {
+        "pos": 98,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Subterranean Cave\", \"Distant Peaks\""
+    },
+    {
+        "pos": 99,
+        "number": 32,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Open Prairie\", \"Herd of Bison\""
+    }
+]

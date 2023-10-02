@@ -1,0 +1,702 @@
+[
+    {
+        "pos": 0,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 1,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 2,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Underwater Cavern\"",
+        "encounter": "\"Raging Wave\", \"Seafaring Pirate\""
+    },
+    {
+        "pos": 3,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Tangled Vines\"",
+        "encounter": "\"Rolling Hills\", \"Mysterious Cave\""
+    },
+    {
+        "pos": 4,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Granite Outcropping\"",
+        "encounter": "\"Mighty Volcano\", \"Steep Cliffs\""
+    },
+    {
+        "pos": 5,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Steep Cliff\"",
+        "encounter": "\"Dense Fog\", \"Vibrant Wildlife\""
+    },
+    {
+        "pos": 6,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Flat Meadow\"",
+        "encounter": "\"Vast Desert\", \"Lonely Prairie\""
+    },
+    {
+        "pos": 7,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 8,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 9,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Tide Pool\"",
+        "encounter": "\"Treacherous Cliffs\", \"Sleeping Giant\""
+    },
+    {
+        "pos": 10,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Windy Bluff\"",
+        "encounter": "\"Turbulent Waves\", \"Underwater Cavern\""
+    },
+    {
+        "pos": 11,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Shipwreck\"",
+        "encounter": "\"Stormy Seas\", \"Mysterious Cave\""
+    },
+    {
+        "pos": 12,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Kelp Forest\"",
+        "encounter": "\"Raging Rapids\", \"Eroded Island\""
+    },
+    {
+        "pos": 13,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Snowy Range\"",
+        "encounter": "\"Mystical Glade\", \"Serene Falls\""
+    },
+    {
+        "pos": 14,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Mystical Grove\"",
+        "encounter": ""
+    },
+    {
+        "pos": 15,
+        "number": 29,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 16,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Crashing Waves\", \"Vast Horizon\""
+    },
+    {
+        "pos": 17,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Abandoned Shipwreck\"",
+        "encounter": "\"Majestic Trees\", \"Mysterious Path\""
+    },
+    {
+        "pos": 18,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Ancient Ruin\"",
+        "encounter": "\"Towering Cliffs\", \"Abundant Meadows\""
+    },
+    {
+        "pos": 19,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Thundering Waterfall\"",
+        "encounter": "\"Forbidding Caverns\", \"Steep Slopes\""
+    },
+    {
+        "pos": 20,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Mysterious Grove\"",
+        "encounter": "\"Endless Plains\", \"Sunlit Grasslands\""
+    },
+    {
+        "pos": 21,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Golden Pasture\"",
+        "encounter": ""
+    },
+    {
+        "pos": 22,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 23,
+        "number": 29,
+        "terrain": "P",
+        "feature": "",
+        "encounter": "For the input terrain string \"HHOOO\", generated encounters output look like:"
+    },
+    {
+        "pos": 24,
+        "number": 29,
+        "terrain": "P",
+        "feature": "\"Tidal Pool\"",
+        "encounter": "\"Treacherous Cliffs\""
+    },
+    {
+        "pos": 25,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Stone Tower\"",
+        "encounter": "\"Mysterious Cave\""
+    },
+    {
+        "pos": 26,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Shipwreck\"",
+        "encounter": "\"Crashing Waves\""
+    },
+    {
+        "pos": 27,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Sandy Beach\"",
+        "encounter": "\"Shimmering Shoals\""
+    },
+    {
+        "pos": 28,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Wildflower Garden\"",
+        "encounter": "\"Turbulent Tide\""
+    },
+    {
+        "pos": 29,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 30,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 31,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Crystal Blue Lagoon\"",
+        "encounter": "\"Raging Surf\", \"Tidal Pool\""
+    },
+    {
+        "pos": 32,
+        "number": 29,
+        "terrain": "P",
+        "feature": "\"Thick Pine Forest\"",
+        "encounter": "\"Rolling Hills\", \"Ruined Fortress\""
+    },
+    {
+        "pos": 33,
+        "number": 29,
+        "terrain": "F",
+        "feature": "\"Stone Sarcophagus\"",
+        "encounter": "\"Volcanic Peak\", \"Mysterious Cave\""
+    },
+    {
+        "pos": 34,
+        "number": 29,
+        "terrain": "F",
+        "feature": "\"Sunset Summit\"",
+        "encounter": "\"Dappled Sunlight\", \"Curious Squirrel\""
+    },
+    {
+        "pos": 35,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Vast Prairie\"",
+        "encounter": "\"Open Meadow\", \"Ancient Monument\""
+    },
+    {
+        "pos": 36,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 37,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 38,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Underwater Cave\"",
+        "encounter": "\"Tidal Wave\", \"Surging Sea\""
+    },
+    {
+        "pos": 39,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Quaint Village\"",
+        "encounter": "\"Serene Meadow\", \"Open Prairie\""
+    },
+    {
+        "pos": 40,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Magical Glade\"",
+        "encounter": ""
+    },
+    {
+        "pos": 41,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Lively Shipwreck\"",
+        "encounter": ""
+    },
+    {
+        "pos": 42,
+        "number": 29,
+        "terrain": "F",
+        "feature": "\"Mysterious Shoals\"",
+        "encounter": "For the input terrain string \"OHMFP\", generated encounters output look like:"
+    },
+    {
+        "pos": 43,
+        "number": 29,
+        "terrain": "F",
+        "feature": "",
+        "encounter": "\"Gentle Wave\""
+    },
+    {
+        "pos": 44,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Tranquil Pool\"",
+        "encounter": "\"Rolling Hills\""
+    },
+    {
+        "pos": 45,
+        "number": 29,
+        "terrain": "F",
+        "feature": "\"Tilted Plateau\"",
+        "encounter": "\"Majestic Summit\""
+    },
+    {
+        "pos": 46,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Mysterious Woods\""
+    },
+    {
+        "pos": 47,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Flowery Meadow\""
+    },
+    {
+        "pos": 48,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Wildflower Meadow\"",
+        "encounter": ""
+    },
+    {
+        "pos": 49,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Mystic Grotto\"",
+        "encounter": ""
+    },
+    {
+        "pos": 50,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Towering Willow\"",
+        "encounter": "\"Raging Tide\", \"Giant Kraken\""
+    },
+    {
+        "pos": 51,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Windy Bluff\"",
+        "encounter": "\"Abandoned Temple\", \"Mystical Ruins\""
+    },
+    {
+        "pos": 52,
+        "number": 29,
+        "terrain": "F",
+        "feature": "\"Foamy Surf\"",
+        "encounter": "\"Savage Dragon\", \"Fiery Cavern\""
+    },
+    {
+        "pos": 53,
+        "number": 29,
+        "terrain": "H",
+        "feature": "",
+        "encounter": "\"Mysterious Glade\", \"Sleeping Bear\""
+    },
+    {
+        "pos": 54,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Coral Reef\"",
+        "encounter": "\"Roaming Herd\", \"Endless Prairie\""
+    },
+    {
+        "pos": 55,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Enchanted Grove\"",
+        "encounter": ""
+    },
+    {
+        "pos": 56,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Sacred Temple\"",
+        "encounter": ""
+    },
+    {
+        "pos": 57,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Dragon's Lair\"",
+        "encounter": "\"Turbulent Waves\", \"Mysterious Reef\""
+    },
+    {
+        "pos": 58,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Windy Dunes\"",
+        "encounter": "\"Ancient Monument\", \"Rugged Pathway\""
+    },
+    {
+        "pos": 59,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Gigantic Cavern\", \"Granite Summit\""
+    },
+    {
+        "pos": 60,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Enchanted Glade\", \"Fascinating Flora\""
+    },
+    {
+        "pos": 61,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Mermaid Grotto\"",
+        "encounter": "\"Endless Prairie\", \"Mystical Monolith\""
+    },
+    {
+        "pos": 62,
+        "number": 29,
+        "terrain": "P",
+        "feature": "\"Fragrant Grove\"",
+        "encounter": ""
+    },
+    {
+        "pos": 63,
+        "number": 29,
+        "terrain": "P",
+        "feature": "\"Elfin Glade\"",
+        "encounter": ""
+    },
+    {
+        "pos": 64,
+        "number": 29,
+        "terrain": "P",
+        "feature": "\"Burial Mound\"",
+        "encounter": "\"Jagged Reef\", \"Saltwater Waves\""
+    },
+    {
+        "pos": 65,
+        "number": 29,
+        "terrain": "P",
+        "feature": "\"Fairy Dell\"",
+        "encounter": "\"Garden Viewpoint\", \"Distant Outcropping\""
+    },
+    {
+        "pos": 66,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Mysterious Glade\", \"Ancient Tree\""
+    },
+    {
+        "pos": 67,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Tidal Pool\"",
+        "encounter": "\"Mystic Hollow\", \"Lush Greenery\""
+    },
+    {
+        "pos": 68,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Mystic Grove\"",
+        "encounter": "\"Sun-Baked Earth\", \"Crop Rows\""
+    },
+    {
+        "pos": 69,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Rolling Hills\"",
+        "encounter": ""
+    },
+    {
+        "pos": 70,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Abandoned Mine\"",
+        "encounter": ""
+    },
+    {
+        "pos": 71,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Windy Bluffs\"",
+        "encounter": "For the terrain string \"OOOOP\", generated encounters output look like:"
+    },
+    {
+        "pos": 72,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Tidal Wave\", \"Frigid Waters\""
+    },
+    {
+        "pos": 73,
+        "number": 29,
+        "terrain": "H",
+        "feature": "For the input terrain string \"OOFHH\":",
+        "encounter": "\"Vast Horizon\", \"Weathered Landscape\""
+    },
+    {
+        "pos": 74,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Shipwreck Cove\"",
+        "encounter": ""
+    },
+    {
+        "pos": 75,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Mystic Glade\"",
+        "encounter": ""
+    },
+    {
+        "pos": 76,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Monument Ridge\"",
+        "encounter": "\"Crashing Wave\""
+    },
+    {
+        "pos": 77,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Mysterious Glade\""
+    },
+    {
+        "pos": 78,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Treacherous Cliff\""
+    },
+    {
+        "pos": 79,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Underwater Grotto\"",
+        "encounter": "\"Perilous Cave\""
+    },
+    {
+        "pos": 80,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Terraced Gardens\"",
+        "encounter": "\"Endless Prairie\""
+    },
+    {
+        "pos": 81,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Treasure Wreck\"",
+        "encounter": ""
+    },
+    {
+        "pos": 82,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Coral Cove\"",
+        "encounter": ""
+    },
+    {
+        "pos": 83,
+        "number": 29,
+        "terrain": "H",
+        "feature": "\"Magical Glade\"",
+        "encounter": "\"Surging Waves\", \"Salty Air\""
+    },
+    {
+        "pos": 84,
+        "number": 29,
+        "terrain": "H",
+        "feature": "",
+        "encounter": "\"Steep Climb\", \"Rugged Path\""
+    },
+    {
+        "pos": 85,
+        "number": 29,
+        "terrain": "H",
+        "feature": "",
+        "encounter": "\"Rocky Summit\", \"Mighty Glacier\""
+    },
+    {
+        "pos": 86,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Sea Caves\"",
+        "encounter": "\"Dappled Light\", \"Mysterious Glade\""
+    },
+    {
+        "pos": 87,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Cliffside Ruins\"",
+        "encounter": "\"Vast Horizon\", \"Dusty Road\""
+    },
+    {
+        "pos": 88,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Towering Summit\"",
+        "encounter": ""
+    },
+    {
+        "pos": 89,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Enchanted Glade\"",
+        "encounter": ""
+    },
+    {
+        "pos": 90,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Vast Prairie\"",
+        "encounter": "\"Surging Tide\", \"Cresting Wave\""
+    },
+    {
+        "pos": 91,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "\"Towering Summit\", \"Windy Summit\""
+    },
+    {
+        "pos": 92,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Wind Swept Prairie\"",
+        "encounter": "\"Craggy Cliff\", \"Rocky Path\""
+    },
+    {
+        "pos": 93,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Coral Cove\"",
+        "encounter": "\"Mystic Woodland\", \"Mysterious Path\""
+    },
+    {
+        "pos": 94,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Tide Pool\"",
+        "encounter": "\"Golden Prairie\", \"Lively Meadow\""
+    },
+    {
+        "pos": 95,
+        "number": 29,
+        "terrain": "O",
+        "feature": "\"Sea Cliff\"",
+        "encounter": ""
+    },
+    {
+        "pos": 96,
+        "number": 29,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 97,
+        "number": 29,
+        "terrain": "T",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 98,
+        "number": 29,
+        "terrain": "T",
+        "feature": "\"Treasure Island\"",
+        "encounter": "\"Dusty Pathway\", \"Windswept Prairie\""
+    },
+    {
+        "pos": 99,
+        "number": 29,
+        "terrain": "T",
+        "feature": "\"Enchanted Grove\"",
+        "encounter": "\"Surging Tides\", \"Mysterious Island\""
+    }
+]

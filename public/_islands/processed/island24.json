@@ -1,0 +1,702 @@
+[
+    {
+        "pos": 0,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 1,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 2,
+        "number": 24,
+        "terrain": "O",
+        "feature": "tidal pools",
+        "encounter": "Furious Whales"
+    },
+    {
+        "pos": 3,
+        "number": 24,
+        "terrain": "O",
+        "feature": "rocky cliffs",
+        "encounter": "Lurking Bandits"
+    },
+    {
+        "pos": 4,
+        "number": 24,
+        "terrain": "O",
+        "feature": "jagged crests",
+        "encounter": "Fearsome Dragons"
+    },
+    {
+        "pos": 5,
+        "number": 24,
+        "terrain": "O",
+        "feature": "lush foliage",
+        "encounter": "Fierce Animals"
+    },
+    {
+        "pos": 6,
+        "number": 24,
+        "terrain": "O",
+        "feature": "wheat fields",
+        "encounter": "Wandering Merchants"
+    },
+    {
+        "pos": 7,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 8,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": ""
+    },
+    {
+        "pos": 9,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": "Raging Sea"
+    },
+    {
+        "pos": 10,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Rich Mines",
+        "encounter": "Hilly Bandits"
+    },
+    {
+        "pos": 11,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Mountainous Dragon"
+    },
+    {
+        "pos": 12,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Praries",
+        "encounter": "Forested Animals"
+    },
+    {
+        "pos": 13,
+        "number": 24,
+        "terrain": "M",
+        "feature": "",
+        "encounter": "Plains Nomads"
+    },
+    {
+        "pos": 14,
+        "number": 24,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 15,
+        "number": 24,
+        "terrain": "M",
+        "feature": "Coral Reefs",
+        "encounter": ""
+    },
+    {
+        "pos": 16,
+        "number": 24,
+        "terrain": "M",
+        "feature": "Burial Mounds",
+        "encounter": "raging storms"
+    },
+    {
+        "pos": 17,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Hidden Caves",
+        "encounter": "perilous reefs"
+    },
+    {
+        "pos": 18,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "perilous cliffs"
+    },
+    {
+        "pos": 19,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Praries",
+        "encounter": "fierce dragons"
+    },
+    {
+        "pos": 20,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "wild animals"
+    },
+    {
+        "pos": 21,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "lost travelers"
+    },
+    {
+        "pos": 22,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Crystal Lagoon",
+        "encounter": ""
+    },
+    {
+        "pos": 23,
+        "number": 24,
+        "terrain": "M",
+        "feature": "Grand Lookout",
+        "encounter": ""
+    },
+    {
+        "pos": 24,
+        "number": 24,
+        "terrain": "H",
+        "feature": "Rich Mines",
+        "encounter": "Mysterious hermit"
+    },
+    {
+        "pos": 25,
+        "number": 24,
+        "terrain": "H",
+        "feature": "Druid Circles",
+        "encounter": "Surprising encampment"
+    },
+    {
+        "pos": 26,
+        "number": 24,
+        "terrain": "M",
+        "feature": "Verdant Prarie",
+        "encounter": "Savage beasts"
+    },
+    {
+        "pos": 27,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Wicked shipwreck"
+    },
+    {
+        "pos": 28,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ancient temple"
+    },
+    {
+        "pos": 29,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": ""
+    },
+    {
+        "pos": 30,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Whirlpools",
+        "encounter": ""
+    },
+    {
+        "pos": 31,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Sunken Cities",
+        "encounter": "raging currents"
+    },
+    {
+        "pos": 32,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": "menacing bandits"
+    },
+    {
+        "pos": 33,
+        "number": 24,
+        "terrain": "P",
+        "feature": "Scenic Lookouts",
+        "encounter": "fierce dragon"
+    },
+    {
+        "pos": 34,
+        "number": 24,
+        "terrain": "F",
+        "feature": "Stone Formations",
+        "encounter": "mysterious spirits"
+    },
+    {
+        "pos": 35,
+        "number": 24,
+        "terrain": "H",
+        "feature": "Hidden Caves",
+        "encounter": "nomadic tribe"
+    },
+    {
+        "pos": 36,
+        "number": 24,
+        "terrain": "M",
+        "feature": "Rich Mines",
+        "encounter": ""
+    },
+    {
+        "pos": 37,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Sacred Peaks",
+        "encounter": ""
+    },
+    {
+        "pos": 38,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Sea Monsters"
+    },
+    {
+        "pos": 39,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Druid Circles",
+        "encounter": "Bandit Camps"
+    },
+    {
+        "pos": 40,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Hidden Waterfalls",
+        "encounter": "Dragon Lairs"
+    },
+    {
+        "pos": 41,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Praries",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 42,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Fields",
+        "encounter": "Nomadic Tribes"
+    },
+    {
+        "pos": 43,
+        "number": 24,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 44,
+        "number": 24,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 45,
+        "number": 24,
+        "terrain": "P",
+        "feature": "coral reef;",
+        "encounter": "Furious bandits"
+    },
+    {
+        "pos": 46,
+        "number": 24,
+        "terrain": "M",
+        "feature": "burial mounds;",
+        "encounter": "Floating objects"
+    },
+    {
+        "pos": 47,
+        "number": 24,
+        "terrain": "O",
+        "feature": "rich mines;",
+        "encounter": "Hidden treasures"
+    },
+    {
+        "pos": 48,
+        "number": 24,
+        "terrain": "O",
+        "feature": "ancient trees;",
+        "encounter": "Ancient ruins"
+    },
+    {
+        "pos": 49,
+        "number": 24,
+        "terrain": "O",
+        "feature": "prairies.",
+        "encounter": "Wild animals"
+    },
+    {
+        "pos": 50,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 51,
+        "number": 24,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 52,
+        "number": 24,
+        "terrain": "P",
+        "feature": "Coral Reefs",
+        "encounter": "Rolling Hills - Bandit Camp"
+    },
+    {
+        "pos": 53,
+        "number": 24,
+        "terrain": "P",
+        "feature": "Burial Mounds",
+        "encounter": "Ocean - Dangerous Waves"
+    },
+    {
+        "pos": 54,
+        "number": 24,
+        "terrain": "H",
+        "feature": "Rich Mines",
+        "encounter": "Mountain - Dragon Lair"
+    },
+    {
+        "pos": 55,
+        "number": 24,
+        "terrain": "H",
+        "feature": "Ancient Trees",
+        "encounter": "Forest - Wild Animals"
+    },
+    {
+        "pos": 56,
+        "number": 24,
+        "terrain": "M",
+        "feature": "Praries",
+        "encounter": "Plains - Nomadic Tribes"
+    },
+    {
+        "pos": 57,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 58,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 59,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Sunken City",
+        "encounter": "Foaming Rapids"
+    },
+    {
+        "pos": 60,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Prarie Fields",
+        "encounter": "Bandit Lair"
+    },
+    {
+        "pos": 61,
+        "number": 24,
+        "terrain": "P",
+        "feature": "Ancient Trees",
+        "encounter": "Wild Boars"
+    },
+    {
+        "pos": 62,
+        "number": 24,
+        "terrain": "P",
+        "feature": "Burial Mounds",
+        "encounter": "Cave Caverns"
+    },
+    {
+        "pos": 63,
+        "number": 24,
+        "terrain": "F",
+        "feature": "Rich Mines",
+        "encounter": "Lost Caravan"
+    },
+    {
+        "pos": 64,
+        "number": 24,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 65,
+        "number": 24,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 66,
+        "number": 24,
+        "terrain": "M",
+        "feature": "Deep Sea",
+        "encounter": "Surprising Shipwrecks"
+    },
+    {
+        "pos": 67,
+        "number": 24,
+        "terrain": "M",
+        "feature": "Stone Cliffs",
+        "encounter": "Bandit Camps"
+    },
+    {
+        "pos": 68,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Sacred Summit",
+        "encounter": "Dragon Lairs"
+    },
+    {
+        "pos": 69,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Ancient Glades",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 70,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Grassy Fields",
+        "encounter": "Nomadic Tribes"
+    },
+    {
+        "pos": 71,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 72,
+        "number": 24,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 73,
+        "number": 24,
+        "terrain": "H",
+        "feature": "coral reefs",
+        "encounter": "Placid nomads"
+    },
+    {
+        "pos": 74,
+        "number": 24,
+        "terrain": "H",
+        "feature": "burial mounds",
+        "encounter": "Slithering sea monsters"
+    },
+    {
+        "pos": 75,
+        "number": 24,
+        "terrain": "H",
+        "feature": "hidden caves",
+        "encounter": "Intimidating bandits"
+    },
+    {
+        "pos": 76,
+        "number": 24,
+        "terrain": "P",
+        "feature": "ancient trees",
+        "encounter": "Adventurous ruin explorers"
+    },
+    {
+        "pos": 77,
+        "number": 24,
+        "terrain": "O",
+        "feature": "praries",
+        "encounter": "Nimble wild animals"
+    },
+    {
+        "pos": 78,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 79,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 80,
+        "number": 24,
+        "terrain": "O",
+        "feature": "crystal shores;",
+        "encounter": "Wild Animals"
+    },
+    {
+        "pos": 81,
+        "number": 24,
+        "terrain": "O",
+        "feature": "lush meadows;",
+        "encounter": "Bandit Camps"
+    },
+    {
+        "pos": 82,
+        "number": 24,
+        "terrain": "O",
+        "feature": "steep ravines;",
+        "encounter": "Mountain Hermits"
+    },
+    {
+        "pos": 83,
+        "number": 24,
+        "terrain": "P",
+        "feature": "thick foliage;",
+        "encounter": "Nomadic Tribes"
+    },
+    {
+        "pos": 84,
+        "number": 24,
+        "terrain": "P",
+        "feature": "golden fields.",
+        "encounter": ""
+    },
+    {
+        "pos": 85,
+        "number": 24,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 86,
+        "number": 24,
+        "terrain": "P",
+        "feature": "",
+        "encounter": "Hilly Bandits"
+    },
+    {
+        "pos": 87,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": "Raging Sea"
+    },
+    {
+        "pos": 88,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": "Mountainous Dragon"
+    },
+    {
+        "pos": 89,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Rich Mines",
+        "encounter": "Ominous Forest"
+    },
+    {
+        "pos": 90,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Plains Nomads"
+    },
+    {
+        "pos": 91,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Praries",
+        "encounter": ""
+    },
+    {
+        "pos": 92,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 93,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Sea monsters"
+    },
+    {
+        "pos": 94,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": "Bandit camps"
+    },
+    {
+        "pos": 95,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Hidden Caves",
+        "encounter": "Dragon lairs"
+    },
+    {
+        "pos": 96,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": "Wild animals"
+    },
+    {
+        "pos": 97,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Nomadic tribes"
+    },
+    {
+        "pos": 98,
+        "number": 24,
+        "terrain": "O",
+        "feature": "Prairies",
+        "encounter": ""
+    },
+    {
+        "pos": 99,
+        "number": 24,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    }
+]

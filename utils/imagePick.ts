@@ -18,5 +18,8 @@ export function imagePick(char: char) {
         case "P": {
             return plains[Math.floor(Math.random() * forest.length)]
         }
+        default: {
+            return ocean[Math.floor(Math.random() * forest.length)]
+        }
     }
 }

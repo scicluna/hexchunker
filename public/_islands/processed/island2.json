@@ -1,44 +1,702 @@
 [
     {
-        "number": 2,
-        "terrain": "\n",
-        "feature": "",
-        "encounter": ""
-    },
-    {
+        "pos": 0,
         "number": 2,
         "terrain": "O",
         "feature": "",
         "encounter": ""
     },
     {
+        "pos": 1,
         "number": 2,
         "terrain": "O",
-        "feature": "- O (Ocean): A sunken ship.",
-        "encounter": "O - A giant sea monster lurking in the deep."
+        "feature": "A row of sharp coral reefs near the edge of the map.",
+        "encounter": ""
     },
     {
+        "pos": 2,
         "number": 2,
         "terrain": "O",
-        "feature": "- H (Hill): An old, abandoned watchtower.",
-        "encounter": "H - A large group of bandits hiding in a cave."
+        "feature": "An isolated lookout point with a great view of the ocean.",
+        "encounter": "A boat floats towards the shore, carrying a group of rum-soaked pirates who are searching the area for treasure."
     },
     {
+        "pos": 3,
         "number": 2,
-        "terrain": "H",
-        "feature": "- M (Mountain): A cave full of precious gems.",
-        "encounter": "M - An old dragon guarding its treasure hoard."
+        "terrain": "O",
+        "feature": "A hidden cave with ore deposits inside.",
+        "encounter": ""
     },
     {
+        "pos": 4,
         "number": 2,
-        "terrain": "H",
-        "feature": "- F (Forest): An enchanted glade.",
-        "encounter": "F - A magical fey creature offering guidance."
+        "terrain": "O",
+        "feature": "An ancient tree with strange symbols carved into its bark.",
+        "encounter": "A bandit camp is perched atop the hill, with their leader eyeing you suspiciously from the shadows."
     },
     {
+        "pos": 5,
+        "number": 2,
+        "terrain": "O",
+        "feature": "A busy port-town situated on the coast.",
+        "encounter": ""
+    },
+    {
+        "pos": 6,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "An enormous dragon's nest can be seen in the side of the mountain, and the dragon itself is perched atop the entrance, surveying the area."
+    },
+    {
+        "pos": 7,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 8,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "A pack of wolves can be seen roaming the woods, with some of them growling in your direction as you approach."
+    },
+    {
+        "pos": 9,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 10,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "A nomadic tribe is camped on the plains, and they can be seen tending to their herds of horses and goats."
+    },
+    {
+        "pos": 11,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 12,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 13,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 14,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 15,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 16,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 17,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 18,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 19,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 20,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 21,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 22,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 23,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 24,
         "number": 2,
         "terrain": "M",
-        "feature": "- P (Plains): A bustling port town.",
-        "encounter": "P - A strange nomadic tribe offering protection to travelers."
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 25,
+        "number": 2,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 26,
+        "number": 2,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 27,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 28,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 29,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 30,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 31,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 32,
+        "number": 2,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 33,
+        "number": 2,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 34,
+        "number": 2,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 35,
+        "number": 2,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 36,
+        "number": 2,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 37,
+        "number": 2,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 38,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 39,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 40,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 41,
+        "number": 2,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 42,
+        "number": 2,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 43,
+        "number": 2,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 44,
+        "number": 2,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 45,
+        "number": 2,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 46,
+        "number": 2,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 47,
+        "number": 2,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 48,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 49,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 50,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 51,
+        "number": 2,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 52,
+        "number": 2,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 53,
+        "number": 2,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 54,
+        "number": 2,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 55,
+        "number": 2,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 56,
+        "number": 2,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 57,
+        "number": 2,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 58,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 59,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 60,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 61,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 62,
+        "number": 2,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 63,
+        "number": 2,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 64,
+        "number": 2,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 65,
+        "number": 2,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 66,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 67,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 68,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 69,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 70,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 71,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 72,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 73,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 74,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 75,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 76,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 77,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 78,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 79,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 80,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 81,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 82,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 83,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 84,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 85,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 86,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 87,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 88,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 89,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 90,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 91,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 92,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 93,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 94,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 95,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 96,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 97,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 98,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
+    },
+    {
+        "pos": 99,
+        "number": 2,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     }
 ]
