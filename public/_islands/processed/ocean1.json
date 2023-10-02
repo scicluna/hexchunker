@@ -1,402 +1,128 @@
 [
     {
-        "pos": 0,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "\n",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 1,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 2,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 1: The player could come across a sea monster, a giant squid, lurking in the depths below."
     },
     {
-        "pos": 3,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 4,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 2: The player could find a shipwreck, a sunken vessel filled with valuable treasure."
     },
     {
-        "pos": 5,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 6,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 3: The player might encounter a mysterious floating object, perhaps an abandoned raft or lifeboat."
     },
     {
-        "pos": 7,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 8,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 4: The player could stumble upon a mysterious sea cave, filled with unknown creatures."
     },
     {
-        "pos": 9,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 10,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 5: The player might encounter a school of tropical fish, swimming in the warm waters."
     },
     {
-        "pos": 11,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "\n",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 12,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 6: The player could find a sunken chest, filled with coins and jewels."
     },
     {
-        "pos": 13,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 14,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 7: The player could come across a mysterious sea monster, a kraken, guarding a hidden treasure."
     },
     {
-        "pos": 15,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 16,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 8: The player might encounter a large shoal of fish, moving together as one."
     },
     {
-        "pos": 17,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 18,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 9: The player could discover an ancient shipwreck, filled with valuable artifacts."
     },
     {
-        "pos": 19,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
-        "pos": 20,
-        "terrain": "O"
-    },
-    {
-        "pos": 21,
-        "terrain": "O"
-    },
-    {
-        "pos": 22,
-        "terrain": "O"
-    },
-    {
-        "pos": 23,
-        "terrain": "O"
-    },
-    {
-        "pos": 24,
-        "terrain": "O"
-    },
-    {
-        "pos": 25,
-        "terrain": "O"
-    },
-    {
-        "pos": 26,
-        "terrain": "O"
-    },
-    {
-        "pos": 27,
-        "terrain": "O"
-    },
-    {
-        "pos": 28,
-        "terrain": "O"
-    },
-    {
-        "pos": 29,
-        "terrain": "O"
-    },
-    {
-        "pos": 30,
-        "terrain": "O"
-    },
-    {
-        "pos": 31,
-        "terrain": "O"
-    },
-    {
-        "pos": 32,
-        "terrain": "O"
-    },
-    {
-        "pos": 33,
-        "terrain": "O"
-    },
-    {
-        "pos": 34,
-        "terrain": "O"
-    },
-    {
-        "pos": 35,
-        "terrain": "O"
-    },
-    {
-        "pos": 36,
-        "terrain": "O"
-    },
-    {
-        "pos": 37,
-        "terrain": "O"
-    },
-    {
-        "pos": 38,
-        "terrain": "O"
-    },
-    {
-        "pos": 39,
-        "terrain": "O"
-    },
-    {
-        "pos": 40,
-        "terrain": "O"
-    },
-    {
-        "pos": 41,
-        "terrain": "O"
-    },
-    {
-        "pos": 42,
-        "terrain": "O"
-    },
-    {
-        "pos": 43,
-        "terrain": "O"
-    },
-    {
-        "pos": 44,
-        "terrain": "O"
-    },
-    {
-        "pos": 45,
-        "terrain": "O"
-    },
-    {
-        "pos": 46,
-        "terrain": "O"
-    },
-    {
-        "pos": 47,
-        "terrain": "O"
-    },
-    {
-        "pos": 48,
-        "terrain": "O"
-    },
-    {
-        "pos": 49,
-        "terrain": "O"
-    },
-    {
-        "pos": 50,
-        "terrain": "O"
-    },
-    {
-        "pos": 51,
-        "terrain": "O"
-    },
-    {
-        "pos": 52,
-        "terrain": "O"
-    },
-    {
-        "pos": 53,
-        "terrain": "O"
-    },
-    {
-        "pos": 54,
-        "terrain": "O"
-    },
-    {
-        "pos": 55,
-        "terrain": "O"
-    },
-    {
-        "pos": 56,
-        "terrain": "O"
-    },
-    {
-        "pos": 57,
-        "terrain": "O"
-    },
-    {
-        "pos": 58,
-        "terrain": "O"
-    },
-    {
-        "pos": 59,
-        "terrain": "O"
-    },
-    {
-        "pos": 60,
-        "terrain": "O"
-    },
-    {
-        "pos": 61,
-        "terrain": "O"
-    },
-    {
-        "pos": 62,
-        "terrain": "O"
-    },
-    {
-        "pos": 63,
-        "terrain": "O"
-    },
-    {
-        "pos": 64,
-        "terrain": "O"
-    },
-    {
-        "pos": 65,
-        "terrain": "O"
-    },
-    {
-        "pos": 66,
-        "terrain": "O"
-    },
-    {
-        "pos": 67,
-        "terrain": "O"
-    },
-    {
-        "pos": 68,
-        "terrain": "O"
-    },
-    {
-        "pos": 69,
-        "terrain": "O"
-    },
-    {
-        "pos": 70,
-        "terrain": "O"
-    },
-    {
-        "pos": 71,
-        "terrain": "O"
-    },
-    {
-        "pos": 72,
-        "terrain": "O"
-    },
-    {
-        "pos": 73,
-        "terrain": "O"
-    },
-    {
-        "pos": 74,
-        "terrain": "O"
-    },
-    {
-        "pos": 75,
-        "terrain": "O"
-    },
-    {
-        "pos": 76,
-        "terrain": "O"
-    },
-    {
-        "pos": 77,
-        "terrain": "O"
-    },
-    {
-        "pos": 78,
-        "terrain": "O"
-    },
-    {
-        "pos": 79,
-        "terrain": "O"
-    },
-    {
-        "pos": 80,
-        "terrain": "O"
-    },
-    {
-        "pos": 81,
-        "terrain": "O"
-    },
-    {
-        "pos": 82,
-        "terrain": "O"
-    },
-    {
-        "pos": 83,
-        "terrain": "O"
-    },
-    {
-        "pos": 84,
-        "terrain": "O"
-    },
-    {
-        "pos": 85,
-        "terrain": "O"
-    },
-    {
-        "pos": 86,
-        "terrain": "O"
-    },
-    {
-        "pos": 87,
-        "terrain": "O"
-    },
-    {
-        "pos": 88,
-        "terrain": "O"
-    },
-    {
-        "pos": 89,
-        "terrain": "O"
-    },
-    {
-        "pos": 90,
-        "terrain": "O"
-    },
-    {
-        "pos": 91,
-        "terrain": "O"
-    },
-    {
-        "pos": 92,
-        "terrain": "O"
-    },
-    {
-        "pos": 93,
-        "terrain": "O"
-    },
-    {
-        "pos": 94,
-        "terrain": "O"
-    },
-    {
-        "pos": 95,
-        "terrain": "O"
-    },
-    {
-        "pos": 96,
-        "terrain": "O"
-    },
-    {
-        "pos": 97,
-        "terrain": "O"
-    },
-    {
-        "pos": 98,
-        "terrain": "O"
-    },
-    {
-        "pos": 99,
-        "terrain": "O"
+        "number": 1,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ocean Tile 10: The player might find a mysterious glowing orb, hovering in the depths of the sea."
     }
 ]
