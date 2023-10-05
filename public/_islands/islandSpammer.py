@@ -92,7 +92,7 @@ P (Plains): "Grassy Field"
 """
 
 
-llm = OpenAI(temperature=.9, openai_api_key=os.getenv('OPENAI_API_KEY'))
+llm = OpenAI(temperature=.2, openai_api_key=os.getenv('OPENAI_API_KEY'))
 
 
 def generate_encounters_for_chunk(terrain_chunk):
