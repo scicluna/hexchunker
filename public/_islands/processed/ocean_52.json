@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling ['Shore']",
         "encounter": ""
     },
     {
@@ -62,13 +62,13 @@
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Iridescent ['Pinnacle']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Swirl']",
         "encounter": ""
     },
     {
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a coral crown adorned with precious gems. However, coral golems stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel jealousy as buzzing of underwater machinery in a sunken city echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 16,
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening ['Plateau']",
         "encounter": ""
     },
     {
@@ -134,13 +134,13 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Beckoning ['Wave']",
+        "features": "Soothing ['Plateau']",
         "encounter": ""
     },
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Spectacular ['Basin']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Harmonious ['Channel']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -177,7 +177,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie cracking of icebergs in frigid waters resonates from a secret underwater grotto accessible only at low tide, and the scent of scent of freshly caught lobster and crab fills the air."
+        "encounter": ""
     },
     {
         "pos": 30,
@@ -194,8 +194,8 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "Sapphire ['Undercurrent']",
-        "encounter": "A trail of the remnants of an ancient ship's cannon suggests that sirens have passed through here on a quest to navigate treacherous waters to find a legendary fishing spot.."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 33,
@@ -219,31 +219,31 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant buzzing of underwater machinery in a sunken city draws your attention. Following it, you discover a torn and faded pirate's treasure map of a past event."
+        "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear hissing of foam as waves recede coming from a treasure cache buried in the sand on a deserted island."
     },
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Epic ['Cove']",
+        "encounter": "The ground is littered with a sunken rowboat with a hole in its hull. It appears shipwreck goblins were here recently."
     },
     {
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft rumbling of a distant underwater volcano. As you follow, you encounter sea anemone sorcerers in the midst of protecting their underwater city from intruders."
     },
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Calm ['Mangrove']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Hidden among red algae beds, you spot a ship's bell with a haunting chime glinting in the sunlight."
     },
     {
         "pos": 41,
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Sunlit ['Rise']",
+        "features": "Moonlit ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of jealousy as you tread upon the remnants of a sunken merchant ship's cargo, hinting at a tale of water elementals."
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -386,7 +386,7 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Ethereal ['Channel']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -416,7 +416,7 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Peaceful ['Atoll']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -471,7 +471,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to retrieve a powerful, magical artifact from a sunken shipwreck.. But be wary, for sea witches lurk nearby."
     },
     {
         "pos": 79,
@@ -482,8 +482,8 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Mysterious ['Main']",
+        "encounter": "A mysterious scent of salted fish drying on racks envelops you, drawing you towards a secret pirate tunnel leading to a hidden cove where floating market traders are repairing their damaged ship."
     },
     {
         "pos": 81,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where seafaring druids are engaged in conducting a mystical sea ritual around a seashell amulet that grants water-breathing, seemingly crucial for investigate the disappearance of a famous sea captain and their crew.."
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -554,7 +554,7 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Ageless ['Kelp Forest']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -567,12 +567,12 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sponge colonies, you catch sight of a preserved mermaid tail. But be cautious, murmuring of merfolk singing in harmony suggest lighthouse guardians are near."
+        "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Teeming ['Upwelling']",
+        "features": "Alluring ['Passage']",
         "encounter": ""
     },
     {
@@ -585,18 +585,18 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a giant, tentacled kraken blocking the way. As you contemplate a way around, you hear roaring of a powerful waterfall cascading into the sea from the shadows."
     },
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Spectacular ['Shoal']",
-        "encounter": "The ground is littered with the remnants of a pirate's skeleton on a sunken ship. It appears merfolk were here recently."
+        "features": "",
+        "encounter": ""
     }
 ]

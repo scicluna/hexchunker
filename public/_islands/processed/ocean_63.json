@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense red algae beds, you discover a seafarer's journal filled with tales of adventure. You can't shake the feeling of anticipation."
     },
     {
         "pos": 1,
@@ -15,7 +15,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by jealousy as you uncover a ship's logbook with a mysterious route hidden within tube worms near hydrothermal vents."
     },
     {
         "pos": 3,
@@ -26,26 +26,26 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Cove']",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Tumultuous ['Swirl']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel contentment as rattling of pebbles in the surf echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -63,7 +63,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious scent of damp driftwood envelops you, drawing you towards a concealed treasure chest buried under a giant pearl where pearl diver guilds are battling a giant sea serpent."
+        "encounter": ""
     },
     {
         "pos": 11,
@@ -75,7 +75,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant roaring of a powerful waterfall cascading into the sea draws your attention. Following it, you discover a sunken chest with its lock rusted shut of a past event."
     },
     {
         "pos": 13,
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft rattling of pebbles in the surf. As you follow, you encounter giant sea turtles in the midst of taming and riding sea turtles."
+        "encounter": ""
     },
     {
         "pos": 15,
@@ -105,7 +105,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a sunken sea monster's scale. It appears dolphin companions were here recently."
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Sandbank']",
         "encounter": ""
     },
     {
@@ -134,8 +134,8 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
-        "encounter": "The way forward is blocked by an eerie, ghostly ship blocking the path, but you notice a submerged ship graveyard where ghost ships rest that might lead around it."
+        "features": "Uncharted ['Marina']",
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a skeleton clutching a rusted cutlass on the seabed lie scattered, painting a tale of sea dragons that setting up an underwater market."
+        "encounter": ""
     },
     {
         "pos": 25,
@@ -164,8 +164,8 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Unspoiled ['Ridge']",
+        "encounter": "The ground is littered with the remnants of a sunken pirate ship's flagpole. It appears selkies were here recently."
     },
     {
         "pos": 28,
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel guilt as rustling of palm fronds in a gentle breeze echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Spring']",
         "encounter": ""
     },
     {
@@ -248,14 +248,14 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling ['Vortex']",
         "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
-        "features": "",
-        "encounter": "A mysterious musk of a sea lion colony envelops you, drawing you towards a hidden pirate's tunnel behind a cascading waterfall where cursed mermaids are wreaking havoc on passing ships."
+        "features": "Timeless ['Estuary']",
+        "encounter": "Every step forward is met with the increasing intensity of freshly caught fish on a fishing boat, suggesting the presence of dolphin companions."
     },
     {
         "pos": 43,
@@ -272,19 +272,19 @@
     {
         "pos": 45,
         "terrain": "M",
-        "features": "Stony Notch",
-        "encounter": "You come across a broken and moss-covered mountain bridge of an old campsite, the scent of the sweet scent of ripening fruit in mountain orchards still lingering."
+        "features": "Mighty Divide",
+        "encounter": "You're guided by the soft the chirping of mountain grasshoppers in the sunlight. As you follow, you encounter a family of griffons soaring above the mountains in the midst of embarking on long migrations to find fertile lands."
     },
     {
         "pos": 46,
         "terrain": "M",
-        "features": "Secluded Tor",
-        "encounter": "You spot a bundle of rare and enchanted trinkets nestled among a field of high-altitude sunflowers, but the unsettling feeling of hope makes you wary."
+        "features": "Grand Gully",
+        "encounter": "Every step forward is met with the increasing intensity of the tangy scent of a mountain creek or stream, suggesting the presence of a tribe of centaurs skilled in herbalism."
     },
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Upwelling']",
         "encounter": ""
     },
     {
@@ -296,8 +296,8 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
-        "encounter": "Blocked by a floating, abandoned shipwreck, your attention is caught by rumbling of a distant underwater volcano. Upon investigating, you discover a secret underwater grotto accessible only at low tide with a beautifully crafted coral tiara inside."
+        "features": "Crystal-clear ['Trough']",
+        "encounter": ""
     },
     {
         "pos": 50,
@@ -320,20 +320,20 @@
     {
         "pos": 53,
         "terrain": "M",
-        "features": "Volcanic Col",
-        "encounter": "The ground is littered with a fallen and forgotten mountain wind chime. It appears a colony of territorial marmots with intricate burrows were here recently."
+        "features": "Imposing Cliff",
+        "encounter": "A sudden the distant chattering of squirrels in the trees breaks the silence, making the nearby clusters of wild mountain berries quiver."
     },
     {
         "pos": 54,
         "terrain": "M",
-        "features": "Remote Cirque",
-        "encounter": "A path surrounded by a stand of tall, ancient alpine redwoods leads to a clearing with a fallen and forgotten mountain wind chime, indicating a colony of rock hyraxes sunning themselves on cliffs have been here."
+        "features": "Silvery Notch",
+        "encounter": "Peering through the dense moss-covered rocks in mountain streams, you catch sight of a collection of ancient and powerful tomes. But be cautious, the soft hush of falling snow in the high mountains suggest a clan of mountain trolls lurking in dark caves are near."
     },
     {
         "pos": 55,
         "terrain": "M",
-        "features": "Expansive Notch",
-        "encounter": "You notice bushy sagebrush in the highlands moving subtly. Upon closer inspection, you see a band of traveling bards and minstrels that are crafting intricate jewelry and ornaments."
+        "features": "Massive Cirque",
+        "encounter": "A band of traveling bards and minstrels gives you a quest to defend a remote mountain village from an approaching avalanche.In your path lies a stack of intricately woven tapestries surrounded by low-lying moss and lichen on rocky surfaces."
     },
     {
         "pos": 56,
@@ -344,7 +344,7 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Unspoiled ['Haven']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a ghostly lantern that wards off spirits nestled among seafloor seagrass, but the unsettling feeling of loneliness makes you wary."
     },
     {
         "pos": 60,
@@ -374,7 +374,7 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless ['Isle']",
         "encounter": ""
     },
     {
@@ -386,14 +386,14 @@
     {
         "pos": 64,
         "terrain": "M",
-        "features": "Formidable Pinnacle",
-        "encounter": "Surrounded by low-lying ferns along mountain riverbanks, a series of a concealed opening in a thicket of mountain herbs reveal traces of a shattered and toppled mountain stone archway, and the distant the crackling of leaves underfoot on forest trails hint at more to discover."
+        "features": "Pristine Flank",
+        "encounter": "Peering through the dense a stand of tall mountain pine trees, you catch sight of a bundle of rare and aromatic alpine herbs. But be cautious, the distant hooting of a nocturnal owl suggest a band of itinerant monks seeking enlightenment are near."
     },
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Ageless ['Current']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You stumble upon the remnants of a merfolk's forgotten treasure indicating past battles."
     },
     {
         "pos": 66,
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Fjord']",
         "encounter": ""
     },
     {
@@ -470,19 +470,19 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Seabed']",
         "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of anger as you tread upon a broken ship's mast jutting out of the water, hinting at a tale of ship-eating barnacles."
+        "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Shimmering ['Cove']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -494,14 +494,14 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Tumultuous ['Depression']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a rusted anchor half-buried in the sand suggests that sirens have passed through here on a quest to investigate reports of disappearing ships in a cursed sea.."
     },
     {
         "pos": 84,
@@ -518,7 +518,7 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless ['Jetty']",
         "encounter": ""
     },
     {
@@ -542,13 +542,13 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent ['Fathom']",
         "encounter": ""
     },
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring ['Mangrove']",
         "encounter": ""
     },
     {
@@ -585,13 +585,13 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a rare, ancient ship's figurehead. However, island hermit stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where giant clams are engaged in wreaking havoc on passing ships around a magical conch shell that can summon sea creatures, seemingly crucial for explore an underwater cave system to find a valuable artifact.."
+        "encounter": ""
     },
     {
         "pos": 99,

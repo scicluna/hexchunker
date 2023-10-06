@@ -21,13 +21,13 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a rusted anchor half-buried in the sand that tell a story of a time when oceanic alchemists pursued defend a coastal village from a relentless pirate invasion.."
+        "encounter": ""
     },
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground trembles slightly, and echoing calls of whales in the distance grow louder. It seems selkies are on the move."
+        "features": "Infinite ['Harbor']",
+        "encounter": ""
     },
     {
         "pos": 5,
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Soothing ['Drop-off']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -75,7 +75,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and crackling of a bonfire on the beach grow louder. It seems floating market traders are on the move."
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a beached rowboat with a broken oar lie scattered, painting a tale of selkies that navigating a treacherous whirlpool."
+        "encounter": ""
     },
     {
         "pos": 16,
@@ -116,8 +116,8 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Moonlit ['Whirlpool']",
-        "encounter": "From the shadows of the a secret pirate's den inside a massive, hollowed-out rock, you sense the presence of selkies."
+        "features": "",
+        "encounter": "From the shadows of the a hidden cave behind a waterfall, you sense the presence of sea anemone sorcerers."
     },
     {
         "pos": 20,
@@ -176,13 +176,13 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal ['Expanse']",
         "encounter": ""
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Peaceful ['Haven']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -194,8 +194,8 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "Murmuring ['Gulf']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You uncover barnacle-covered remnants of a wooden chest that tell a story of a time when floating market traders pursued defend a coastal village from a relentless pirate invasion.."
     },
     {
         "pos": 33,
@@ -230,7 +230,7 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "Windswept ['Whirlpool']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -242,13 +242,13 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Rippling ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled ['Harbor']",
         "encounter": ""
     },
     {
@@ -273,18 +273,18 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where sea anemone sorcerers are engaged in wreaking havoc on passing ships around a bottle of enchanted ink for writing underwater, seemingly crucial for retrieve a sunken treasure map from the lair of a giant octopus.."
     },
     {
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a ship's anchor chain suggests that sea anemone sorcerers have passed through here on a quest to find a lost underwater city rumored to hold ancient relics.."
     },
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Fjord']",
         "encounter": ""
     },
     {
@@ -302,8 +302,8 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Lonely ['Ocean']",
+        "encounter": "The way forward is blocked by a colony of hostile merfolk guarding their territory, but you notice an underwater whirlpool leading to a hidden realm that might lead around it."
     },
     {
         "pos": 51,
@@ -315,12 +315,12 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Underwater miners gives you a quest to help a shipwrecked sailor construct a signal fire to call for rescue.In your path lies a ship's bell with a haunting chime surrounded by floating mats of sargassum seaweed."
+        "encounter": ""
     },
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Trench']",
         "encounter": ""
     },
     {
@@ -332,7 +332,7 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Trench']",
         "encounter": ""
     },
     {
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a preserved mermaid tail nestled among bubbling hot seawater vents, but the unsettling feeling of joy makes you wary."
     },
     {
         "pos": 60,
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Idyllic ['Spring']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -392,8 +392,8 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
-        "encounter": "Underwater nomads emerge from the a secret underwater grotto accessible only at low tide, their intent focused on a bejeweled trident."
+        "features": "Boundless ['Atoll']",
+        "encounter": ""
     },
     {
         "pos": 66,
@@ -410,7 +410,7 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Unspoiled ['Isle']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -429,7 +429,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant crackling of a bonfire on the beach draws your attention. Following it, you discover a torn and waterlogged book of sea legends of a past event."
     },
     {
         "pos": 72,
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Delta']",
         "encounter": ""
     },
     {
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with a partially buried, broken spyglass. It appears pearl diver guilds were here recently."
+        "encounter": "You uncover the remnants of a sunken pirate ship's flagpole that tell a story of a time when crystal reef dwellers pursued escort a group of settlers to a remote, uncharted island.."
     },
     {
         "pos": 89,
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Surging ['Chasm']",
+        "features": "Sapphire ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a massive, drifting iceberg with hidden dangers, but you notice a concealed mermaid treasure trove in a sunken ship that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 95,
@@ -579,13 +579,13 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "With track down a legendary sea monster for a wealthy collector. On your mind, the sudden appearance of treacherous rocks just below the surface accompanied by roaring of a powerful waterfall cascading into the sea becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a chest of exotic spices from distant lands nestled among feather boa kelp, but the unsettling feeling of bewilderment makes you wary."
     },
     {
         "pos": 98,

@@ -26,7 +26,7 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal ['Chasm']",
         "encounter": ""
     },
     {
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Bubbling ['Jetty']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -68,19 +68,19 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Majestic ['Ridge']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a bottle of enchanted ink for writing underwater that could be useful in your quest to track down a legendary sea monster for a wealthy collector.. But it's guarded by seafaring druids."
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Trench']",
         "encounter": ""
     },
     {
@@ -111,12 +111,12 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a mysterious, enchanted mist causing disorientation, but you notice a hidden treasure map etched into a ship's hull that might lead around it."
+        "encounter": "A path surrounded by sea grape kelp leads to a clearing with a rusted, half-buried cutlass, indicating whirlpool spirits have been here."
     },
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Sound']",
         "encounter": ""
     },
     {
@@ -129,7 +129,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant sloshing of water in a mermaid's bathtub draws your attention. Following it, you discover the remnants of a sunken pirate ship's flagpole of a past event."
+        "encounter": ""
     },
     {
         "pos": 22,
@@ -158,13 +158,13 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Maelstrom']",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Murmuring ['Rise']",
+        "features": "Sparkling ['Lagoon']",
         "encounter": ""
     },
     {
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted ['Bight']",
         "encounter": ""
     },
     {
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless ['Pinnacle']",
         "encounter": ""
     },
     {
@@ -230,7 +230,7 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Fjord']",
         "encounter": ""
     },
     {
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Vibrant ['Fjord']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -296,13 +296,13 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Expanse']",
         "encounter": ""
     },
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Raging ['Kelp Forest']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -320,32 +320,32 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing ['Inlet']",
         "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by giant underwater mushrooms, a series of a submerged sea cave filled with bioluminescent creatures reveal traces of a sunken rowboat with a hole in its hull, and the distant crackling of a bonfire on the beach hint at more to discover."
     },
     {
         "pos": 55,
         "terrain": "O",
-        "features": "Beckoning ['Bay']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You find a hint leading you to investigate the disappearance of a famous sea captain and their crew.. But be wary, for sea serpents lurk nearby."
     },
     {
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant murmuring of merfolk singing in harmony draws your attention. Following it, you discover the remnants of a shattered glass bottle of a past event."
     },
     {
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious scent of damp, ancient sea scrolls envelops you, drawing you towards a concealed chamber within a massive sponge where sirens are exploring the depths in search of a sunken city."
     },
     {
         "pos": 58,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice sponge colonies moving subtly. Upon closer inspection, you see cursed mermaids that are healing wounded sea creatures."
     },
     {
         "pos": 62,
@@ -404,8 +404,8 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Secluded ['Expanse']",
+        "encounter": "You come across the remnants of a ship's wheel half-buried in the sand of an old campsite, the scent of scent of coconut oil and sunscreen still lingering."
     },
     {
         "pos": 68,
@@ -417,13 +417,13 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of aromatic blooms of coastal flowers, suggesting the presence of coral golems."
+        "encounter": "A mysterious fresh, salty scent of oysters on the shore envelops you, drawing you towards a hidden cave filled with glowing sea crystals where octopus oracles are creating storms to deter sailors."
     },
     {
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice bubblegum coral moving subtly. Upon closer inspection, you see turtle island shamans that are hunting for treasure on a deserted island."
     },
     {
         "pos": 71,
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to discover the source of a mysterious bioluminescent phenomenon.. But be wary, for coral golems lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 73,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Vibrant ['Wave']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -494,7 +494,7 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Expansive ['Cove']",
+        "features": "Limitless ['Fjord']",
         "encounter": ""
     },
     {
@@ -530,14 +530,14 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Maelstrom']",
         "encounter": ""
     },
     {
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "Seafaring druids gives you a quest to navigate treacherous waters to find a legendary fishing spot.In your path lies a bottle of enchanted ink for writing underwater surrounded by brown algae forests."
+        "encounter": ""
     },
     {
         "pos": 90,
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Azure ['Edifice']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Shore']",
         "encounter": ""
     }
 ]

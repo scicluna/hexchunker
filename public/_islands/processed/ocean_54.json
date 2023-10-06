@@ -21,7 +21,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft whistling of wind through the rigging of a ship. As you follow, you encounter underwater miners in the midst of wreaking havoc on passing ships."
+        "encounter": ""
     },
     {
         "pos": 4,
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Inviting ['Lagoon']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -111,7 +111,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sponge colonies, you catch sight of a preserved mermaid tail. But be cautious, buzzing of bioluminescent creatures in the depths suggest coral golems are near."
+        "encounter": ""
     },
     {
         "pos": 19,
@@ -122,13 +122,13 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Tidal ['Billow']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Bay']",
         "encounter": ""
     },
     {
@@ -170,13 +170,13 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Unfathomable ['Wave']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling ['Marina']",
         "encounter": ""
     },
     {
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Strait']",
         "encounter": ""
     },
     {
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Turbulent ['Ocean']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Beckoning ['Delta']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -272,19 +272,19 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "Rippling ['Ocean']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Shimmering ['Deep']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
-        "features": "Reflective ['Seabed']",
+        "features": "Tumultuous ['Estuary']",
         "encounter": ""
     },
     {
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear rattling of pebbles in the surf coming from a network of tunnels in the heart of a coral maze."
     },
     {
         "pos": 50,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense kelp forests, you discover a seafarer's compass that points to hidden treasure. You can't shake the feeling of anticipation."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and rumbling of a distant underwater volcano grow louder. It seems pearl diver guilds are on the move."
     },
     {
         "pos": 60,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a thick forest of kelp that entangles ships, your attention is caught by hissing of foam as waves recede. Upon investigating, you discover a hidden cave filled with glowing sea crystals with a bejeweled trident inside."
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "With defend a coastal town from raiding sea creatures. On your mind, the sudden appearance of a giant maelstrom that sucks everything in accompanied by pounding of heavy rain during a monsoon becomes a challenging diversion."
+        "encounter": "You encounter tidal wave elementals which are navigating treacherous waters during a storm."
     },
     {
         "pos": 64,
@@ -410,8 +410,8 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
-        "encounter": "Strange a beached rowboat with a broken oar lie scattered, painting a tale of giant clams that collecting rare and magical seashells."
+        "features": "Choppy ['Vortex']",
+        "encounter": ""
     },
     {
         "pos": 69,
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Ocean']",
         "encounter": ""
     },
     {
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter sea anemone sorcerers which are training sea creatures for battle."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -495,19 +495,19 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a massive, drifting iceberg with hidden dangers, you're surprised to find a hidden mermaid enclave in the heart of a kelp forest filled with a ship's figurehead washed ashore.As you journey forward, you come across a rare, ancient ship's figurehead, with traces of fishy odor of the ocean depths around them."
+        "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Bubbling ['Cove']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
-        "features": "",
-        "encounter": "You spot a seashell amulet that grants water-breathing nestled among black coral, but the unsettling feeling of anxiety makes you wary."
+        "features": "Rippling ['Deep']",
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -518,8 +518,8 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon a scene where oceanic alchemists are engaged in protecting a ship from ghostly apparitions around a shipwrecked chest filled with gold coins, seemingly crucial for uncover the truth behind a series of strange underwater disappearances.."
+        "features": "Endless ['Seamount']",
+        "encounter": ""
     },
     {
         "pos": 87,
@@ -554,8 +554,8 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Majestic ['Jetty']",
-        "encounter": "Peering through the dense crinoids on the seafloor, you catch sight of a seafarer's journal filled with tales of adventure. But be cautious, splashing of dolphins playing nearby suggest ghost ships are near."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 93,
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden whistling of wind through the rigging of a ship breaks the silence, making the nearby green string lettuce quiver."
+        "encounter": "Cursed mermaids emerge from the a submerged pirate's lair hidden by a waterfall, their intent focused on a barnacle-covered ship's wheel."
     },
     {
         "pos": 95,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Spectacular ['Delta']",
+        "features": "",
         "encounter": ""
     }
 ]

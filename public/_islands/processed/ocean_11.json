@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Rift']",
         "encounter": ""
     },
     {
@@ -27,7 +27,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft crackling of a bonfire on the beach. As you follow, you encounter ship-eating barnacles in the midst of forging alliances with other oceanic races."
+        "encounter": ""
     },
     {
         "pos": 5,
@@ -74,13 +74,13 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Basin']",
         "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Untamed ['Expanse']",
+        "features": "Inviting ['Current']",
         "encounter": ""
     },
     {
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and splashing of dolphins playing nearby grow louder. It seems cursed ship captains are on the move."
+        "encounter": ""
     },
     {
         "pos": 17,
@@ -117,7 +117,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden seagulls cawing in the distance breaks the silence, making the nearby bubblegum coral quiver."
     },
     {
         "pos": 20,
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Boundless ['Marina']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a rusted anchor half-buried in the sand lie scattered, painting a tale of island hermit that hunting for treasure on a deserted island."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Basin']",
         "encounter": ""
     },
     {
@@ -230,7 +230,7 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -254,14 +254,14 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Endless ['Rift']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden rumbling of a distant underwater volcano breaks the silence, making the nearby hornwort quiver."
     },
     {
         "pos": 44,
@@ -273,24 +273,24 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by caulerpa seaweed leads to a clearing with a skeleton clutching a rusted cutlass on the seabed, indicating cursed mermaids have been here."
-    },
-    {
-        "pos": 46,
-        "terrain": "O",
-        "features": "Sweeping ['Jetty']",
         "encounter": ""
     },
     {
-        "pos": 47,
+        "pos": 46,
         "terrain": "O",
         "features": "",
         "encounter": ""
     },
     {
+        "pos": 47,
+        "terrain": "O",
+        "features": "Vast ['Whirlpool']",
+        "encounter": ""
+    },
+    {
         "pos": 48,
         "terrain": "O",
-        "features": "Tranquil ['Wave']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -320,14 +320,14 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Murmuring ['Trench']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a deadly, bioluminescent sea creature swarm. As you approach, ghost ships protecting their underwater city from intruders."
     },
     {
         "pos": 55,
@@ -356,19 +356,19 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Unspoiled ['Seamount']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 60,
         "terrain": "O",
-        "features": "Nautical ['Kelp Forest']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept ['Tide']",
         "encounter": ""
     },
     {
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a sandbar hiding just below the water's surface makes it difficult to proceed. Perhaps the merfolk nearby can help."
     },
     {
         "pos": 64,
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a tidal wave approaching with destructive force, your attention is caught by buzzing of bioluminescent creatures in the depths. Upon investigating, you discover an underwater cave network filled with glowing algae with a pirate flag bearing a fearsome symbol inside."
     },
     {
         "pos": 70,
@@ -441,7 +441,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover the remnants of a ship's broken mast that tell a story of a time when storm giants pursued rescue a group of trapped sailors from a sinking ship.."
     },
     {
         "pos": 74,
@@ -476,14 +476,14 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Majestic ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The floating seaweed rafts rustles, revealing shipwreck goblins that are performing a ritual to calm a storm."
     },
     {
         "pos": 81,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a lost, enchanted trident from a sunken temple.. But be wary, for cursed ship captains lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -518,14 +518,14 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Inviting ['Seabed']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You come across a shattered, waterlogged compass of an old campsite, the scent of tangy scent of salt spray still lingering."
     },
     {
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of clean, crisp scent of the open sea. You feel a sense of contentment."
     },
     {
         "pos": 88,
@@ -536,8 +536,8 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Moonlit ['Drop-off']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Every step forward is met with the increasing intensity of aromatic herbs from a coastal garden, suggesting the presence of kraken."
     },
     {
         "pos": 90,
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by red calcareous algae leads to a clearing with the remnants of a ship's anchor chain, indicating turtle island shamans have been here."
+        "encounter": ""
     },
     {
         "pos": 92,
@@ -572,8 +572,8 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
-        "encounter": "The presence of a massive, floating tree trunk in the ship's path makes it difficult to proceed. Perhaps the lighthouse guardians nearby can help."
+        "features": "Luminous ['Atoll']",
+        "encounter": ""
     },
     {
         "pos": 96,
@@ -590,8 +590,8 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Glistening ['Passage']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Peering through the dense bubblegum coral, you catch sight of a rare, ancient ship's figurehead. But be cautious, chattering of crabs on a rocky shore suggest crystal reef dwellers are near."
     },
     {
         "pos": 99,

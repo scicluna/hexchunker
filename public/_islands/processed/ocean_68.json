@@ -8,14 +8,14 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Boundless ['Flats']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your journey leads you to a a whirlpool leading to a mysterious underwater realm. As you approach, lighthouse guardians wreaking havoc on passing ships."
     },
     {
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rustling of seaweed swaying in the current is accompanied by the distinct aroma of smoky aroma of a beachside bonfire. It seems giant sea turtles are involved in exploring a mysterious underwater cave."
+        "encounter": ""
     },
     {
         "pos": 3,
@@ -26,7 +26,7 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "Mysterious ['Reef']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Ageless ['Deep']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -69,18 +69,18 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by zostera seagrass, a series of a sunken shipwreck beneath a coral reef reveal traces of a tattered, waterlogged map of uncharted waters, and the distant buzzing of bioluminescent creatures in the depths hint at more to discover."
     },
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Deep ['Upwelling']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Immeasurable ['Main']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Sapphire ['Pinnacle']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -116,25 +116,25 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Salty ['Tidal Pool']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Epic ['Narrows']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Infinite ['Flats']",
+        "features": "Azure ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -158,7 +158,7 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Reef']",
         "encounter": ""
     },
     {
@@ -195,7 +195,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a magical mermaid's mirror that reveals secrets nestled among green string lettuce, but the unsettling feeling of determination makes you wary."
     },
     {
         "pos": 33,
@@ -213,7 +213,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a colony of territorial sea lions blocking passage blocking your path. Perhaps it's related to your quest to defend a coastal town from raiding sea creatures.."
+        "encounter": ""
     },
     {
         "pos": 36,
@@ -236,14 +236,14 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing ['Whirlpool']",
         "encounter": ""
     },
     {
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft cracking of icebergs in frigid waters. As you follow, you encounter sea dragons in the midst of harvesting pearls from giant clams."
     },
     {
         "pos": 41,
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a coral reef with sharp, hidden edges, you're surprised to find an underwater volcanic vent leading to a hidden world filled with an abandoned lifeboat adrift on the waves.As you journey forward, you come across a pirate's cutlass with an ornate hilt, with traces of pungent smell of seaweed drying in the sun around them."
     },
     {
         "pos": 45,
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter island hermit which are collecting rare and magical seashells."
+        "encounter": ""
     },
     {
         "pos": 49,
@@ -314,8 +314,8 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "Spectacular ['Strait']",
-        "encounter": "You come across a shattered, waterlogged compass of an old campsite, the scent of pungent aroma of a hidden pirate's stash still lingering."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 53,
@@ -338,13 +338,13 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Unspoiled ['Current']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Sunken treasure guardians emerge from the a concealed treasure vault within an ancient shipwreck, their intent focused on a ship's sextant for celestial navigation."
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Bubbling ['Cove']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -392,31 +392,31 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Surging ['Drop-off']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gentle lapping of waves against the shore breaks the silence, making the nearby tube worms near hydrothermal vents quiver."
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Azure ['Isle']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Whirlpool']",
         "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Estuary']",
         "encounter": ""
     },
     {
@@ -428,7 +428,7 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Fathom']",
         "encounter": ""
     },
     {
@@ -459,12 +459,12 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange the remnants of a shattered glass bottle lie scattered, painting a tale of coral golems that collecting rare and magical seashells."
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Crystal-clear ['Fjord']",
+        "features": "Infinite ['Wave']",
         "encounter": ""
     },
     {
@@ -543,7 +543,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it fresh sea breeze. You spot whirlpool spirits that seem to be healing wounded sea creatures."
     },
     {
         "pos": 91,
@@ -560,8 +560,8 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Daunting ['Marina']",
-        "encounter": "You see a magical mermaid's mirror that reveals secrets that could be useful in your quest to retrieve a rare coral sample for an eccentric scientist.. But it's guarded by kraken."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 94,
@@ -572,13 +572,13 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Shimmering ['Inlet']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling ['Ridge']",
         "encounter": ""
     },
     {

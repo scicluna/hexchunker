@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among brown algae forests, you spot a seafarer's compass that points to hidden treasure glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 1,
@@ -26,13 +26,13 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "Azure ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Surging ['Fathom']",
         "encounter": ""
     },
     {
@@ -50,14 +50,14 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Salty ['Fathom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea anemone sorcerers emerge from the a forgotten pirate hideout in a remote cove, their intent focused on a sunken ship's anchor."
+        "encounter": ""
     },
     {
         "pos": 10,
@@ -69,13 +69,13 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of whistling of wind through the rigging of a ship is accompanied by the distinct aroma of saltwater in the air. It seems seafaring druids are involved in escaping from the clutches of a kraken."
+        "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Choppy ['Seamount']",
-        "encounter": "The air is filled with the smell of rustic scent of a seaside tavern. You feel a sense of confidence."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -86,7 +86,7 @@
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Idyllic ['Rift']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -104,8 +104,8 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your way is impeded by a monstrous, coral-covered sea monster. As you contemplate a way around, you hear chirping of crickets on a moonlit beach from the shadows."
+        "features": "Idyllic ['Cove']",
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -122,19 +122,19 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Ageless ['Shoal']",
+        "encounter": "The ground is littered with a torn and faded pirate's treasure map. It appears pirates were here recently."
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Undercurrent']",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Kelp Forest']",
         "encounter": ""
     },
     {
@@ -183,13 +183,13 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a mermaid's lost jewelry suggests that seafaring druids have passed through here on a quest to help a shipwrecked sailor construct a signal fire to call for rescue.."
+        "encounter": "Blocked by a dense minefield of explosive devices, your attention is caught by churning of water as a whirlpool forms. Upon investigating, you discover a hollowed-out giant clam used as a merfolk's dwelling with a piece of driftwood with an ancient carving inside."
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "Calm ['Estuary']",
-        "encounter": "A trail of a damaged, half-buried treasure map scroll suggests that lighthouse guardians have passed through here on a quest to deliver a shipment of rare spices to a distant island market.."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 32,
@@ -207,7 +207,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and buzzing of underwater machinery in a sunken city grow louder. It seems selkies are on the move."
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -218,8 +218,8 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Untamed ['Atoll']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your senses are overwhelmed by panic as you uncover a collection of seashells with hidden messages hidden within caulerpa seaweed."
     },
     {
         "pos": 37,
@@ -231,7 +231,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The sea grape kelp rustles, revealing crystal reef dwellers that are harvesting pearls from giant clams."
     },
     {
         "pos": 39,
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Lonely ['Cove']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -272,7 +272,7 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic ['Isle']",
         "encounter": ""
     },
     {
@@ -284,7 +284,7 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering ['Cove']",
         "encounter": ""
     },
     {
@@ -302,13 +302,13 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable ['Current']",
         "encounter": ""
     },
     {
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Seamount']",
         "encounter": ""
     },
     {
@@ -345,7 +345,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of booming of waves in a hidden sea cave is accompanied by the distinct aroma of warm, sun-kissed aroma of a sandy beach. It seems sarcastic cephalopod are involved in repairing their damaged ship."
     },
     {
         "pos": 58,
@@ -375,7 +375,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a massive, ancient sea turtle that won't move. As you contemplate a way around, you hear low growling of a distant thunderstorm from the shadows."
+        "encounter": ""
     },
     {
         "pos": 63,
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Basin']",
         "encounter": ""
     },
     {
@@ -434,8 +434,8 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Mysterious ['Rift']",
-        "encounter": "Among the dense red algae beds, you discover a seafarer's compass that points to hidden treasure. You can't shake the feeling of empathy."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 73,
@@ -470,25 +470,25 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Moonlit ['Mangrove']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a chest of mystical sea herbs and remedies that could be useful in your quest to investigate a series of shipwrecks caused by a vengeful ghost ship.. But it's guarded by tidal wave elementals."
+        "encounter": "The presence of a giant, tentacled kraken blocking the way makes it difficult to proceed. Perhaps the tidal wave elementals nearby can help."
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie seagulls cawing in the distance resonates from a hidden mermaid enclave in the heart of a kelp forest, and the scent of aromatic blooms of coastal flowers fills the air."
+        "encounter": ""
     },
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Picturesque ['Bight']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -512,7 +512,7 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Raging ['Shore']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Spring']",
         "encounter": ""
     },
     {
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice green string lettuce moving subtly. Upon closer inspection, you see ship-eating barnacles that are raiding a coastal village for supplies."
     },
     {
         "pos": 95,
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Bay']",
         "encounter": ""
     },
     {
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Cove']",
         "encounter": ""
     }
 ]

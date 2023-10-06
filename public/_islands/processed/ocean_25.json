@@ -20,26 +20,26 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Timeless ['Bay']",
-        "encounter": "A path surrounded by floating mats of sargassum seaweed leads to a clearing with the remnants of a shattered glass bottle, indicating underwater nomads have been here."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The thick beds of eelgrass rustles, revealing island hermit that are diving deep to consult with a sea oracle."
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious tangy scent of salt spray envelops you, drawing you towards a submerged pirate's lair hidden by a waterfall where crystal reef dwellers are creating elaborate maps of uncharted waters."
     },
     {
         "pos": 7,
@@ -56,14 +56,14 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Moonlit ['Spring']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Epic ['Vortex']",
-        "encounter": ""
+        "features": "",
+        "encounter": "The ground is littered with a torn and waterlogged book of sea legends. It appears floating market traders were here recently."
     },
     {
         "pos": 11,
@@ -74,13 +74,13 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering ['Bay']",
         "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent ['Expanse']",
         "encounter": ""
     },
     {
@@ -92,7 +92,7 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Silent ['Tidal Pool']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -104,14 +104,14 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Infinite ['Shore']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden gust brings with it aromatic blooms of coastal flowers. You spot sunken treasure guardians that seem to be convincing a shipwrecked sailor to join their crew."
+        "features": "Immeasurable ['Delta']",
+        "encounter": ""
     },
     {
         "pos": 19,
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Surging ['Harbor']",
         "encounter": ""
     },
     {
@@ -176,7 +176,7 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Channel']",
         "encounter": ""
     },
     {
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Upwelling']",
         "encounter": ""
     },
     {
@@ -255,7 +255,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of a shipwrecked sailor's journal of an old campsite, the scent of damp, earthy smell of a rocky shore still lingering."
     },
     {
         "pos": 43,
@@ -273,7 +273,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange the remnants of a ship's wheel half-buried in the sand lie scattered, painting a tale of sea serpents that searching for a lost artifact on the ocean floor."
     },
     {
         "pos": 46,
@@ -309,12 +309,12 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and gurgling of a freshwater stream meeting the ocean grow louder. It seems coral golems are on the move."
+        "encounter": ""
     },
     {
         "pos": 52,
         "terrain": "O",
-        "features": "Serene ['Gulf']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -344,8 +344,8 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
-        "encounter": "The presence of a massive, drifting iceberg with hidden dangers makes it difficult to proceed. Perhaps the ghost ships nearby can help."
+        "features": "Mysterious ['Chasm']",
+        "encounter": ""
     },
     {
         "pos": 58,
@@ -362,13 +362,13 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling ['Current']",
         "encounter": ""
     },
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Grand ['Sandbank']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -393,19 +393,19 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice tube worms near hydrothermal vents moving subtly. Upon closer inspection, you see ghost ships that are creating storms to deter sailors."
     },
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Deep ['Depression']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by disbelief as you uncover a mermaid's singing seashell necklace hidden within coral reefs."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -440,7 +440,7 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "Sunlit ['Undercurrent']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Ageless ['Lagoon']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -482,7 +482,7 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Sapphire ['Spring']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -519,12 +519,12 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon the remnants of an ancient ship's cannon indicating past battles."
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Secluded ['Haven']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -561,7 +561,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a dense, toxic algae bloom poisoning the water, your attention is caught by splintering of wood as a shipwreck breaks apart. Upon investigating, you discover a secret merfolk concert hall hidden in a cave with a magical mermaid's mirror that reveals secrets inside."
     },
     {
         "pos": 94,
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "Tranquil ['Bight']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -590,7 +590,7 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Depression']",
         "encounter": ""
     },
     {

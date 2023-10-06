@@ -15,13 +15,13 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a ship's broken figurehead. It appears water elementals were here recently."
     },
     {
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it warm, sun-kissed aroma of a sandy beach. You spot tidal wave elementals that seem to be forging alliances with other oceanic races."
     },
     {
         "pos": 4,
@@ -33,7 +33,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious mildewed scent of an old shipwreck envelops you, drawing you towards an underwater volcanic vent leading to a hidden world where selkies are setting up an underwater market."
+        "encounter": ""
     },
     {
         "pos": 6,
@@ -57,7 +57,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by brown algae forests leads to a clearing with the remnants of an ancient ship's cannon, indicating tidal wave elementals have been here."
+        "encounter": ""
     },
     {
         "pos": 10,
@@ -75,12 +75,12 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a merfolk's enchanted harp nestled among red algae beds, but the unsettling feeling of love makes you wary."
+        "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Timeless ['Strait']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Sweeping ['Trough']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -116,13 +116,13 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Ageless ['Abyss']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You stumble upon a scene where oceanic alchemists are engaged in exploring the depths in search of a sunken city around a rare, ancient ship's figurehead, seemingly crucial for help a stranded sailor repair their ship and return home.."
     },
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Tumultuous ['Passage']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Merfolk emerge from the a hollowed-out giant clam used as a merfolk's dwelling, their intent focused on a ghostly lantern that wards off spirits."
     },
     {
         "pos": 25,
@@ -159,7 +159,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant clanging of bells on a buoy in choppy waters draws your attention. Following it, you discover the remnants of an ancient ship's cargo hold of a past event."
+        "encounter": ""
     },
     {
         "pos": 27,
@@ -170,26 +170,26 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Pinnacle']",
         "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Moonlit ['Marina']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter pearl diver guilds which are wreaking havoc on passing ships."
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of damp, earthy smell of a rocky shore, suggesting the presence of sea witches."
+        "features": "Nautical ['Swirl']",
+        "encounter": ""
     },
     {
         "pos": 32,
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Deep']",
         "encounter": ""
     },
     {
@@ -261,7 +261,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a bottle of enchanted ink for writing underwater that could be useful in your quest to retrieve a lost, enchanted trident from a sunken temple.. But it's guarded by sirens."
     },
     {
         "pos": 44,
@@ -278,19 +278,19 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Mysterious ['Shore']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
-        "features": "Raging ['Fathom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 48,
         "terrain": "O",
-        "features": "Sapphire ['Tide']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Unspoiled ['Seabed']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -315,13 +315,13 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among feather boa kelp, you spot a sunken ship's anchor glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter selkies which are negotiating with a powerful sea witch."
+        "encounter": ""
     },
     {
         "pos": 54,
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive ['Harbor']",
         "encounter": ""
     },
     {
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Sunlit ['Basin']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -393,18 +393,18 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a rogue wave threatening to capsize the ship, you're surprised to find a labyrinthine coral labyrinth with hidden treasures filled with the remnants of a sunken sea monster's scale.As you journey forward, you come across a ship's bell with a haunting chime, with traces of saltwater in the air around them."
+        "encounter": ""
     },
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Glistening ['Swirl']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Uncharted ['Channel']",
+        "features": "Timeless ['Surf']",
         "encounter": ""
     },
     {
@@ -422,19 +422,19 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Surf']",
         "encounter": ""
     },
     {
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With retrieve a lost, enchanted trident from a sunken temple. On your mind, the sudden appearance of a massive, ancient sea turtle that won't move accompanied by buzzing of bioluminescent creatures in the depths becomes a challenging diversion."
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious ['Kelp Forest']",
         "encounter": ""
     },
     {
@@ -447,7 +447,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and gurgling of a freshwater stream meeting the ocean grow louder. It seems sarcastic cephalopod are on the move."
+        "encounter": ""
     },
     {
         "pos": 75,
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft rustling of seaweed swaying in the current. As you follow, you encounter sea serpents in the midst of navigating treacherous waters during a storm."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -500,14 +500,14 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Kelp Forest']",
         "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a school of aggressive and territorial sharks, but you notice a sunken shipwreck beneath a coral reef that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -518,7 +518,7 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Mysterious ['Basin']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Soothing ['Seabed']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -549,13 +549,13 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "With help a shipwrecked sailor construct a signal fire to call for rescue. On your mind, the sudden appearance of a colony of hostile merfolk guarding their territory accompanied by rhythmic crashing of waves on rocky cliffs becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense mermaid's hair algae, you discover a chest of mystical sea herbs and remedies. You can't shake the feeling of satisfaction."
     },
     {
         "pos": 93,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground trembles slightly, and whispering of the sea breeze through palm trees grow louder. It seems cursed mermaids are on the move."
+        "features": "Silent ['Isle']",
+        "encounter": ""
     }
 ]

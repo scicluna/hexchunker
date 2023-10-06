@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it warm, sun-kissed aroma of a sandy beach. You spot island hermit that seem to be escaping from the clutches of a kraken."
     },
     {
         "pos": 1,
@@ -14,7 +14,7 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Vibrant ['Bay']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -27,7 +27,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Cursed ship captains emerge from the a secret mermaid library hidden in a deep trench, their intent focused on a ghostly lantern that wards off spirits."
     },
     {
         "pos": 5,
@@ -44,8 +44,8 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Mysterious ['Undercurrent']",
-        "encounter": "An eerie sizzling of saltwater on hot volcanic rocks resonates from a submerged pirate's lair hidden by a waterfall, and the scent of briny smell of a fishing pier fills the air."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Abyssal ['Edifice']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -123,12 +123,12 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a pirate's skeleton on a sunken ship wind through the caulerpa seaweed, revealing the past actions of kelpie."
+        "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled ['Cove']",
         "encounter": ""
     },
     {
@@ -194,14 +194,14 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "Azure ['Ridge']",
+        "features": "Reflective ['Whirlpool']",
         "encounter": ""
     },
     {
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant booming of waves in a hidden sea cave draws your attention. Following it, you discover the remnants of an ancient ship's cargo hold of a past event."
     },
     {
         "pos": 34,
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of smell of seaweed roasting in the sun, suggesting the presence of cursed mermaids."
     },
     {
         "pos": 37,
@@ -231,12 +231,12 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of a shattered glass bottle of an old campsite, the scent of briny scent of low tide still lingering."
     },
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming ['Swirl']",
         "encounter": ""
     },
     {
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Trench']",
         "encounter": ""
     },
     {
@@ -267,19 +267,19 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a sunken ship's anchor that could be useful in your quest to guide a group of scholars on a research expedition to the deep ocean.. But it's guarded by oceanic alchemists."
     },
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
-        "encounter": "You come across a partially buried, broken spyglass of an old campsite, the scent of scent of salty tears in the wind still lingering."
+        "features": "Glistening ['Sound']",
+        "encounter": "Trails of the remnants of a ship's broken mast wind through the halophila seagrass, revealing the past actions of sea dragons."
     },
     {
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a ship's anchor chain indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 47,
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a shipwrecked sailor's journal suggests that sea serpents have passed through here on a quest to guide a group of scholars on a research expedition to the deep ocean.."
     },
     {
         "pos": 53,
@@ -356,7 +356,7 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Bight']",
         "encounter": ""
     },
     {
@@ -369,12 +369,12 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "Floating market traders gives you a quest to retrieve a rare coral sample for an eccentric scientist.In your path lies a ship's logbook with a mysterious route surrounded by zostera seagrass."
+        "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Dazzling ['Atoll']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -411,12 +411,12 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a hidden coral archway leading to a treasure trove, you sense the presence of selkies."
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Picturesque ['Bight']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -434,8 +434,8 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Grand ['Rift']",
+        "encounter": "The whisper of cracking of icebergs in frigid waters is accompanied by the distinct aroma of scent of damp treasure maps. It seems pearl diver guilds are involved in diving deep to consult with a sea oracle."
     },
     {
         "pos": 73,
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Sapphire ['Rift']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Upwelling']",
         "encounter": ""
     },
     {
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a colony of hostile merfolk guarding their territory. As you approach, ship-eating barnacles raising a sunken ship from the depths."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -494,20 +494,20 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Spectacular ['Sandbank']",
+        "encounter": "The ground trembles slightly, and sizzling of saltwater on hot volcanic rocks grow louder. It seems underwater miners are on the move."
     },
     {
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a bottle of potent seawater from a mythical spring nestled among coral reefs, but the unsettling feeling of confidence makes you wary."
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of salty scent of a mermaid's hair. You feel a sense of wonder."
     },
     {
         "pos": 85,
@@ -518,26 +518,26 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Epic ['Jetty']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Azure ['Reef']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of freshly caught fish on a fishing boat. You feel a sense of amusement."
     },
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Raging ['Seamount']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You're guided by the soft sizzling of saltwater on hot volcanic rocks. As you follow, you encounter jellyfish navigators in the midst of plotting revenge against a rival pirate captain."
     },
     {
         "pos": 90,
@@ -560,8 +560,8 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
-        "encounter": "The crinoids on the seafloor rustles, revealing sea dragons that are training sea creatures for battle."
+        "features": "Crystal-clear ['Seamount']",
+        "encounter": ""
     },
     {
         "pos": 94,
@@ -584,7 +584,7 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Teeming ['Edifice']",
+        "features": "Alluring ['Trench']",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant churning of water as a whirlpool forms draws your attention. Following it, you discover a broken ship's mast jutting out of the water of a past event."
     }
 ]

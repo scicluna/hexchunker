@@ -30,8 +30,7 @@ export default function HexPop({ tile, chunkno, size, hexImage }: HexPopProps) {
             <PopoverTrigger className="h-full w-full">Open</PopoverTrigger>
             <PopoverContent
                 style={{ "--hex-size": `50vh` } as React.CSSProperties}
-                className={`${style.hexagon} pt-[30%] font-mono`}
-                onScroll={close}>
+                className={`${style.hexagon} pt-[30%] font-mono`}>
                 <Image src={hexImage} alt={"backsplash"} fill className="opacity-40" />
                 <div className="text-[1vh] font-bold opacity-100">
                     <p>Tile: {`${chunkno}-${tile.pos}`}</p>

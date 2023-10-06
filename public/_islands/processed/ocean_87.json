@@ -20,14 +20,14 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Dazzling ['Reef']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter giant clams which are creating storms to deter sailors."
     },
     {
         "pos": 5,
@@ -51,19 +51,19 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear pounding of heavy rain during a monsoon coming from an underwater volcanic vent leading to a hidden world."
+        "encounter": "You see a mysterious, glowing underwater crystal that could be useful in your quest to deliver a mysterious message to a reclusive island hermit.. But it's guarded by pearl diver guilds."
     },
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Reef']",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange a waterlogged chest with its lid ajar lie scattered, painting a tale of pearl diver guilds that exploring the depths in search of a sunken city."
     },
     {
         "pos": 11,
@@ -74,13 +74,13 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Tempestuous ['Estuary']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Strange the remnants of a sunken pirate ship's flagpole lie scattered, painting a tale of sea dragons that hunting for treasure on a deserted island."
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Unspoiled ['Narrows']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a partially buried, broken spyglass that tell a story of a time when cursed ship captains pursued search for a hidden cove rumored to contain pirate treasure.."
     },
     {
         "pos": 16,
@@ -104,8 +104,8 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
-        "encounter": "A trail of the remnants of a shattered glass bottle suggests that kelpie have passed through here on a quest to navigate treacherous waters to find a legendary fishing spot.."
+        "features": "Deep ['Seabed']",
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -207,7 +207,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft rumbling of a distant underwater volcano. As you follow, you encounter sea witches in the midst of performing a ritual to calm a storm."
     },
     {
         "pos": 35,
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Dolphin companions emerge from the a secret merfolk concert hall hidden in a cave, their intent focused on a collection of seashells with hidden messages."
     },
     {
         "pos": 37,
@@ -231,7 +231,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a net filled with exotic and colorful fish. However, pearl diver guilds stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 39,
@@ -255,7 +255,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "With escort a fragile, magical artifact through dangerous waters. On your mind, the sudden appearance of a sunken city with buildings rising to the surface accompanied by buzzing of insects near a coastal marsh becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 43,
@@ -278,20 +278,20 @@
     {
         "pos": 46,
         "terrain": "M",
-        "features": "Glacial Summit",
-        "encounter": "The way forward is blocked by a wide and treacherous chasm in the highlands, but you notice a well-hidden alcove high on a cliffside that might lead around it."
+        "features": "Stony Spire",
+        "encounter": "A distant the rhythmic clinking of rocks as they tumble down slopes draws your attention. Following it, you discover a weathered and toppled mountain stone statue of a past event."
     },
     {
         "pos": 47,
         "terrain": "M",
-        "features": "Daunting Tor",
-        "encounter": "A sudden the rhythmic dripping of water in a hidden mountain cave breaks the silence, making the nearby tumbleweeds rolling across highland plains quiver."
+        "features": "Expansive Gorge",
+        "encounter": "The presence of a treacherous, rocky mountain ravine makes it difficult to proceed. Perhaps the a tribe of friendly mountain elves skilled in archery nearby can help."
     },
     {
         "pos": 48,
         "terrain": "M",
-        "features": "Grand Ar\u00eate",
-        "encounter": "The way forward is blocked by a relentless, biting mountain blizzard, but you notice a secret passage beneath a high-altitude riverbank that might lead around it."
+        "features": "Misty Crag",
+        "encounter": "You uncover a weathered and toppled mountain stone statue that tell a story of a time when a tribe of friendly mountain elves skilled in archery pursued retrieve a lost explorer's equipment from a high-altitude cliff.."
     },
     {
         "pos": 49,
@@ -308,7 +308,7 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious ['Sound']",
         "encounter": ""
     },
     {
@@ -332,14 +332,14 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Reef']",
         "encounter": ""
     },
     {
         "pos": 56,
         "terrain": "M",
-        "features": "Granite Butte",
-        "encounter": "The ground trembles slightly, and the soothing sound of a mountain stream rushing grow louder. It seems a tribe of centaurs skilled in herbalism are on the move."
+        "features": "Sky-high Col",
+        "encounter": "Deep in thought about escort a group of explorers to uncover ancient mountain ruins., you're startled by the crackling of leaves underfoot on forest trails. It seems a pack of snow leopards hunting in the rocky terrain are near."
     },
     {
         "pos": 57,
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Turbulent ['Narrows']",
+        "features": "Reflective ['Basin']",
         "encounter": ""
     },
     {
@@ -494,7 +494,7 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Serene ['Chasm']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -537,13 +537,13 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie cracking of icebergs in frigid waters resonates from a sunken shipwreck beneath a coral reef, and the scent of salty seaweed and kelp fills the air."
+        "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a broken ship's mast jutting out of the water that tell a story of a time when oceanic alchemists pursued retrieve a sunken treasure from a ghost ship guarded by vengeful spirits.."
     },
     {
         "pos": 91,
@@ -554,14 +554,14 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Basin']",
         "encounter": ""
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a powerful whirlpool pulling ships downward. As you contemplate a way around, you hear rustling of parchment as a map is unfurled from the shadows."
     },
     {
         "pos": 94,
@@ -584,13 +584,13 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden clattering of seashells in the tide breaks the silence, making the nearby sea grape kelp quiver."
+        "features": "Picturesque ['Haven']",
+        "encounter": ""
     },
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Basin']",
         "encounter": ""
     },
     {

@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a pirate flag bearing a fearsome symbol that could be useful in your quest to help a stranded sailor repair their ship and return home.. But it's guarded by kraken."
+        "encounter": ""
     },
     {
         "pos": 2,
@@ -21,19 +21,19 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a treacherous, narrow strait with strong currents blocking your path. Perhaps it's related to your quest to rescue a kidnapped noble from a group of pirates.."
     },
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Rift']",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a concealed cavern within a towering underwater cliff, you sense the presence of sea anemone sorcerers."
+        "encounter": ""
     },
     {
         "pos": 6,
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to retrieve a lost, enchanted trident from a sunken temple.. But be wary, for giant sea turtles lurk nearby."
     },
     {
         "pos": 8,
@@ -62,13 +62,13 @@
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Deep ['Undercurrent']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Mesmerizing ['Sandbank']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Delta']",
         "encounter": ""
     },
     {
@@ -122,7 +122,7 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Passage']",
         "encounter": ""
     },
     {
@@ -165,7 +165,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about deliver a shipment of rare spices to a distant island market., you're startled by churning of water as a whirlpool forms. It seems ghost ships are near."
     },
     {
         "pos": 28,
@@ -206,7 +206,7 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "Untamed ['Abyss']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -236,7 +236,7 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Current']",
         "encounter": ""
     },
     {
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Salty ['Shore']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Endless ['Channel']",
+        "features": "Sparkling ['Bay']",
         "encounter": ""
     },
     {
@@ -303,7 +303,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and churning of water as a whirlpool forms grow louder. It seems island hermit are on the move."
     },
     {
         "pos": 51,
@@ -314,14 +314,14 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "Mesmerizing ['Kelp Forest']",
-        "encounter": "A mysterious smell of seaweed roasting in the sun envelops you, drawing you towards a submerged ship graveyard where ghost ships rest where water elementals are performing a ritual to calm a storm."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 53,
         "terrain": "M",
-        "features": "Limestone Ravine",
-        "encounter": "Blocked by a dense, choking mountain fog shrouding the landscape, your attention is caught by the chirping of young birds in their mountain nests. Upon investigating, you discover a concealed chamber within a windswept mountain peak with a set of finely crafted ice-climbing tools inside."
+        "features": "Snowy Canyon",
+        "encounter": "A sudden the soft hush of falling snow in the high mountains breaks the silence, making the nearby golden wheat fields in the mountain valleys quiver."
     },
     {
         "pos": 54,
@@ -375,13 +375,13 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a treacherous, labyrinthine underwater cave system. As you approach, sea anemone sorcerers plotting revenge against a rival pirate captain."
     },
     {
         "pos": 63,
         "terrain": "M",
-        "features": "Unyielding Ar\u00eate",
-        "encounter": "Your path is illuminated by the glint of a collection of ancient manuscripts. However, a family of wild yaks foraging for food stand guard, their intentions unknown."
+        "features": "Dense Summit",
+        "encounter": "Hidden among clusters of mushrooms in damp mountain forests, you spot a carved wooden totem adorned with feathers glinting in the sunlight."
     },
     {
         "pos": 64,
@@ -404,8 +404,8 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Nautical ['Harbor']",
-        "encounter": "Navigating through a cursed island that draws ships in but won't let them leave, you're surprised to find a concealed treasure vault within an ancient shipwreck filled with the remnants of an ancient ship's cannon.As you journey forward, you come across a ghostly lantern that wards off spirits, with traces of fresh sea breeze around them."
+        "features": "",
+        "encounter": "Peering through the dense sea anemone gardens, you catch sight of a ship's bell with a haunting chime. But be cautious, crackling of a bonfire on the beach suggest pirates are near."
     },
     {
         "pos": 68,
@@ -416,8 +416,8 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Majestic ['Sound']",
-        "encounter": ""
+        "features": "",
+        "encounter": "The whisper of clattering of seashells in the tide is accompanied by the distinct aroma of smoky aroma of a beachside bonfire. It seems jellyfish navigators are involved in wreaking havoc on passing ships."
     },
     {
         "pos": 70,
@@ -428,7 +428,7 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous ['Sandbank']",
         "encounter": ""
     },
     {
@@ -440,8 +440,8 @@
     {
         "pos": 73,
         "terrain": "M",
-        "features": "Cloud-covered Massif",
-        "encounter": "Blocked by a deep, hidden pit trap in the rocky terrain, your attention is caught by the distant roll of thunder echoing through valleys. Upon investigating, you discover a concealed trapdoor in the floor of an ancient temple with a carved stone amulet with ancient symbols inside."
+        "features": "Unreachable Ravine",
+        "encounter": "Your way is impeded by a swarm of venomous mountain snakes. As you contemplate a way around, you hear the distant drumming of a woodpecker from the shadows."
     },
     {
         "pos": 74,
@@ -465,7 +465,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by rockweed leads to a clearing with a tattered, waterlogged map of uncharted waters, indicating sirens have been here."
+        "encounter": ""
     },
     {
         "pos": 78,
@@ -495,19 +495,19 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and echoing calls of whales in the distance grow louder. It seems shipwreck goblins are on the move."
     },
     {
         "pos": 83,
         "terrain": "M",
-        "features": "Daunting Butte",
-        "encounter": "Hidden among sparse patches of alpine desert scrub, you spot a bundle of rare and aromatic alpine herbs glinting in the sunlight."
+        "features": "Gleaming Sierra",
+        "encounter": "Navigating through a patch of quicksand hidden beneath the mountain surface, you're surprised to find a concealed entrance to a nomadic tribe's camp filled with a forgotten and weathered mountain scarecrow.As you journey forward, you come across a pair of intricately carved yak horns, with traces of the sweet fragrance of alpine wildflowers around them."
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a rare, ancient ship's figurehead. However, turtle island shamans stand guard, their intentions unknown."
     },
     {
         "pos": 85,
@@ -561,12 +561,12 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft creaking of a ship's rigging in the wind. As you follow, you encounter sea serpents in the midst of protecting a ship from ghostly apparitions."
+        "encounter": ""
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Drop-off']",
         "encounter": ""
     },
     {
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing ['Tide']",
         "encounter": ""
     },
     {

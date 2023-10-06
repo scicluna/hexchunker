@@ -9,12 +9,12 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a partially buried, broken spyglass that tell a story of a time when giant clams pursued rescue a group of trapped sailors from a sinking ship.."
+        "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Billow']",
         "encounter": ""
     },
     {
@@ -33,7 +33,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden echoing calls of whales in the distance breaks the silence, making the nearby gorgonian sea fans quiver."
     },
     {
         "pos": 6,
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of freshly baked bread from a seaside bakery. You feel a sense of contentment."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where sirens are engaged in building a coral fortress around a magical conch shell that can summon sea creatures, seemingly crucial for rescue a group of trapped sailors from a sinking ship.."
     },
     {
         "pos": 12,
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by brown algae forests leads to a clearing with the remnants of a ship's broken mast, indicating tidal wave elementals have been here."
+        "encounter": ""
     },
     {
         "pos": 16,
@@ -105,7 +105,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea dragons gives you a quest to retrieve a rare and magical seashell for a powerful sea witch.In your path lies a coral crown adorned with precious gems surrounded by floating bladderwort plants."
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Soothing ['Narrows']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant rustling of seaweed in the currents draws your attention. Following it, you discover a sunken chest with its lock rusted shut of a past event."
+        "encounter": ""
     },
     {
         "pos": 25,
@@ -158,14 +158,14 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal ['Shore']",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a haunted shipwreck with vengeful spirits. As you contemplate a way around, you hear buzzing of insects near a coastal marsh from the shadows."
+        "encounter": ""
     },
     {
         "pos": 28,
@@ -177,7 +177,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a powerful whirlpool pulling ships downward. As you contemplate a way around, you hear humming of a powerful sea enchantment from the shadows."
+        "encounter": "Ahead, there is a thick forest of kelp that entangles ships blocking your path. Perhaps it's related to your quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.."
     },
     {
         "pos": 30,
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among sea grape kelp, you spot a shipwrecked chest filled with gold coins glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 32,
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Nautical ['Expanse']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -303,13 +303,13 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across an abandoned lifeboat adrift on the waves of an old campsite, the scent of aromatic herbs from a coastal garden still lingering."
     },
     {
         "pos": 51,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden gust brings with it crisp, ocean-scented laundry on a line. You spot kraken that seem to be negotiating with a powerful sea witch."
+        "features": "Unspoiled ['Atoll']",
+        "encounter": ""
     },
     {
         "pos": 52,
@@ -345,13 +345,13 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel confusion as churning of water as a whirlpool forms echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
-        "encounter": "The air is filled with the smell of briny scent of low tide. You feel a sense of confidence."
+        "features": "Serene ['Wave']",
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -368,14 +368,14 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Wave']",
         "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by awe as you uncover a preserved mermaid tail hidden within underwater mangrove roots."
     },
     {
         "pos": 63,
@@ -387,7 +387,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Trails of a rusted anchor half-buried in the sand wind through the red calcareous algae, revealing the past actions of seafaring druids."
     },
     {
         "pos": 65,
@@ -410,19 +410,19 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
-        "encounter": "A distant churning of water as a whirlpool forms draws your attention. Following it, you discover the remnants of a shipwrecked sailor's journal of a past event."
+        "features": "Azure ['Cove']",
+        "encounter": "Ship-eating barnacles gives you a quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.In your path lies a giant clamshell turned into a luxurious bed surrounded by bubbling hot seawater vents."
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Spring']",
         "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Luminous ['Upwelling']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -434,25 +434,25 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Vortex']",
         "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a cursed lighthouse guiding ships to their doom. As you contemplate a way around, you hear clanging of bells on a buoy in choppy waters from the shadows."
     },
     {
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a rusted anchor half-buried in the sand that tell a story of a time when island hermit pursued investigate a series of shipwrecks caused by a vengeful ghost ship.."
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Dazzling ['Sandbank']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -465,13 +465,13 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a secret merfolk concert hall hidden in a cave, you sense the presence of ship-eating barnacles."
+        "encounter": "From the shadows of the a hidden coral archway leading to a treasure trove, you sense the presence of giant clams."
     },
     {
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Octopus oracles gives you a quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.In your path lies a kraken's tentacle as a gruesome trophy surrounded by coral reefs."
     },
     {
         "pos": 79,
@@ -489,19 +489,19 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant rustling of seaweed swaying in the current draws your attention. Following it, you discover a waterlogged chest with its lid ajar of a past event."
     },
     {
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie roaring of a powerful waterfall cascading into the sea resonates from a concealed treasure chest buried in the sand, and the scent of scent of salty tears in the wind fills the air."
+        "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With rescue a kidnapped noble from a group of pirates. On your mind, the sudden appearance of a swarm of aggressive, giant jellyfish accompanied by clanging of bells on a buoy in choppy waters becomes a challenging diversion."
     },
     {
         "pos": 84,
@@ -530,13 +530,13 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Windswept ['Lagoon']",
+        "features": "Alluring ['Pinnacle']",
         "encounter": ""
     },
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Infinite ['Isle']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -567,13 +567,13 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a shattered, half-buried bottle with a message inside wind through the gorgonian sea fans, revealing the past actions of sarcastic cephalopod."
+        "encounter": "You encounter tidal wave elementals which are harvesting pearls from giant clams."
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a preserved mermaid tail nestled among tube worms near hydrothermal vents, but the unsettling feeling of anger makes you wary."
     },
     {
         "pos": 96,
@@ -585,7 +585,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel excitement as hissing of foam as waves recede echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 98,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Soothing ['Trough']",
+        "features": "Glistening ['Rise']",
         "encounter": ""
     }
 ]

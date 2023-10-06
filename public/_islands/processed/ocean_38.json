@@ -15,7 +15,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a pirate's skeleton on a sunken ship suggests that giant sea turtles have passed through here on a quest to investigate reports of disappearing ships in a cursed sea.."
     },
     {
         "pos": 3,
@@ -27,12 +27,12 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a powerful, magical barrier blocking passage makes it difficult to proceed. Perhaps the ghost ships nearby can help."
+        "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Inlet']",
         "encounter": ""
     },
     {
@@ -50,7 +50,7 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Mesmerizing ['Undercurrent']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -75,7 +75,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among underwater mangrove roots, you spot a net filled with exotic and colorful fish glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by red calcareous algae leads to a clearing with a ship's figurehead washed ashore, indicating sirens have been here."
+        "encounter": ""
     },
     {
         "pos": 17,
@@ -111,7 +111,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden booming of waves in a hidden sea cave breaks the silence, making the nearby hornwort quiver."
     },
     {
         "pos": 19,
@@ -140,19 +140,19 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Bight']",
         "encounter": ""
     },
     {
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious freshly baked bread from a seaside bakery envelops you, drawing you towards an ancient, submerged temple with hidden chambers where kelpie are repairing their damaged ship."
+        "encounter": ""
     },
     {
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "Sapphire ['Trough']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -260,7 +260,7 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Daunting ['Estuary']",
+        "features": "Glistening ['Narrows']",
         "encounter": ""
     },
     {
@@ -279,7 +279,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and sighing of the wind through sea caves grow louder. It seems coral golems are on the move."
     },
     {
         "pos": 47,
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among giant underwater mushrooms, you spot a treasure chest full of cursed gold glinting in the sunlight."
     },
     {
         "pos": 50,
@@ -309,12 +309,12 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by fear as you uncover a magical mermaid's mirror that reveals secrets hidden within sponge colonies."
+        "encounter": ""
     },
     {
         "pos": 52,
         "terrain": "O",
-        "features": "Dense ['Basin']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Jetty']",
         "encounter": ""
     },
     {
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among sea lettuce, you spot a chest of exotic spices from distant lands glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -375,7 +375,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it smoky scent of grilled seafood. You spot giant sea turtles that seem to be creating elaborate maps of uncharted waters."
+        "encounter": ""
     },
     {
         "pos": 63,
@@ -398,13 +398,13 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Alluring ['Spring']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Picturesque ['Basin']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -441,12 +441,12 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a shipwrecked sailor's journal lie scattered, painting a tale of dolphin companions that forging alliances with other oceanic races."
+        "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Calm ['Haven']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -494,7 +494,7 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Reflective ['Current']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -506,19 +506,19 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Trench']",
         "encounter": ""
     },
     {
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is an eerie, ghostly ship blocking the path blocking your path. Perhaps it's related to your quest to escort a group of settlers to a remote, uncharted island.."
+        "encounter": ""
     },
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil ['Fathom']",
         "encounter": ""
     },
     {
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a submerged forest of gnarled, petrified trees. As you approach, jellyfish navigators building a coral fortress."
+        "encounter": ""
     },
     {
         "pos": 89,
@@ -560,8 +560,8 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Majestic ['Inlet']",
-        "encounter": ""
+        "features": "",
+        "encounter": "A trail of a damaged sextant with a cracked lens suggests that floating market traders have passed through here on a quest to uncover the secrets of a mysterious, ship-swallowing whirlpool.."
     },
     {
         "pos": 94,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Trails of the remnants of a merfolk's forgotten treasure wind through the green string lettuce, revealing the past actions of sirens."
     }
 ]

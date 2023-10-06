@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Crystal-clear ['Jetty']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -21,7 +21,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by love as you uncover a piece of driftwood with an ancient carving hidden within mangrove prop roots."
     },
     {
         "pos": 4,
@@ -32,14 +32,14 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Lonely ['Harbor']",
-        "encounter": "The crinoids on the seafloor rustles, revealing crystal reef dwellers that are searching for a lost artifact on the ocean floor."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and cracking of icebergs in frigid waters grow louder. It seems selkies are on the move."
+        "encounter": ""
     },
     {
         "pos": 7,
@@ -51,7 +51,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of pungent aroma of a hidden pirate's stash. You feel a sense of guilt."
+        "encounter": ""
     },
     {
         "pos": 9,
@@ -63,7 +63,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a mermaid's lost jewelry. It appears mermen were here recently."
+        "encounter": ""
     },
     {
         "pos": 11,
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "The crinoids on the seafloor rustles, revealing sea dragons that are performing a ritual to calm a storm."
+        "encounter": ""
     },
     {
         "pos": 17,
@@ -116,26 +116,26 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Timeless ['Passage']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Limitless ['Passage']",
-        "encounter": ""
+        "features": "",
+        "encounter": "From the shadows of the an underwater volcanic vent leading to a hidden world, you sense the presence of water elementals."
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a ship's wheel half-buried in the sand of an old campsite, the scent of mildewy scent of an old ship's cabin still lingering."
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -164,8 +164,8 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
-        "encounter": "You come across the remnants of a shipwrecked sailor's journal of an old campsite, the scent of fresh, salty scent of oysters on the shore still lingering."
+        "features": "Rippling ['Spring']",
+        "encounter": ""
     },
     {
         "pos": 28,
@@ -188,7 +188,7 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Rippling ['Seabed']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -243,7 +243,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of pungent smell of seaweed drying in the sun, suggesting the presence of sea witches."
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Spectacular ['Channel']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to retrieve a rare and magical seashell for a powerful sea witch.. But be wary, for underwater nomads lurk nearby."
     },
     {
         "pos": 49,
@@ -302,13 +302,13 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive ['Plateau']",
         "encounter": ""
     },
     {
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -339,7 +339,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice hornwort moving subtly. Upon closer inspection, you see sea serpents that are guarding a hidden cove filled with stolen treasure."
     },
     {
         "pos": 57,
@@ -380,26 +380,26 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Idyllic ['Basin']",
-        "encounter": "A distant rustling of palm fronds in a gentle breeze draws your attention. Following it, you discover a shattered, waterlogged compass of a past event."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a massive, ancient sea turtle that won't move, but you notice a secret pirate tunnel leading to a hidden cove that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel hope as gurgling of a freshwater stream meeting the ocean echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Sapphire ['Isle']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You notice giant kelp with air-filled bladders moving subtly. Upon closer inspection, you see jellyfish navigators that are navigating treacherous waters during a storm."
     },
     {
         "pos": 67,
@@ -411,25 +411,25 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense seaweed-covered rocks, you discover a sunken ship's anchor. You can't shake the feeling of frustration."
+        "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of rich, earthy scent of wet sand. You feel a sense of empathy."
     },
     {
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a torn and faded pirate's treasure map wind through the kelp forests, revealing the past actions of merfolk."
+        "encounter": ""
     },
     {
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear rattling of pebbles in the surf coming from a hidden mermaid enclave in the heart of a kelp forest."
     },
     {
         "pos": 72,
@@ -441,7 +441,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense brown algae forests, you discover a net filled with exotic and colorful fish. You can't shake the feeling of hope."
     },
     {
         "pos": 74,
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Fathom']",
         "encounter": ""
     },
     {
@@ -525,24 +525,24 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea anemone sorcerers gives you a quest to retrieve a rare coral sample for an eccentric scientist.In your path lies a sparkling pearl necklace surrounded by gorgonian sea fans."
+        "encounter": ""
     },
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Surging ['Whirlpool']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a colony of territorial sea lions blocking passage, your attention is caught by crackling of a bonfire on the beach. Upon investigating, you discover a secret mermaid library hidden in a deep trench with a seafarer's journal filled with tales of adventure inside."
+        "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Secluded ['Trough']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -572,14 +572,14 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Iridescent ['Sandbank']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Ethereal ['Expanse']",
+        "encounter": "You hear buzzing of insects near a coastal marsh coming from a forgotten pirate hideout in a remote cove."
     },
     {
         "pos": 97,

@@ -21,7 +21,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a submerged forest of gnarled, petrified trees makes it difficult to proceed. Perhaps the island hermit nearby can help."
     },
     {
         "pos": 4,
@@ -80,14 +80,14 @@
     {
         "pos": 13,
         "terrain": "H",
-        "features": "Green Heights",
-        "encounter": "The air is filled with the smell of the earthy scent of moss growing on rocks. You feel a sense of unity."
+        "features": "Green Descent",
+        "encounter": "Your way is impeded by a deep, hidden pit trap. As you contemplate a way around, you hear the rhythmic croaking of frogs near a pond from the shadows."
     },
     {
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear seagulls cawing in the distance coming from a concealed merfolk palace hidden behind a waterfall."
+        "encounter": ""
     },
     {
         "pos": 15,
@@ -98,8 +98,8 @@
     {
         "pos": 16,
         "terrain": "H",
-        "features": "Tiered Upland",
-        "encounter": "The clusters of pine cones on the ground rustles, revealing a clan of hill giants known for their stone-throwing abilities that are honoring their ancestors through ceremonial rituals."
+        "features": "Gentle Upland",
+        "encounter": "You feel happiness as the distant braying of donkeys on a farm echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 17,
@@ -140,8 +140,8 @@
     {
         "pos": 23,
         "terrain": "H",
-        "features": "Majestic Embankment",
-        "encounter": "You encounter a clan of wise and reclusive hermit wizards which are nurturing their young and teaching them survival skills."
+        "features": "Echoing Peak",
+        "encounter": "Your path is illuminated by the glint of a bundle of rare and enchanted trinkets. However, a clan of wise and reclusive hermit wizards stand guard, their intentions unknown."
     },
     {
         "pos": 24,
@@ -152,14 +152,14 @@
     {
         "pos": 25,
         "terrain": "H",
-        "features": "Silhouetted Peak",
-        "encounter": "Surrounded by a grove of birch trees, a series of a well-hidden alcove in a canyon wall reveal traces of a shattered and toppled watchtower, and the distant the soft splashing of water at a river's edge hint at more to discover."
+        "features": "Towering Dune",
+        "encounter": "Hidden among tall, swaying grasses, you spot a set of intricate musical instruments glinting in the sunlight."
     },
     {
         "pos": 26,
         "terrain": "H",
-        "features": "Tiered Terrace",
-        "encounter": "You encounter a nomadic band of skilled hunters and trappers which are conducting trade with traveling merchants and caravans."
+        "features": "Remote Rise",
+        "encounter": "Among the dense tumbleweeds rolling across the plains, you discover a carved wooden totem adorned with feathers. You can't shake the feeling of relaxation."
     },
     {
         "pos": 27,
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Teeming ['Flats']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -194,50 +194,50 @@
     {
         "pos": 32,
         "terrain": "H",
-        "features": "Humped Climb",
-        "encounter": "A path surrounded by clusters of yucca plants leads to a clearing with a partially buried and cracked sundial, indicating a wise and ancient treant guarding a sacred grove have been here."
+        "features": "Unspoiled Dell",
+        "encounter": "You find a hint leading you to retrieve a lost expedition's supplies from a remote canyon.. But be wary, for a band of itinerant herbalists and healers lurk nearby."
     },
     {
         "pos": 33,
         "terrain": "H",
-        "features": "Undulating Incline",
-        "encounter": "A mysterious the smoky aroma of a cooking pot over a campfire envelops you, drawing you towards a hidden tunnel leading to a secluded cavern where a group of crafty goblins hiding in rocky caves are hunting for rare and mystical herbs."
+        "features": "Vibrant Descent",
+        "encounter": "Deep in thought about retrieve a lost merchant's cargo from a treacherous mountain pass., you're startled by the distant chattering of squirrels in the trees. It seems a group of nomadic merchants trading rare goods are near."
     },
     {
         "pos": 34,
         "terrain": "P",
-        "features": "Barren Field",
-        "encounter": "The presence of a vast, open plain with no cover from the sun makes it difficult to proceed. Perhaps the a colony of giant ants with a complex social structure nearby can help."
+        "features": "Sprawling Vista",
+        "encounter": "You stumble upon a half-buried, rotting rowboat indicating past battles."
     },
     {
         "pos": 35,
         "terrain": "H",
-        "features": "Eroded Summit",
-        "encounter": "Your senses are overwhelmed by bliss as you uncover a bundle of rare and exotic spices hidden within clusters of wild berries."
+        "features": "Serene Slope",
+        "encounter": "Strange a crumbling and overgrown temple entrance lie scattered, painting a tale of a group of nomadic merchants trading rare goods that scouting for signs of approaching storms or threats."
     },
     {
         "pos": 36,
         "terrain": "H",
-        "features": "Echoing Crest",
-        "encounter": "Your senses are overwhelmed by anticipation as you uncover a piece of exquisite hand-blown glass hidden within a stand of tall, ancient redwoods."
+        "features": "Grassy Hillock",
+        "encounter": "The whisper of the gentle whistling of the wind through rocky terrain is accompanied by the distinct aroma of the fresh, green scent of a pine forest. It seems a group of elusive elves living in the deep forested hills are involved in hunting for elusive game in the rocky terrain."
     },
     {
         "pos": 37,
         "terrain": "P",
-        "features": "Rich Horizon",
-        "encounter": "A trail of a toppled and shattered stone monolith suggests that a friendly clan of halfling farmers have passed through here on a quest to track down a legendary white stag for its valuable antlers.."
+        "features": "Secluded Clearing",
+        "encounter": "You find a hint leading you to rescue a group of trapped miners in an abandoned quarry.. But be wary, for a mischievous tribe of pixies playing pranks lurk nearby."
     },
     {
         "pos": 38,
         "terrain": "P",
-        "features": "Natural Pasture",
-        "encounter": "Navigating through a dense, choking fog shrouding the landscape, you're surprised to find a hidden oasis within a vast desert plain filled with a faded and illegible gravestone.As you journey forward, you come across a finely crafted quiver filled with arrows, with traces of the sweet scent of a patch of clover around them."
+        "features": "Lonely Tundra",
+        "encounter": "The whisper of the lowing of cattle in a grazing pasture is accompanied by the distinct aroma of the tangy scent of sun-warmed rocks. It seems a band of itinerant traders and merchants are involved in honoring their ancestors through ceremonial rituals."
     },
     {
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a whirlpool leading to a mysterious underwater realm, your attention is caught by chattering of crabs on a rocky shore. Upon investigating, you discover a sunken, ghostly ship hidden in a fog bank with a coral crown adorned with precious gems inside."
+        "encounter": ""
     },
     {
         "pos": 40,
@@ -254,44 +254,44 @@
     {
         "pos": 42,
         "terrain": "H",
-        "features": "Imposing Dune",
-        "encounter": "The whisper of the gentle splashing of water in a hillside stream is accompanied by the distinct aroma of the spicy aroma of wild herbs drying in the sun. It seems a nomadic tribe of goat herders are involved in farming and cultivating crops in terraced fields."
+        "features": "Dappled Plateau",
+        "encounter": "You stumble upon a fallen and shattered totem pole indicating past battles."
     },
     {
         "pos": 43,
         "terrain": "H",
-        "features": "Whistling Highland",
-        "encounter": "You stumble upon a scene where a flock of colorful and exotic birds with vibrant plumage are engaged in harvesting rare minerals from the hills around a bundle of rare and magical scrolls, seemingly crucial for track down a legendary and elusive beast in the highlands.."
+        "features": "Breathtaking Bank",
+        "encounter": "You find a hint leading you to help a struggling farming family protect their crops from pests.. But be wary, for a clan of nomadic halflings traveling in hillside caravans lurk nearby."
     },
     {
         "pos": 44,
         "terrain": "F",
-        "features": "Damp Brook",
-        "encounter": "Surrounded by bushy sagebrush in the woods, a series of a secret passage beneath a forest riverbank reveal traces of a toppled and overgrown forest fountain, and the distant the distant hooting of a forest owl hint at more to discover."
+        "features": "Alive Dell",
+        "encounter": "From the shadows of the a secret passage leading to an ancient forest grove, you sense the presence of a colony of fire-breathing salamanders."
     },
     {
         "pos": 45,
         "terrain": "H",
-        "features": "Tiered Slope",
-        "encounter": "Deep in thought about retrieve a stolen tribe artifact from a rival nomadic group., you're startled by the distant howling of a wolf pack. It seems giant eagles nesting in high cliffs and peaks are near."
+        "features": "Rocky Upland",
+        "encounter": "Deep in thought about escort a group of pilgrims to a sacred site in the hills., you're startled by the rustling of small mammals in the underbrush. It seems a group of nomadic merchants trading rare goods are near."
     },
     {
         "pos": 46,
         "terrain": "H",
-        "features": "Cultivated Roll",
-        "encounter": "The ground is littered with a toppled and shattered stone monolith. It appears a family of wild boars foraging for food were here recently."
+        "features": "Elevated Mound",
+        "encounter": "Peering through the dense dandelions scattered in the breeze, you catch sight of a weathered and ancient map. But be cautious, the distant howling of a wolf pack suggest a group of friendly and nature-loving wood elves are near."
     },
     {
         "pos": 47,
         "terrain": "P",
-        "features": "Radiant Dale",
-        "encounter": "You stumble upon a toppled and shattered stone monolith indicating past battles."
+        "features": "Remote Tundra",
+        "encounter": "A trail of a forgotten, tattered flagpole suggests that a pack of clever and stealthy coyotes have passed through here on a quest to help a group of hunters take down a dangerous beast that threatens the plains.."
     },
     {
         "pos": 48,
         "terrain": "P",
-        "features": "Uninhabited Pampas",
-        "encounter": "A path surrounded by tall, slender blades of marsh grass leads to a clearing with a faded and illegible gravestone, indicating a clan of nomadic halfling herbalists have been here."
+        "features": "Unending Yard",
+        "encounter": "The ground is littered with a tattered and forgotten battle flag. It appears centaur warriors patrolling their territory were here recently."
     },
     {
         "pos": 49,
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Trough']",
         "encounter": ""
     },
     {
@@ -314,44 +314,44 @@
     {
         "pos": 52,
         "terrain": "T",
-        "features": "Golden Galleon Bay",
-        "encounter": "You hear the distant chatter of children playing in a town park coming from a hidden chamber beneath a town's mansion."
+        "features": "Beachside",
+        "encounter": "Peering through the dense moss-covered rocks in town streams, you catch sight of a town time capsule from centuries past. But be cautious, the distant church bells ringing in the town suggest a skilled blacksmith forging weapons are near."
     },
     {
         "pos": 53,
         "terrain": "H",
-        "features": "Hazy Terrace",
-        "encounter": "Surrounded by a grove of aspen trees, a series of a hidden tunnel leading to a secluded cavern reveal traces of a forgotten and tumbledown windmill, and the distant the gentle whistling of the wind through rocky terrain hint at more to discover."
+        "features": "Unspoiled Brae",
+        "encounter": "Peering through the dense a field of sunflowers, you catch sight of a hunting horn adorned with intricate designs. But be cautious, the rustling of grasses in the hillside breeze suggest a flock of colorful and exotic birds with vibrant plumage are near."
     },
     {
         "pos": 54,
         "terrain": "P",
-        "features": "Remote Downs",
-        "encounter": "A path surrounded by a field of cotton plants with fluffy bolls leads to a clearing with a half-buried, broken cart axle, indicating a pack of majestic wolves with alpha leaders have been here."
+        "features": "Silent Flats",
+        "encounter": "You stumble upon a scene where a pride of sabertooth tigers stalking their prey are engaged in galloping freely across the open plains around a beautifully woven and colorful rug, seemingly crucial for help a group of hunters take down a dangerous beast that threatens the plains.."
     },
     {
         "pos": 55,
         "terrain": "H",
-        "features": "Silhouetted Roll",
-        "encounter": "You spot a weathered and ancient map nestled among prairie grasses with seed heads, but the unsettling feeling of admiration makes you wary."
+        "features": "Isolated Incline",
+        "encounter": "A sudden gust brings with it the salty scent of a distant sea breeze. You spot giant eagles nesting in high cliffs and peaks that seem to be defending against natural disasters like landslides."
     },
     {
         "pos": 56,
         "terrain": "H",
-        "features": "Misty Dune",
-        "encounter": "A distant the humming of insects on a warm day draws your attention. Following it, you discover a forgotten and weathered scarecrow of a past event."
+        "features": "Lush Slope",
+        "encounter": "You stumble upon a scene where a colony of burrowing creatures with intricate tunnel systems are engaged in creating intricate crafts and tools around a collection of mysterious fossils, seemingly crucial for defend a sacred circle of stones from being desecrated by treasure hunters.."
     },
     {
         "pos": 57,
         "terrain": "P",
-        "features": "Rugged Thicket",
-        "encounter": "Every step forward is met with the increasing intensity of the spicy aroma of wild herbs drying in the sun, suggesting the presence of a wise old owl with the gift of prophecy."
+        "features": "Pleasant Moor",
+        "encounter": "You encounter a herd of massive, shaggy bison which are engaging in friendly competition and games."
     },
     {
         "pos": 58,
         "terrain": "P",
-        "features": "Rolling Clearing",
-        "encounter": "You're guided by the soft the soft hush of falling snow. As you follow, you encounter a pack of majestic wolves with alpha leaders in the midst of seeking guidance from wise and ancient elders."
+        "features": "Sunlit Grassland",
+        "encounter": "You feel satisfaction as the distant mooing of cattle echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 59,
@@ -368,56 +368,56 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Boundless ['Billow']",
+        "features": "Sweeping ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "H",
-        "features": "Steep Embankment",
-        "encounter": "Deep in thought about hunt down a notorious bandit gang that has been hiding in the hills., you're startled by the gentle splashing of water in a hillside stream. It seems a herd of agile and horned antelopes are near."
+        "features": "Rolling Elevation",
+        "encounter": "A group of elusive elves living in the deep forested hills emerge from the a hidden path through dense thickets and shrubs, their intent focused on a well-preserved ancient weapon."
     },
     {
         "pos": 63,
         "terrain": "H",
-        "features": "Eroded Ridge",
-        "encounter": "Your journey leads you to a a treacherous, sinking bog. As you approach, a family of owlbears making their home in the hills organizing athletic competitions and races."
+        "features": "Solitary Dune",
+        "encounter": "The presence of a colony of territorial, burrowing rodents makes it difficult to proceed. Perhaps the giant eagles nesting in high cliffs and peaks nearby can help."
     },
     {
         "pos": 64,
         "terrain": "P",
-        "features": "Endless Flats",
-        "encounter": "Among the dense a stand of tall pine trees, you discover a set of hand-carved wooden figurines. You can't shake the feeling of simplicity."
+        "features": "Parched Heath",
+        "encounter": "With escort a diplomatic envoy through hostile territory to negotiate peace. On your mind, the sudden appearance of a deep and fast-flowing river accompanied by the distant yipping of coyotes under a full moon becomes a challenging diversion."
     },
     {
         "pos": 65,
         "terrain": "H",
-        "features": "Flourishing Brae",
-        "encounter": "You find a hint leading you to retrieve a stolen artifact hidden in a hillside tomb.. But be wary, for a pack of wily coyotes scavenging for food lurk nearby."
+        "features": "Lush Slope",
+        "encounter": "With retrieve a rare and valuable plant for an ailing herbalist. On your mind, the sudden appearance of a band of marauding bandits accompanied by the crackling of leaves underfoot in the forest becomes a challenging diversion."
     },
     {
         "pos": 66,
         "terrain": "H",
-        "features": "Tiered Incline",
-        "encounter": "You're guided by the soft the soft murmur of a hidden stream. As you follow, you encounter a family of giant hawks nesting in the cliffs in the midst of tending to their herds of goats and sheep."
+        "features": "Barren Highland",
+        "encounter": "Your path is illuminated by the glint of a piece of rare and valuable meteorite. However, a tribe of reclusive druids living in hillside huts stand guard, their intentions unknown."
     },
     {
         "pos": 67,
         "terrain": "P",
-        "features": "Verdant Breadth",
-        "encounter": "Every step forward is met with the increasing intensity of the pungent smell of a skunk in the distance, suggesting the presence of a mischievous leprechaun guarding its hidden treasure."
+        "features": "Green Wold",
+        "encounter": "The presence of a treacherous, slippery mudflat makes it difficult to proceed. Perhaps the a flock of colorful, exotic birds with mesmerizing plumage nearby can help."
     },
     {
         "pos": 68,
         "terrain": "F",
-        "features": "Enveloping Underbrush",
-        "encounter": "You stumble upon a set of decaying forest fence posts indicating past battles."
+        "features": "Majestic Path",
+        "encounter": "You stumble upon a scene where a wise and ancient owl perched in a tree are engaged in farming and cultivating forest crops around a well-preserved ancient forest artifact, seemingly crucial for retrieve a stolen tribal relic hidden in the woods.."
     },
     {
         "pos": 69,
         "terrain": "H",
-        "features": "Undulating Highland",
-        "encounter": "You hear the distant drumming of a woodpecker coming from a concealed opening in a thicket of thorns."
+        "features": "Unspoiled Incline",
+        "encounter": "From the shadows of the a concealed chamber within a windswept hill, you sense the presence of a clan of wise and reclusive hermit wizards."
     },
     {
         "pos": 70,
@@ -434,44 +434,44 @@
     {
         "pos": 72,
         "terrain": "H",
-        "features": "Rolling Dell",
-        "encounter": "Your journey leads you to a a colony of venomous spiders weaving webs. As you approach, a band of traveling bards and minstrels crafting intricate jewelry and ornaments."
+        "features": "Ancient Heights",
+        "encounter": "The ground trembles slightly, and the soft cooing of doves in the distance grow louder. It seems a family of griffins soaring over the hills are on the move."
     },
     {
         "pos": 73,
         "terrain": "H",
-        "features": "Mossy Pinnacle",
-        "encounter": "A distant the chirping of crickets on a warm summer night draws your attention. Following it, you discover a broken and moss-covered wagon wheel of a past event."
+        "features": "Whistling Brae",
+        "encounter": "Strange a decayed and overgrown dock on dry land lie scattered, painting a tale of a tribe of gnomish inventors with curious contraptions that scouting for signs of approaching storms or threats."
     },
     {
         "pos": 74,
         "terrain": "P",
-        "features": "Rippling Downs",
-        "encounter": "You hear the distant braying of donkeys coming from a hidden meadow surrounded by rocky terrain."
+        "features": "Flat Bluff",
+        "encounter": "Your senses are overwhelmed by reverence as you uncover a finely crafted quiver filled with arrows hidden within clusters of pine cones on the ground."
     },
     {
         "pos": 75,
         "terrain": "H",
-        "features": "Rugged Highland",
-        "encounter": "The presence of a treacherous, rushing waterfall makes it difficult to proceed. Perhaps the a wise and ancient treant guarding a sacred grove nearby can help."
+        "features": "Flourishing Slope",
+        "encounter": "The air is filled with the smell of the rich scent of fertile, damp soil. You feel a sense of wonder."
     },
     {
         "pos": 76,
         "terrain": "H",
-        "features": "Leafy Terrace",
-        "encounter": "You come across a shattered and ancient mosaic floor of an old campsite, the scent of the crisp scent of frost on a winter morning still lingering."
+        "features": "Vibrant Pinnacle",
+        "encounter": "The presence of a vast, scorching desert with no water in sight makes it difficult to proceed. Perhaps the a colony of territorial badgers digging elaborate burrows nearby can help."
     },
     {
         "pos": 77,
         "terrain": "P",
-        "features": "Boundless Land",
-        "encounter": "The air is filled with the smell of the smoky aroma of a cooking pot over a campfire. You feel a sense of fascination."
+        "features": "Arid Tundra",
+        "encounter": "A sudden the howling of a lone wolf on a moonlit night breaks the silence, making the nearby clusters of mushrooms on the forest floor quiver."
     },
     {
         "pos": 78,
         "terrain": "P",
-        "features": "Undulating Dale",
-        "encounter": "From the shadows of the a concealed passage beneath a riverbank, you sense the presence of a herd of gentle, woolly sheep tended by shepherds."
+        "features": "Fertile Expanse",
+        "encounter": "You see a collection of finely crafted pottery that could be useful in your quest to track down a rogue druid who has disrupted the balance of nature.. But it's guarded by a group of wise and reclusive hermit wizards."
     },
     {
         "pos": 79,
@@ -483,13 +483,13 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by serenity as you uncover a pirate flag bearing a fearsome symbol hidden within floating bladderwort plants."
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by floating mats of sargassum seaweed leads to a clearing with a sunken cannon half-buried in the coral, indicating sirens have been here."
+        "encounter": ""
     },
     {
         "pos": 82,
@@ -500,26 +500,26 @@
     {
         "pos": 83,
         "terrain": "H",
-        "features": "Cultivated Plateau",
-        "encounter": "Your senses are overwhelmed by happiness as you uncover a weathered and ancient map hidden within a stand of fragrant eucalyptus trees."
+        "features": "Alluring Decline",
+        "encounter": "A flock of colorful and exotic birds with vibrant plumage emerge from the a concealed chamber within a rocky outcrop, their intent focused on a weathered and ancient map."
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a skeleton clutching a rusted cutlass on the seabed suggests that giant sea turtles have passed through here on a quest to track down a legendary sea monster for a wealthy collector.."
     },
     {
         "pos": 85,
         "terrain": "H",
-        "features": "Barren Elevation",
-        "encounter": "Navigating through a band of nomadic warriors guarding their territory, you're surprised to find a concealed entrance to a nomadic tribe's camp filled with a crumbling and abandoned bridge.As you journey forward, you come across a piece of ancient pottery with intricate patterns, with traces of the sweet, fruity scent of wild berries around them."
+        "features": "Sunlit Ridge",
+        "encounter": "A distant the distant drumming of a woodpecker draws your attention. Following it, you discover a tattered and forgotten battle banner of a past event."
     },
     {
         "pos": 86,
         "terrain": "H",
-        "features": "Tiered Summit",
-        "encounter": "You notice tall and slender stalks of bamboo moving subtly. Upon closer inspection, you see a colony of rock-dwelling bats that are searching for lost relics and ancient artifacts."
+        "features": "Leafy Upland",
+        "encounter": "You stumble upon a scene where a herd of surefooted mountain goats are engaged in hunting for elusive game in the rocky terrain around a set of delicate and ornate rings, seemingly crucial for help a tribe of forest creatures negotiate a truce with a rival clan.."
     },
     {
         "pos": 87,
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a concealed chamber within a massive sponge, you sense the presence of kraken."
     },
     {
         "pos": 89,
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Majestic ['Pinnacle']",
+        "features": "",
         "encounter": ""
     },
     {

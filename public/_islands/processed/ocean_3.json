@@ -45,12 +45,12 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Water elementals gives you a quest to explore an underwater cave system to find a valuable artifact.In your path lies a sea serpent scale surrounded by sea grape kelp."
+        "encounter": ""
     },
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Marina']",
         "encounter": ""
     },
     {
@@ -63,7 +63,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden humming of a powerful sea enchantment breaks the silence, making the nearby red calcareous algae quiver."
+        "encounter": ""
     },
     {
         "pos": 11,
@@ -74,19 +74,19 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Uncharted ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Azure ['Rise']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable ['Estuary']",
         "encounter": ""
     },
     {
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Ocean']",
         "encounter": ""
     },
     {
@@ -141,19 +141,19 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a massive, drifting iceberg with hidden dangers, you're surprised to find a hidden coral archway leading to a treasure trove filled with the remnants of an ancient ship's cargo hold.As you journey forward, you come across a ship's cannon with ornate engravings, with traces of aromatic blooms of coastal flowers around them."
     },
     {
         "pos": 24,
         "terrain": "O",
-        "features": "Infinite ['Jetty']",
-        "encounter": "Blocked by a powerful whirlpool pulling ships downward, your attention is caught by roaring of a powerful waterfall cascading into the sea. Upon investigating, you discover a sunken temple accessible only by solving a riddle with a seashell amulet that grants water-breathing inside."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden hollow echoes in an underwater cavern breaks the silence, making the nearby mermaid's hair algae quiver."
     },
     {
         "pos": 26,
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Seamount']",
         "encounter": ""
     },
     {
@@ -231,7 +231,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the an overgrown shipwreck hidden beneath a dense kelp bed, you sense the presence of sea serpents."
+        "encounter": ""
     },
     {
         "pos": 39,
@@ -242,7 +242,7 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Lagoon']",
         "encounter": ""
     },
     {
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a treacherous, labyrinthine underwater cave system. As you approach, octopus oracles plotting revenge against a rival pirate captain."
     },
     {
         "pos": 45,
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Uncharted ['Plateau']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by an eerie, ghostly ship blocking the path. As you contemplate a way around, you hear rustling of seaweed swaying in the current from the shadows."
+        "encounter": ""
     },
     {
         "pos": 49,
@@ -320,13 +320,13 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Dazzling ['Undercurrent']",
+        "encounter": "Ahead, there is a massive, drifting iceberg with hidden dangers blocking your path. Perhaps it's related to your quest to help a stranded sailor repair their ship and return home.."
     },
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Undercurrent']",
         "encounter": ""
     },
     {
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Bight']",
         "encounter": ""
     },
     {
@@ -350,20 +350,20 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Delta']",
         "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a dense, toxic algae bloom poisoning the water makes it difficult to proceed. Perhaps the jellyfish navigators nearby can help."
     },
     {
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a ship's chart with uncharted territories marked. However, floating market traders stand guard, their intentions unknown."
     },
     {
         "pos": 61,
@@ -374,8 +374,8 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Grand ['Swirl']",
-        "encounter": "A trail of a ship's figurehead washed ashore suggests that sea anemone sorcerers have passed through here on a quest to retrieve a rare coral sample for an eccentric scientist.."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 63,
@@ -393,7 +393,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Jellyfish navigators emerge from the a labyrinthine coral labyrinth with hidden treasures, their intent focused on a kraken's tentacle as a gruesome trophy."
     },
     {
         "pos": 66,
@@ -404,14 +404,14 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": "A mysterious saltwater in the air envelops you, drawing you towards a network of tunnels in the heart of a coral maze where octopus oracles are setting up an underwater market."
+        "features": "Rippling ['Trench']",
+        "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a school of aggressive and territorial sharks, but you notice an ancient, submerged temple with hidden chambers that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 69,
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a pirate's cutlass with an ornate hilt. However, seafaring druids stand guard, their intentions unknown."
     },
     {
         "pos": 77,
@@ -471,13 +471,13 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a ship's lantern on the seafloor indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter sea serpents which are summoning a tidal wave to defend their territory."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of warm, sun-kissed aroma of a sandy beach, suggesting the presence of sirens."
     },
     {
         "pos": 84,
@@ -513,7 +513,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a rusted ship's bell on the ocean floor wind through the red calcareous algae, revealing the past actions of sea anemone sorcerers."
+        "encounter": ""
     },
     {
         "pos": 86,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a submerged forest of gnarled, petrified trees. As you approach, selkies diving deep to consult with a sea oracle."
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -555,7 +555,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense seagrass meadows, you catch sight of a bejeweled trident. But be cautious, gurgling of a freshwater stream meeting the ocean suggest sea anemone sorcerers are near."
+        "encounter": ""
     },
     {
         "pos": 93,
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted ['Fathom']",
         "encounter": ""
     },
     {

@@ -2,8 +2,8 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "",
-        "encounter": "You uncover a damaged sextant with a cracked lens that tell a story of a time when sunken treasure guardians pursued investigate the disappearance of a famous sea captain and their crew.."
+        "features": "Uncharted ['Kelp Forest']",
+        "encounter": ""
     },
     {
         "pos": 1,
@@ -27,7 +27,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear clanging of bells on a buoy in choppy waters coming from a camouflaged underwater camouflage net used by merfolk."
+        "encounter": ""
     },
     {
         "pos": 5,
@@ -51,7 +51,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden crackling of underwater lava flows breaks the silence, making the nearby seagrass meadows quiver."
+        "encounter": ""
     },
     {
         "pos": 9,
@@ -68,19 +68,19 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Abyss']",
         "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by seagrass meadows leads to a clearing with the remnants of a sunken pirate ship's flagpole, indicating octopus oracles have been here."
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling ['Delta']",
         "encounter": ""
     },
     {
@@ -92,7 +92,7 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Luminous ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -111,12 +111,12 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of a fishing net tangled in the coral of an old campsite, the scent of freshly caught fish on a fishing boat still lingering."
     },
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Sweeping ['Inlet']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Tide']",
         "encounter": ""
     },
     {
@@ -146,7 +146,7 @@
     {
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Fathom']",
         "encounter": ""
     },
     {
@@ -158,14 +158,14 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Ocean']",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Reflective ['Jetty']",
-        "encounter": "You see a ship's cannon with ornate engravings that could be useful in your quest to escort a group of settlers to a remote, uncharted island.. But it's guarded by underwater nomads."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 28,
@@ -183,13 +183,13 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a secret pirate's den inside a massive, hollowed-out rock, you sense the presence of sea witches."
+        "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a ghostly lantern that wards off spirits. However, tidal wave elementals stand guard, their intentions unknown."
+        "encounter": "Navigating through a swarm of aggressive, giant jellyfish, you're surprised to find a labyrinthine coral labyrinth with hidden treasures filled with the remnants of a ship's wheel half-buried in the sand.As you journey forward, you come across a ship's chart with uncharted territories marked, with traces of smoky scent of grilled seafood around them."
     },
     {
         "pos": 32,
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of excitement as you tread upon the remnants of a ship's lantern on the seafloor, hinting at a tale of sarcastic cephalopod."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -218,19 +218,19 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Nautical ['Swirl']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a sudden, violent storm with massive waves blocking your path. Perhaps it's related to your quest to help a stranded sailor repair their ship and return home.."
     },
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Expanse']",
         "encounter": ""
     },
     {
@@ -243,13 +243,13 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a cursed island that draws ships in but won't let them leave. As you approach, sea serpents repairing their damaged ship."
     },
     {
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft humming of a powerful sea enchantment. As you follow, you encounter sea dragons in the midst of convincing a shipwrecked sailor to join their crew."
     },
     {
         "pos": 42,
@@ -260,8 +260,8 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
-        "encounter": "You hear clanging of bells on a buoy in choppy waters coming from a sunken garden of rare and magical sea plants."
+        "features": "Mysterious ['Expanse']",
+        "encounter": ""
     },
     {
         "pos": 44,
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Iridescent ['Gulf']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where shipwreck goblins are engaged in building a coral fortress around a weathered treasure map, seemingly crucial for navigate treacherous waters to reach a hidden pirate haven.."
+        "encounter": ""
     },
     {
         "pos": 49,
@@ -303,13 +303,13 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a sudden, violent storm with massive waves, your attention is caught by rustling of parchment as a map is unfurled. Upon investigating, you discover a treasure cache buried in the sand on a deserted island with a ship's sextant for celestial navigation inside."
     },
     {
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of mildewy scent of an old ship's cabin. You feel a sense of awe."
     },
     {
         "pos": 52,
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across barnacle-covered remnants of a wooden chest of an old campsite, the scent of musk of a sea lion colony still lingering."
+        "encounter": ""
     },
     {
         "pos": 55,
@@ -339,7 +339,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of scent of salty tears in the wind, suggesting the presence of lighthouse guardians."
     },
     {
         "pos": 57,
@@ -356,7 +356,7 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Tumultuous ['Sandbank']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -392,7 +392,7 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent ['Wave']",
         "encounter": ""
     },
     {
@@ -429,7 +429,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter pirates which are diving deep to consult with a sea oracle."
+        "encounter": ""
     },
     {
         "pos": 72,
@@ -446,13 +446,13 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Serene ['Surf']",
+        "features": "Silent ['Rift']",
         "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit ['Expanse']",
         "encounter": ""
     },
     {
@@ -483,7 +483,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a submerged forest of gnarled, petrified trees. As you approach, coral golems plotting revenge against a rival pirate captain."
     },
     {
         "pos": 81,
@@ -495,12 +495,12 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a torn and faded pirate's treasure map indicating past battles."
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Tumultuous ['Bay']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -524,7 +524,7 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Inviting ['Bay']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Deep ['Vortex']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Billow']",
         "encounter": ""
     },
     {
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Bubbling ['Fathom']",
+        "features": "Majestic ['Abyss']",
         "encounter": ""
     },
     {
@@ -591,7 +591,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter seafaring druids which are searching for a lost artifact on the ocean floor."
+        "encounter": ""
     },
     {
         "pos": 99,

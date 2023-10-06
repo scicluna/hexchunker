@@ -2,13 +2,13 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Peaceful ['Haven']",
+        "features": "Harmonious ['Deep']",
         "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Kelp Forest']",
         "encounter": ""
     },
     {
@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Salty ['Jetty']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -51,7 +51,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a secret pirate's den inside a massive, hollowed-out rock, you sense the presence of cursed mermaids."
+        "encounter": ""
     },
     {
         "pos": 9,
@@ -75,7 +75,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a cursed lighthouse guiding ships to their doom makes it difficult to proceed. Perhaps the sea witches nearby can help."
     },
     {
         "pos": 13,
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -159,7 +159,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by treacherous rocks just below the surface, your attention is caught by rustling of palm fronds in a gentle breeze. Upon investigating, you discover a hidden coral archway leading to a treasure trove with a ship's chart with uncharted territories marked inside."
     },
     {
         "pos": 27,
@@ -171,7 +171,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Pirates gives you a quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.In your path lies a rare, ancient ship's figurehead surrounded by gorgonian sea fans."
     },
     {
         "pos": 29,
@@ -195,7 +195,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a giant, tentacled kraken blocking the way. As you contemplate a way around, you hear hissing of foam as waves recede from the shadows."
+        "encounter": ""
     },
     {
         "pos": 33,
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Reef']",
         "encounter": ""
     },
     {
@@ -230,7 +230,7 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "Uncharted ['Main']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -273,12 +273,12 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie creaking of a ship's rigging in the wind resonates from a hidden pirate's tunnel behind a cascading waterfall, and the scent of pungent aroma of a hidden pirate's stash fills the air."
+        "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Tumultuous ['Main']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Ridge']",
         "encounter": ""
     },
     {
@@ -339,7 +339,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a pirate flag bearing a fearsome symbol nestled among thick beds of eelgrass, but the unsettling feeling of admiration makes you wary."
     },
     {
         "pos": 57,
@@ -351,12 +351,12 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a floating, abandoned shipwreck, but you notice a secret mermaid library hidden in a deep trench that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing ['Surf']",
         "encounter": ""
     },
     {
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Sapphire ['Seamount']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -386,26 +386,26 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Roaring ['Isle']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Sapphire ['Flats']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a broken ship's mast jutting out of the water indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a tattered, waterlogged map of uncharted waters that tell a story of a time when sea anemone sorcerers pursued rescue a group of trapped sailors from a sinking ship.."
     },
     {
         "pos": 68,
@@ -416,19 +416,19 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Billow']",
         "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious scent of damp driftwood envelops you, drawing you towards a secret underwater grotto accessible only at low tide where lighthouse guardians are rescuing shipwreck survivors."
+        "encounter": ""
     },
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Fjord']",
         "encounter": ""
     },
     {
@@ -440,14 +440,14 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by floating seaweed rafts leads to a clearing with the remnants of a shipwrecked sailor's journal, indicating sea anemone sorcerers have been here."
+        "encounter": ""
     },
     {
         "pos": 75,
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Immeasurable ['Haven']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -506,13 +506,13 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Spring']",
         "encounter": ""
     },
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Azure ['Lagoon']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -524,7 +524,7 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit ['Vortex']",
         "encounter": ""
     },
     {
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Radiant ['Chasm']",
+        "features": "Alluring ['Undercurrent']",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by gorgonian sea fans, a series of an ancient, submerged temple with hidden chambers reveal traces of the remnants of a sunken sea monster's scale, and the distant chirping of crickets on a moonlit beach hint at more to discover."
     }
 ]

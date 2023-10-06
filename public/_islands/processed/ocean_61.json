@@ -39,7 +39,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a waterlogged chest with its lid ajar lie scattered, painting a tale of turtle island shamans that repairing their damaged ship."
+        "encounter": ""
     },
     {
         "pos": 7,
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a haunted shipwreck with vengeful spirits, but you notice a secret pirate tunnel leading to a hidden cove that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 12,
@@ -80,7 +80,7 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Upwelling']",
         "encounter": ""
     },
     {
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Daunting ['Inlet']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -111,7 +111,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of scent of salty tears in the wind. You feel a sense of indignation."
     },
     {
         "pos": 19,
@@ -135,7 +135,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel amusement as creaking of a ship's rigging in the wind echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": "An eerie gurgling of a freshwater stream meeting the ocean resonates from a concealed merfolk palace hidden behind a waterfall, and the scent of sun-warmed sand fills the air."
     },
     {
         "pos": 23,
@@ -200,13 +200,13 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Abyss']",
         "encounter": ""
     },
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Expanse']",
         "encounter": ""
     },
     {
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Infinite ['Ridge']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -236,7 +236,7 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Atoll']",
         "encounter": ""
     },
     {
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Endless ['Flats']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -267,12 +267,12 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about rescue a stranded mermaid from a treacherous reef., you're startled by splashing of dolphins playing nearby. It seems sea dragons are near."
+        "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Estuary']",
         "encounter": ""
     },
     {
@@ -320,13 +320,13 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Radiant ['Deep']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Jetty']",
         "encounter": ""
     },
     {
@@ -362,7 +362,7 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling ['Ocean']",
         "encounter": ""
     },
     {
@@ -380,7 +380,7 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -405,13 +405,13 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant whispering of the sea breeze through palm trees draws your attention. Following it, you discover a rusted, half-buried cutlass of a past event."
+        "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a giant clamshell turned into a luxurious bed nestled among rockweed, but the unsettling feeling of curiosity makes you wary."
+        "encounter": ""
     },
     {
         "pos": 69,
@@ -453,7 +453,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel excitement as buzzing of underwater machinery in a sunken city echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 76,
@@ -465,7 +465,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and booming of waves in a hidden sea cave grow louder. It seems dolphin companions are on the move."
     },
     {
         "pos": 78,
@@ -488,8 +488,8 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Idyllic ['Fathom']",
-        "encounter": ""
+        "features": "",
+        "encounter": "An eerie splashing of dolphins playing nearby resonates from an underwater volcanic vent leading to a hidden world, and the scent of scent of salty tears in the wind fills the air."
     },
     {
         "pos": 82,
@@ -500,13 +500,13 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Choppy ['Inlet']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
-        "features": "Tidal ['Marina']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -519,13 +519,13 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a torn and faded pirate's treasure map suggests that cursed ship captains have passed through here on a quest to navigate treacherous waters to find a legendary fishing spot.."
+        "encounter": ""
     },
     {
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious rancid smell of decaying plankton envelops you, drawing you towards a submerged ship graveyard where ghost ships rest where ghost ships are diving deep to consult with a sea oracle."
     },
     {
         "pos": 88,
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a thick forest of kelp that entangles ships, but you notice a sunken garden of rare and magical sea plants that might lead around it."
     },
     {
         "pos": 90,
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a treasure chest full of cursed gold nestled among red algae beds, but the unsettling feeling of indignation makes you wary."
     },
     {
         "pos": 95,
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Seabed']",
         "encounter": ""
     },
     {
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Billow']",
         "encounter": ""
     }
 ]

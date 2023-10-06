@@ -20,8 +20,8 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Dense ['Undercurrent']",
-        "encounter": ""
+        "features": "",
+        "encounter": "A distant rustling of seaweed in the currents draws your attention. Following it, you discover the remnants of an ancient ship's cannon of a past event."
     },
     {
         "pos": 4,
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Timeless ['Jetty']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -50,8 +50,8 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Radiant ['Jetty']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Hidden among giant clam gardens, you spot a magical conch shell that can summon sea creatures glinting in the sunlight."
     },
     {
         "pos": 9,
@@ -75,13 +75,13 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it smoky scent of grilled seafood. You spot kraken that seem to be navigating treacherous waters during a storm."
+        "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of clean, crisp scent of the open sea. You feel a sense of joy."
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -98,13 +98,13 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Glistening ['Main']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Reef']",
         "encounter": ""
     },
     {
@@ -122,20 +122,20 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Vast ['Current']",
-        "encounter": "The presence of a dense, toxic algae bloom poisoning the water makes it difficult to proceed. Perhaps the octopus oracles nearby can help."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling ['Vortex']",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious sun-warmed sand envelops you, drawing you towards a camouflaged underwater camouflage net used by merfolk where octopus oracles are singing haunting songs to lure sailors."
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Alluring ['Reef']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -177,13 +177,13 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea serpents emerge from the a labyrinthine coral labyrinth with hidden treasures, their intent focused on a preserved mermaid tail."
+        "encounter": ""
     },
     {
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of roaring of a powerful waterfall cascading into the sea is accompanied by the distinct aroma of aromatic herbs from a coastal garden. It seems floating market traders are involved in battling a giant sea serpent."
     },
     {
         "pos": 31,
@@ -206,7 +206,7 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil ['Rise']",
         "encounter": ""
     },
     {
@@ -218,31 +218,31 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Vortex']",
         "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Sunlit ['Fathom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon a scene where underwater nomads are engaged in collecting rare and magical seashells around a weathered treasure map, seemingly crucial for retrieve a rare coral sample for an eccentric scientist.."
+        "features": "Moonlit ['Shore']",
+        "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Wave']",
         "encounter": ""
     },
     {
         "pos": 40,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking ['Swirl']",
         "encounter": ""
     },
     {
@@ -267,12 +267,12 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden cracking of icebergs in frigid waters breaks the silence, making the nearby seagrass meadows quiver."
     },
     {
         "pos": 45,
         "terrain": "O",
-        "features": "Raging ['Main']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -290,7 +290,7 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Depression']",
         "encounter": ""
     },
     {
@@ -308,7 +308,7 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "Azure ['Billow']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Dense ['Expanse']",
+        "features": "Mysterious ['Strait']",
         "encounter": ""
     },
     {
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gurgling of a freshwater stream meeting the ocean breaks the silence, making the nearby bubblegum coral quiver."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -350,7 +350,7 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -410,7 +410,7 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive ['Drop-off']",
         "encounter": ""
     },
     {
@@ -440,7 +440,7 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Kelp Forest']",
         "encounter": ""
     },
     {
@@ -453,7 +453,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about slay a marauding sea monster terrorizing coastal villages., you're startled by cracking of icebergs in frigid waters. It seems crystal reef dwellers are near."
+        "encounter": ""
     },
     {
         "pos": 76,
@@ -476,14 +476,14 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Depression']",
         "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a giant clam snapping shut on unsuspecting ships. As you approach, sarcastic cephalopod summoning a tidal wave to defend their territory."
     },
     {
         "pos": 81,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a ghostly lantern that wards off spirits that could be useful in your quest to defend a coastal village from a relentless pirate invasion.. But it's guarded by storm giants."
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -519,12 +519,12 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel forgiveness as pounding of heavy rain during a monsoon echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Ocean']",
         "encounter": ""
     },
     {
@@ -573,7 +573,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious mildewed scent of an old shipwreck envelops you, drawing you towards a submerged pirate's lair hidden by a waterfall where water elementals are hunting for treasure on a deserted island."
     },
     {
         "pos": 96,
@@ -584,7 +584,7 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Ridge']",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant rhythmic crashing of waves on rocky cliffs draws your attention. Following it, you discover the remnants of a sunken pirate ship's flagpole of a past event."
+        "encounter": ""
     }
 ]

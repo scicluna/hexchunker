@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Underwater miners gives you a quest to deliver a shipment of rare spices to a distant island market.In your path lies a ship's bell with a haunting chime surrounded by seagrass meadows."
     },
     {
         "pos": 2,
@@ -39,18 +39,18 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about uncover the truth behind a series of strange underwater disappearances., you're startled by gentle lapping of waves against the shore. It seems storm giants are near."
     },
     {
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by rockweed, a series of a sunken shipwreck beneath a coral reef reveal traces of the remnants of a ship's broken figurehead, and the distant gurgling of a freshwater stream meeting the ocean hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Bubbling ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Majestic ['Estuary']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden churning of water as a whirlpool forms breaks the silence, making the nearby seaweed-covered rocks quiver."
+        "encounter": ""
     },
     {
         "pos": 15,
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Abyssal ['Abyss']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening ['Depression']",
         "encounter": ""
     },
     {
@@ -129,12 +129,12 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie thudding of footsteps on a wooden dock resonates from a hollowed-out giant clam used as a merfolk's dwelling, and the scent of briny scent of low tide fills the air."
     },
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -146,8 +146,8 @@
     {
         "pos": 24,
         "terrain": "O",
-        "features": "Moonlit ['Drop-off']",
-        "encounter": ""
+        "features": "",
+        "encounter": "A distant clattering of seashells in the tide draws your attention. Following it, you discover the remnants of a ship's lantern on the seafloor of a past event."
     },
     {
         "pos": 25,
@@ -158,25 +158,25 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense sea anemone gardens, you discover a bottle of enchanted ink for writing underwater. You can't shake the feeling of anticipation."
     },
     {
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a colony of hostile merfolk guarding their territory, you're surprised to find a concealed treasure vault within an ancient shipwreck filled with a beached rowboat with a broken oar.As you journey forward, you come across a ghostly lantern that wards off spirits, with traces of musty odor of a hidden sea cave around them."
+        "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Shoal']",
         "encounter": ""
     },
     {
@@ -212,13 +212,13 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Ridge']",
         "encounter": ""
     },
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Salty ['Bight']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -248,13 +248,13 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Cove']",
         "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Secluded ['Fathom']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -315,13 +315,13 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of saltwater in the air. You feel a sense of serenity."
+        "encounter": ""
     },
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Pristine ['Inlet']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Among the dense gorgonian sea fans, you discover a piece of driftwood with an ancient carving. You can't shake the feeling of disbelief."
     },
     {
         "pos": 54,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a mysterious, glowing underwater crystal. However, sea dragons stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -362,20 +362,20 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Sound']",
         "encounter": ""
     },
     {
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel hope as splintering of wood as a shipwreck breaks apart echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by giant underwater mushrooms, a series of a hidden pirate's tunnel behind a cascading waterfall reveal traces of the remnants of an ancient ship's cannon, and the distant clanging of bells on a buoy in choppy waters hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 63,
@@ -386,8 +386,8 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
-        "encounter": "Blocked by a band of marauding pirates waiting to attack, your attention is caught by crackling of underwater lava flows. Upon investigating, you discover a sunken shipwreck beneath a coral reef with a ship's chart with uncharted territories marked inside."
+        "features": "Ethereal ['Shore']",
+        "encounter": ""
     },
     {
         "pos": 65,
@@ -398,8 +398,8 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Uncharted ['Tide']",
-        "encounter": ""
+        "features": "",
+        "encounter": "A mysterious mildewed scent of an old shipwreck envelops you, drawing you towards a submerged sea cave filled with bioluminescent creatures where cursed mermaids are taming and riding sea turtles."
     },
     {
         "pos": 67,
@@ -411,7 +411,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a colony of territorial sea lions blocking passage, but you notice a hidden cave behind a waterfall that might lead around it."
     },
     {
         "pos": 69,
@@ -429,19 +429,19 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense coral reefs, you discover a bottle of rare and potent mermaid tears. You can't shake the feeling of desperation."
+        "encounter": ""
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Reef']",
         "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by caulerpa seaweed leads to a clearing with a sunken rowboat with a hole in its hull, indicating sea dragons have been here."
     },
     {
         "pos": 74,
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "The crinoids on the seafloor rustles, revealing whirlpool spirits that are creating elaborate maps of uncharted waters."
+        "encounter": ""
     },
     {
         "pos": 77,
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a massive, drifting iceberg with hidden dangers. As you approach, water elementals exploring the depths in search of a sunken city."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense zostera seagrass, you discover a pirate flag bearing a fearsome symbol. You can't shake the feeling of awe."
     },
     {
         "pos": 90,
@@ -584,7 +584,7 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Maelstrom']",
         "encounter": ""
     },
     {

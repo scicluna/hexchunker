@@ -56,14 +56,14 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Uncharted ['Mangrove']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a rare, ancient ship's figurehead that could be useful in your quest to escort a fragile, magical artifact through dangerous waters.. But it's guarded by underwater nomads."
+        "encounter": ""
     },
     {
         "pos": 11,
@@ -99,13 +99,13 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft cracking of icebergs in frigid waters. As you follow, you encounter sea anemone sorcerers in the midst of protecting a ship from ghostly apparitions."
+        "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a merfolk's enchanted harp nestled among crinoids on the seafloor, but the unsettling feeling of panic makes you wary."
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -164,14 +164,14 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Secluded ['Wave']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a colony of territorial sea lions blocking passage. As you contemplate a way around, you hear hissing of foam as waves recede from the shadows."
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -206,7 +206,7 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Lagoon']",
         "encounter": ""
     },
     {
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Luminous ['Sound']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -237,18 +237,18 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by giant clam gardens, a series of a concealed treasure vault within an ancient shipwreck reveal traces of the remnants of a fishing net tangled in the coral, and the distant crackling of a bonfire on the beach hint at more to discover."
     },
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Tumultuous ['Flats']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Bay']",
         "encounter": ""
     },
     {
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to defend a coastal town from raiding sea creatures.. But be wary, for selkies lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 50,
@@ -326,14 +326,14 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "Boundless ['Sandbank']",
-        "encounter": "You feel an overwhelming sense of dread as you tread upon the remnants of a ship's lantern on the seafloor, hinting at a tale of lighthouse guardians."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with a broken ship's mast jutting out of the water. It appears tidal wave elementals were here recently."
+        "encounter": "You see a barnacle-covered ship's wheel that could be useful in your quest to slay a marauding sea monster terrorizing coastal villages.. But it's guarded by ghost ships."
     },
     {
         "pos": 56,
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Marina']",
         "encounter": ""
     },
     {
@@ -386,20 +386,20 @@
     {
         "pos": 64,
         "terrain": "M",
-        "features": "Splendid Bowl",
-        "encounter": "Your way is impeded by a field of high-altitude thorn bushes. As you contemplate a way around, you hear the soft splashing of water along a high-altitude river from the shadows."
+        "features": "Sky-high Ravine",
+        "encounter": "Your path is illuminated by the glint of a set of intricate musical instruments. However, a solitary hermit living in a mountain cave stand guard, their intentions unknown."
     },
     {
         "pos": 65,
         "terrain": "M",
-        "features": "Remote Valley",
-        "encounter": "Among the dense bushy sagebrush in the highlands, you discover a pair of intricately carved yak horns. You can't shake the feeling of curiosity."
+        "features": "Vast Notch",
+        "encounter": "With defend a remote mountain monastery from bandit attacks. On your mind, the sudden appearance of a towering and impassable mountain cliff wall accompanied by the soft splashing of water along a high-altitude river becomes a challenging diversion."
     },
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Limitless ['Upwelling']",
-        "encounter": ""
+        "features": "",
+        "encounter": "The red calcareous algae rustles, revealing oceanic alchemists that are collecting rare and magical seashells."
     },
     {
         "pos": 67,
@@ -423,7 +423,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and clanging of bells on a buoy in choppy waters grow louder. It seems tidal wave elementals are on the move."
+        "encounter": ""
     },
     {
         "pos": 71,
@@ -452,25 +452,25 @@
     {
         "pos": 75,
         "terrain": "M",
-        "features": "Spectacular Butte",
-        "encounter": "A distant the distant hooting of a nocturnal owl draws your attention. Following it, you discover a crumbling and abandoned mountain watchtower of a past event."
+        "features": "Frozen Ravine",
+        "encounter": "Your path is illuminated by the glint of a bundle of rare and magical scrolls. However, a pack of snow leopards hunting in the rocky terrain stand guard, their intentions unknown."
     },
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Epic ['Undercurrent']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Immeasurable ['Ridge']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Tranquil ['Harbor']",
+        "features": "Soothing ['Shoal']",
         "encounter": ""
     },
     {
@@ -512,13 +512,13 @@
     {
         "pos": 85,
         "terrain": "H",
-        "features": "Tree-covered Crest",
-        "encounter": "Strange an ancient and crumbling stone circle lie scattered, painting a tale of a band of traveling bards and minstrels that taming and riding surefooted mountain goats."
+        "features": "Harsh Hillock",
+        "encounter": "A sudden the soft purring of a contented cat breaks the silence, making the nearby thick patches of clover quiver."
     },
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Vast ['Narrows']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Nautical ['Upwelling']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -560,20 +560,20 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Secluded ['Basin']",
-        "encounter": ""
+        "features": "",
+        "encounter": "From the shadows of the a concealed chamber within a massive sponge, you sense the presence of floating market traders."
     },
     {
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among seaweed-covered rocks, you spot a merfolk's enchanted harp glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon a scene where oceanic alchemists are engaged in raising a sunken ship from the depths around a chest of mystical sea herbs and remedies, seemingly crucial for uncover the secrets of a mysterious, ship-swallowing whirlpool.."
+        "features": "Salty ['Pinnacle']",
+        "encounter": ""
     },
     {
         "pos": 96,

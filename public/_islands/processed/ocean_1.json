@@ -8,8 +8,8 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Spectacular ['Upwelling']",
-        "encounter": ""
+        "features": "",
+        "encounter": "An eerie hollow echoes in an underwater cavern resonates from a hidden coral archway leading to a treasure trove, and the scent of aromatic blooms of coastal flowers fills the air."
     },
     {
         "pos": 2,
@@ -21,7 +21,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange a skeleton clutching a rusted cutlass on the seabed lie scattered, painting a tale of ghost ships that negotiating with a powerful sea witch."
     },
     {
         "pos": 4,
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Deep']",
         "encounter": ""
     },
     {
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and rustling of seaweed swaying in the current grow louder. It seems kelpie are on the move."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Current']",
         "encounter": ""
     },
     {
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Current']",
         "encounter": ""
     },
     {
@@ -164,13 +164,13 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Serene ['Swirl']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Spring']",
         "encounter": ""
     },
     {
@@ -207,7 +207,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "With investigate a series of shipwrecks caused by a vengeful ghost ship. On your mind, the sudden appearance of a massive, drifting iceberg with hidden dangers accompanied by thudding of footsteps on a wooden dock becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -224,8 +224,8 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Moonlit ['Drop-off']",
+        "encounter": "You spot a beautifully crafted coral tiara nestled among underwater mangrove roots, but the unsettling feeling of anger makes you wary."
     },
     {
         "pos": 38,
@@ -248,20 +248,20 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Deep ['Reef']",
-        "encounter": "Every step forward is met with the increasing intensity of aromatic herbs from a coastal garden, suggesting the presence of kraken."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Chasm']",
         "encounter": ""
     },
     {
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden echoing calls of whales in the distance breaks the silence, making the nearby hornwort quiver."
     },
     {
         "pos": 44,
@@ -314,7 +314,7 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Main']",
         "encounter": ""
     },
     {
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of mildewy scent of an old ship's cabin, suggesting the presence of island hermit."
     },
     {
         "pos": 56,
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense tube worms near hydrothermal vents, you discover a chest of exotic spices from distant lands. You can't shake the feeling of determination."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -374,7 +374,7 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Marina']",
         "encounter": ""
     },
     {
@@ -410,7 +410,7 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -428,31 +428,31 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Trench']",
         "encounter": ""
     },
     {
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "Ship-eating barnacles gives you a quest to investigate reports of disappearing ships in a cursed sea.In your path lies a kraken's tentacle as a gruesome trophy surrounded by sea grape kelp."
+        "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by treacherous rocks just below the surface, but you notice a submerged sea cave filled with bioluminescent creatures that might lead around it."
     },
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Calm ['Narrows']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Trough']",
         "encounter": ""
     },
     {
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Passage']",
         "encounter": ""
     },
     {
@@ -500,8 +500,8 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Immeasurable ['Undercurrent']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You stumble upon the remnants of a sunken pirate ship's flagpole indicating past battles."
     },
     {
         "pos": 84,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by dread as you uncover a seashell amulet that grants water-breathing hidden within green string lettuce."
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic ['Chasm']",
         "encounter": ""
     },
     {

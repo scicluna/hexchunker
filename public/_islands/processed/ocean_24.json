@@ -14,7 +14,7 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Vortex']",
         "encounter": ""
     },
     {
@@ -57,13 +57,13 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a monstrous, coral-covered sea monster, you're surprised to find a concealed merfolk palace hidden behind a waterfall filled with the remnants of a ship's lantern on the seafloor.As you journey forward, you come across a bottle of enchanted ink for writing underwater, with traces of clean, crisp scent of the open sea around them."
+        "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a broken ship's mast jutting out of the water that tell a story of a time when water elementals pursued retrieve a lost, enchanted trident from a sunken temple.."
     },
     {
         "pos": 11,
@@ -75,7 +75,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is an eerie, ghostly ship blocking the path blocking your path. Perhaps it's related to your quest to retrieve a powerful, magical artifact from a sunken shipwreck.."
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -92,7 +92,7 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Daunting ['Ocean']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Silent ['Harbor']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Strait']",
         "encounter": ""
     },
     {
@@ -176,7 +176,7 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Limitless ['Whirlpool']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of an ancient ship's cargo hold of an old campsite, the scent of saltwater in the air still lingering."
     },
     {
         "pos": 32,
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious mildewed scent of an old shipwreck envelops you, drawing you towards a sunken garden of rare and magical sea plants where turtle island shamans are repairing their damaged ship."
+        "encounter": "Your path is illuminated by the glint of a ship's bell with a haunting chime. However, underwater miners stand guard, their intentions unknown."
     },
     {
         "pos": 37,
@@ -231,7 +231,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "With defend a coastal town from raiding sea creatures. On your mind, the sudden appearance of treacherous rocks just below the surface accompanied by whispering of the sea breeze through palm trees becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 39,
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Salty ['Drop-off']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -290,14 +290,14 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept ['Main']",
         "encounter": ""
     },
     {
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by seafloor seagrass, a series of a concealed treasure chest buried in the sand reveal traces of the remnants of a sunken sea monster's scale, and the distant buzzing of bioluminescent creatures in the depths hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 50,
@@ -308,8 +308,8 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "",
-        "encounter": "Deep in thought about uncover the truth behind a series of strange underwater disappearances., you're startled by sloshing of water in a mermaid's bathtub. It seems underwater miners are near."
+        "features": "Immeasurable ['Whirlpool']",
+        "encounter": ""
     },
     {
         "pos": 52,
@@ -326,7 +326,7 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Pinnacle']",
         "encounter": ""
     },
     {
@@ -386,14 +386,14 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Serene ['Plateau']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a network of tunnels in the heart of a coral maze, you sense the presence of storm giants."
+        "encounter": ""
     },
     {
         "pos": 66,
@@ -410,14 +410,14 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Sandbank']",
         "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a treacherous, labyrinthine underwater cave system, your attention is caught by low growling of a distant thunderstorm. Upon investigating, you discover a hollowed-out giant clam used as a merfolk's dwelling with a bottle of enchanted ink for writing underwater inside."
     },
     {
         "pos": 70,
@@ -428,13 +428,13 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "Daunting ['Shoal']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Infinite ['Drop-off']",
+        "features": "Serene ['Fjord']",
         "encounter": ""
     },
     {
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Rippling ['Billow']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -470,19 +470,19 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Tide']",
         "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With help a stranded sea serpent find its way back to the open sea. On your mind, the sudden appearance of a giant maelstrom that sucks everything in accompanied by buzzing of insects near a coastal marsh becomes a challenging diversion."
     },
     {
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Trench']",
         "encounter": ""
     },
     {
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden splashing of dolphins playing nearby breaks the silence, making the nearby giant kelp with air-filled bladders quiver."
+        "encounter": ""
     },
     {
         "pos": 84,
@@ -525,12 +525,12 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among mermaid's hair algae, you spot a chest of mystical sea herbs and remedies glinting in the sunlight."
     },
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -543,13 +543,13 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange a shattered, waterlogged compass lie scattered, painting a tale of turtle island shamans that navigating a treacherous whirlpool."
     },
     {
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With investigate a series of shipwrecks caused by a vengeful ghost ship. On your mind, the sudden appearance of a thick forest of kelp that entangles ships accompanied by chattering of crabs on a rocky shore becomes a challenging diversion."
     },
     {
         "pos": 92,
@@ -561,7 +561,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a mermaid's lost jewelry of an old campsite, the scent of crisp, ocean-scented laundry on a line still lingering."
+        "encounter": ""
     },
     {
         "pos": 94,
@@ -572,13 +572,13 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Tempestuous ['Bight']",
+        "features": "Epic ['Basin']",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Trench']",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it salty seaweed and kelp. You spot turtle island shamans that seem to be healing wounded sea creatures."
     }
 ]

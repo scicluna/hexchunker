@@ -9,18 +9,18 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden hissing of foam as waves recede breaks the silence, making the nearby bubbling hot seawater vents quiver."
+        "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange a rusted ship's bell on the ocean floor lie scattered, painting a tale of jellyfish navigators that building a coral fortress."
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring ['Billow']",
         "encounter": ""
     },
     {
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Ocean']",
         "encounter": ""
     },
     {
@@ -44,8 +44,8 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Sapphire ['Bight']",
-        "encounter": "Your senses are overwhelmed by amusement as you uncover a ship's logbook with a mysterious route hidden within sea lettuce."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -87,13 +87,13 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by giant clam gardens leads to a clearing with the remnants of a sunken pirate ship's flagpole, indicating kelpie have been here."
+        "encounter": ""
     },
     {
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a school of aggressive and territorial sharks makes it difficult to proceed. Perhaps the cursed mermaids nearby can help."
+        "encounter": ""
     },
     {
         "pos": 16,
@@ -135,7 +135,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of sighing of the wind through sea caves is accompanied by the distinct aroma of scent of salty tears in the wind. It seems ship-eating barnacles are involved in hunting for fish and other sea creatures."
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -146,14 +146,14 @@
     {
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Trench']",
         "encounter": ""
     },
     {
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious rustic aroma of a wooden fishing boat envelops you, drawing you towards a sunken shipwreck beneath a coral reef where selkies are diving deep to consult with a sea oracle."
+        "encounter": ""
     },
     {
         "pos": 26,
@@ -188,7 +188,7 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Drop-off']",
         "encounter": ""
     },
     {
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a monstrous, coral-covered sea monster blocking your path. Perhaps it's related to your quest to help a shipwrecked sailor construct a signal fire to call for rescue.."
     },
     {
         "pos": 34,
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Plateau']",
         "encounter": ""
     },
     {
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Beckoning ['Lagoon']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it musk of a sea lion colony. You spot giant sea turtles that seem to be wreaking havoc on passing ships."
     },
     {
         "pos": 42,
@@ -260,8 +260,8 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Silent ['Reef']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Sunken treasure guardians gives you a quest to help a shipwrecked sailor construct a signal fire to call for rescue.In your path lies a seashell amulet that grants water-breathing surrounded by floating bladderwort plants."
     },
     {
         "pos": 44,
@@ -296,7 +296,7 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -309,7 +309,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant gurgling of a freshwater stream meeting the ocean draws your attention. Following it, you discover the remnants of a ship's broken mast of a past event."
+        "encounter": ""
     },
     {
         "pos": 52,
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Luminous ['Abyss']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Bay']",
         "encounter": ""
     },
     {
@@ -392,13 +392,13 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Salty ['Passage']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Sweeping ['Jetty']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious rotten-egg odor of sulfur from underwater vents envelops you, drawing you towards a sunken shipwreck beneath a coral reef where water elementals are creating elaborate maps of uncharted waters."
     },
     {
         "pos": 70,
@@ -435,19 +435,19 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to investigate a series of shipwrecks caused by a vengeful ghost ship.. But be wary, for crystal reef dwellers lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a secret pirate's den inside a massive, hollowed-out rock, you sense the presence of sea serpents."
+        "encounter": "You stumble upon a scene where sunken treasure guardians are engaged in wreaking havoc on passing ships around a pirate's cutlass with an ornate hilt, seemingly crucial for retrieve a rare coral sample for an eccentric scientist.."
     },
     {
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a torn and faded pirate's treasure map wind through the underwater mangrove roots, revealing the past actions of pearl diver guilds."
+        "encounter": ""
     },
     {
         "pos": 75,
@@ -470,20 +470,20 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Glistening ['Marina']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Deep in thought about retrieve a stolen pearl from a cunning group of bandits., you're startled by churning of water as a whirlpool forms. It seems sea anemone sorcerers are near."
     },
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Endless ['Rise']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense red algae beds, you catch sight of a captured sea serpent's egg. But be cautious, splintering of wood as a shipwreck breaks apart suggest ship-eating barnacles are near."
     },
     {
         "pos": 81,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and buzzing of underwater machinery in a sunken city grow louder. It seems seafaring druids are on the move."
     },
     {
         "pos": 85,
@@ -518,19 +518,19 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Spring']",
         "encounter": ""
     },
     {
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it rustic scent of a seaside tavern. You spot oceanic alchemists that seem to be hunting for fish and other sea creatures."
     },
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming ['Lagoon']",
         "encounter": ""
     },
     {
@@ -548,14 +548,14 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Picturesque ['Abyss']",
+        "encounter": "The gorgonian sea fans rustles, revealing cursed mermaids that are navigating a treacherous whirlpool."
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of pride as you tread upon a rusted, half-buried cutlass, hinting at a tale of kelpie."
+        "encounter": ""
     },
     {
         "pos": 93,
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Wave']",
         "encounter": ""
     },
     {

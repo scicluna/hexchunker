@@ -2,25 +2,25 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Grand ['Shoal']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden roaring of a powerful waterfall cascading into the sea breaks the silence, making the nearby floating bladderwort plants quiver."
+        "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
-        "encounter": "Blocked by a treacherous, narrow strait with strong currents, your attention is caught by chirping of crickets on a moonlit beach. Upon investigating, you discover a concealed chamber within a massive sponge with a ship's sextant for celestial navigation inside."
+        "features": "Inviting ['Rise']",
+        "encounter": "Your way is impeded by a giant maelstrom that sucks everything in. As you contemplate a way around, you hear whispering of the sea breeze through palm trees from the shadows."
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Choppy ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -39,7 +39,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by colorful coral polyps leads to a clearing with a tattered, waterlogged map of uncharted waters, indicating island hermit have been here."
+        "encounter": ""
     },
     {
         "pos": 7,
@@ -56,13 +56,13 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Trench']",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Tranquil ['Main']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "The zostera seagrass rustles, revealing sea anemone sorcerers that are creating storms to deter sailors."
+        "encounter": ""
     },
     {
         "pos": 15,
@@ -122,14 +122,14 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled ['Abyss']",
         "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a colony of territorial sea lions blocking passage blocking your path. Perhaps it's related to your quest to guide a group of scholars on a research expedition to the deep ocean.."
+        "encounter": ""
     },
     {
         "pos": 22,
@@ -140,8 +140,8 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Endless ['Marina']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You come across a waterlogged chest with its lid ajar of an old campsite, the scent of freshly caught fish on a fishing boat still lingering."
     },
     {
         "pos": 24,
@@ -152,14 +152,14 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Vast ['Marina']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a secret mermaid library hidden in a deep trench, you sense the presence of sea dragons."
+        "encounter": ""
     },
     {
         "pos": 27,
@@ -188,7 +188,7 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Harbor']",
         "encounter": ""
     },
     {
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a magical conch shell that can summon sea creatures. However, coral golems stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 38,
@@ -236,7 +236,7 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Dense ['Billow']",
         "encounter": ""
     },
     {
@@ -248,8 +248,8 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Unspoiled ['Ocean']",
-        "encounter": ""
+        "features": "",
+        "encounter": "The ground trembles slightly, and rhythmic crashing of waves on rocky cliffs grow louder. It seems underwater miners are on the move."
     },
     {
         "pos": 42,
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sea grape kelp, you catch sight of a magical conch shell that can summon sea creatures. But be cautious, rustling of seaweed in the currents suggest storm giants are near."
+        "encounter": ""
     },
     {
         "pos": 50,
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a sudden, violent storm with massive waves blocking your path. Perhaps it's related to your quest to escort a group of settlers to a remote, uncharted island.."
+        "encounter": ""
     },
     {
         "pos": 53,
@@ -327,18 +327,18 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across a skeleton clutching a rusted cutlass on the seabed of an old campsite, the scent of sun-warmed sand still lingering."
     },
     {
         "pos": 55,
         "terrain": "O",
-        "features": "Mysterious ['Surf']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Unspoiled ['Inlet']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -374,14 +374,14 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Jetty']",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft sighing of the wind through sea caves. As you follow, you encounter merfolk in the midst of trading secrets with a wandering hermit."
     },
     {
         "pos": 64,
@@ -399,7 +399,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense halophila seagrass, you discover a magical conch shell that can summon sea creatures. You can't shake the feeling of determination."
     },
     {
         "pos": 67,
@@ -411,13 +411,13 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden sizzling of saltwater on hot volcanic rocks breaks the silence, making the nearby halophila seagrass quiver."
+        "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Silent ['Trench']",
-        "encounter": "Ahead, there is a school of aggressive and territorial sharks blocking your path. Perhaps it's related to your quest to retrieve a rare coral sample for an eccentric scientist.."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 70,
@@ -428,7 +428,7 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "Nautical ['Channel']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Sandbank']",
         "encounter": ""
     },
     {
@@ -519,7 +519,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of fresh sea breeze, suggesting the presence of cursed mermaids."
+        "encounter": ""
     },
     {
         "pos": 87,
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Vast ['Seabed']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -555,12 +555,12 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of sloshing of water in a mermaid's bathtub is accompanied by the distinct aroma of fishy odor of the ocean depths. It seems island hermit are involved in healing wounded sea creatures."
     },
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Boundless ['Seamount']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -573,7 +573,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice rockweed moving subtly. Upon closer inspection, you see selkies that are protecting a ship from ghostly apparitions."
     },
     {
         "pos": 96,
@@ -590,7 +590,7 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Untamed ['Kelp Forest']",
+        "features": "",
         "encounter": ""
     },
     {

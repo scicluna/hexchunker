@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Serene ['Seamount']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -32,8 +32,8 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Secluded ['Lagoon']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your way is impeded by a powerful whirlpool pulling ships downward. As you contemplate a way around, you hear creaking of a ship's rigging in the wind from the shadows."
     },
     {
         "pos": 6,
@@ -44,7 +44,7 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil ['Current']",
         "encounter": ""
     },
     {
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling ['Isle']",
         "encounter": ""
     },
     {
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of smoky aroma of a beachside bonfire. You feel a sense of hope."
     },
     {
         "pos": 25,
@@ -165,7 +165,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a secret merfolk concert hall hidden in a cave, you sense the presence of sea witches."
     },
     {
         "pos": 28,
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a swarm of aggressive, giant jellyfish. As you contemplate a way around, you hear buzzing of underwater machinery in a sunken city from the shadows."
     },
     {
         "pos": 32,
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Seabed']",
         "encounter": ""
     },
     {
@@ -231,7 +231,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a seafarer's compass that points to hidden treasure nestled among rockweed, but the unsettling feeling of satisfaction makes you wary."
+        "encounter": ""
     },
     {
         "pos": 39,
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Water elementals emerge from the an overgrown shipwreck hidden beneath a dense kelp bed, their intent focused on a seashell amulet that grants water-breathing."
     },
     {
         "pos": 42,
@@ -261,13 +261,13 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a rogue wave threatening to capsize the ship. As you contemplate a way around, you hear sloshing of water in a mermaid's bathtub from the shadows."
     },
     {
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear clattering of seashells in the tide coming from a camouflaged underwater camouflage net used by merfolk."
     },
     {
         "pos": 45,
@@ -302,20 +302,20 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Secluded ['Delta']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a pirate's cutlass with an ornate hilt that could be useful in your quest to slay a marauding sea monster terrorizing coastal villages.. But it's guarded by turtle island shamans."
+        "encounter": "You're guided by the soft sloshing of water in a mermaid's bathtub. As you follow, you encounter coral golems in the midst of battling a giant sea serpent."
     },
     {
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense hornwort, you catch sight of a ship's chart with uncharted territories marked. But be cautious, seagulls cawing in the distance suggest storm giants are near."
     },
     {
         "pos": 53,
@@ -368,8 +368,8 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
-        "encounter": "Deep in thought about investigate reports of disappearing ships in a cursed sea., you're startled by sizzling of saltwater on hot volcanic rocks. It seems sunken treasure guardians are near."
+        "features": "Spectacular ['Ridge']",
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -393,7 +393,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a coral reef with sharp, hidden edges blocking your path. Perhaps it's related to your quest to navigate treacherous waters to reach a hidden pirate haven.."
     },
     {
         "pos": 66,
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Uncharted ['Pinnacle']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -434,7 +434,7 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Roaring ['Chasm']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent ['Passage']",
         "encounter": ""
     },
     {
@@ -483,7 +483,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a skeleton clutching a rusted cutlass on the seabed suggests that shipwreck goblins have passed through here on a quest to search for a hidden cove rumored to contain pirate treasure.."
+        "encounter": ""
     },
     {
         "pos": 81,
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a ship's logbook with a mysterious route. However, merfolk stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 84,
@@ -512,8 +512,8 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Deep ['Surf']",
+        "encounter": "Ahead, there is a giant clam snapping shut on unsuspecting ships blocking your path. Perhaps it's related to your quest to slay a marauding sea monster terrorizing coastal villages.."
     },
     {
         "pos": 86,
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about recover a stolen, enchanted pearl necklace for a heartbroken mermaid., you're startled by whispering of the sea breeze through palm trees. It seems merfolk are near."
+        "encounter": "Your journey leads you to a a submerged forest of gnarled, petrified trees. As you approach, crystal reef dwellers hunting for treasure on a deserted island."
     },
     {
         "pos": 90,
@@ -555,25 +555,25 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear low growling of a distant thunderstorm coming from an underwater volcanic vent leading to a hidden world."
+        "encounter": "Blocked by a whirlpool leading to a mysterious underwater realm, your attention is caught by distant rumble of thunder during a storm. Upon investigating, you discover an underwater whirlpool leading to a hidden realm with a bottle of rare and potent mermaid tears inside."
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense tube worms near hydrothermal vents, you discover a ghostly lantern that wards off spirits. You can't shake the feeling of confidence."
+        "encounter": "You notice colorful coral polyps moving subtly. Upon closer inspection, you see selkies that are rescuing shipwreck survivors."
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Pristine ['Mangrove']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of hissing of foam as waves recede is accompanied by the distinct aroma of mildewy scent of an old ship's cabin. It seems pirates are involved in creating elaborate maps of uncharted waters."
+        "encounter": ""
     },
     {
         "pos": 96,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a dense, toxic algae bloom poisoning the water. As you approach, lighthouse guardians battling a giant sea serpent."
     }
 ]

@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Serene ['Plateau']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -50,13 +50,13 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
-        "encounter": "Deep in thought about track down a legendary sea monster for a wealthy collector., you're startled by hissing of foam as waves recede. It seems lighthouse guardians are near."
+        "features": "Shimmering ['Trough']",
+        "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Calm ['Reef']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -75,18 +75,18 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter ship-eating barnacles which are setting up an underwater market."
+        "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Fjord']",
         "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless ['Inlet']",
         "encounter": ""
     },
     {
@@ -135,7 +135,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter turtle island shamans which are trading secrets with a wandering hermit."
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -153,7 +153,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a message in a bottle. However, ship-eating barnacles stand guard, their intentions unknown."
     },
     {
         "pos": 26,
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Limitless ['Strait']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable ['Shoal']",
         "encounter": ""
     },
     {
@@ -213,7 +213,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel loneliness as cracking of icebergs in frigid waters echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 36,
@@ -231,13 +231,13 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across a broken ship's mast jutting out of the water of an old campsite, the scent of fishy odor of the ocean depths still lingering."
     },
     {
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a beautifully crafted coral tiara. However, turtle island shamans stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 40,
@@ -266,19 +266,19 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Majestic ['Seabed']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden low growling of a distant thunderstorm breaks the silence, making the nearby bubbling hot seawater vents quiver."
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant ['Bight']",
         "encounter": ""
     },
     {
@@ -326,8 +326,8 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Sparkling ['Reef']",
+        "encounter": "Strange a torn and faded pirate's treasure map lie scattered, painting a tale of giant sea turtles that conducting a mystical sea ritual."
     },
     {
         "pos": 55,
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant ['Deep']",
         "encounter": ""
     },
     {
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense rockweed, you catch sight of a ship's bell with a haunting chime. But be cautious, sloshing of water in a mermaid's bathtub suggest turtle island shamans are near."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -363,7 +363,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of low growling of a distant thunderstorm is accompanied by the distinct aroma of sun-warmed sand. It seems merfolk are involved in solving a riddle from an ancient sea scroll."
+        "encounter": "The way forward is blocked by a school of aggressive and territorial sharks, but you notice a sunken, ghostly ship hidden in a fog bank that might lead around it."
     },
     {
         "pos": 61,
@@ -381,13 +381,13 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a shattered glass bottle lie scattered, painting a tale of octopus oracles that healing wounded sea creatures."
+        "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear rattling of pebbles in the surf coming from a concealed cavern within a towering underwater cliff."
     },
     {
         "pos": 65,
@@ -398,26 +398,26 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening ['Drop-off']",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Ocean']",
         "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Limitless ['Deep']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to navigate treacherous waters to reach a hidden pirate haven.. But be wary, for crystal reef dwellers lurk nearby."
     },
     {
         "pos": 70,
@@ -428,8 +428,8 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "Sparkling ['Shore']",
-        "encounter": "A trail of a broken ship's mast jutting out of the water suggests that seafaring druids have passed through here on a quest to investigate a series of shipwrecks caused by a vengeful ghost ship.."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 72,
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Pristine ['Shoal']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -464,7 +464,7 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Deep ['Edifice']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -483,19 +483,19 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is treacherous rocks just below the surface blocking your path. Perhaps it's related to your quest to help a stranded sea serpent find its way back to the open sea.."
+        "encounter": ""
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a rusted ship's bell on the ocean floor of an old campsite, the scent of rancid smell of decaying plankton still lingering."
+        "encounter": ""
     },
     {
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Water elementals gives you a quest to rescue a stranded mermaid from a treacherous reef.In your path lies a mermaid's singing seashell necklace surrounded by floating seaweed rafts."
+        "encounter": ""
     },
     {
         "pos": 83,
@@ -519,12 +519,12 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a sunken chest with its lock rusted shut suggests that giant sea turtles have passed through here on a quest to help a shipwrecked sailor construct a signal fire to call for rescue.."
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent ['Lagoon']",
         "encounter": ""
     },
     {
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Abyssal ['Deep']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by coral reefs leads to a clearing with a partially buried, broken spyglass, indicating sirens have been here."
     },
     {
         "pos": 92,
@@ -566,8 +566,8 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
-        "encounter": "You encounter sunken treasure guardians which are negotiating with a powerful sea witch."
+        "features": "Breathtaking ['Channel']",
+        "encounter": ""
     },
     {
         "pos": 95,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Expansive ['Atoll']",
+        "features": "",
         "encounter": ""
     }
 ]

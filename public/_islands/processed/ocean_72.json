@@ -8,19 +8,19 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Sapphire ['Upwelling']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Daunting ['Estuary']",
+        "features": "Daunting ['Undercurrent']",
         "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Alluring ['Swirl']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Azure ['Isle']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -50,7 +50,7 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Isle']",
         "encounter": ""
     },
     {
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of scent of salty tears in the wind. You feel a sense of curiosity."
     },
     {
         "pos": 14,
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear echoing calls of whales in the distance coming from a secret pirate tunnel leading to a hidden cove."
     },
     {
         "pos": 17,
@@ -111,19 +111,19 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a broken ship's mast jutting out of the water wind through the caulerpa seaweed, revealing the past actions of octopus oracles."
+        "encounter": ""
     },
     {
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a partially buried, broken spyglass suggests that giant clams have passed through here on a quest to explore an underwater cave system to find a valuable artifact.."
     },
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
-        "encounter": "Ahead, there is a powerful, magical barrier blocking passage blocking your path. Perhaps it's related to your quest to help a stranded sea serpent find its way back to the open sea.."
+        "features": "Breathtaking ['Channel']",
+        "encounter": ""
     },
     {
         "pos": 21,
@@ -135,7 +135,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a treacherous, labyrinthine underwater cave system. As you contemplate a way around, you hear chattering of crabs on a rocky shore from the shadows."
     },
     {
         "pos": 23,
@@ -147,13 +147,13 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among coral reefs, you spot a preserved mermaid tail glinting in the sunlight."
     },
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Lonely ['Shoal']",
-        "encounter": ""
+        "features": "",
+        "encounter": "A distant whispering of the sea breeze through palm trees draws your attention. Following it, you discover a torn and waterlogged book of sea legends of a past event."
     },
     {
         "pos": 26,
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Dazzling ['Reef']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense hornwort, you catch sight of a message in a bottle. But be cautious, distant rumble of thunder during a storm suggest shipwreck goblins are near."
+        "encounter": ""
     },
     {
         "pos": 42,
@@ -260,13 +260,13 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Majestic ['Seabed']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Upwelling']",
         "encounter": ""
     },
     {
@@ -284,7 +284,7 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Sandbank']",
         "encounter": ""
     },
     {
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Estuary']",
         "encounter": ""
     },
     {
@@ -339,7 +339,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by awe as you uncover a pirate flag bearing a fearsome symbol hidden within brown algae forests."
     },
     {
         "pos": 57,
@@ -387,12 +387,12 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a colony of territorial sea lions blocking passage. As you contemplate a way around, you hear rustling of parchment as a map is unfurled from the shadows."
     },
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant ['Spring']",
         "encounter": ""
     },
     {
@@ -428,7 +428,7 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Fjord']",
         "encounter": ""
     },
     {
@@ -453,13 +453,13 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a pirate flag bearing a fearsome symbol that could be useful in your quest to defend a coastal village from a relentless pirate invasion.. But it's guarded by octopus oracles."
     },
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Breathtaking ['Tidal Pool']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You come across the remnants of an ancient ship's cargo hold of an old campsite, the scent of scent of salty tears in the wind still lingering."
     },
     {
         "pos": 77,
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft chirping of crickets on a moonlit beach. As you follow, you encounter sea witches in the midst of protecting a ship from ghostly apparitions."
     },
     {
         "pos": 84,
@@ -555,7 +555,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The hornwort rustles, revealing kelpie that are rescuing shipwreck survivors."
     },
     {
         "pos": 93,
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Fathom']",
         "encounter": ""
     },
     {
@@ -584,8 +584,8 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Lonely ['Edifice']",
+        "encounter": "You uncover the remnants of a ship's broken figurehead that tell a story of a time when giant sea turtles pursued defend a coastal village from a relentless pirate invasion.."
     },
     {
         "pos": 98,

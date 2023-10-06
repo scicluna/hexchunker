@@ -3,19 +3,19 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by floating mats of sargassum seaweed leads to a clearing with a sunken rowboat with a hole in its hull, indicating crystal reef dwellers have been here."
+        "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Choppy ['Billow']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of a sunken pirate ship's flagpole of an old campsite, the scent of musty odor of a hidden sea cave still lingering."
     },
     {
         "pos": 3,
@@ -26,13 +26,13 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering ['Flats']",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Serene ['Edifice']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -50,25 +50,25 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Mesmerizing ['Fathom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among gorgonian sea fans, you spot a pirate's cutlass with an ornate hilt glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Nautical ['Spring']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Grand ['Current']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -81,12 +81,12 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a sunken rowboat with a hole in its hull that tell a story of a time when storm giants pursued slay a marauding sea monster terrorizing coastal villages.."
+        "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Haven']",
         "encounter": ""
     },
     {
@@ -98,8 +98,8 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Ethereal ['Spring']",
-        "encounter": ""
+        "features": "",
+        "encounter": "The whisper of sloshing of water in a mermaid's bathtub is accompanied by the distinct aroma of aromatic blooms of coastal flowers. It seems octopus oracles are involved in summoning a tidal wave to defend their territory."
     },
     {
         "pos": 17,
@@ -123,7 +123,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a sunken sea monster's scale lie scattered, painting a tale of pearl diver guilds that collecting rare and magical seashells."
+        "encounter": ""
     },
     {
         "pos": 21,
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Roaring ['Ridge']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -255,7 +255,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a band of marauding pirates waiting to attack. As you contemplate a way around, you hear churning of water as a whirlpool forms from the shadows."
+        "encounter": "A distant rattling of pebbles in the surf draws your attention. Following it, you discover a shattered, waterlogged compass of a past event."
     },
     {
         "pos": 43,
@@ -284,13 +284,13 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "Ageless ['Jetty']",
-        "encounter": "You hear rustling of parchment as a map is unfurled coming from an ancient, submerged temple with hidden chambers."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Dense ['Wave']",
         "encounter": ""
     },
     {
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of tangy scent of salt spray. You feel a sense of relief."
     },
     {
         "pos": 53,
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft rustling of seaweed swaying in the current. As you follow, you encounter crystal reef dwellers in the midst of navigating treacherous waters during a storm."
+        "encounter": ""
     },
     {
         "pos": 55,
@@ -369,12 +369,12 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie rumbling of a distant underwater volcano resonates from an underwater cave network filled with glowing algae, and the scent of mildewed scent of an old shipwreck fills the air."
     },
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Tide']",
         "encounter": ""
     },
     {
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless ['Depression']",
         "encounter": ""
     },
     {
@@ -416,8 +416,8 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Harmonious ['Depression']",
-        "encounter": "An eerie buzzing of insects near a coastal marsh resonates from an overgrown shipwreck hidden beneath a dense kelp bed, and the scent of briny scent of low tide fills the air."
+        "features": "Harmonious ['Sandbank']",
+        "encounter": ""
     },
     {
         "pos": 70,
@@ -428,13 +428,13 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Shoal']",
         "encounter": ""
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive ['Shore']",
         "encounter": ""
     },
     {
@@ -495,7 +495,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a sunken ship's wreckage causing navigation hazards. As you approach, pearl diver guilds forging alliances with other oceanic races."
     },
     {
         "pos": 83,
@@ -507,12 +507,12 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a rusted anchor half-buried in the sand suggests that shipwreck goblins have passed through here on a quest to escort a valuable cargo of precious gems through pirate-infested waters.."
+        "encounter": ""
     },
     {
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Flats']",
         "encounter": ""
     },
     {
@@ -548,14 +548,14 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your path is illuminated by the glint of a treasure chest full of cursed gold. However, water elementals stand guard, their intentions unknown."
+        "features": "Crystal-clear ['Undercurrent']",
+        "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Silent ['Bight']",
+        "encounter": "The seafloor seagrass rustles, revealing cursed ship captains that are navigating treacherous waters during a storm."
     },
     {
         "pos": 93,
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Calm ['Harbor']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden murmuring of merfolk singing in harmony breaks the silence, making the nearby caulerpa seaweed quiver."
+        "encounter": ""
     }
 ]

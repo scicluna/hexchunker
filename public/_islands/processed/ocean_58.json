@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a skeleton clutching a rusted cutlass on the seabed suggests that kraken have passed through here on a quest to slay a marauding sea monster terrorizing coastal villages.."
     },
     {
         "pos": 2,
@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Bubbling ['Surf']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -56,14 +56,14 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
-        "encounter": "Trails of the remnants of a sunken sea monster's scale wind through the sea palm kelp, revealing the past actions of tidal wave elementals."
+        "features": "Beckoning ['Drop-off']",
+        "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and crackling of underwater lava flows grow louder. It seems giant sea turtles are on the move."
     },
     {
         "pos": 11,
@@ -74,26 +74,26 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Mesmerizing ['Main']",
+        "encounter": "You come across a ship's figurehead washed ashore of an old campsite, the scent of aromatic blooms of coastal flowers still lingering."
     },
     {
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie crackling of underwater lava flows resonates from a hidden coral archway leading to a treasure trove, and the scent of warm, sun-kissed aroma of a sandy beach fills the air."
+        "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant ['Wave']",
         "encounter": ""
     },
     {
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by zostera seagrass, a series of a concealed treasure chest within a submerged statue reveal traces of a skeleton clutching a rusted cutlass on the seabed, and the distant sizzling of saltwater on hot volcanic rocks hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 16,
@@ -111,13 +111,13 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where whirlpool spirits are engaged in plotting revenge against a rival pirate captain around a bottle of rare and potent mermaid tears, seemingly crucial for navigate treacherous waters to find a legendary fishing spot.."
     },
     {
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with an abandoned lifeboat adrift on the waves. It appears ghost ships were here recently."
+        "encounter": ""
     },
     {
         "pos": 20,
@@ -134,7 +134,7 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Ethereal ['Surf']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -146,8 +146,8 @@
     {
         "pos": 24,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your senses are overwhelmed by gratitude as you uncover a sunken ship's anchor hidden within caulerpa seaweed."
+        "features": "Uncharted ['Kelp Forest']",
+        "encounter": ""
     },
     {
         "pos": 25,
@@ -158,13 +158,13 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "Rippling ['Edifice']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Grand ['Bay']",
         "encounter": ""
     },
     {
@@ -176,7 +176,7 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Undercurrent']",
         "encounter": ""
     },
     {
@@ -188,7 +188,7 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning ['Shoal']",
         "encounter": ""
     },
     {
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Channel']",
         "encounter": ""
     },
     {
@@ -213,18 +213,18 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of buzzing of bioluminescent creatures in the depths is accompanied by the distinct aroma of saltwater in the air. It seems kelpie are involved in hunting for treasure on a deserted island."
+        "encounter": ""
     },
     {
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Kelpie emerge from the a sunken shipwreck beneath a coral reef, their intent focused on a sparkling pearl necklace."
     },
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Endless ['Harbor']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -237,7 +237,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of panic as you tread upon a damaged, half-buried treasure map scroll, hinting at a tale of crystal reef dwellers."
+        "encounter": "A sudden gust brings with it warm, sun-kissed aroma of a sandy beach. You spot kraken that seem to be protecting a ship from ghostly apparitions."
     },
     {
         "pos": 40,
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense coral reefs, you discover a pirate's cutlass with an ornate hilt. You can't shake the feeling of amusement."
     },
     {
         "pos": 42,
@@ -273,12 +273,12 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice seagrass meadows moving subtly. Upon closer inspection, you see sea dragons that are summoning a tidal wave to defend their territory."
+        "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil ['Swirl']",
         "encounter": ""
     },
     {
@@ -309,7 +309,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of humming of a powerful sea enchantment is accompanied by the distinct aroma of salty scent of a mermaid's hair. It seems sea witches are involved in trading secrets with a wandering hermit."
+        "encounter": ""
     },
     {
         "pos": 52,
@@ -321,7 +321,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by sponge colonies leads to a clearing with the remnants of a fishing net tangled in the coral, indicating kelpie have been here."
+        "encounter": ""
     },
     {
         "pos": 54,
@@ -332,14 +332,14 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Depression']",
         "encounter": ""
     },
     {
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense bubblegum coral, you catch sight of a bottle of potent seawater from a mythical spring. But be cautious, gentle lapping of waves against the shore suggest mermen are near."
+        "encounter": ""
     },
     {
         "pos": 57,
@@ -356,20 +356,20 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Mysterious ['Pinnacle']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense zostera seagrass, you discover a kraken's tentacle as a gruesome trophy. You can't shake the feeling of disbelief."
     },
     {
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about help a stranded sailor repair their ship and return home., you're startled by murmuring of merfolk singing in harmony. It seems coral golems are near."
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -398,7 +398,7 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Tidal ['Tide']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Luminous ['Surf']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a dense fog reducing visibility, your attention is caught by gurgling of a freshwater stream meeting the ocean. Upon investigating, you discover a treasure cache buried in the sand on a deserted island with a mysterious, glowing underwater crystal inside."
+        "encounter": ""
     },
     {
         "pos": 77,
@@ -488,7 +488,7 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Untamed ['Billow']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of hope as you tread upon the remnants of a ship's broken mast, hinting at a tale of shipwreck goblins."
     },
     {
         "pos": 85,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of distant rumble of thunder during a storm is accompanied by the distinct aroma of scent of damp driftwood. It seems sea dragons are involved in searching for a lost artifact on the ocean floor."
     },
     {
         "pos": 88,
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "Secluded ['Pinnacle']",
+        "features": "",
         "encounter": ""
     },
     {

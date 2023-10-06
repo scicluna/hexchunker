@@ -9,12 +9,12 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where floating market traders are engaged in hunting for fish and other sea creatures around a giant clamshell turned into a luxurious bed, seemingly crucial for investigate reports of disappearing ships in a cursed sea.."
+        "encounter": "Your senses are overwhelmed by frustration as you uncover a ghostly lantern that wards off spirits hidden within halophila seagrass."
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Channel']",
         "encounter": ""
     },
     {
@@ -32,8 +32,8 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Bubbling ['Inlet']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Merfolk gives you a quest to escort a fragile, magical artifact through dangerous waters.In your path lies a collection of seashells with hidden messages surrounded by halophila seagrass."
     },
     {
         "pos": 6,
@@ -44,7 +44,7 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Salty ['Seabed']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Expanse']",
         "encounter": ""
     },
     {
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "With retrieve a rare coral sample for an eccentric scientist. On your mind, the sudden appearance of a sunken city with buildings rising to the surface accompanied by chattering of crabs on a rocky shore becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 12,
@@ -105,12 +105,12 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by sea grape kelp leads to a clearing with barnacle-covered remnants of a wooden chest, indicating mermen have been here."
     },
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Roaring ['Expanse']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -140,8 +140,8 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Unfathomable ['Channel']",
-        "encounter": "Underwater nomads gives you a quest to retrieve a sunken treasure map from the lair of a giant octopus.In your path lies a beautifully crafted coral tiara surrounded by sea lettuce."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 24,
@@ -158,14 +158,14 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "Surging ['Plateau']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear rhythmic crashing of waves on rocky cliffs coming from a concealed treasure chest buried in the sand."
+        "encounter": ""
     },
     {
         "pos": 28,
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and crackling of underwater lava flows grow louder. It seems cursed mermaids are on the move."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Raging ['Mangrove']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -243,7 +243,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a damaged, half-buried treasure map scroll lie scattered, painting a tale of storm giants that creating elaborate maps of uncharted waters."
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -255,7 +255,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of warm, sun-kissed aroma of a sandy beach, suggesting the presence of seafaring druids."
+        "encounter": ""
     },
     {
         "pos": 43,
@@ -266,14 +266,14 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Surging ['Sandbank']",
         "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense sea lettuce, you discover a seafarer's compass that points to hidden treasure. You can't shake the feeling of excitement."
+        "encounter": ""
     },
     {
         "pos": 46,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a coral reef with sharp, hidden edges, but you notice a sunken garden of rare and magical sea plants that might lead around it."
     },
     {
         "pos": 56,
@@ -363,7 +363,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a preserved mermaid tail. However, sarcastic cephalopod stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 61,
@@ -375,13 +375,13 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "Underwater miners emerge from the a secret mermaid library hidden in a deep trench, their intent focused on a chest of mystical sea herbs and remedies."
+        "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon the remnants of a ship's broken mast indicating past battles."
     },
     {
         "pos": 64,
@@ -398,14 +398,14 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Turbulent ['Passage']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Vast ['Strait']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You uncover a tattered, waterlogged map of uncharted waters that tell a story of a time when selkies pursued deliver a shipment of rare spices to a distant island market.."
     },
     {
         "pos": 68,
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "With investigate a series of shipwrecks caused by a vengeful ghost ship. On your mind, the sudden appearance of a deadly, bioluminescent sea creature swarm accompanied by whispering of the sea breeze through palm trees becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 70,
@@ -429,7 +429,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a massive, drifting iceberg with hidden dangers, but you notice a sunken, ghostly ship hidden in a fog bank that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 72,
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Gulf']",
         "encounter": ""
     },
     {
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming ['Fathom']",
         "encounter": ""
     },
     {
@@ -512,8 +512,8 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Majestic ['Ocean']",
-        "encounter": "The way forward is blocked by a colony of territorial sea lions blocking passage, but you notice a labyrinthine coral labyrinth with hidden treasures that might lead around it."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 86,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With defend a coastal town from raiding sea creatures. On your mind, the sudden appearance of a dense minefield of explosive devices accompanied by sizzling of saltwater on hot volcanic rocks becomes a challenging diversion."
     },
     {
         "pos": 88,
@@ -548,8 +548,8 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Crystal-clear ['Vortex']",
-        "encounter": "You stumble upon the remnants of a mermaid's lost jewelry indicating past battles."
+        "features": "Crystal-clear ['Rift']",
+        "encounter": ""
     },
     {
         "pos": 92,
@@ -560,7 +560,7 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Radiant ['Abyss']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -584,7 +584,7 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Glistening ['Vortex']",
+        "features": "",
         "encounter": ""
     },
     {

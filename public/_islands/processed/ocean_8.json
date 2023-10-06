@@ -3,12 +3,12 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden rustling of palm fronds in a gentle breeze breaks the silence, making the nearby floating seaweed rafts quiver."
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Unspoiled ['Seamount']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -21,7 +21,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where crystal reef dwellers are engaged in protecting a ship from ghostly apparitions around a mysterious, glowing underwater crystal, seemingly crucial for discover the source of a mysterious bioluminescent phenomenon.."
+        "encounter": ""
     },
     {
         "pos": 4,
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter cursed mermaids which are forging alliances with other oceanic races."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Bubbling ['Chasm']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -68,14 +68,14 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Plateau']",
         "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by empathy as you uncover a net filled with exotic and colorful fish hidden within giant clam gardens."
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -92,7 +92,7 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable ['Shore']",
         "encounter": ""
     },
     {
@@ -122,19 +122,19 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Surging ['Drop-off']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Sparkling ['Isle']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Grand ['Rise']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -176,8 +176,8 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Rippling ['Kelp Forest']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You stumble upon an abandoned lifeboat adrift on the waves indicating past battles."
     },
     {
         "pos": 30,
@@ -207,13 +207,13 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a mysterious, enchanted mist causing disorientation blocking your path. Perhaps it's related to your quest to investigate reports of disappearing ships in a cursed sea.."
+        "encounter": ""
     },
     {
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about investigate the disappearance of a famous sea captain and their crew., you're startled by buzzing of underwater machinery in a sunken city. It seems floating market traders are near."
     },
     {
         "pos": 36,
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Immeasurable ['Estuary']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Inviting ['Mangrove']",
         "encounter": ""
     },
     {
@@ -278,26 +278,26 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable ['Tide']",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense sea anemone gardens, you discover a sunken ship's anchor. You can't shake the feeling of awe."
+        "encounter": ""
     },
     {
         "pos": 48,
         "terrain": "O",
-        "features": "Radiant ['Fathom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is treacherous rocks just below the surface blocking your path. Perhaps it's related to your quest to retrieve a lost, enchanted trident from a sunken temple.."
     },
     {
         "pos": 50,
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a merfolk's forgotten treasure suggests that sirens have passed through here on a quest to rescue a group of trapped sailors from a sinking ship.."
+        "encounter": ""
     },
     {
         "pos": 53,
@@ -339,25 +339,25 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Mermen emerge from the an underwater lagoon hidden by dense seaweed, their intent focused on a sparkling pearl necklace."
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
-        "encounter": "You see a seafarer's compass that points to hidden treasure that could be useful in your quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.. But it's guarded by turtle island shamans."
+        "features": "Vast ['Expanse']",
+        "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea dragons gives you a quest to guide a group of scholars on a research expedition to the deep ocean.In your path lies a piece of driftwood with an ancient carving surrounded by crinoids on the seafloor."
+        "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Daunting ['Edifice']",
-        "encounter": ""
+        "features": "",
+        "encounter": "A mysterious pungent aroma of a hidden pirate's stash envelops you, drawing you towards a hidden mermaid enclave in the heart of a kelp forest where crystal reef dwellers are creating storms to deter sailors."
     },
     {
         "pos": 60,
@@ -429,7 +429,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "Oceanic alchemists emerge from the a submerged sea cave filled with bioluminescent creatures, their intent focused on a ghostly lantern that wards off spirits."
+        "encounter": ""
     },
     {
         "pos": 72,
@@ -441,7 +441,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of smoky aroma of a beachside bonfire, suggesting the presence of sunken treasure guardians."
     },
     {
         "pos": 74,
@@ -495,19 +495,19 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter shipwreck goblins which are hunting for treasure on a deserted island."
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit ['Fjord']",
         "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
-        "features": "Dazzling ['Strait']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You uncover the remnants of a ship's lantern on the seafloor that tell a story of a time when coral golems pursued investigate a series of shipwrecks caused by a vengeful ghost ship.."
     },
     {
         "pos": 85,
@@ -518,7 +518,7 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Mysterious ['Vortex']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Pristine ['Bight']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a net filled with exotic and colorful fish. However, lighthouse guardians stand guard, their intentions unknown."
     },
     {
         "pos": 95,

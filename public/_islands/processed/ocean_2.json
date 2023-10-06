@@ -9,13 +9,13 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by confusion as you uncover a preserved mermaid tail hidden within codium seaweed."
+        "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Seafaring druids emerge from the an underwater lagoon hidden by dense seaweed, their intent focused on a pirate's cutlass with an ornate hilt."
     },
     {
         "pos": 3,
@@ -44,20 +44,20 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Teeming ['Inlet']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your senses are overwhelmed by confusion as you uncover a kraken's tentacle as a gruesome trophy hidden within floating mats of sargassum seaweed."
     },
     {
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious tangy scent of salt spray envelops you, drawing you towards a treasure cache buried in the sand on a deserted island where kraken are battling a giant sea serpent."
     },
     {
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice mangrove prop roots moving subtly. Upon closer inspection, you see storm giants that are battling a giant sea serpent."
     },
     {
         "pos": 10,
@@ -80,7 +80,7 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -99,18 +99,18 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a pirate's cutlass with an ornate hilt nestled among gorgonian sea fans, but the unsettling feeling of contentment makes you wary."
+        "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Silent ['Estuary']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Breathtaking ['Plateau']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -153,7 +153,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense caulerpa seaweed, you catch sight of a giant clamshell turned into a luxurious bed. But be cautious, clattering of seashells in the tide suggest shipwreck goblins are near."
     },
     {
         "pos": 26,
@@ -182,14 +182,14 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Sunlit ['Atoll']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a rogue wave threatening to capsize the ship blocking your path. Perhaps it's related to your quest to investigate the disappearance of a famous sea captain and their crew.."
     },
     {
         "pos": 32,
@@ -200,8 +200,8 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Silent ['Flats']",
-        "encounter": "The presence of a massive, drifting iceberg with hidden dangers makes it difficult to proceed. Perhaps the sea dragons nearby can help."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -212,20 +212,20 @@
     {
         "pos": 35,
         "terrain": "M",
-        "features": "Massive Summit",
-        "encounter": "The presence of a patch of quicksand hidden beneath the mountain surface makes it difficult to proceed. Perhaps the a flock of giant condors soaring high above nearby can help."
+        "features": "Climbable Sierra",
+        "encounter": "Your journey leads you to a a pack of cunning and stealthy mountain wolves. As you approach, a group of reclusive cloud giants in their mountain fortress trading valuable resources with neighboring tribes."
     },
     {
         "pos": 36,
         "terrain": "M",
-        "features": "Snowy Face",
-        "encounter": "You feel an overwhelming sense of peace of mind as you tread upon a shattered and toppled mountain watchtower, hinting at a tale of a clan of nomadic yetis roaming the peaks."
+        "features": "Cloud-covered Spire",
+        "encounter": "You see a collection of sparkling gemstones that could be useful in your quest to investigate reports of strange lights and sounds in a mountain cave.. But it's guarded by a nomadic tribe of mountaineers with yaks and tents."
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel excitement as rhythmic crashing of waves on rocky cliffs echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 38,
@@ -267,19 +267,19 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious salty seaweed and kelp envelops you, drawing you towards a concealed treasure chest buried in the sand where dolphin companions are training sea creatures for battle."
     },
     {
         "pos": 45,
         "terrain": "M",
-        "features": "Immutable Tor",
-        "encounter": "You uncover a crumbling and abandoned mountain bridge that tell a story of a time when a pack of snow leopards hunting in the rocky terrain pursued retrieve a stolen mountain clan artifact from a rival tribe.."
+        "features": "Dominant Divide",
+        "encounter": "A sudden gust brings with it the warm, spicy smell of freshly baked mountain bread. You spot a tribe of centaurs skilled in herbalism that seem to be hunting for elusive prey in the rocky terrain."
     },
     {
         "pos": 46,
         "terrain": "M",
-        "features": "Magnificent Massif",
-        "encounter": "Your senses are overwhelmed by awe as you uncover a carved wooden totem adorned with feathers hidden within tumbleweeds rolling across highland plains."
+        "features": "Unreachable Notch",
+        "encounter": "Your senses are overwhelmed by inspiration as you uncover a pair of exquisite yeti pelts hidden within a field of lavender in bloom at high altitudes."
     },
     {
         "pos": 47,
@@ -308,7 +308,7 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring ['Cove']",
         "encounter": ""
     },
     {
@@ -338,8 +338,8 @@
     {
         "pos": 56,
         "terrain": "M",
-        "features": "Lofty Flank",
-        "encounter": "Among the dense a field of cotton plants with fluffy bolls at high altitudes, you discover a stack of ancient scrolls filled with knowledge. You can't shake the feeling of anticipation."
+        "features": "Serrated Flank",
+        "encounter": "An eerie the rhythmic croak of frogs near a highland pond resonates from a hidden path through a field of rare alpine flowers, and the scent of the crisp scent of fallen leaves in highland autumn fills the air."
     },
     {
         "pos": 57,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with a shattered, half-buried bottle with a message inside. It appears kelpie were here recently."
     },
     {
         "pos": 62,
@@ -387,7 +387,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among giant clam gardens, you spot a pirate's cutlass with an ornate hilt glinting in the sunlight."
     },
     {
         "pos": 65,
@@ -399,7 +399,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a massive, drifting iceberg with hidden dangers. As you approach, cursed mermaids summoning a tidal wave to defend their territory."
+        "encounter": ""
     },
     {
         "pos": 67,
@@ -434,7 +434,7 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Isle']",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden cracking of icebergs in frigid waters breaks the silence, making the nearby seafloor seagrass quiver."
+        "encounter": ""
     },
     {
         "pos": 77,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Epic ['Sandbank']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -506,7 +506,7 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Marina']",
         "encounter": ""
     },
     {
@@ -536,14 +536,14 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Breathtaking ['Shore']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a ship's chart with uncharted territories marked nestled among black coral, but the unsettling feeling of resignation makes you wary."
     },
     {
         "pos": 91,
@@ -555,7 +555,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "With discover a lost civilization by deciphering cryptic underwater runes. On your mind, the sudden appearance of a ship-eating whirlpool known as the 'ship swallower' accompanied by roaring of a powerful waterfall cascading into the sea becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 93,
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning ['Plateau']",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a hollowed-out giant clam used as a merfolk's dwelling, you sense the presence of selkies."
+        "encounter": ""
     }
 ]

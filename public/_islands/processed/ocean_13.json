@@ -15,7 +15,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a ship's anchor chain. It appears dolphin companions were here recently."
+        "encounter": ""
     },
     {
         "pos": 3,
@@ -33,7 +33,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a cursed lighthouse guiding ships to their doom, your attention is caught by whistling of wind through the rigging of a ship. Upon investigating, you discover a secret pirate's den inside a massive, hollowed-out rock with a ship's logbook with a mysterious route inside."
+        "encounter": ""
     },
     {
         "pos": 6,
@@ -63,7 +63,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a mermaid's lost jewelry indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 11,
@@ -80,19 +80,19 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Serene ['Abyss']",
-        "encounter": "Strange the remnants of a ship's anchor chain lie scattered, painting a tale of cursed ship captains that battling a giant sea serpent."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of sloshing of water in a mermaid's bathtub is accompanied by the distinct aroma of rich, earthy scent of wet sand. It seems kelpie are involved in raiding a coastal village for supplies."
     },
     {
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Reef']",
         "encounter": ""
     },
     {
@@ -104,8 +104,8 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground is littered with an abandoned lifeboat adrift on the waves. It appears sunken treasure guardians were here recently."
+        "features": "Sparkling ['Pinnacle']",
+        "encounter": "You encounter sarcastic cephalopod which are searching for a lost artifact on the ocean floor."
     },
     {
         "pos": 18,
@@ -164,13 +164,13 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Choppy ['Spring']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Serene ['Main']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -182,13 +182,13 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Pristine ['Sound']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive ['Deep']",
         "encounter": ""
     },
     {
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Vast ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -213,7 +213,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a giant maelstrom that sucks everything in. As you approach, sea dragons training sea creatures for battle."
+        "encounter": ""
     },
     {
         "pos": 36,
@@ -242,25 +242,25 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Roaring ['Strait']",
-        "encounter": "You notice seagrass meadows moving subtly. Upon closer inspection, you see floating market traders that are training sea creatures for battle."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Breathtaking ['Narrows']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rustling of parchment as a map is unfurled is accompanied by the distinct aroma of scent of damp driftwood. It seems tidal wave elementals are involved in diving deep to consult with a sea oracle."
+        "encounter": ""
     },
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Ridge']",
         "encounter": ""
     },
     {
@@ -273,7 +273,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden chirping of crickets on a moonlit beach breaks the silence, making the nearby codium seaweed quiver."
+        "encounter": ""
     },
     {
         "pos": 46,
@@ -327,13 +327,13 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a dense, toxic algae bloom poisoning the water. As you approach, coral golems plotting revenge against a rival pirate captain."
     },
     {
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by sponge colonies leads to a clearing with a rusted ship's bell on the ocean floor, indicating crystal reef dwellers have been here."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -350,7 +350,7 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Azure ['Haven']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Jetty']",
         "encounter": ""
     },
     {
@@ -429,12 +429,12 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about solve the mystery of a cursed shipwreck and its crew's fate., you're startled by rumbling of a distant underwater volcano. It seems ghost ships are near."
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted ['Deep']",
         "encounter": ""
     },
     {
@@ -447,13 +447,13 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a sunken city with buildings rising to the surface. As you contemplate a way around, you hear buzzing of underwater machinery in a sunken city from the shadows."
+        "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a pirate's cutlass with an ornate hilt nestled among seaweed-covered rocks, but the unsettling feeling of empathy makes you wary."
     },
     {
         "pos": 76,
@@ -483,7 +483,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "The thick beds of eelgrass rustles, revealing merfolk that are plotting revenge against a rival pirate captain."
+        "encounter": "Kelpie emerge from the a concealed treasure chest buried under a giant pearl, their intent focused on a pirate's cutlass with an ornate hilt."
     },
     {
         "pos": 81,
@@ -495,7 +495,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The seafloor seagrass rustles, revealing seafaring druids that are exploring a mysterious underwater cave."
     },
     {
         "pos": 83,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a sunken sea monster's scale. It appears cursed ship captains were here recently."
     },
     {
         "pos": 85,
@@ -519,7 +519,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a powerful, magical barrier blocking passage. As you approach, sirens repairing their damaged ship."
     },
     {
         "pos": 87,
@@ -542,8 +542,8 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Radiant ['Reef']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Among the dense colorful coral polyps, you discover a piece of driftwood with an ancient carving. You can't shake the feeling of confidence."
     },
     {
         "pos": 91,
@@ -554,7 +554,7 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Shore']",
         "encounter": ""
     },
     {

@@ -15,7 +15,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden cracking of icebergs in frigid waters breaks the silence, making the nearby kelp forests quiver."
     },
     {
         "pos": 3,
@@ -39,7 +39,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it pungent smell of seaweed drying in the sun. You spot merfolk that seem to be creating elaborate maps of uncharted waters."
+        "encounter": ""
     },
     {
         "pos": 7,
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a beached rowboat with a broken oar suggests that octopus oracles have passed through here on a quest to search for a hidden cove rumored to contain pirate treasure.."
     },
     {
         "pos": 14,
@@ -92,7 +92,7 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Murmuring ['Atoll']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Harbor']",
         "encounter": ""
     },
     {
@@ -128,44 +128,44 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Windswept ['Rise']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "Cursed mermaids gives you a quest to protect a colony of merfolk from an encroaching threat.In your path lies a seashell amulet that grants water-breathing surrounded by seagrass meadows."
+        "encounter": ""
     },
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Ridge']",
         "encounter": ""
     },
     {
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a sunken merchant ship's cargo suggests that merfolk have passed through here on a quest to defend a coastal town from raiding sea creatures.."
     },
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Crystal-clear ['Expanse']",
+        "features": "Moonlit ['Deep']",
         "encounter": ""
     },
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Vast ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Turbulent ['Lagoon']",
-        "encounter": "You stumble upon a rusted ship's bell on the ocean floor indicating past battles."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 28,
@@ -182,13 +182,13 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Fjord']",
         "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Expanse']",
         "encounter": ""
     },
     {
@@ -201,25 +201,25 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by black coral, a series of a hidden coral maze filled with merfolk traps reveal traces of the remnants of a merfolk's forgotten treasure, and the distant seagulls cawing in the distance hint at more to discover."
     },
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Rise']",
         "encounter": ""
     },
     {
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by sea anemone gardens leads to a clearing with the remnants of an ancient ship's cannon, indicating giant clams have been here."
     },
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Picturesque ['Channel']",
+        "encounter": "A trail of the remnants of a shipwrecked sailor's journal suggests that crystal reef dwellers have passed through here on a quest to solve the mystery of a cursed shipwreck and its crew's fate.."
     },
     {
         "pos": 37,
@@ -230,7 +230,7 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "Mesmerizing ['Ridge']",
+        "features": "Unspoiled ['Rift']",
         "encounter": ""
     },
     {
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense brown algae forests, you discover a giant clamshell turned into a luxurious bed. You can't shake the feeling of joy."
     },
     {
         "pos": 49,
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Unfathomable ['Tide']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Teeming ['Flats']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -405,13 +405,13 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense gorgonian sea fans, you discover a message in a bottle. You can't shake the feeling of confusion."
+        "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense mermaid's hair algae, you catch sight of a rare, ancient ship's figurehead. But be cautious, hollow echoes in an underwater cavern suggest turtle island shamans are near."
     },
     {
         "pos": 69,
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Turbulent ['Atoll']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -434,7 +434,7 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Secluded ['Fathom']",
         "encounter": ""
     },
     {
@@ -452,20 +452,20 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Ethereal ['Seamount']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Timeless ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With protect a colony of merfolk from an encroaching threat. On your mind, the sudden appearance of a tidal wave approaching with destructive force accompanied by booming of waves in a hidden sea cave becomes a challenging diversion."
     },
     {
         "pos": 78,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Picturesque ['Atoll']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -554,7 +554,7 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Tempestuous ['Channel']",
+        "features": "",
         "encounter": ""
     },
     {

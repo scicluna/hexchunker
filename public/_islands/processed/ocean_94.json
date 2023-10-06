@@ -21,18 +21,18 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden whistling of wind through the rigging of a ship breaks the silence, making the nearby crinoids on the seafloor quiver."
     },
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Billow']",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Dense ['Tide']",
         "encounter": ""
     },
     {
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Untamed ['Fathom']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -152,8 +152,8 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "",
-        "encounter": "The way forward is blocked by a treacherous, labyrinthine underwater cave system, but you notice a submerged ship graveyard where ghost ships rest that might lead around it."
+        "features": "Sweeping ['Plateau']",
+        "encounter": ""
     },
     {
         "pos": 26,
@@ -171,7 +171,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea dragons emerge from the a secret underwater grotto accessible only at low tide, their intent focused on a seafarer's journal filled with tales of adventure."
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Rise']",
         "encounter": ""
     },
     {
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless ['Marina']",
         "encounter": ""
     },
     {
@@ -237,13 +237,13 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden rustling of seaweed in the currents breaks the silence, making the nearby giant clam gardens quiver."
+        "encounter": ""
     },
     {
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a sudden, violent storm with massive waves, your attention is caught by sizzling of saltwater on hot volcanic rocks. Upon investigating, you discover a sunken shipwreck beneath a coral reef with a coral crown adorned with precious gems inside."
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -260,7 +260,7 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Salty ['Estuary']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -279,7 +279,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of scent of damp driftwood, suggesting the presence of lighthouse guardians."
     },
     {
         "pos": 47,
@@ -303,7 +303,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a kraken's tentacle as a gruesome trophy. However, selkies stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 51,
@@ -327,24 +327,24 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a ship's broken figurehead suggests that octopus oracles have passed through here on a quest to track down a legendary sea monster for a wealthy collector.."
     },
     {
         "pos": 55,
         "terrain": "O",
-        "features": "Mesmerizing ['Edifice']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Crystal-clear ['Marina']",
-        "encounter": "You spot a pirate's cutlass with an ornate hilt nestled among seafloor seagrass, but the unsettling feeling of anticipation makes you wary."
+        "features": "",
+        "encounter": "Trails of a torn and faded pirate's treasure map wind through the bubbling hot seawater vents, revealing the past actions of turtle island shamans."
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Undercurrent']",
         "encounter": ""
     },
     {
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Majestic ['Lagoon']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -398,14 +398,14 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Soothing ['Delta']",
+        "features": "Salty ['Swirl']",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a skeleton clutching a rusted cutlass on the seabed suggests that kraken have passed through here on a quest to discover a lost civilization by deciphering cryptic underwater runes.."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -447,13 +447,13 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie booming of waves in a hidden sea cave resonates from a concealed treasure chest within a submerged statue, and the scent of aromatic spices from a seaside market fills the air."
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Secluded ['Rift']",
-        "encounter": ""
+        "features": "",
+        "encounter": "The way forward is blocked by a sandbar hiding just below the water's surface, but you notice a secret pirate tunnel leading to a hidden cove that might lead around it."
     },
     {
         "pos": 76,
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Tide']",
         "encounter": ""
     },
     {
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Grand ['Spring']",
         "encounter": ""
     },
     {
@@ -512,7 +512,7 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Reef']",
         "encounter": ""
     },
     {
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a sparkling pearl necklace. However, kelpie stand guard, their intentions unknown."
     },
     {
         "pos": 90,
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant hollow echoes in an underwater cavern draws your attention. Following it, you discover the remnants of a ship's broken mast of a past event."
+        "encounter": ""
     },
     {
         "pos": 92,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With rescue a kidnapped noble from a group of pirates. On your mind, the sudden appearance of a treacherous, narrow strait with strong currents accompanied by crackling of a bonfire on the beach becomes a challenging diversion."
     }
 ]

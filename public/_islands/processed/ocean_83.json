@@ -26,8 +26,8 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Reflective ['Passage']",
+        "encounter": "Your path is illuminated by the glint of a mysterious, glowing underwater crystal. However, underwater nomads stand guard, their intentions unknown."
     },
     {
         "pos": 5,
@@ -56,13 +56,13 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Spectacular ['Lagoon']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Reef']",
         "encounter": ""
     },
     {
@@ -80,13 +80,13 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Windswept ['Main']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Tranquil ['Depression']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -104,8 +104,8 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Grand ['Ridge']",
-        "encounter": ""
+        "features": "",
+        "encounter": "You uncover the remnants of an ancient ship's cannon that tell a story of a time when sea dragons pursued investigate reports of disappearing ships in a cursed sea.."
     },
     {
         "pos": 18,
@@ -117,7 +117,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a band of marauding pirates waiting to attack. As you contemplate a way around, you hear splintering of wood as a shipwreck breaks apart from the shadows."
+        "encounter": ""
     },
     {
         "pos": 20,
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Surf']",
         "encounter": ""
     },
     {
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Ridge']",
         "encounter": ""
     },
     {
@@ -182,19 +182,19 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Epic ['Fjord']",
+        "encounter": "Strange the remnants of an ancient ship's cargo hold lie scattered, painting a tale of octopus oracles that training sea creatures for battle."
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious ['Current']",
         "encounter": ""
     },
     {
         "pos": 32,
         "terrain": "O",
-        "features": "Silent ['Swirl']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -207,19 +207,19 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie gentle lapping of waves against the shore resonates from a submerged pirate's lair hidden by a waterfall, and the scent of aromatic spices from a seaside market fills the air."
     },
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Infinite ['Shoal']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of warm, sun-kissed aroma of a sandy beach, suggesting the presence of sea anemone sorcerers."
+        "encounter": ""
     },
     {
         "pos": 37,
@@ -242,8 +242,8 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Expansive ['Seamount']",
-        "encounter": "The ground is littered with the remnants of an ancient ship's cannon. It appears ship-eating barnacles were here recently."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a hidden mermaid enclave in the heart of a kelp forest, you sense the presence of octopus oracles."
     },
     {
         "pos": 45,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by an eerie, ghostly ship blocking the path. As you contemplate a way around, you hear splashing of dolphins playing nearby from the shadows."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -362,7 +362,7 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled ['Basin']",
         "encounter": ""
     },
     {
@@ -380,13 +380,13 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Boundless ['Bay']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Ageless ['Deep']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Reflective ['Billow']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -447,7 +447,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to retrieve a sunken treasure from a ghost ship guarded by vengeful spirits.. But be wary, for octopus oracles lurk nearby."
     },
     {
         "pos": 75,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Deep ['Tidal Pool']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -489,7 +489,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among green string lettuce, you spot a chest of mystical sea herbs and remedies glinting in the sunlight."
     },
     {
         "pos": 82,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a sunken cannon half-buried in the coral lie scattered, painting a tale of kraken that protecting a ship from ghostly apparitions."
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -536,8 +536,8 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
-        "encounter": "A mysterious musk of a sea lion colony envelops you, drawing you towards a secret merfolk concert hall hidden in a cave where sunken treasure guardians are exploring the depths in search of a sunken city."
+        "features": "Alluring ['Haven']",
+        "encounter": ""
     },
     {
         "pos": 90,
@@ -560,7 +560,7 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Plateau']",
         "encounter": ""
     },
     {
@@ -591,7 +591,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense sea anemone gardens, you discover a mysterious, glowing underwater crystal. You can't shake the feeling of empathy."
+        "encounter": ""
     },
     {
         "pos": 99,

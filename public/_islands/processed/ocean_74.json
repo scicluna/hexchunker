@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Tumultuous ['Narrows']",
+        "features": "Sapphire ['Lagoon']",
         "encounter": ""
     },
     {
@@ -27,7 +27,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear creaking of a ship's rigging in the wind coming from a hidden cave behind a waterfall."
+        "encounter": "You spot a preserved mermaid tail nestled among bubbling hot seawater vents, but the unsettling feeling of anxiety makes you wary."
     },
     {
         "pos": 5,
@@ -57,12 +57,12 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Seafaring druids emerge from the a concealed cavern within a towering underwater cliff, their intent focused on a shipwrecked chest filled with gold coins."
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Endless ['Seabed']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -98,8 +98,8 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
-        "encounter": "Trails of the remnants of a ship's anchor chain wind through the sea lettuce, revealing the past actions of storm giants."
+        "features": "Shimmering ['Whirlpool']",
+        "encounter": ""
     },
     {
         "pos": 17,
@@ -135,12 +135,12 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to uncover the secrets of a mysterious, ship-swallowing whirlpool.. But be wary, for sea dragons lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Abyss']",
         "encounter": ""
     },
     {
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Vast ['Swirl']",
         "encounter": ""
     },
     {
@@ -182,13 +182,13 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Dazzling ['Seamount']",
+        "features": "Boundless ['Tide']",
         "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "Sapphire ['Whirlpool']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -213,7 +213,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice bubbling hot seawater vents moving subtly. Upon closer inspection, you see mermen that are taming and riding sea turtles."
+        "encounter": ""
     },
     {
         "pos": 36,
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Bight']",
         "encounter": ""
     },
     {
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Rise']",
         "encounter": ""
     },
     {
@@ -284,7 +284,7 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "Bubbling ['Wave']",
+        "features": "Pristine ['Plateau']",
         "encounter": ""
     },
     {
@@ -320,13 +320,13 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Spectacular ['Delta']",
-        "encounter": "You hear roaring of a powerful waterfall cascading into the sea coming from a camouflaged underwater camouflage net used by merfolk."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -362,7 +362,7 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit ['Deep']",
         "encounter": ""
     },
     {
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of tattered fragments of a sunken pirate flag suggests that tidal wave elementals have passed through here on a quest to protect a colony of merfolk from an encroaching threat.."
+        "encounter": ""
     },
     {
         "pos": 64,
@@ -399,24 +399,24 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice green string lettuce moving subtly. Upon closer inspection, you see seafaring druids that are wreaking havoc on passing ships."
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Murmuring ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to help a shipwrecked sailor construct a signal fire to call for rescue.. But be wary, for island hermit lurk nearby."
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous ['Current']",
         "encounter": ""
     },
     {
@@ -434,19 +434,19 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Abyssal ['Mangrove']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless ['Inlet']",
         "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering ['Harbor']",
         "encounter": ""
     },
     {
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Wave']",
         "encounter": ""
     },
     {
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Infinite ['Inlet']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -500,14 +500,14 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Uncharted ['Kelp Forest']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice green string lettuce moving subtly. Upon closer inspection, you see island hermit that are rescuing shipwreck survivors."
     },
     {
         "pos": 85,
@@ -543,18 +543,18 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where sea serpents are engaged in searching for a lost artifact on the ocean floor around a piece of driftwood with an ancient carving, seemingly crucial for slay a marauding sea monster terrorizing coastal villages.."
+        "encounter": ""
     },
     {
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it rancid smell of decaying plankton. You spot jellyfish navigators that seem to be building a coral fortress."
     },
     {
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Edifice']",
         "encounter": ""
     },
     {
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Bay']",
         "encounter": ""
     },
     {
@@ -585,13 +585,13 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a powerful, magical barrier blocking passage makes it difficult to proceed. Perhaps the kelpie nearby can help."
     },
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Beckoning ['Depression']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Blocked by a giant, tentacled kraken blocking the way, your attention is caught by roaring of a powerful waterfall cascading into the sea. Upon investigating, you discover a hidden treasure map etched into a ship's hull with a sea serpent scale inside."
     },
     {
         "pos": 99,

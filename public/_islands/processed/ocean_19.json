@@ -57,7 +57,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a school of aggressive and territorial sharks blocking your path. Perhaps it's related to your quest to uncover the truth behind a series of strange underwater disappearances.."
+        "encounter": ""
     },
     {
         "pos": 10,
@@ -86,7 +86,7 @@
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Reflective ['Shore']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -98,14 +98,14 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Harbor']",
         "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among caulerpa seaweed, you spot a giant clamshell turned into a luxurious bed glinting in the sunlight."
     },
     {
         "pos": 18,
@@ -123,7 +123,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "The caulerpa seaweed rustles, revealing tidal wave elementals that are singing haunting songs to lure sailors."
+        "encounter": ""
     },
     {
         "pos": 21,
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -189,13 +189,13 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about rescue a kidnapped noble from a group of pirates., you're startled by rhythmic crashing of waves on rocky cliffs. It seems ghost ships are near."
     },
     {
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by rockweed, a series of a concealed treasure chest buried under a giant pearl reveal traces of a shattered, waterlogged compass, and the distant chirping of crickets on a moonlit beach hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 33,
@@ -207,7 +207,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a ship's bell with a haunting chime nestled among mangrove prop roots, but the unsettling feeling of disbelief makes you wary."
     },
     {
         "pos": 35,
@@ -261,7 +261,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The feather boa kelp rustles, revealing cursed mermaids that are conducting a mystical sea ritual."
     },
     {
         "pos": 44,
@@ -273,7 +273,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Kelpie gives you a quest to retrieve a stolen pearl from a cunning group of bandits.In your path lies a ghostly lantern that wards off spirits surrounded by red calcareous algae."
     },
     {
         "pos": 46,
@@ -285,7 +285,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about slay a marauding sea monster terrorizing coastal villages., you're startled by echoing calls of whales in the distance. It seems turtle island shamans are near."
+        "encounter": ""
     },
     {
         "pos": 48,
@@ -321,7 +321,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a captured sea serpent's egg nestled among kelp forests, but the unsettling feeling of determination makes you wary."
     },
     {
         "pos": 54,
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Sparkling ['Maelstrom']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -350,7 +350,7 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Choppy ['Flats']",
+        "features": "Dense ['Harbor']",
         "encounter": ""
     },
     {
@@ -363,7 +363,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a sparkling pearl necklace that could be useful in your quest to help a stranded sea serpent find its way back to the open sea.. But it's guarded by giant sea turtles."
     },
     {
         "pos": 61,
@@ -374,13 +374,13 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Timeless ['Delta']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Spectacular ['Inlet']",
+        "features": "",
         "encounter": ""
     },
     {
@@ -399,13 +399,13 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear clanging of bells on a buoy in choppy waters coming from an ancient, submerged temple with hidden chambers."
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of bewilderment as you tread upon a waterlogged chest with its lid ajar, hinting at a tale of giant clams."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -417,13 +417,13 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of an ancient ship's cargo hold of an old campsite, the scent of scent of damp treasure maps still lingering."
+        "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel determination as rustling of seaweed swaying in the current echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 71,
@@ -447,12 +447,12 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Merfolk emerge from the a submerged sea cave filled with bioluminescent creatures, their intent focused on a weathered treasure map."
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Sandbank']",
         "encounter": ""
     },
     {
@@ -464,20 +464,20 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Murmuring ['Seabed']",
+        "encounter": "Floating market traders emerge from the a concealed cavern within a towering underwater cliff, their intent focused on a preserved mermaid tail."
     },
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Salty ['Harbor']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to discover the source of a mysterious bioluminescent phenomenon.. But be wary, for cursed ship captains lurk nearby."
     },
     {
         "pos": 80,
@@ -494,7 +494,7 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive ['Seamount']",
         "encounter": ""
     },
     {
@@ -518,20 +518,20 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Silent ['Surf']",
-        "encounter": ""
+        "features": "",
+        "encounter": "Among the dense thick beds of eelgrass, you discover a bejeweled trident. You can't shake the feeling of anticipation."
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Crystal-clear ['Inlet']",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about find a lost underwater city rumored to hold ancient relics., you're startled by thudding of footsteps on a wooden dock. It seems underwater miners are near."
+        "encounter": "A path surrounded by halophila seagrass leads to a clearing with the remnants of a sunken sea monster's scale, indicating octopus oracles have been here."
     },
     {
         "pos": 89,
@@ -548,8 +548,8 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Windswept ['Swirl']",
-        "encounter": ""
+        "features": "",
+        "encounter": "A trail of tattered fragments of a sunken pirate flag suggests that giant clams have passed through here on a quest to rescue a stranded mermaid from a treacherous reef.."
     },
     {
         "pos": 92,
@@ -561,7 +561,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense red grape algae, you discover a pirate's cutlass with an ornate hilt. You can't shake the feeling of guilt."
     },
     {
         "pos": 94,
@@ -585,7 +585,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a ship's broken figurehead. It appears whirlpool spirits were here recently."
     },
     {
         "pos": 98,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Cove']",
         "encounter": ""
     }
 ]
