@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie distant rumble of thunder during a storm resonates from a concealed cavern within a towering underwater cliff, and the scent of clean, crisp scent of the open sea fills the air."
     },
     {
         "pos": 1,
@@ -15,7 +15,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant thudding of footsteps on a wooden dock draws your attention. Following it, you discover the remnants of a shipwrecked sailor's journal of a past event."
     },
     {
         "pos": 3,
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Billow']",
         "encounter": ""
     },
     {
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Billow']",
         "encounter": ""
     },
     {
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to escort a group of settlers to a remote, uncharted island.. But be wary, for merfolk lurk nearby."
     },
     {
         "pos": 16,
@@ -116,13 +116,13 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Bay']",
         "encounter": ""
     },
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Teeming Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
@@ -141,7 +141,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a pirate flag bearing a fearsome symbol. However, giant clams stand guard, their intentions unknown."
+        "encounter": "Deep in thought about retrieve a powerful, magical artifact from a sunken shipwreck., you're startled by cracking of icebergs in frigid waters. It seems tidal wave elementals are near."
     },
     {
         "pos": 24,
@@ -158,25 +158,25 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Wave']",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Strait']",
         "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Unspoiled Ocean",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Channel']",
         "encounter": ""
     },
     {
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a message in a bottle that could be useful in your quest to investigate a series of shipwrecks caused by a vengeful ghost ship.. But it's guarded by water elementals."
     },
     {
         "pos": 38,
@@ -236,8 +236,8 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
-        "encounter": "Among the dense zostera seagrass, you discover a captured sea serpent's egg. You can't shake the feeling of determination."
+        "features": "Majestic ['Lagoon']",
+        "encounter": ""
     },
     {
         "pos": 40,
@@ -272,7 +272,7 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "Beckoning Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -350,7 +350,7 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless ['Narrows']",
         "encounter": ""
     },
     {
@@ -362,8 +362,8 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Infinite ['Basin']",
+        "encounter": "A mysterious freshly caught fish on a fishing boat envelops you, drawing you towards a concealed treasure chest buried under a giant pearl where sea witches are trading secrets with a wandering hermit."
     },
     {
         "pos": 61,
@@ -374,19 +374,19 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Edifice']",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Shimmering Trench",
-        "encounter": "From the shadows of the a labyrinthine coral labyrinth with hidden treasures, you sense the presence of storm giants."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil ['Seamount']",
         "encounter": ""
     },
     {
@@ -410,8 +410,8 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your path is illuminated by the glint of a piece of driftwood with an ancient carving. However, sea dragons stand guard, their intentions unknown."
+        "features": "Timeless ['Ridge']",
+        "encounter": ""
     },
     {
         "pos": 69,
@@ -471,18 +471,18 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a sunken chest with its lock rusted shut that tell a story of a time when kelpie pursued retrieve a rare coral sample for an eccentric scientist.."
+        "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Cove']",
         "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Undercurrent']",
         "encounter": ""
     },
     {
@@ -536,19 +536,19 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal ['Pinnacle']",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover the remnants of a sunken merchant ship's cargo that tell a story of a time when ship-eating barnacles pursued retrieve a powerful, magical artifact from a sunken shipwreck.."
     },
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Spring']",
         "encounter": ""
     },
     {
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a treacherous, narrow strait with strong currents makes it difficult to proceed. Perhaps the ship-eating barnacles nearby can help."
+        "encounter": ""
     },
     {
         "pos": 95,

@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a colony of hostile merfolk guarding their territory makes it difficult to proceed. Perhaps the lighthouse guardians nearby can help."
     },
     {
         "pos": 8,
@@ -62,7 +62,7 @@
     {
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Trench']",
         "encounter": ""
     },
     {
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a colony of hostile merfolk guarding their territory blocking your path. Perhaps it's related to your quest to escort a group of settlers to a remote, uncharted island.."
     },
     {
         "pos": 17,
@@ -111,7 +111,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense green string lettuce, you discover a message in a bottle. You can't shake the feeling of frustration."
     },
     {
         "pos": 19,
@@ -134,14 +134,14 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Ocean']",
         "encounter": ""
     },
     {
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and chirping of crickets on a moonlit beach grow louder. It seems turtle island shamans are on the move."
     },
     {
         "pos": 24,
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning ['Ocean']",
         "encounter": ""
     },
     {
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter whirlpool spirits which are searching for a lost artifact on the ocean floor."
     },
     {
         "pos": 32,
@@ -207,7 +207,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Merfolk emerge from the a submerged pirate's lair hidden by a waterfall, their intent focused on a coral crown adorned with precious gems."
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of rustic scent of a seaside tavern, suggesting the presence of merfolk."
+        "encounter": ""
     },
     {
         "pos": 38,
@@ -236,8 +236,8 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "Vibrant Maelstrom",
-        "encounter": "You spot a chest of mystical sea herbs and remedies nestled among rockweed, but the unsettling feeling of indignation makes you wary."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 40,
@@ -254,14 +254,14 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Drop-off']",
         "encounter": ""
     },
     {
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about investigate reports of disappearing ships in a cursed sea., you're startled by roaring of a powerful waterfall cascading into the sea. It seems ghost ships are near."
+        "encounter": ""
     },
     {
         "pos": 44,
@@ -273,19 +273,19 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of warm, sun-kissed aroma of a sandy beach, suggesting the presence of ship-eating barnacles."
+        "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Timeless Channel",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Ethereal ['Current']",
+        "encounter": "You stumble upon a scene where water elementals are engaged in raiding a coastal village for supplies around a kraken's tentacle as a gruesome trophy, seemingly crucial for retrieve a rare coral sample for an eccentric scientist.."
     },
     {
         "pos": 48,
@@ -308,7 +308,7 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "Sapphire Strait",
+        "features": "",
         "encounter": ""
     },
     {
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Moonlit Seabed",
+        "features": "",
         "encounter": ""
     },
     {
@@ -344,20 +344,20 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming ['Kelp Forest']",
         "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about retrieve a rare and magical seashell for a powerful sea witch., you're startled by distant rumble of thunder during a storm. It seems mermen are near."
+        "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Immeasurable ['Trough']",
+        "encounter": "A trail of a skeleton clutching a rusted cutlass on the seabed suggests that sea dragons have passed through here on a quest to slay a marauding sea monster terrorizing coastal villages.."
     },
     {
         "pos": 60,
@@ -368,32 +368,32 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning ['Abyss']",
         "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Unspoiled Edifice",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Abyssal Depression",
-        "encounter": "You encounter underwater nomads which are navigating a treacherous whirlpool."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a partially buried, broken spyglass lie scattered, painting a tale of sea dragons that taming and riding sea turtles."
+        "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense green string lettuce, you discover a ghostly lantern that wards off spirits. You can't shake the feeling of confusion."
+        "encounter": ""
     },
     {
         "pos": 66,
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Endless Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -423,18 +423,18 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where jellyfish navigators are engaged in convincing a shipwrecked sailor to join their crew around a pirate flag bearing a fearsome symbol, seemingly crucial for rescue a stranded mermaid from a treacherous reef.."
     },
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Rift']",
         "encounter": ""
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring ['Plateau']",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of admiration as you tread upon the remnants of a ship's broken mast, hinting at a tale of underwater miners."
     },
     {
         "pos": 77,
@@ -476,13 +476,13 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Whirlpool']",
         "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Tranquil Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Harbor']",
         "encounter": ""
     },
     {
@@ -519,7 +519,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to investigate reports of disappearing ships in a cursed sea.. But be wary, for jellyfish navigators lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 87,
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Serene Tidal Pool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -560,13 +560,13 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Chasm']",
         "encounter": ""
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Lonely Spring",
+        "features": "Expansive ['Shore']",
         "encounter": ""
     },
     {
@@ -579,7 +579,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about uncover the secrets of a mysterious, ship-swallowing whirlpool., you're startled by booming of waves in a hidden sea cave. It seems tidal wave elementals are near."
+        "encounter": ""
     },
     {
         "pos": 97,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Plateau']",
         "encounter": ""
     }
 ]

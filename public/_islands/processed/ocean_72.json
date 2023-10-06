@@ -2,26 +2,26 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Uncharted Seamount",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Upwelling']",
         "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Estuary']",
         "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Nautical Seabed",
-        "encounter": "Hidden among seaweed-covered rocks, you spot a beautifully crafted coral tiara glinting in the sunlight."
+        "features": "Alluring ['Swirl']",
+        "encounter": ""
     },
     {
         "pos": 4,
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Isle']",
         "encounter": ""
     },
     {
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Secluded Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -111,7 +111,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Trails of a broken ship's mast jutting out of the water wind through the caulerpa seaweed, revealing the past actions of octopus oracles."
     },
     {
         "pos": 19,
@@ -123,7 +123,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a powerful, magical barrier blocking passage blocking your path. Perhaps it's related to your quest to help a stranded sea serpent find its way back to the open sea.."
     },
     {
         "pos": 21,
@@ -152,14 +152,14 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Shoal']",
         "encounter": ""
     },
     {
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by brown algae forests, a series of a secret mermaid library hidden in a deep trench reveal traces of tattered fragments of a sunken pirate flag, and the distant cracking of icebergs in frigid waters hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 27,
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a treacherous, labyrinthine underwater cave system. As you approach, oceanic alchemists solving a riddle from an ancient sea scroll."
+        "encounter": ""
     },
     {
         "pos": 32,
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling ['Reef']",
         "encounter": ""
     },
     {
@@ -236,7 +236,7 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "Nautical Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
@@ -249,25 +249,25 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense hornwort, you catch sight of a message in a bottle. But be cautious, distant rumble of thunder during a storm suggest shipwreck goblins are near."
     },
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Crystal-clear Main",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Seabed']",
         "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with an abandoned lifeboat adrift on the waves. It appears water elementals were here recently."
+        "encounter": ""
     },
     {
         "pos": 45,
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a rusted, half-buried cutlass that tell a story of a time when shipwreck goblins pursued defend a coastal village from a relentless pirate invasion.."
+        "encounter": ""
     },
     {
         "pos": 55,
@@ -345,13 +345,13 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of scent of salted fish drying on racks. You feel a sense of resignation."
+        "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel grief as gentle lapping of waves against the shore echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -374,7 +374,7 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Majestic Ocean",
+        "features": "",
         "encounter": ""
     },
     {
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice underwater mangrove roots moving subtly. Upon closer inspection, you see ship-eating barnacles that are forging alliances with other oceanic races."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Unfathomable Passage",
+        "features": "",
         "encounter": ""
     },
     {
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a shattered, half-buried bottle with a message inside indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 73,
@@ -447,25 +447,25 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice feather boa kelp moving subtly. Upon closer inspection, you see octopus oracles that are protecting a ship from ghostly apparitions."
+        "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Boundless Trench",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
-        "encounter": "The whisper of rustling of seaweed swaying in the current is accompanied by the distinct aroma of sun-warmed sand. It seems lighthouse guardians are involved in guarding a hidden cove filled with stolen treasure."
+        "features": "Breathtaking ['Tidal Pool']",
+        "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a torn and waterlogged book of sea legends that tell a story of a time when island hermit pursued rescue a kidnapped noble from a group of pirates.."
+        "encounter": ""
     },
     {
         "pos": 78,
@@ -488,14 +488,14 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Sunlit Abyss",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a partially buried, broken spyglass lie scattered, painting a tale of jellyfish navigators that solving a riddle from an ancient sea scroll."
+        "encounter": ""
     },
     {
         "pos": 83,
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Unfathomable Spring",
+        "features": "",
         "encounter": ""
     },
     {
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Unspoiled Billow",
+        "features": "",
         "encounter": ""
     },
     {
@@ -590,13 +590,13 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Boundless Seabed",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Immeasurable Swirl",
-        "encounter": "You notice codium seaweed moving subtly. Upon closer inspection, you see merfolk that are creating elaborate maps of uncharted waters."
+        "features": "",
+        "encounter": ""
     }
 ]

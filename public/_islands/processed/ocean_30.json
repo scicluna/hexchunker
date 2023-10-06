@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a seafarer's compass that points to hidden treasure that could be useful in your quest to help a stranded sailor repair their ship and return home.. But it's guarded by sarcastic cephalopod."
     },
     {
         "pos": 2,
@@ -21,12 +21,12 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it freshly caught fish on a fishing boat. You spot oceanic alchemists that seem to be solving a riddle from an ancient sea scroll."
     },
     {
         "pos": 4,
         "terrain": "O",
-        "features": "Nautical Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it musk of a sea lion colony. You spot water elementals that seem to be singing haunting songs to lure sailors."
     },
     {
         "pos": 14,
@@ -92,7 +92,7 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Grand ['Bay']",
         "encounter": ""
     },
     {
@@ -111,7 +111,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of damp, earthy smell of a rocky shore, suggesting the presence of cursed mermaids."
     },
     {
         "pos": 19,
@@ -158,20 +158,20 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Ridge']",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice caulerpa seaweed moving subtly. Upon closer inspection, you see mermen that are protecting their underwater city from intruders."
+        "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a shattered glass bottle. It appears cursed ship captains were here recently."
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Raging Mangrove",
+        "features": "Murmuring ['Pinnacle']",
         "encounter": ""
     },
     {
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "Grand Estuary",
+        "features": "Mysterious ['Upwelling']",
         "encounter": ""
     },
     {
@@ -206,8 +206,8 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "Unspoiled Wave",
-        "encounter": ""
+        "features": "",
+        "encounter": "A sudden gust brings with it briny smell of a fishing pier. You spot underwater nomads that seem to be training sea creatures for battle."
     },
     {
         "pos": 35,
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a sunken city with buildings rising to the surface. As you approach, sunken treasure guardians exploring the depths in search of a sunken city."
     },
     {
         "pos": 45,
@@ -303,7 +303,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among floating bladderwort plants, you spot a rare, ancient ship's figurehead glinting in the sunlight."
     },
     {
         "pos": 51,
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Upwelling']",
         "encounter": ""
     },
     {
@@ -338,19 +338,19 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
-        "encounter": "Surrounded by floating mats of sargassum seaweed, a series of a concealed treasure chest within a submerged statue reveal traces of a ship's figurehead washed ashore, and the distant seagulls cawing in the distance hint at more to discover."
+        "features": "Grand ['Haven']",
+        "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a sparkling pearl necklace that could be useful in your quest to rescue a kidnapped noble from a group of pirates.. But it's guarded by sea anemone sorcerers."
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Raging Jetty",
+        "features": "",
         "encounter": ""
     },
     {
@@ -380,31 +380,31 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Boundless ['Expanse']",
+        "encounter": "A trail of a torn and waterlogged book of sea legends suggests that ghost ships have passed through here on a quest to deliver a mysterious message to a reclusive island hermit.."
     },
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Untamed Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With explore an underwater cave system to find a valuable artifact. On your mind, the sudden appearance of a massive, drifting iceberg with hidden dangers accompanied by splintering of wood as a shipwreck breaks apart becomes a challenging diversion."
     },
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Unfathomable Current",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Tranquil Marina",
+        "features": "",
         "encounter": ""
     },
     {
@@ -471,18 +471,18 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of scent of freshly caught lobster and crab. You feel a sense of relief."
+        "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a seashell amulet that grants water-breathing. However, whirlpool spirits stand guard, their intentions unknown."
     },
     {
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Wave']",
         "encounter": ""
     },
     {
@@ -495,19 +495,19 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by panic as you uncover a bottle of rare and potent mermaid tears hidden within crinoids on the seafloor."
     },
     {
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant crackling of underwater lava flows draws your attention. Following it, you discover the remnants of a shipwrecked sailor's journal of a past event."
+        "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by green string lettuce, a series of a secret pirate tunnel leading to a hidden cove reveal traces of a damaged sextant with a cracked lens, and the distant chirping of crickets on a moonlit beach hint at more to discover."
     },
     {
         "pos": 85,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense codium seaweed, you discover a seafarer's compass that points to hidden treasure. You can't shake the feeling of satisfaction."
     },
     {
         "pos": 88,
@@ -572,19 +572,19 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Abyssal Isle",
+        "features": "Mysterious ['Spring']",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a massive, ancient sea turtle that won't move blocking your path. Perhaps it's related to your quest to rescue a kidnapped noble from a group of pirates.."
+        "encounter": ""
     },
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Infinite Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie echoing calls of whales in the distance resonates from a submerged ship graveyard where ghost ships rest, and the scent of crisp, ocean-scented laundry on a line fills the air."
     }
 ]

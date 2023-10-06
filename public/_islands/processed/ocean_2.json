@@ -9,18 +9,18 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "The tube worms near hydrothermal vents rustles, revealing crystal reef dwellers that are convincing a shipwrecked sailor to join their crew."
+        "encounter": "Your senses are overwhelmed by confusion as you uncover a preserved mermaid tail hidden within codium seaweed."
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Idyllic Jetty",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Mysterious Tidal Pool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Tidal Billow",
+        "features": "",
         "encounter": ""
     },
     {
@@ -44,7 +44,7 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming ['Inlet']",
         "encounter": ""
     },
     {
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Breathtaking Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -99,18 +99,18 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a pirate's cutlass with an ornate hilt nestled among gorgonian sea fans, but the unsettling feeling of contentment makes you wary."
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Estuary']",
         "encounter": ""
     },
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking ['Plateau']",
         "encounter": ""
     },
     {
@@ -122,7 +122,7 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Windswept Spring",
+        "features": "",
         "encounter": ""
     },
     {
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Raging Abyss",
+        "features": "",
         "encounter": ""
     },
     {
@@ -182,13 +182,13 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Grand Fjord",
+        "features": "Sunlit ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "Grand Isle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -200,8 +200,8 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Silent ['Flats']",
+        "encounter": "The presence of a massive, drifting iceberg with hidden dangers makes it difficult to proceed. Perhaps the sea dragons nearby can help."
     },
     {
         "pos": 34,
@@ -212,20 +212,20 @@
     {
         "pos": 35,
         "terrain": "M",
-        "features": "Lush Massif",
-        "encounter": "An eerie the soft purring of a contented mountain cat resonates from a concealed entrance to an ancient labyrinth, and the scent of the tangy aroma of a mountain barbecue feast fills the air."
+        "features": "Massive Summit",
+        "encounter": "The presence of a patch of quicksand hidden beneath the mountain surface makes it difficult to proceed. Perhaps the a flock of giant condors soaring high above nearby can help."
     },
     {
         "pos": 36,
         "terrain": "M",
-        "features": "Dense Bluff",
-        "encounter": "The ground trembles slightly, and the soft hush of falling snow in the high mountains grow louder. It seems a pack of snow leopards hunting in the rocky terrain are on the move."
+        "features": "Snowy Face",
+        "encounter": "You feel an overwhelming sense of peace of mind as you tread upon a shattered and toppled mountain watchtower, hinting at a tale of a clan of nomadic yetis roaming the peaks."
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel excitement as rhythmic crashing of waves on rocky cliffs echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 38,
@@ -236,14 +236,14 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "Teeming Depression",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a coral reef with sharp, hidden edges blocking your path. Perhaps it's related to your quest to help a shipwrecked sailor construct a signal fire to call for rescue.."
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -267,19 +267,19 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a hidden coral maze filled with merfolk traps, you sense the presence of water elementals."
+        "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "M",
-        "features": "Imposing Sierra",
-        "encounter": "You're guided by the soft the distant drumming of a woodpecker. As you follow, you encounter a tribe of gnomish inventors with curious contraptions in the midst of constructing sturdy mountain homes and fortifications."
+        "features": "Immutable Tor",
+        "encounter": "You uncover a crumbling and abandoned mountain bridge that tell a story of a time when a pack of snow leopards hunting in the rocky terrain pursued retrieve a stolen mountain clan artifact from a rival tribe.."
     },
     {
         "pos": 46,
         "terrain": "M",
-        "features": "Immutable Crag",
-        "encounter": "A sudden gust brings with it the sweet, fruity scent of wild mountain berries. You spot a tribe of reclusive druids living in the high forests that seem to be crafting intricate jewelry and ornaments."
+        "features": "Magnificent Massif",
+        "encounter": "Your senses are overwhelmed by awe as you uncover a carved wooden totem adorned with feathers hidden within tumbleweeds rolling across highland plains."
     },
     {
         "pos": 47,
@@ -338,8 +338,8 @@
     {
         "pos": 56,
         "terrain": "M",
-        "features": "Imposing Cliff",
-        "encounter": "Your journey leads you to a a steep and treacherous mountain pass. As you approach, a tribe of gnomish inventors with curious contraptions exploring hidden caves and caverns."
+        "features": "Lofty Flank",
+        "encounter": "Among the dense a field of cotton plants with fluffy bolls at high altitudes, you discover a stack of ancient scrolls filled with knowledge. You can't shake the feeling of anticipation."
     },
     {
         "pos": 57,
@@ -399,7 +399,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a massive, drifting iceberg with hidden dangers. As you approach, cursed mermaids summoning a tidal wave to defend their territory."
     },
     {
         "pos": 67,
@@ -416,7 +416,7 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Spectacular Shoal",
+        "features": "",
         "encounter": ""
     },
     {
@@ -452,14 +452,14 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Epic Bay",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden cracking of icebergs in frigid waters breaks the silence, making the nearby seafloor seagrass quiver."
     },
     {
         "pos": 77,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Sandbank']",
         "encounter": ""
     },
     {
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking ['Shore']",
         "encounter": ""
     },
     {
@@ -554,8 +554,8 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Mesmerizing Rift",
-        "encounter": ""
+        "features": "",
+        "encounter": "With discover a lost civilization by deciphering cryptic underwater runes. On your mind, the sudden appearance of a ship-eating whirlpool known as the 'ship swallower' accompanied by roaring of a powerful waterfall cascading into the sea becomes a challenging diversion."
     },
     {
         "pos": 93,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice giant clam gardens moving subtly. Upon closer inspection, you see coral golems that are performing a ritual to calm a storm."
+        "encounter": "From the shadows of the a hollowed-out giant clam used as a merfolk's dwelling, you sense the presence of selkies."
     }
 ]

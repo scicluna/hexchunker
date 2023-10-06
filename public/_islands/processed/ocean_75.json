@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Immeasurable Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -32,19 +32,19 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Bay']",
         "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
-        "features": "Lonely Flats",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable ['Vortex']",
         "encounter": ""
     },
     {
@@ -80,8 +80,8 @@
     {
         "pos": 13,
         "terrain": "M",
-        "features": "Grand Apex",
-        "encounter": "From the shadows of the a submerged entrance to an underground crystal grotto, you sense the presence of a family of chamois gracefully leaping among crags."
+        "features": "Desolate Volcano",
+        "encounter": "A path surrounded by clusters of ferns in the shade of mountain forests leads to a clearing with a shattered and toppled mountain watchtower, indicating a clan of mountain giants known for their strength have been here."
     },
     {
         "pos": 14,
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among seafloor seagrass, you spot a ship's cannon with ornate engravings glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 25,
@@ -158,7 +158,7 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic ['Atoll']",
         "encounter": ""
     },
     {
@@ -189,24 +189,24 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a piece of driftwood with an ancient carving that could be useful in your quest to help a stranded sea serpent find its way back to the open sea.. But it's guarded by sea dragons."
+        "encounter": ""
     },
     {
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden echoing calls of whales in the distance breaks the silence, making the nearby giant kelp with air-filled bladders quiver."
     },
     {
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of trepidation as you tread upon a shattered, waterlogged compass, hinting at a tale of sea anemone sorcerers."
     },
     {
         "pos": 34,
         "terrain": "O",
-        "features": "Tumultuous Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -224,14 +224,14 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Peaceful Billow",
+        "features": "Peaceful ['Harbor']",
         "encounter": ""
     },
     {
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense bubblegum coral, you discover a treasure chest full of cursed gold. You can't shake the feeling of anxiety."
+        "encounter": ""
     },
     {
         "pos": 39,
@@ -255,19 +255,19 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Jellyfish navigators emerge from the a forgotten pirate hideout in a remote cove, their intent focused on a seashell amulet that grants water-breathing."
     },
     {
         "pos": 43,
         "terrain": "M",
-        "features": "Cloud-covered Ar\u00eate",
-        "encounter": "The tall, slender blades of marsh grass in alpine wetlands rustles, revealing a clan of mountain trolls lurking in dark caves that are nurturing their young and teaching them survival skills."
+        "features": "Timeless Divide",
+        "encounter": "You find a hint leading you to help a clan of mountain creatures negotiate a truce with a rival group.. But be wary, for a band of traveling bards and minstrels lurk nearby."
     },
     {
         "pos": 44,
         "terrain": "M",
-        "features": "Climbable Crag",
-        "encounter": "An eerie the distant howling of wolves in the night resonates from a hidden path through dense alpine thickets, and the scent of the clean, woody smell of the mountain forest floor fills the air."
+        "features": "Impressive Spire",
+        "encounter": "Trails of a set of decaying mountain fence posts wind through the sparse patches of alpine desert scrub, revealing the past actions of a flock of giant condors soaring high above."
     },
     {
         "pos": 45,
@@ -303,7 +303,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a ship's wheel half-buried in the sand. It appears mermen were here recently."
     },
     {
         "pos": 51,
@@ -314,20 +314,20 @@
     {
         "pos": 52,
         "terrain": "M",
-        "features": "Volcanic Saddle",
-        "encounter": "You hear the soft purring of a contented mountain cat coming from a submerged entrance to an underground crystal grotto."
+        "features": "Snow-capped Gully",
+        "encounter": "Your journey leads you to a a vast, unforgiving mountain salt flat. As you approach, a mischievous group of perytons stalking travelers flying gracefully through mountain valleys."
     },
     {
         "pos": 53,
         "terrain": "M",
-        "features": "Dramatic Valley",
-        "encounter": "You find a hint leading you to solve the mystery of a cursed mountain meadow.. But be wary, for a tribe of friendly mountain elves skilled in archery lurk nearby."
+        "features": "Lofty Ar\u00eate",
+        "encounter": "The air is filled with the smell of the crisp scent of frost on a cold mountain morning. You feel a sense of awe."
     },
     {
         "pos": 54,
         "terrain": "M",
-        "features": "Rugged Face",
-        "encounter": "Your journey leads you to a a swarm of venomous mountain snakes. As you approach, a majestic dragon nesting high in the peaks seeking guidance from wise and ancient elders."
+        "features": "Spiritual Bowl",
+        "encounter": "The ground is littered with a set of fading and illegible mountain inscriptions. It appears a clan of mountain trolls lurking in dark caves were here recently."
     },
     {
         "pos": 55,
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden hollow echoes in an underwater cavern breaks the silence, making the nearby gorgonian sea fans quiver."
+        "encounter": ""
     },
     {
         "pos": 64,
@@ -393,18 +393,18 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a torn and waterlogged book of sea legends suggests that sea anemone sorcerers have passed through here on a quest to discover the source of a mysterious bioluminescent phenomenon.."
     },
     {
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a ship's wheel half-buried in the sand wind through the rockweed, revealing the past actions of sea witches."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil ['Inlet']",
         "encounter": ""
     },
     {
@@ -423,12 +423,12 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant rustling of palm fronds in a gentle breeze draws your attention. Following it, you discover the remnants of an ancient ship's cargo hold of a past event."
     },
     {
         "pos": 71,
         "terrain": "O",
-        "features": "Dazzling Pinnacle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -440,14 +440,14 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Undercurrent']",
         "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "Storm giants gives you a quest to solve the mystery of a cursed shipwreck and its crew's fate.In your path lies a shipwrecked chest filled with gold coins surrounded by gorgonian sea fans."
+        "encounter": ""
     },
     {
         "pos": 75,
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal ['Drop-off']",
         "encounter": ""
     },
     {
@@ -488,7 +488,7 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring ['Deep']",
         "encounter": ""
     },
     {
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and sizzling of saltwater on hot volcanic rocks grow louder. It seems cursed ship captains are on the move."
     },
     {
         "pos": 84,
@@ -512,8 +512,8 @@
     {
         "pos": 85,
         "terrain": "M",
-        "features": "Basaltic Cirque",
-        "encounter": "You stumble upon a ruined and overgrown mountain castle wall indicating past battles."
+        "features": "Majestic Vista",
+        "encounter": "From the shadows of the a hidden oasis within a remote mountain plateau, you sense the presence of a herd of surefooted mountain ibex."
     },
     {
         "pos": 86,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to discover a lost civilization by deciphering cryptic underwater runes.. But be wary, for cursed mermaids lurk nearby."
     },
     {
         "pos": 88,
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "With investigate the disappearance of a famous sea captain and their crew. On your mind, the sudden appearance of a colony of hostile merfolk guarding their territory accompanied by seagulls cawing in the distance becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 92,
@@ -591,7 +591,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel anxiety as sloshing of water in a mermaid's bathtub echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 99,

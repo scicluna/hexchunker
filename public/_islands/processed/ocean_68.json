@@ -8,14 +8,14 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Flats']",
         "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of rustling of seaweed swaying in the current is accompanied by the distinct aroma of smoky aroma of a beachside bonfire. It seems giant sea turtles are involved in exploring a mysterious underwater cave."
     },
     {
         "pos": 3,
@@ -26,7 +26,7 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious ['Reef']",
         "encounter": ""
     },
     {
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Dazzling Lagoon",
+        "features": "Ageless ['Deep']",
         "encounter": ""
     },
     {
@@ -74,13 +74,13 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Upwelling']",
         "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable ['Main']",
         "encounter": ""
     },
     {
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Pinnacle']",
         "encounter": ""
     },
     {
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -128,13 +128,13 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Narrows']",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Flats']",
         "encounter": ""
     },
     {
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Crystal-clear Undercurrent",
+        "features": "",
         "encounter": ""
     },
     {
@@ -212,8 +212,8 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Dense Bay",
-        "encounter": ""
+        "features": "",
+        "encounter": "Ahead, there is a colony of territorial sea lions blocking passage blocking your path. Perhaps it's related to your quest to defend a coastal town from raiding sea creatures.."
     },
     {
         "pos": 36,
@@ -242,7 +242,7 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Spectacular Gulf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter island hermit which are collecting rare and magical seashells."
     },
     {
         "pos": 49,
@@ -314,8 +314,8 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "",
-        "encounter": "A path surrounded by giant kelp with air-filled bladders leads to a clearing with an abandoned lifeboat adrift on the waves, indicating shipwreck goblins have been here."
+        "features": "Spectacular ['Strait']",
+        "encounter": "You come across a shattered, waterlogged compass of an old campsite, the scent of pungent aroma of a hidden pirate's stash still lingering."
     },
     {
         "pos": 53,
@@ -338,14 +338,14 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Soothing Pinnacle",
+        "features": "Unspoiled ['Current']",
         "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
-        "encounter": "You see a sparkling pearl necklace that could be useful in your quest to investigate reports of disappearing ships in a cursed sea.. But it's guarded by sea dragons."
+        "features": "Bubbling ['Cove']",
+        "encounter": ""
     },
     {
         "pos": 58,
@@ -375,7 +375,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among mermaid's hair algae, you spot a sea serpent scale glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 63,
@@ -392,19 +392,19 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Surging ['Drop-off']",
         "encounter": ""
     },
     {
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a torn and waterlogged book of sea legends that tell a story of a time when floating market traders pursued explore an underwater cave system to find a valuable artifact.."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Isle']",
         "encounter": ""
     },
     {
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Breathtaking Marina",
+        "features": "",
         "encounter": ""
     },
     {
@@ -464,7 +464,7 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Fjord']",
         "encounter": ""
     },
     {
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a ship's wheel half-buried in the sand of an old campsite, the scent of smoky scent of grilled seafood still lingering."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -560,8 +560,8 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Daunting ['Marina']",
+        "encounter": "You see a magical mermaid's mirror that reveals secrets that could be useful in your quest to retrieve a rare coral sample for an eccentric scientist.. But it's guarded by kraken."
     },
     {
         "pos": 94,
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering ['Inlet']",
         "encounter": ""
     },
     {

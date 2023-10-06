@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Deep Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -15,12 +15,12 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice seaweed-covered rocks moving subtly. Upon closer inspection, you see cursed ship captains that are hunting for fish and other sea creatures."
+        "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Tidal Sound",
+        "features": "",
         "encounter": ""
     },
     {
@@ -80,14 +80,14 @@
     {
         "pos": 13,
         "terrain": "H",
-        "features": "Dewy Dale",
-        "encounter": "A pride of ferocious mountain lions gives you a quest to escort a group of settlers to establish a new village in the hills.In your path lies a bundle of rare and colorful feathers surrounded by clusters of mushrooms on the forest floor."
+        "features": "Green Heights",
+        "encounter": "The air is filled with the smell of the earthy scent of moss growing on rocks. You feel a sense of unity."
     },
     {
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear seagulls cawing in the distance coming from a concealed merfolk palace hidden behind a waterfall."
     },
     {
         "pos": 15,
@@ -98,8 +98,8 @@
     {
         "pos": 16,
         "terrain": "H",
-        "features": "Dewy Brae",
-        "encounter": "You're guided by the soft the distant barking of a watchful dog. As you follow, you encounter a group of skilled miners extracting precious minerals in the midst of participating in grand feasts and celebrations."
+        "features": "Tiered Upland",
+        "encounter": "The clusters of pine cones on the ground rustles, revealing a clan of hill giants known for their stone-throwing abilities that are honoring their ancestors through ceremonial rituals."
     },
     {
         "pos": 17,
@@ -140,8 +140,8 @@
     {
         "pos": 23,
         "terrain": "H",
-        "features": "Secluded Summit",
-        "encounter": "You uncover a forgotten and weathered scarecrow that tell a story of a time when a herd of surefooted mountain goats pursued escort a diplomatic envoy through hostile territory to negotiate peace.."
+        "features": "Majestic Embankment",
+        "encounter": "You encounter a clan of wise and reclusive hermit wizards which are nurturing their young and teaching them survival skills."
     },
     {
         "pos": 24,
@@ -152,14 +152,14 @@
     {
         "pos": 25,
         "terrain": "H",
-        "features": "Silhouetted Dune",
-        "encounter": "Trails of a crumbling and abandoned well wind through the a field of cotton plants with fluffy bolls, revealing the past actions of a reclusive hermit living in a hidden hillside cottage."
+        "features": "Silhouetted Peak",
+        "encounter": "Surrounded by a grove of birch trees, a series of a well-hidden alcove in a canyon wall reveal traces of a shattered and toppled watchtower, and the distant the soft splashing of water at a river's edge hint at more to discover."
     },
     {
         "pos": 26,
         "terrain": "H",
-        "features": "Silhouetted Upland",
-        "encounter": "The air is filled with the smell of the rich, earthy smell of a fertile meadow. You feel a sense of joy."
+        "features": "Tiered Terrace",
+        "encounter": "You encounter a nomadic band of skilled hunters and trappers which are conducting trade with traveling merchants and caravans."
     },
     {
         "pos": 27,
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming ['Flats']",
         "encounter": ""
     },
     {
@@ -194,50 +194,50 @@
     {
         "pos": 32,
         "terrain": "H",
-        "features": "Looming Pinnacle",
-        "encounter": "A sudden the chorus of birdsong welcoming the dawn breaks the silence, making the nearby a dense canopy of oak trees quiver."
+        "features": "Humped Climb",
+        "encounter": "A path surrounded by clusters of yucca plants leads to a clearing with a partially buried and cracked sundial, indicating a wise and ancient treant guarding a sacred grove have been here."
     },
     {
         "pos": 33,
         "terrain": "H",
-        "features": "Grassy Mound",
-        "encounter": "A path surrounded by a dense canopy of oak trees leads to a clearing with a tattered and forgotten battle banner, indicating a nomadic tribe of goat herders have been here."
+        "features": "Undulating Incline",
+        "encounter": "A mysterious the smoky aroma of a cooking pot over a campfire envelops you, drawing you towards a hidden tunnel leading to a secluded cavern where a group of crafty goblins hiding in rocky caves are hunting for rare and mystical herbs."
     },
     {
         "pos": 34,
         "terrain": "P",
-        "features": "Rocky Pampas",
-        "encounter": "Strange a fallen, forgotten wind chime lie scattered, painting a tale of a tribe of friendly and herbivorous lizardfolk that searching for lost relics and sacred artifacts."
+        "features": "Barren Field",
+        "encounter": "The presence of a vast, open plain with no cover from the sun makes it difficult to proceed. Perhaps the a colony of giant ants with a complex social structure nearby can help."
     },
     {
         "pos": 35,
         "terrain": "H",
-        "features": "Barren Escarpment",
-        "encounter": "A mysterious the rich scent of fertile, damp soil envelops you, drawing you towards a concealed entrance to a treasure-filled cavern where a family of griffins soaring over the hills are climbing steep slopes to reach their nests."
+        "features": "Eroded Summit",
+        "encounter": "Your senses are overwhelmed by bliss as you uncover a bundle of rare and exotic spices hidden within clusters of wild berries."
     },
     {
         "pos": 36,
         "terrain": "H",
-        "features": "Rolling Slope",
-        "encounter": "You spot a collection of rare and valuable gemstones nestled among tall and slender stalks of bamboo, but the unsettling feeling of gratification makes you wary."
+        "features": "Echoing Crest",
+        "encounter": "Your senses are overwhelmed by anticipation as you uncover a piece of exquisite hand-blown glass hidden within a stand of tall, ancient redwoods."
     },
     {
         "pos": 37,
         "terrain": "P",
-        "features": "Boundless Acres",
-        "encounter": "A colony of giant ants with a complex social structure gives you a quest to help a tribe of centaurs negotiate a truce with a rival clan.In your path lies a leather-bound journal filled with sketches and notes surrounded by tall, swaying grasses."
+        "features": "Rich Horizon",
+        "encounter": "A trail of a toppled and shattered stone monolith suggests that a friendly clan of halfling farmers have passed through here on a quest to track down a legendary white stag for its valuable antlers.."
     },
     {
         "pos": 38,
         "terrain": "P",
-        "features": "Golden Yard",
-        "encounter": "The air is filled with the smell of the sweet, fruity scent of wild berries. You feel a sense of hope."
+        "features": "Natural Pasture",
+        "encounter": "Navigating through a dense, choking fog shrouding the landscape, you're surprised to find a hidden oasis within a vast desert plain filled with a faded and illegible gravestone.As you journey forward, you come across a finely crafted quiver filled with arrows, with traces of the sweet scent of a patch of clover around them."
     },
     {
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a whirlpool leading to a mysterious underwater realm, your attention is caught by chattering of crabs on a rocky shore. Upon investigating, you discover a sunken, ghostly ship hidden in a fog bank with a coral crown adorned with precious gems inside."
     },
     {
         "pos": 40,
@@ -254,49 +254,49 @@
     {
         "pos": 42,
         "terrain": "H",
-        "features": "Jagged Climb",
-        "encounter": "A trail of a shattered and toppled watchtower suggests that a group of friendly and nature-loving wood elves have passed through here on a quest to retrieve a lost family heirloom hidden in an ancient cave.."
+        "features": "Imposing Dune",
+        "encounter": "The whisper of the gentle splashing of water in a hillside stream is accompanied by the distinct aroma of the spicy aroma of wild herbs drying in the sun. It seems a nomadic tribe of goat herders are involved in farming and cultivating crops in terraced fields."
     },
     {
         "pos": 43,
         "terrain": "H",
-        "features": "Tree-covered Bank",
-        "encounter": "You're guided by the soft the distant call of a solitary hawk soaring above. As you follow, you encounter a clan of hardy dwarves mining deep in the hills in the midst of practicing their magical abilities in secluded groves."
+        "features": "Whistling Highland",
+        "encounter": "You stumble upon a scene where a flock of colorful and exotic birds with vibrant plumage are engaged in harvesting rare minerals from the hills around a bundle of rare and magical scrolls, seemingly crucial for track down a legendary and elusive beast in the highlands.."
     },
     {
         "pos": 44,
         "terrain": "F",
-        "features": "Tropical River",
-        "encounter": "The whisper of the soothing hum of insects on a summer day is accompanied by the distinct aroma of the sweet scent of fresh forest honey in the wild. It seems a family of bears living in a forest cave are involved in creating enchanted forest wards."
+        "features": "Damp Brook",
+        "encounter": "Surrounded by bushy sagebrush in the woods, a series of a secret passage beneath a forest riverbank reveal traces of a toppled and overgrown forest fountain, and the distant the distant hooting of a forest owl hint at more to discover."
     },
     {
         "pos": 45,
         "terrain": "H",
-        "features": "Rugged Crest",
-        "encounter": "A trail of a forgotten and tattered flagpole suggests that a band of itinerant herbalists and healers have passed through here on a quest to retrieve a rare and valuable plant for an ailing herbalist.."
+        "features": "Tiered Slope",
+        "encounter": "Deep in thought about retrieve a stolen tribe artifact from a rival nomadic group., you're startled by the distant howling of a wolf pack. It seems giant eagles nesting in high cliffs and peaks are near."
     },
     {
         "pos": 46,
         "terrain": "H",
-        "features": "Majestic Descent",
-        "encounter": "You feel an overwhelming sense of reverence as you tread upon a decaying and half-buried anchor, hinting at a tale of a herd of woolly mountain sheep."
+        "features": "Cultivated Roll",
+        "encounter": "The ground is littered with a toppled and shattered stone monolith. It appears a family of wild boars foraging for food were here recently."
     },
     {
         "pos": 47,
         "terrain": "P",
-        "features": "Calm Bluff",
-        "encounter": "A sudden gust brings with it the scent of wild herbs carried on the wind. You spot a tribe of friendly and herbivorous lizardfolk that seem to be creating intricate artwork and crafts."
+        "features": "Radiant Dale",
+        "encounter": "You stumble upon a toppled and shattered stone monolith indicating past battles."
     },
     {
         "pos": 48,
         "terrain": "P",
-        "features": "Mesmeric Valley",
-        "encounter": "The presence of a relentless, biting blizzard makes it difficult to proceed. Perhaps the a group of skilled animal trainers and tamers nearby can help."
+        "features": "Uninhabited Pampas",
+        "encounter": "A path surrounded by tall, slender blades of marsh grass leads to a clearing with a faded and illegible gravestone, indicating a clan of nomadic halfling herbalists have been here."
     },
     {
         "pos": 49,
         "terrain": "O",
-        "features": "Serene Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -309,49 +309,49 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a collection of seashells with hidden messages. However, floating market traders stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 52,
         "terrain": "T",
-        "features": "['Seabreeze Harbor', 'Coral Cove', \"Pirate's Cove\", \"Mermaid's Lagoon\", 'Skull Island', \"Siren's Song\", 'Shipwreck Bay', 'Treasure Isle', 'Turtle Beach', 'Moonlit Bay', 'Sunset Shores', 'Whalebone Village', 'Azure Cove', 'Mystic Isle', 'Jungle Landing', 'Pearl Harbor', 'Windward Port', 'Golden Sands', 'Emerald Cove', 'Dragonstone Port', \"Kraken's Keep\", 'Blackbeard Bay', 'Tidal Haven', 'Sapphire Isle', 'Stormy Harbor', 'Rustic Wharf', 'Whispering Pines', 'Moonlit Haven', 'Silvermoon Bay', 'Hidden Anchorage', 'Starfish Cove', 'Misty Harbor', 'Crimson Bay', \"Dolphin's Cove\", 'Emerald Harbor', 'Tropical Breeze', 'Marine Village', 'Cursed Cove', 'Rainbow Shores', 'Turtle Island', \"Pirate's Paradise\", \"Witch's Haven\", 'Crystal Waters', 'Coral Harbor', 'Rusty Anchor', 'Moonlit Oasis', 'Ghostly Port', 'Lighthouse Landing', \"Fisherman's Retreat\", \"Dragon's Den\", 'Sapphire Harbor', 'Jewel Bay', 'Golden Sands Cove', 'Treasure Cove', 'Seashell Haven', 'Abyssal Abyss', 'Mystic Cove', 'Mango Bay', 'Silvershore', 'Stormy Waters', \"Merfolk's Refuge\", 'Wavesong Harbor', 'Maritime Village', 'Sunset Bay', 'Amber Cove', \"Kraken's Lair\", 'Tidepool Haven', 'Whispering Pines Cove', 'Cursed Island', 'Blackwater Harbor', 'Whale Song Bay', \"Dragon's Breath Port\", \"Pirate's Retreat\", 'Pearl Cove', 'Coral Reef Port', 'Moonlit Lagoon', 'Azure Harbor', \"Rogue's Retreat\", 'Rainbow Harbor', 'Hidden Treasure Bay', \"Siren's Cove\", 'Volcano Bay', 'Skeleton Island', 'Crimson Harbor', \"Witch's Cove\", 'Emerald Oasis', 'Haunted Harbor', 'Misty Shores', 'Crystal Cove', 'Mystical Waters', 'Tidal Village', \"Galleon's Graveyard\", 'Silverstrand Bay', 'Palm Paradise', 'Lighthouse Cove', \"Dragon's Roar Port\", 'Sapphire Shores', 'Mystic Sands', 'Jewel Harbor', 'Golden Anchor Bay', \"Treasure Hunter's Haven\", 'Seashell Cove', 'Abyssal Port', 'Starfish Haven', 'Sunken Ship Bay', 'Cursed Treasure Cove', \"Mermaid's Harbor\", 'Wavesong Village', 'Coral Beach', \"Siren's Retreat\", 'Black Pearl Cove', \"Whale's Tail Bay\", \"Dragon's Claw Port\", 'Turtle Shell Cove', 'Moonlit Cove', 'Marine Haven', 'Ghost Ship Bay', 'Silvermoon Harbor', 'Stormy Shore', 'Turtle Haven', 'Crystal Cove Village', 'Mystic Bay', \"Pirate's Rest\", 'Pearl Harbor Cove', 'Sunset Oasis', 'Treasure Trove Bay', 'Emerald Sound', 'Crimson Shores', 'Dolphin Cove', 'Sapphire Shores Cove', 'Rusty Cutlass Cove', \"Pirate's Plunder\", 'Misty Mirage', 'Crimson Cove', 'Aqua Bay', 'Emerald Enclave', 'Tropical Treasure', 'Marina Vista', \"Witch's Wharf\", 'Rainbow Retreat', 'Atlantis Haven', \"Dragon's Lair\", 'Sapphire Serenity', \"Mermaid's Hideaway\", 'Jewel Junction', 'Golden Galleon', 'Treasure Trove', 'Seaweed Sanctuary', 'Abyssal Abyss', 'Mystic Mirage', 'Mango Mist', 'Silver Serenity', 'Stormy Secrets', \"Merfolk's Marina\", 'Whispering Waters', 'Marine Mysteries', 'Sunset Serenade', 'Amber Anchorage', \"Kraken's Abyss\", 'Tidepool Tavern', 'Coral Dreams', 'Rusty Shipyard', 'Moonlit Magic', 'Ghost Ship Harbor', 'Lighthouse Lookout', \"Fisherman's Fortune\", \"Dragon's Dominion\", 'Sapphire Serenade', 'Jewel Junction', 'Golden Grotto', 'Treasure Trail', 'Seashell Shores', 'Abyssal Adventure', 'Mystic Magic', 'Mango Mirage', 'Silvershore Sanctuary', 'Stormy Splendor', \"Mermaid's Melody\", 'Wavesong Wharf', 'Maritime Marvel', 'Sunset Serenity', 'Amber Azure', \"Kraken's Keep\", 'Tidepool Treasure', 'Coral Cove', 'Rainbow Reflections', 'Hidden Harbor', \"Siren's Serenade\", 'Volcano Vista', \"Skeleton's Cove\", 'Crimson Cape', \"Witch's Wonders\", 'Emerald Echoes', 'Haunted Hideaway', 'Misty Mysteries', 'Crystal Cascades', 'Mystical Mirage', 'Tidal Treasures', \"Galleon's Gold\", 'Silverstrand Serenity', 'Palm Paradise Cove', 'Lighthouse Lookout', \"Dragon's Domain\", 'Sapphire Splendor', 'Mystic Meadows', 'Jewel Junction Cove', 'Golden Galleon Bay', \"Treasure Hunter's Hideaway\", 'Seashell Serenity', 'Abyssal Atoll', 'Starfish Sanctuary', 'Sunken Secrets', 'Cursed Caverns', \"Mermaid's Melody\", 'Wavesong Wonders', 'Coral Cove Cove', \"Siren's Sanctuary\", 'Black Pearl Bay', \"Whale's Watch\", \"Dragon's Dominion Cove\", \"Turtle's Treasure\", 'Moonlit Mysteries', 'Marine Marvel', 'Ghost Ship Grotto', 'Silvermoon Serenade', 'Stormy Splendors', \"Turtle's Tranquility\", 'Crystal Cove Cove', 'Mystic Magic Cove', \"Pirate's Paradise Cove\", 'Pearl Harbor Cove', 'Sunset Serenity Cove', 'Treasure Trove Cove', 'Emerald Echoes Cove', 'Crimson Cove Cove', \"Dolphin's Delight Cove\", 'Sapphire Splendor Cove', 'Rusty Relic Cove', \"Pirate's Perch\", 'Mystic Mirage Cove', 'Crimson Shores Cove', 'Aqua Haven', 'Emerald Shores Cove', 'Tropical Tranquility', 'Marina Vista Cove', \"Witch's Wharf Cove\", 'Rainbow Reef Cove', 'Atlantis Oasis', \"Dragon's Roost\", 'Sapphire Serenity Cove', \"Mermaid's Cove\", 'Jewel Junction Cove', 'Golden Grotto Cove', 'Treasure Cove Cove', 'Seashell Cove Cove', 'Abyssal Abyss Cove', 'Mystic Mirage Cove Cove', 'Mango Mist Cove', 'Silver Serenity Cove Cove', 'Stormy Secrets Cove', \"Merfolk's Marina Cove\", 'Whispering Waters Cove', 'Marine Mysteries Cove', 'Sunset Serenade Cove', 'Amber Anchorage Cove', \"Kraken's Abyss Cove\", 'Tidepool Tavern Cove', 'Coral Dreams Cove', 'Rusty Shipyard Cove', 'Moonlit Magic Cove', 'Ghost Ship Harbor Cove', 'Lighthouse Lookout Cove', \"Fisherman's Fortune Cove\", \"Dragon's Roost Cove\", 'Sapphire Serenade Cove Cove', 'Jewel Junction Cove Cove', 'Golden Grotto Cove Cove', 'Treasure Trail Cove', 'Seashell Shores Cove Cove', 'Abyssal Adventure Cove', 'Mystic Magic Cove Cove', 'Mango Mirage Cove', 'Silvershore Sanctuary Cove Cove', 'Stormy Splendor Cove', \"Mermaid's Melody Cove\", 'Wavesong Wharf Cove Cove', 'Maritime Marvel Cove', 'Sunset Serenity Cove Cove', 'Amber Azure Cove', \"Kraken's Keep Cove\", 'Tidepool Treasure Cove Cove', 'Coral Cove Cove Cove', 'Rainbow Reflections Cove', 'Hidden Harbor Cove', \"Siren's Serenade Cove\", 'Volcano Vista Cove', \"Skeleton's Cove Cove\", 'Crimson Cape Cove', \"Witch's Wonders Cove\", 'Emerald Echoes Cove', 'Haunted Hideaway Cove', 'Misty Mysteries Cove', 'Crystal Cascades Cove', 'Mystical Mirage Cove Cove', 'Tidal Treasures Cove', \"Galleon's Gold Cove\", 'Silverstrand Serenity Cove Cove', 'Portsmouth', 'Harborview', 'Seaview', \"Anchor's End\", 'Marinatown', 'Bayshore', 'Cresthaven', 'Lakewood', 'Fairharbor', 'Windsor Cove', 'Stonebridge', 'Brookside', 'Kingsport', 'Newport', 'Havenfield', 'Oceanville', 'Rivertown', 'Greenwich', 'Cliffside', 'Fishingham', 'Millville', 'Riverside', 'Harbor Springs', 'Highland Bay', 'Covebridge', 'Piermont', 'Hollyville', 'Shoreside', 'Maplewood', 'Harborside', 'Lighthouse Bay', 'Rockport', 'Beachwood', 'Bayside', 'Tidewater', \"Sailor's Cove\", 'Summerfield', 'Bridgewater', 'Harborview Cove', 'Meadowville', 'Waverly', \"Fisher's Cove\", 'Havenbrook', 'Crestwood', 'Rivershore', 'Windward Bay', 'Pinecrest', 'Newbridge', 'Seawinds', 'Bayside Heights', 'Seabrook', 'Greenfield', 'Portside', 'Lakemont', 'Marinaville', 'Harborside Cove', 'Tidewatch', 'Shorehaven', 'Fairwind', 'Bayfield', 'Oakridge', 'Waterside', 'Riverbend', \"Sailor's Point\", 'Havenridge', 'Brookside Cove', \"Anchor's Landing\", 'Lighthouse Cove', 'Woodbridge', 'Riverside Cove', 'Harborview Heights', 'Harborside Village', 'Highland Cove', 'Crestwood Bay', 'Bayside Park', 'Cliffside Cove', 'Seaside', 'Seaview Cove', 'Kingsbridge', 'Piercove', 'Lakemeadow', 'Ocean Bay', \"Harbor's Edge\", \"Fisher's Landing\", 'Bayside Point', 'Bayhill', 'Maplebridge', 'Port Haven', 'Waterside Village', 'Lighthouse Point', \"Sailor's Haven\", 'Bridgewater Cove', 'Greenbriar', 'Seaglen', 'Marina Bay', 'Tidewatch Cove', 'Harbor Heights', 'Riverbend Cove', 'Bayside Terrace', 'Crestwood Village', \"Harbor's View\", 'Bayview Cove', 'Brookside Village', 'Shoreline', 'Portside Cove', 'Riverview', 'Bayside Harbor', 'Marinavista', 'Bayfront', 'Harbor Bayou', 'Cliffview Cove', 'Seahaven', 'Harborwalk', 'Bridgetown', 'Lakeside', 'Oceanwood', 'Waveridge', 'Seawind Cove', 'Crestbrook', 'Pier Harbor', 'Harbor Village', 'Coastal Cove', 'Woodside', 'Harbor Isle', 'Bayside Cove Cove', 'Baycrest', 'Marinaville Cove', 'Beachside', 'Bridgewood', 'Tideview', \"Anchor's Cove\", 'Harborfield', 'Bayshire', 'Harborview Village', 'Seascape Cove', 'Harbor Cove Cove', 'Portside Bay', 'Riverside Village', 'Bayshore Cove', 'Marinatown Cove', 'Cliffview Bay', 'Seaspray', 'Piermont Village', 'Bayview Landing', 'Havenbridge Cove', 'Crestwood Harbor', 'Maritime Point', 'Beachfront Bay', 'Harborwatch Cove', 'Shoreside Village', 'Seagrove', 'Seabridge', \"Anchor's Landing\", 'Fairview Cove', 'Marinavista Bay', 'Bayfield Terrace', 'Lighthouse Pointe', 'Ocean Crest', 'Bridgewater Bay', 'Rivertown Haven', 'Harborside Bayou', \"Harbor's Reach\", 'Woodside Haven', 'Bayside Cove Heights', 'Harborwalk Village', 'Harborfield Heights', 'Portside Bay Park', 'Riverside Haven Cove', 'Bayshore Coveview', 'Marinatown Pointe', 'Cliffview Bayport', 'Harborside Vista', 'Seahaven Shore', 'Harborwalk Landing', 'Bridgetown Shoreline', 'Lakeside Bayview', 'Oceanwood Bayfront', 'Waveridge Port', 'Seawind Harbor Village', 'Crestbrook Harbor', 'Pier Harbor Point', 'Harbor Village Crossing', 'Coastal Cove Beach', 'Woodside Bayfront', 'Harbor Isle Point', 'Bayside Heights Crossing', 'Baycrest Bayview', 'Marinaville Pier', 'Beachside Baywalk', 'Bridgewood Shore', 'Tideview Pointe', \"Anchor's Reach\", 'Harborfield Baywood', 'Bayshire Harbor', 'Harborview Village Point', 'Seascape Port', 'Harbor Reach', 'Portside Bay Harbor', 'Riverside Village Crossing', 'Bayshore Harborview', 'Marinatown Point Landing', 'Cliffview Bay Landing', 'Harborside Bay Point', 'Seahaven Shoreline', 'Harborwalk Landing Point', 'Bridgetown Shoreline Crossing', 'Lakeside Bayview Point', 'Oceanwood Bayfront Village', 'Waveridge Port Crossing', 'Seawind Harbor Village Point', 'Crestbrook Harbor Point', 'Pier Harbor Point Landing', 'Harbor Village Crossing Point', 'Coastal Cove Beach Landing', 'Woodside Bayfront Landing', 'Harbor Isle Point Village', 'Bayside Heights Crossing Point', 'Baycrest Bayview Point', 'Marinaville Pier Village', 'Beachside Baywalk Landing', 'Bridgewood Shore Point', 'Tideview Pointe Landing', \"Anchor's Reach Village\", 'Harborfield Baywood Landing', 'Bayshire Harbor Village', 'Harborview Village Point Landing', 'Seascape Port Village', 'Harbor Reach Point', 'Portside Bay Harbor Landing', 'Riverside Village Crossing Point', 'Bayshore Harborview Village', 'Marinatown Point Landing Village', 'Cliffview Bay Landing Village', 'Harborside Bay Point Village', 'Seahaven Shoreline Village']",
-        "encounter": "The air is filled with the smell of the aroma of freshly baked bread in the town. You feel a sense of eagerness."
+        "features": "Golden Galleon Bay",
+        "encounter": "You hear the distant chatter of children playing in a town park coming from a hidden chamber beneath a town's mansion."
     },
     {
         "pos": 53,
         "terrain": "H",
-        "features": "Undulating Bank",
-        "encounter": "You encounter a pack of territorial mountain lions which are farming and cultivating crops in terraced fields."
+        "features": "Hazy Terrace",
+        "encounter": "Surrounded by a grove of aspen trees, a series of a hidden tunnel leading to a secluded cavern reveal traces of a forgotten and tumbledown windmill, and the distant the gentle whistling of the wind through rocky terrain hint at more to discover."
     },
     {
         "pos": 54,
         "terrain": "P",
-        "features": "Pristine Vista",
-        "encounter": "A wise and ancient treant protecting the forest's edge gives you a quest to defend a village from an approaching swarm of locusts.In your path lies a trove of semi-precious stones and crystals surrounded by low-lying moss and lichen."
+        "features": "Remote Downs",
+        "encounter": "A path surrounded by a field of cotton plants with fluffy bolls leads to a clearing with a half-buried, broken cart axle, indicating a pack of majestic wolves with alpha leaders have been here."
     },
     {
         "pos": 55,
         "terrain": "H",
-        "features": "Serrated Dale",
-        "encounter": "You stumble upon a crumbling and abandoned well indicating past battles."
+        "features": "Silhouetted Roll",
+        "encounter": "You spot a weathered and ancient map nestled among prairie grasses with seed heads, but the unsettling feeling of admiration makes you wary."
     },
     {
         "pos": 56,
         "terrain": "H",
-        "features": "Weathered Brae",
-        "encounter": "Blocked by a band of nomadic warriors guarding their territory, your attention is caught by the distant barking of a watchful dog. Upon investigating, you discover a secret tunnel leading to an underground chamber with a piece of exquisite hand-blown glass inside."
+        "features": "Misty Dune",
+        "encounter": "A distant the humming of insects on a warm day draws your attention. Following it, you discover a forgotten and weathered scarecrow of a past event."
     },
     {
         "pos": 57,
         "terrain": "P",
-        "features": "Radiant Savannah",
-        "encounter": "Every step forward is met with the increasing intensity of the sweet, fruity scent of wild berries, suggesting the presence of a family of giant armadillos rolling through the grasslands."
+        "features": "Rugged Thicket",
+        "encounter": "Every step forward is met with the increasing intensity of the spicy aroma of wild herbs drying in the sun, suggesting the presence of a wise old owl with the gift of prophecy."
     },
     {
         "pos": 58,
         "terrain": "P",
-        "features": "Stony Grove",
-        "encounter": "You come across a crumbling, overgrown temple entrance of an old campsite, the scent of the pungent odor of sagebrush on a hot day still lingering."
+        "features": "Rolling Clearing",
+        "encounter": "You're guided by the soft the soft hush of falling snow. As you follow, you encounter a pack of majestic wolves with alpha leaders in the midst of seeking guidance from wise and ancient elders."
     },
     {
         "pos": 59,
@@ -368,62 +368,62 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Billow']",
         "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "H",
-        "features": "Grassy Slope",
-        "encounter": "You find a hint leading you to investigate the theft of valuable minerals from a mining operation.. But be wary, for giant eagles nesting in high cliffs and peaks lurk nearby."
+        "features": "Steep Embankment",
+        "encounter": "Deep in thought about hunt down a notorious bandit gang that has been hiding in the hills., you're startled by the gentle splashing of water in a hillside stream. It seems a herd of agile and horned antelopes are near."
     },
     {
         "pos": 63,
         "terrain": "H",
-        "features": "Majestic Ridge",
-        "encounter": "Hidden among sparse patches of desert wildflowers, you spot a piece of exquisite hand-blown glass glinting in the sunlight."
+        "features": "Eroded Ridge",
+        "encounter": "Your journey leads you to a a treacherous, sinking bog. As you approach, a family of owlbears making their home in the hills organizing athletic competitions and races."
     },
     {
         "pos": 64,
         "terrain": "P",
-        "features": "Bountiful Sward",
-        "encounter": "From the shadows of the a secret tunnel leading to a hidden chamber, you sense the presence of a clan of nomadic gnomes skilled in earth magic."
+        "features": "Endless Flats",
+        "encounter": "Among the dense a stand of tall pine trees, you discover a set of hand-carved wooden figurines. You can't shake the feeling of simplicity."
     },
     {
         "pos": 65,
         "terrain": "H",
-        "features": "Inviting Plateau",
-        "encounter": "You come across a weathered and toppled stone statue of an old campsite, the scent of the crisp scent of frost on a winter morning still lingering."
+        "features": "Flourishing Brae",
+        "encounter": "You find a hint leading you to retrieve a stolen artifact hidden in a hillside tomb.. But be wary, for a pack of wily coyotes scavenging for food lurk nearby."
     },
     {
         "pos": 66,
         "terrain": "H",
-        "features": "Gentle Summit",
-        "encounter": "A distant the distant call of a solitary hawk soaring above draws your attention. Following it, you discover a set of worn and weathered standing stones of a past event."
+        "features": "Tiered Incline",
+        "encounter": "You're guided by the soft the soft murmur of a hidden stream. As you follow, you encounter a family of giant hawks nesting in the cliffs in the midst of tending to their herds of goats and sheep."
     },
     {
         "pos": 67,
         "terrain": "P",
-        "features": "Windswept Valley",
-        "encounter": "With escort a valuable caravan through bandit-infested plains. On your mind, the sudden appearance of a wide and treacherous chasm accompanied by the soft hooting of an owl at dusk becomes a challenging diversion."
+        "features": "Verdant Breadth",
+        "encounter": "Every step forward is met with the increasing intensity of the pungent smell of a skunk in the distance, suggesting the presence of a mischievous leprechaun guarding its hidden treasure."
     },
     {
         "pos": 68,
         "terrain": "F",
-        "features": "Leafy Underbrush",
-        "encounter": "A band of forest outlaws hiding from the law gives you a quest to protect a rare and valuable gemstone deposit from poachers.In your path lies a well-preserved ancient forest artifact surrounded by clusters of acorns on the ground in wooded areas."
+        "features": "Enveloping Underbrush",
+        "encounter": "You stumble upon a set of decaying forest fence posts indicating past battles."
     },
     {
         "pos": 69,
         "terrain": "H",
-        "features": "Panoramic Slope",
-        "encounter": "Navigating through a treacherous, sinking bog, you're surprised to find a concealed chamber within a rocky outcrop filled with a moss-covered and toppled obelisk.As you journey forward, you come across a carved bone figurine of an ancient deity, with traces of the crisp scent of fallen leaves in autumn around them."
+        "features": "Undulating Highland",
+        "encounter": "You hear the distant drumming of a woodpecker coming from a concealed opening in a thicket of thorns."
     },
     {
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of excitement as you tread upon the remnants of a coral-encrusted treasure chest, hinting at a tale of mermen."
+        "encounter": ""
     },
     {
         "pos": 71,
@@ -434,44 +434,44 @@
     {
         "pos": 72,
         "terrain": "H",
-        "features": "Idyllic Climb",
-        "encounter": "The presence of a labyrinthine network of winding canyons makes it difficult to proceed. Perhaps the a band of itinerant herbalists and healers nearby can help."
+        "features": "Rolling Dell",
+        "encounter": "Your journey leads you to a a colony of venomous spiders weaving webs. As you approach, a band of traveling bards and minstrels crafting intricate jewelry and ornaments."
     },
     {
         "pos": 73,
         "terrain": "H",
-        "features": "Rocky Ascent",
-        "encounter": "The ground trembles slightly, and the distant howling of coyotes in the night grow louder. It seems a group of skilled miners extracting precious minerals are on the move."
+        "features": "Mossy Pinnacle",
+        "encounter": "A distant the chirping of crickets on a warm summer night draws your attention. Following it, you discover a broken and moss-covered wagon wheel of a past event."
     },
     {
         "pos": 74,
         "terrain": "P",
-        "features": "Golden Land",
-        "encounter": "Ahead, there is a colony of venomous spiders weaving webs blocking your path. Perhaps it's related to your quest to rescue a kidnapped child taken by a clan of underground dwellers.."
+        "features": "Rippling Downs",
+        "encounter": "You hear the distant braying of donkeys coming from a hidden meadow surrounded by rocky terrain."
     },
     {
         "pos": 75,
         "terrain": "H",
-        "features": "Rocky Crest",
-        "encounter": "Your senses are overwhelmed by whimsy as you uncover a collection of ancient and powerful tomes hidden within a dense canopy of oak trees."
+        "features": "Rugged Highland",
+        "encounter": "The presence of a treacherous, rushing waterfall makes it difficult to proceed. Perhaps the a wise and ancient treant guarding a sacred grove nearby can help."
     },
     {
         "pos": 76,
         "terrain": "H",
-        "features": "Rising Heights",
-        "encounter": "You hear the distant braying of donkeys on a farm coming from a hidden tunnel leading to a secluded cavern."
+        "features": "Leafy Terrace",
+        "encounter": "You come across a shattered and ancient mosaic floor of an old campsite, the scent of the crisp scent of frost on a winter morning still lingering."
     },
     {
         "pos": 77,
         "terrain": "P",
-        "features": "Bountiful Grove",
-        "encounter": "You see a set of drums and musical instruments that could be useful in your quest to investigate the sudden disappearance of a hermit sage from the plains.. But it's guarded by a friendly clan of halfling farmers."
+        "features": "Boundless Land",
+        "encounter": "The air is filled with the smell of the smoky aroma of a cooking pot over a campfire. You feel a sense of fascination."
     },
     {
         "pos": 78,
         "terrain": "P",
-        "features": "Sparse Pasture",
-        "encounter": "Strange an ancient, weathered stone circle lie scattered, painting a tale of a clan of nomadic gnomes skilled in earth magic that taming and riding wild beasts for transportation."
+        "features": "Undulating Dale",
+        "encounter": "From the shadows of the a concealed passage beneath a riverbank, you sense the presence of a herd of gentle, woolly sheep tended by shepherds."
     },
     {
         "pos": 79,
@@ -489,7 +489,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by floating mats of sargassum seaweed leads to a clearing with a sunken cannon half-buried in the coral, indicating sirens have been here."
     },
     {
         "pos": 82,
@@ -500,8 +500,8 @@
     {
         "pos": 83,
         "terrain": "H",
-        "features": "Panoramic Embankment",
-        "encounter": "You notice sparse patches of desert wildflowers moving subtly. Upon closer inspection, you see a pack of territorial mountain lions that are engaging in diplomacy and negotiations with other clans."
+        "features": "Cultivated Plateau",
+        "encounter": "Your senses are overwhelmed by happiness as you uncover a weathered and ancient map hidden within a stand of fragrant eucalyptus trees."
     },
     {
         "pos": 84,
@@ -512,20 +512,20 @@
     {
         "pos": 85,
         "terrain": "H",
-        "features": "Tree-covered Foothill",
-        "encounter": "A sudden gust brings with it the grassy aroma of freshly cut hay. You spot a tribe of friendly centaurs skilled in herbalism that seem to be embarking on long migrations to find fertile lands."
+        "features": "Barren Elevation",
+        "encounter": "Navigating through a band of nomadic warriors guarding their territory, you're surprised to find a concealed entrance to a nomadic tribe's camp filled with a crumbling and abandoned bridge.As you journey forward, you come across a piece of ancient pottery with intricate patterns, with traces of the sweet, fruity scent of wild berries around them."
     },
     {
         "pos": 86,
         "terrain": "H",
-        "features": "Resplendent Incline",
-        "encounter": "Trails of a partially buried and ancient treasure chest wind through the prairie grasses with seed heads, revealing the past actions of a colony of burrowing creatures with intricate tunnel systems."
+        "features": "Tiered Summit",
+        "encounter": "You notice tall and slender stalks of bamboo moving subtly. Upon closer inspection, you see a colony of rock-dwelling bats that are searching for lost relics and ancient artifacts."
     },
     {
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice floating seaweed rafts moving subtly. Upon closer inspection, you see cursed ship captains that are creating elaborate maps of uncharted waters."
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -537,12 +537,12 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where lighthouse guardians are engaged in collecting rare and magical seashells around a preserved mermaid tail, seemingly crucial for retrieve a sunken treasure map from the lair of a giant octopus.."
+        "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Surging Edifice",
+        "features": "",
         "encounter": ""
     },
     {
@@ -566,8 +566,8 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your senses are overwhelmed by love as you uncover a beautifully crafted coral tiara hidden within tube worms near hydrothermal vents."
+        "features": "Majestic ['Pinnacle']",
+        "encounter": ""
     },
     {
         "pos": 95,

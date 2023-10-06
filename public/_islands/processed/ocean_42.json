@@ -15,7 +15,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "The mangrove prop roots rustles, revealing water elementals that are searching for a lost artifact on the ocean floor."
+        "encounter": ""
     },
     {
         "pos": 3,
@@ -32,14 +32,14 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking ['Spring']",
         "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of murmuring of merfolk singing in harmony is accompanied by the distinct aroma of clean, crisp scent of the open sea. It seems underwater nomads are involved in summoning a tidal wave to defend their territory."
+        "encounter": ""
     },
     {
         "pos": 7,
@@ -51,7 +51,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a concealed cavern within a towering underwater cliff, you sense the presence of sirens."
     },
     {
         "pos": 9,
@@ -75,7 +75,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a ship-eating whirlpool known as the 'ship swallower' blocking your path. Perhaps it's related to your quest to help a shipwrecked sailor construct a signal fire to call for rescue.."
     },
     {
         "pos": 13,
@@ -99,18 +99,18 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of musty odor of a hidden sea cave. You feel a sense of trepidation."
     },
     {
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious salty seaweed and kelp envelops you, drawing you towards a submerged sea cave filled with bioluminescent creatures where underwater nomads are forging alliances with other oceanic races."
     },
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -153,7 +153,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by colorful coral polyps leads to a clearing with a broken ship's mast jutting out of the water, indicating sea dragons have been here."
     },
     {
         "pos": 26,
@@ -177,12 +177,12 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by giant underwater mushrooms leads to a clearing with the remnants of a merfolk's forgotten treasure, indicating crystal reef dwellers have been here."
+        "encounter": ""
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Tidal Tidal Pool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -195,19 +195,19 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a sudden, violent storm with massive waves blocking your path. Perhaps it's related to your quest to defend a coastal town from raiding sea creatures.."
+        "encounter": ""
     },
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Soothing Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear murmuring of merfolk singing in harmony coming from a forgotten pirate hideout in a remote cove."
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling ['Current']",
         "encounter": ""
     },
     {
@@ -260,13 +260,13 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking ['Delta']",
         "encounter": ""
     },
     {
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Turbulent Spring",
+        "features": "",
         "encounter": ""
     },
     {
@@ -303,7 +303,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft gurgling of a freshwater stream meeting the ocean. As you follow, you encounter jellyfish navigators in the midst of healing wounded sea creatures."
     },
     {
         "pos": 51,
@@ -320,19 +320,19 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Surf']",
         "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a shattered, half-buried bottle with a message inside wind through the red algae beds, revealing the past actions of whirlpool spirits."
+        "encounter": ""
     },
     {
         "pos": 55,
         "terrain": "O",
-        "features": "Moonlit Abyss",
+        "features": "",
         "encounter": ""
     },
     {
@@ -351,12 +351,12 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a floating, abandoned shipwreck. As you approach, selkies diving deep to consult with a sea oracle."
+        "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Choppy Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -374,7 +374,7 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Glistening Haven",
+        "features": "Dazzling ['Seabed']",
         "encounter": ""
     },
     {
@@ -398,7 +398,7 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Strait']",
         "encounter": ""
     },
     {
@@ -428,7 +428,7 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Edifice']",
         "encounter": ""
     },
     {
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Peaceful Passage",
+        "features": "",
         "encounter": ""
     },
     {
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Mesmerizing Swirl",
+        "features": "",
         "encounter": ""
     },
     {
@@ -482,7 +482,7 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Bubbling Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -500,14 +500,14 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Mesmerizing Narrows",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft buzzing of underwater machinery in a sunken city. As you follow, you encounter underwater miners in the midst of convincing a shipwrecked sailor to join their crew."
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -524,7 +524,7 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Murmuring Reef",
+        "features": "",
         "encounter": ""
     },
     {
@@ -548,19 +548,19 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Majestic Reef",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a coral crown adorned with precious gems. However, sea anemone sorcerers stand guard, their intentions unknown."
     },
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Inviting ['Gulf']",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a ship's wheel half-buried in the sand. It appears ship-eating barnacles were here recently."
     }
 ]

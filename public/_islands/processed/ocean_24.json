@@ -33,7 +33,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the an ancient, submerged temple with hidden chambers, you sense the presence of dolphin companions."
+        "encounter": ""
     },
     {
         "pos": 6,
@@ -56,8 +56,8 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Deep Shore",
-        "encounter": ""
+        "features": "",
+        "encounter": "Navigating through a monstrous, coral-covered sea monster, you're surprised to find a concealed merfolk palace hidden behind a waterfall filled with the remnants of a ship's lantern on the seafloor.As you journey forward, you come across a bottle of enchanted ink for writing underwater, with traces of clean, crisp scent of the open sea around them."
     },
     {
         "pos": 10,
@@ -74,8 +74,8 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Mesmerizing Rift",
-        "encounter": ""
+        "features": "",
+        "encounter": "Ahead, there is an eerie, ghostly ship blocking the path blocking your path. Perhaps it's related to your quest to retrieve a powerful, magical artifact from a sunken shipwreck.."
     },
     {
         "pos": 13,
@@ -92,7 +92,7 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Ocean']",
         "encounter": ""
     },
     {
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Boundless Delta",
+        "features": "Silent ['Harbor']",
         "encounter": ""
     },
     {
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Dazzling Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Radiant Basin",
+        "features": "",
         "encounter": ""
     },
     {
@@ -176,7 +176,7 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Murmuring Pinnacle",
+        "features": "Limitless ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious mildewed scent of an old shipwreck envelops you, drawing you towards a sunken garden of rare and magical sea plants where turtle island shamans are repairing their damaged ship."
     },
     {
         "pos": 37,
@@ -231,7 +231,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With defend a coastal town from raiding sea creatures. On your mind, the sudden appearance of treacherous rocks just below the surface accompanied by whispering of the sea breeze through palm trees becomes a challenging diversion."
     },
     {
         "pos": 39,
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Drop-off']",
         "encounter": ""
     },
     {
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by seafloor seagrass, a series of a concealed treasure chest buried in the sand reveal traces of the remnants of a sunken sea monster's scale, and the distant buzzing of bioluminescent creatures in the depths hint at more to discover."
     },
     {
         "pos": 50,
@@ -309,7 +309,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about uncover the truth behind a series of strange underwater disappearances., you're startled by sloshing of water in a mermaid's bathtub. It seems underwater miners are near."
     },
     {
         "pos": 52,
@@ -321,7 +321,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by sea lettuce leads to a clearing with a shattered, waterlogged compass, indicating seafaring druids have been here."
+        "encounter": ""
     },
     {
         "pos": 54,
@@ -380,20 +380,20 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Deep Trough",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Plateau']",
         "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Sapphire Reef",
-        "encounter": ""
+        "features": "",
+        "encounter": "From the shadows of the a network of tunnels in the heart of a coral maze, you sense the presence of storm giants."
     },
     {
         "pos": 66,
@@ -423,18 +423,18 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of tangy scent of salt spray, suggesting the presence of ship-eating barnacles."
+        "encounter": ""
     },
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Shoal']",
         "encounter": ""
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Drop-off']",
         "encounter": ""
     },
     {
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Billow']",
         "encounter": ""
     },
     {
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden splashing of dolphins playing nearby breaks the silence, making the nearby giant kelp with air-filled bladders quiver."
     },
     {
         "pos": 84,
@@ -512,14 +512,14 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Majestic Sound",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Sweeping Seabed",
-        "encounter": "The air is filled with the smell of scent of damp, ancient sea scrolls. You feel a sense of serenity."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 87,
@@ -549,36 +549,36 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden roaring of a powerful waterfall cascading into the sea breaks the silence, making the nearby bubblegum coral quiver."
+        "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a ship's wheel half-buried in the sand. It appears lighthouse guardians were here recently."
+        "encounter": ""
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of a mermaid's lost jewelry of an old campsite, the scent of crisp, ocean-scented laundry on a line still lingering."
     },
     {
         "pos": 94,
-        "terrain": "O",
-        "features": "Abyssal Narrows",
-        "encounter": ""
-    },
-    {
-        "pos": 95,
         "terrain": "O",
         "features": "",
         "encounter": ""
     },
     {
+        "pos": 95,
+        "terrain": "O",
+        "features": "Tempestuous ['Bight']",
+        "encounter": ""
+    },
+    {
         "pos": 96,
         "terrain": "O",
-        "features": "Roaring Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -590,8 +590,8 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Bubbling Undercurrent",
-        "encounter": "A path surrounded by codium seaweed leads to a clearing with a broken ship's mast jutting out of the water, indicating sea witches have been here."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 99,

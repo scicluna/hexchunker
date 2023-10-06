@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious aromatic herbs from a coastal garden envelops you, drawing you towards a camouflaged underwater camouflage net used by merfolk where octopus oracles are repairing their damaged ship."
+        "encounter": ""
     },
     {
         "pos": 2,
@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
+        "features": "Inviting ['Tide']",
         "encounter": ""
     },
     {
@@ -62,7 +62,7 @@
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Surging Shore",
+        "features": "",
         "encounter": ""
     },
     {
@@ -134,7 +134,7 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling ['Seabed']",
         "encounter": ""
     },
     {
@@ -152,8 +152,8 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Tidal Maelstrom",
-        "encounter": "The presence of a treacherous, narrow strait with strong currents makes it difficult to proceed. Perhaps the selkies nearby can help."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 26,
@@ -171,7 +171,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where water elementals are engaged in battling a giant sea serpent around a shipwrecked chest filled with gold coins, seemingly crucial for discover the source of a mysterious bioluminescent phenomenon.."
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Peaceful Flats",
+        "features": "",
         "encounter": ""
     },
     {
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a ship's lantern on the seafloor suggests that cursed mermaids have passed through here on a quest to retrieve a powerful, magical artifact from a sunken shipwreck.."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Basin']",
         "encounter": ""
     },
     {
@@ -236,7 +236,7 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "Glistening Maelstrom",
+        "features": "Shimmering ['Passage']",
         "encounter": ""
     },
     {
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Reef']",
         "encounter": ""
     },
     {
@@ -273,13 +273,13 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a ship's broken mast indicating past battles."
+        "encounter": "Your path is illuminated by the glint of a ship's bell with a haunting chime. However, shipwreck goblins stand guard, their intentions unknown."
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Endless Drop-off",
-        "encounter": ""
+        "features": "",
+        "encounter": "You spot a ship's chart with uncharted territories marked nestled among red calcareous algae, but the unsettling feeling of empathy makes you wary."
     },
     {
         "pos": 47,
@@ -290,19 +290,19 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Inlet']",
         "encounter": ""
     },
     {
         "pos": 49,
         "terrain": "O",
-        "features": "Teeming Fathom",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking ['Narrows']",
         "encounter": ""
     },
     {
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by underwater mangrove roots, a series of a concealed treasure chest within a submerged statue reveal traces of the remnants of a pirate's skeleton on a sunken ship, and the distant booming of waves in a hidden sea cave hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 53,
@@ -326,7 +326,7 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Spring']",
         "encounter": ""
     },
     {
@@ -368,44 +368,44 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Billow']",
         "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Sparkling Deep",
-        "encounter": ""
+        "features": "",
+        "encounter": "From the shadows of the a secret pirate tunnel leading to a hidden cove, you sense the presence of ship-eating barnacles."
     },
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Moonlit Marina",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Surf']",
         "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a ship's broken mast suggests that kelpie have passed through here on a quest to rescue a group of trapped sailors from a sinking ship.."
     },
     {
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "The coral reefs rustles, revealing whirlpool spirits that are exploring the depths in search of a sunken city."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Tidal Inlet",
-        "encounter": "Deep in thought about retrieve a sunken treasure map from the lair of a giant octopus., you're startled by gurgling of a freshwater stream meeting the ocean. It seems sea dragons are near."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -434,7 +434,7 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Sparkling Delta",
+        "features": "",
         "encounter": ""
     },
     {
@@ -458,61 +458,61 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Beckoning Current",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Kelp Forest']",
         "encounter": ""
     },
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Vast ['Chasm']",
         "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Water elementals emerge from the an underwater whirlpool leading to a hidden realm, their intent focused on a mermaid's singing seashell necklace."
+        "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where mermen are engaged in battling a giant sea serpent around a ship's sextant for celestial navigation, seemingly crucial for find a lost underwater city rumored to hold ancient relics.."
+        "encounter": ""
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a damaged, half-buried treasure map scroll lie scattered, painting a tale of floating market traders that solving a riddle from an ancient sea scroll."
+        "encounter": ""
     },
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Daunting Spring",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a rare, ancient ship's figurehead nestled among brown algae forests, but the unsettling feeling of excitement makes you wary."
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter octopus oracles which are training sea creatures for battle."
+        "encounter": "The presence of a submerged forest of gnarled, petrified trees makes it difficult to proceed. Perhaps the sea dragons nearby can help."
     },
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Deep Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -543,7 +543,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious pungent aroma of a hidden pirate's stash envelops you, drawing you towards a concealed merfolk palace hidden behind a waterfall where shipwreck goblins are trading with passing merchant ships."
+        "encounter": ""
     },
     {
         "pos": 91,
@@ -584,13 +584,13 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal ['Expanse']",
         "encounter": ""
     },
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Sandbank']",
         "encounter": ""
     },
     {

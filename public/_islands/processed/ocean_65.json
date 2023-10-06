@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with a shattered, waterlogged compass. It appears kraken were here recently."
+        "encounter": ""
     },
     {
         "pos": 1,
@@ -33,7 +33,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter jellyfish navigators which are setting up an underwater market."
     },
     {
         "pos": 6,
@@ -50,7 +50,7 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Boundless Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -105,12 +105,12 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear splashing of dolphins playing nearby coming from a hidden cave behind a waterfall."
     },
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent ['Plateau']",
         "encounter": ""
     },
     {
@@ -134,7 +134,7 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Jetty']",
         "encounter": ""
     },
     {
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Bubbling Harbor",
+        "features": "",
         "encounter": ""
     },
     {
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Shimmering Sound",
+        "features": "Timeless ['Reef']",
         "encounter": ""
     },
     {
@@ -225,19 +225,19 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "Selkies gives you a quest to escort a fragile, magical artifact through dangerous waters.In your path lies a mermaid's singing seashell necklace surrounded by seagrass meadows."
+        "encounter": ""
     },
     {
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel trepidation as rustling of seaweed in the currents echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of whistling of wind through the rigging of a ship is accompanied by the distinct aroma of salty seaweed and kelp. It seems merfolk are involved in plotting revenge against a rival pirate captain."
     },
     {
         "pos": 40,
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Main']",
         "encounter": ""
     },
     {
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of musk of a sea lion colony, suggesting the presence of kelpie."
+        "encounter": "Strange the remnants of a sunken sea monster's scale lie scattered, painting a tale of cursed ship captains that trading with passing merchant ships."
     },
     {
         "pos": 50,
@@ -321,13 +321,13 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a deadly, bioluminescent sea creature swarm blocking your path. Perhaps it's related to your quest to retrieve a rare coral sample for an eccentric scientist.."
     },
     {
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Merfolk emerge from the a concealed treasure chest buried in the sand, their intent focused on a beautifully crafted coral tiara."
     },
     {
         "pos": 55,
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Infinite Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie rustling of seaweed in the currents resonates from a concealed treasure chest buried in the sand, and the scent of scent of coconut oil and sunscreen fills the air."
+        "encounter": ""
     },
     {
         "pos": 64,
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Basin']",
         "encounter": ""
     },
     {
@@ -428,7 +428,7 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "Azure Flats",
+        "features": "",
         "encounter": ""
     },
     {
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Marina']",
         "encounter": ""
     },
     {
@@ -483,13 +483,13 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Merfolk emerge from the a hidden treasure map etched into a ship's hull, their intent focused on a ship's bell with a haunting chime."
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant booming of waves in a hidden sea cave draws your attention. Following it, you discover a torn and faded pirate's treasure map of a past event."
     },
     {
         "pos": 82,
@@ -518,7 +518,7 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless ['Swirl']",
         "encounter": ""
     },
     {
@@ -543,13 +543,13 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Sea dragons emerge from the a secret underwater grotto accessible only at low tide, their intent focused on a captured sea serpent's egg."
     },
     {
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it freshly baked bread from a seaside bakery. You spot turtle island shamans that seem to be performing a ritual to calm a storm."
     },
     {
         "pos": 92,
@@ -560,7 +560,7 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Sweeping Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -584,7 +584,7 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Harmonious Edifice",
+        "features": "",
         "encounter": ""
     },
     {

@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Unfathomable Trough",
+        "features": "",
         "encounter": ""
     },
     {
@@ -44,14 +44,14 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Peaceful Surf",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Ageless ['Bight']",
+        "encounter": "You encounter selkies which are training sea creatures for battle."
     },
     {
         "pos": 9,
@@ -74,7 +74,7 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Marina']",
         "encounter": ""
     },
     {
@@ -93,18 +93,18 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With escort a group of settlers to a remote, uncharted island. On your mind, the sudden appearance of a thick forest of kelp that entangles ships accompanied by buzzing of insects near a coastal marsh becomes a challenging diversion."
     },
     {
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious pungent aroma of a hidden pirate's stash envelops you, drawing you towards a hidden cave filled with glowing sea crystals where mermen are raising a sunken ship from the depths."
+        "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Azure Vortex",
+        "features": "",
         "encounter": ""
     },
     {
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Timeless Narrows",
+        "features": "Epic ['Channel']",
         "encounter": ""
     },
     {
@@ -152,14 +152,14 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Boundless Gulf",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a giant, tentacled kraken blocking the way makes it difficult to proceed. Perhaps the octopus oracles nearby can help."
+        "encounter": ""
     },
     {
         "pos": 27,
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover the remnants of a merfolk's forgotten treasure that tell a story of a time when cursed ship captains pursued uncover the truth behind a series of strange underwater disappearances.."
+        "encounter": ""
     },
     {
         "pos": 32,
@@ -212,14 +212,14 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear ['Sound']",
         "encounter": ""
     },
     {
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it salty seaweed and kelp. You spot ship-eating barnacles that seem to be training sea creatures for battle."
     },
     {
         "pos": 37,
@@ -230,7 +230,7 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent ['Bay']",
         "encounter": ""
     },
     {
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Ocean']",
         "encounter": ""
     },
     {
@@ -314,8 +314,8 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "Deep Flats",
-        "encounter": "Every step forward is met with the increasing intensity of crisp, ocean-scented laundry on a line, suggesting the presence of oceanic alchemists."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 53,
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a rusted anchor half-buried in the sand indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 55,
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Sunlit Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Serene Atoll",
+        "features": "",
         "encounter": ""
     },
     {
@@ -416,14 +416,14 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Passage']",
         "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Serene Expanse",
-        "encounter": ""
+        "features": "",
+        "encounter": "You come across a rusted ship's bell on the ocean floor of an old campsite, the scent of clean, crisp scent of the open sea still lingering."
     },
     {
         "pos": 71,
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among seagrass meadows, you spot a magical conch shell that can summon sea creatures glinting in the sunlight."
     },
     {
         "pos": 73,
@@ -446,19 +446,19 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Harmonious Bay",
-        "encounter": "Navigating through a sunken city with buildings rising to the surface, you're surprised to find a treasure cache buried in the sand on a deserted island filled with a sunken chest with its lock rusted shut.As you journey forward, you come across a bottle of enchanted ink for writing underwater, with traces of smell of seaweed roasting in the sun around them."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of an ancient ship's cargo hold. It appears sea dragons were here recently."
     },
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing ['Trough']",
         "encounter": ""
     },
     {
@@ -483,25 +483,25 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a sunken merchant ship's cargo suggests that island hermit have passed through here on a quest to deliver a mysterious message to a reclusive island hermit.."
     },
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Expansive Atoll",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Majestic Flats",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
-        "encounter": "Ahead, there is a dense, toxic algae bloom poisoning the water blocking your path. Perhaps it's related to your quest to retrieve a rare coral sample for an eccentric scientist.."
+        "features": "Vibrant ['Chasm']",
+        "encounter": ""
     },
     {
         "pos": 84,
@@ -512,7 +512,7 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Glistening Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -536,32 +536,32 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening ['Ocean']",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel awe as distant rumble of thunder during a storm echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Tumultuous Harbor",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious musty odor of a hidden sea cave envelops you, drawing you towards an underwater cave network filled with glowing algae where mermen are performing a ritual to calm a storm."
     },
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Calm Haven",
-        "encounter": "You spot a ship's chart with uncharted territories marked nestled among codium seaweed, but the unsettling feeling of resignation makes you wary."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 94,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Reflective Ocean",
+        "features": "",
         "encounter": ""
     }
 ]

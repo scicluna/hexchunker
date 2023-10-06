@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling ['Jetty']",
         "encounter": ""
     },
     {
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Ridge']",
         "encounter": ""
     },
     {
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Abyssal Plateau",
+        "features": "",
         "encounter": ""
     },
     {
@@ -111,7 +111,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a mysterious, enchanted mist causing disorientation, but you notice a hidden treasure map etched into a ship's hull that might lead around it."
     },
     {
         "pos": 19,
@@ -123,19 +123,19 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "The kelp forests rustles, revealing turtle island shamans that are creating elaborate maps of uncharted waters."
+        "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear sizzling of saltwater on hot volcanic rocks coming from a secret merfolk concert hall hidden in a cave."
+        "encounter": "A distant sloshing of water in a mermaid's bathtub draws your attention. Following it, you discover the remnants of a sunken pirate ship's flagpole of a past event."
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and clattering of seashells in the tide grow louder. It seems sea witches are on the move."
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among giant underwater mushrooms, you spot a seafarer's journal filled with tales of adventure glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 25,
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Rise']",
         "encounter": ""
     },
     {
@@ -188,14 +188,14 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "Boundless Flats",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a ship-eating whirlpool known as the 'ship swallower'. As you approach, underwater miners healing wounded sea creatures."
+        "encounter": ""
     },
     {
         "pos": 33,
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden murmuring of merfolk singing in harmony breaks the silence, making the nearby tube worms near hydrothermal vents quiver."
+        "encounter": ""
     },
     {
         "pos": 37,
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Fjord']",
         "encounter": ""
     },
     {
@@ -267,25 +267,25 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a waterlogged chest with its lid ajar wind through the caulerpa seaweed, revealing the past actions of oceanic alchemists."
+        "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "O",
-        "features": "Azure Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a sunken merchant ship's cargo lie scattered, painting a tale of turtle island shamans that convincing a shipwrecked sailor to join their crew."
+        "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense sponge colonies, you discover a chest of mystical sea herbs and remedies. You can't shake the feeling of anxiety."
+        "encounter": ""
     },
     {
         "pos": 48,
@@ -296,13 +296,13 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "Majestic Passage",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Immeasurable Bay",
+        "features": "Raging ['Kelp Forest']",
         "encounter": ""
     },
     {
@@ -332,7 +332,7 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning ['Bay']",
         "encounter": ""
     },
     {
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of aromatic blooms of coastal flowers, suggesting the presence of coral golems."
     },
     {
         "pos": 70,
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to discover the source of a mysterious bioluminescent phenomenon.. But be wary, for coral golems lurk nearby."
     },
     {
         "pos": 73,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Wave']",
         "encounter": ""
     },
     {
@@ -494,7 +494,7 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive ['Cove']",
         "encounter": ""
     },
     {
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Seafaring druids gives you a quest to navigate treacherous waters to find a legendary fishing spot.In your path lies a bottle of enchanted ink for writing underwater surrounded by brown algae forests."
     },
     {
         "pos": 90,
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Edifice']",
         "encounter": ""
     },
     {
@@ -591,7 +591,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a thick forest of kelp that entangles ships, but you notice a submerged sea cave filled with bioluminescent creatures that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 99,

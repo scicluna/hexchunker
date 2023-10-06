@@ -9,12 +9,12 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a ship's bell with a haunting chime that could be useful in your quest to slay a marauding sea monster terrorizing coastal villages.. But it's guarded by giant clams."
+        "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Roaring Swirl",
+        "features": "",
         "encounter": ""
     },
     {
@@ -27,7 +27,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie crackling of a bonfire on the beach resonates from a hidden coral archway leading to a treasure trove, and the scent of smell of seaweed roasting in the sun fills the air."
     },
     {
         "pos": 5,
@@ -45,13 +45,13 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about deliver a mysterious message to a reclusive island hermit., you're startled by hissing of foam as waves recede. It seems coral golems are near."
+        "encounter": ""
     },
     {
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Lighthouse guardians emerge from the a concealed cavern within a towering underwater cliff, their intent focused on a bottle of enchanted ink for writing underwater."
     },
     {
         "pos": 9,
@@ -69,13 +69,13 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among red grape algae, you spot a shipwrecked chest filled with gold coins glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by mangrove prop roots, a series of a treasure cache buried in the sand on a deserted island reveal traces of a broken ship's mast jutting out of the water, and the distant chattering of crabs on a rocky shore hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden humming of a powerful sea enchantment breaks the silence, making the nearby sea grape kelp quiver."
     },
     {
         "pos": 15,
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of rotten-egg odor of sulfur from underwater vents, suggesting the presence of seafaring druids."
     },
     {
         "pos": 17,
@@ -117,12 +117,12 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about rescue a stranded mermaid from a treacherous reef., you're startled by clattering of seashells in the tide. It seems jellyfish navigators are near."
     },
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Deep Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -170,13 +170,13 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent ['Depression']",
         "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Harmonious Basin",
+        "features": "",
         "encounter": ""
     },
     {
@@ -188,14 +188,14 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "Tranquil Pinnacle",
+        "features": "Dense ['Jetty']",
         "encounter": ""
     },
     {
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of salty seaweed and kelp. You feel a sense of pride."
     },
     {
         "pos": 33,
@@ -218,25 +218,25 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Calm Depression",
-        "encounter": ""
+        "features": "",
+        "encounter": "Navigating through a massive, floating tree trunk in the ship's path, you're surprised to find a secret mermaid library hidden in a deep trench filled with a damaged sextant with a cracked lens.As you journey forward, you come across a bottle of potent seawater from a mythical spring, with traces of rich, earthy scent of wet sand around them."
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel grief as booming of waves in a hidden sea cave echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Rise']",
         "encounter": ""
     },
     {
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Salty Harbor",
+        "features": "Sapphire ['Fathom']",
         "encounter": ""
     },
     {
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous ['Bight']",
         "encounter": ""
     },
     {
@@ -333,12 +333,12 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden sighing of the wind through sea caves breaks the silence, making the nearby brown algae forests quiver."
+        "encounter": ""
     },
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Deep Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -350,13 +350,13 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Ageless Ocean",
+        "features": "",
         "encounter": ""
     },
     {
@@ -380,8 +380,8 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
-        "encounter": "Blocked by a rogue wave threatening to capsize the ship, your attention is caught by clanging of bells on a buoy in choppy waters. Upon investigating, you discover a hidden cave behind a waterfall with a seashell amulet that grants water-breathing inside."
+        "features": "Majestic ['Mangrove']",
+        "encounter": ""
     },
     {
         "pos": 64,
@@ -422,8 +422,8 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Expansive Mangrove",
-        "encounter": "The ground trembles slightly, and gurgling of a freshwater stream meeting the ocean grow louder. It seems underwater miners are on the move."
+        "features": "Inviting ['Atoll']",
+        "encounter": "Your path is illuminated by the glint of a chest of mystical sea herbs and remedies. However, seafaring druids stand guard, their intentions unknown."
     },
     {
         "pos": 71,
@@ -440,26 +440,26 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "Mesmerizing Pinnacle",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Spectacular Passage",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Sea serpents gives you a quest to deliver a mysterious message to a reclusive island hermit.In your path lies a sparkling pearl necklace surrounded by bubbling hot seawater vents."
     },
     {
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a secret underwater grotto accessible only at low tide, you sense the presence of dolphin companions."
     },
     {
         "pos": 77,
@@ -489,12 +489,12 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter oceanic alchemists which are healing wounded sea creatures."
+        "encounter": ""
     },
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Rift']",
         "encounter": ""
     },
     {
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of scent of salty tears in the wind. You feel a sense of bewilderment."
     },
     {
         "pos": 85,
@@ -518,20 +518,20 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Tidal Atoll",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Picturesque Gulf",
+        "features": "Choppy ['Sandbank']",
         "encounter": ""
     },
     {
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a coral reef with sharp, hidden edges blocking your path. Perhaps it's related to your quest to discover the source of a mysterious bioluminescent phenomenon.."
     },
     {
         "pos": 89,
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Turbulent Harbor",
+        "features": "",
         "encounter": ""
     },
     {
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a skeleton clutching a rusted cutlass on the seabed indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 95,
@@ -579,12 +579,12 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a cursed island that draws ships in but won't let them leave, you're surprised to find a hollowed-out giant clam used as a merfolk's dwelling filled with a beached rowboat with a broken oar.As you journey forward, you come across a kraken's tentacle as a gruesome trophy, with traces of scent of damp driftwood around them."
     },
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Expansive Inlet",
+        "features": "",
         "encounter": ""
     },
     {

@@ -15,7 +15,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a coral-encrusted treasure chest. It appears cursed ship captains were here recently."
+        "encounter": "A path surrounded by rockweed leads to a clearing with a torn and waterlogged book of sea legends, indicating seafaring druids have been here."
     },
     {
         "pos": 3,
@@ -51,7 +51,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a ship's logbook with a mysterious route nestled among floating mats of sargassum seaweed, but the unsettling feeling of nostalgia makes you wary."
+        "encounter": ""
     },
     {
         "pos": 9,
@@ -63,25 +63,25 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among zostera seagrass, you spot a ship's sextant for celestial navigation glinting in the sunlight."
     },
     {
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a massive, drifting iceberg with hidden dangers makes it difficult to proceed. Perhaps the underwater nomads nearby can help."
+        "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Uncharted Edifice",
-        "encounter": "Surrounded by thick beds of eelgrass, a series of a hidden cave filled with glowing sea crystals reveal traces of the remnants of a mermaid's lost jewelry, and the distant clanging of bells on a buoy in choppy waters hint at more to discover."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by red grape algae, a series of a concealed cavern within a towering underwater cliff reveal traces of the remnants of a sunken merchant ship's cargo, and the distant sloshing of water in a mermaid's bathtub hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -92,13 +92,13 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Harmonious Flats",
-        "encounter": ""
+        "features": "",
+        "encounter": "A mysterious mildewed scent of an old shipwreck envelops you, drawing you towards a hidden coral archway leading to a treasure trove where ghost ships are solving a riddle from an ancient sea scroll."
     },
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Vast Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Murmuring Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Sunlit Passage",
+        "features": "",
         "encounter": ""
     },
     {
@@ -177,18 +177,18 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among gorgonian sea fans, you spot a pirate flag bearing a fearsome symbol glinting in the sunlight."
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Sparkling Haven",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable ['Surf']",
         "encounter": ""
     },
     {
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "Kelpie emerge from the a sunken temple accessible only by solving a riddle, their intent focused on a treasure chest full of cursed gold."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent ['Shore']",
         "encounter": ""
     },
     {
@@ -345,7 +345,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a bottle of enchanted ink for writing underwater that could be useful in your quest to help a stranded sea serpent find its way back to the open sea.. But it's guarded by dolphin companions."
+        "encounter": ""
     },
     {
         "pos": 58,
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense tube worms near hydrothermal vents, you catch sight of a preserved mermaid tail. But be cautious, rattling of pebbles in the surf suggest whirlpool spirits are near."
+        "encounter": ""
     },
     {
         "pos": 60,
@@ -374,8 +374,8 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Moonlit ['Swirl']",
+        "encounter": "Surrounded by seafloor seagrass, a series of a network of tunnels in the heart of a coral maze reveal traces of the remnants of a fishing net tangled in the coral, and the distant pounding of heavy rain during a monsoon hint at more to discover."
     },
     {
         "pos": 63,
@@ -386,7 +386,7 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Inviting ['Wave']",
         "encounter": ""
     },
     {
@@ -410,7 +410,7 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Vast Wave",
+        "features": "",
         "encounter": ""
     },
     {
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless ['Mangrove']",
         "encounter": ""
     },
     {
@@ -440,7 +440,7 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Bay']",
         "encounter": ""
     },
     {
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Plateau']",
         "encounter": ""
     },
     {
@@ -483,30 +483,30 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of resignation as you tread upon the remnants of a mermaid's lost jewelry, hinting at a tale of giant clams."
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a shattered, half-buried bottle with a message inside indicating past battles."
     },
     {
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a school of aggressive and territorial sharks, but you notice a concealed treasure chest within a submerged statue that might lead around it."
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Sunlit Spring",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -524,7 +524,7 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Spring']",
         "encounter": ""
     },
     {
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a waterlogged chest with its lid ajar that tell a story of a time when sarcastic cephalopod pursued navigate a treacherous coral maze to reach a hidden oasis.."
+        "encounter": ""
     },
     {
         "pos": 90,
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense coral reefs, you catch sight of a coral crown adorned with precious gems. But be cautious, splashing of dolphins playing nearby suggest sea anemone sorcerers are near."
     },
     {
         "pos": 92,
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Pristine Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -590,13 +590,13 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Mysterious Edifice",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Infinite Shoal",
+        "features": "",
         "encounter": ""
     }
 ]

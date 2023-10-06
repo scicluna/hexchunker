@@ -15,24 +15,24 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "Seafaring druids emerge from the a labyrinthine coral labyrinth with hidden treasures, their intent focused on a seafarer's journal filled with tales of adventure."
+        "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a rusted anchor half-buried in the sand that tell a story of a time when oceanic alchemists pursued defend a coastal village from a relentless pirate invasion.."
     },
     {
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and echoing calls of whales in the distance grow louder. It seems selkies are on the move."
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Rippling Deep",
+        "features": "",
         "encounter": ""
     },
     {
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Drop-off']",
         "encounter": ""
     },
     {
@@ -75,13 +75,13 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and crackling of a bonfire on the beach grow louder. It seems floating market traders are on the move."
     },
     {
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a waterlogged chest with its lid ajar indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange a beached rowboat with a broken oar lie scattered, painting a tale of selkies that navigating a treacherous whirlpool."
     },
     {
         "pos": 16,
@@ -116,13 +116,13 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Moonlit ['Whirlpool']",
+        "encounter": "From the shadows of the a secret pirate's den inside a massive, hollowed-out rock, you sense the presence of selkies."
     },
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Limitless Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Haven']",
         "encounter": ""
     },
     {
@@ -194,14 +194,14 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Gulf']",
         "encounter": ""
     },
     {
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a powerful whirlpool pulling ships downward blocking your path. Perhaps it's related to your quest to search for a hidden cove rumored to contain pirate treasure.."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Sparkling Pinnacle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -230,20 +230,20 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept ['Whirlpool']",
         "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a sudden, violent storm with massive waves makes it difficult to proceed. Perhaps the kraken nearby can help."
+        "encounter": ""
     },
     {
         "pos": 40,
         "terrain": "O",
-        "features": "",
-        "encounter": "You feel an overwhelming sense of empathy as you tread upon a partially buried, broken spyglass, hinting at a tale of merfolk."
+        "features": "Rippling ['Maelstrom']",
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Boundless Rise",
+        "features": "",
         "encounter": ""
     },
     {
@@ -285,7 +285,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by codium seaweed leads to a clearing with tattered fragments of a sunken pirate flag, indicating sea anemone sorcerers have been here."
+        "encounter": ""
     },
     {
         "pos": 48,
@@ -308,14 +308,14 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "Abyssal Main",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 52,
         "terrain": "O",
-        "features": "Calm Swirl",
-        "encounter": ""
+        "features": "",
+        "encounter": "Underwater miners gives you a quest to help a shipwrecked sailor construct a signal fire to call for rescue.In your path lies a ship's bell with a haunting chime surrounded by floating mats of sargassum seaweed."
     },
     {
         "pos": 53,
@@ -332,13 +332,13 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "Tranquil Swirl",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Beckoning Isle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -368,8 +368,8 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
-        "encounter": "The giant clam gardens rustles, revealing sea serpents that are exploring a mysterious underwater cave."
+        "features": "Idyllic ['Spring']",
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -392,8 +392,8 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Peaceful Undercurrent",
-        "encounter": ""
+        "features": "",
+        "encounter": "Underwater nomads emerge from the a secret underwater grotto accessible only at low tide, their intent focused on a bejeweled trident."
     },
     {
         "pos": 66,
@@ -410,7 +410,7 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Unfathomable Ocean",
+        "features": "Unspoiled ['Isle']",
         "encounter": ""
     },
     {
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant splintering of wood as a shipwreck breaks apart draws your attention. Following it, you discover a partially buried, broken spyglass of a past event."
+        "encounter": ""
     },
     {
         "pos": 73,
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Limitless Estuary",
+        "features": "",
         "encounter": ""
     },
     {
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to navigate treacherous waters to reach a hidden pirate haven.. But be wary, for coral golems lurk nearby."
+        "encounter": "The ground is littered with a partially buried, broken spyglass. It appears pearl diver guilds were here recently."
     },
     {
         "pos": 89,
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Surging ['Chasm']",
         "encounter": ""
     },
     {
@@ -567,19 +567,19 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a massive, drifting iceberg with hidden dangers, but you notice a concealed mermaid treasure trove in a sunken ship that might lead around it."
     },
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Tempestuous Ocean",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With track down a legendary sea monster for a wealthy collector. On your mind, the sudden appearance of treacherous rocks just below the surface accompanied by roaring of a powerful waterfall cascading into the sea becomes a challenging diversion."
     },
     {
         "pos": 97,

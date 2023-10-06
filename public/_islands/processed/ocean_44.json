@@ -14,14 +14,14 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice red calcareous algae moving subtly. Upon closer inspection, you see oceanic alchemists that are training sea creatures for battle."
+        "encounter": ""
     },
     {
         "pos": 4,
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Limitless Reef",
+        "features": "",
         "encounter": ""
     },
     {
@@ -75,7 +75,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a mermaid's lost jewelry of an old campsite, the scent of fresh, salty scent of oysters on the shore still lingering."
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense floating bladderwort plants, you catch sight of a merfolk's enchanted harp. But be cautious, distant rumble of thunder during a storm suggest pearl diver guilds are near."
     },
     {
         "pos": 16,
@@ -105,7 +105,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a cursed lighthouse guiding ships to their doom makes it difficult to proceed. Perhaps the floating market traders nearby can help."
     },
     {
         "pos": 18,
@@ -117,7 +117,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sea grape kelp, you catch sight of a seafarer's compass that points to hidden treasure. But be cautious, rattling of pebbles in the surf suggest underwater nomads are near."
+        "encounter": ""
     },
     {
         "pos": 20,
@@ -134,14 +134,14 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Mysterious Seamount",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a rusted ship's bell on the ocean floor of an old campsite, the scent of salty seaweed and kelp still lingering."
+        "encounter": ""
     },
     {
         "pos": 24,
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling ['Jetty']",
         "encounter": ""
     },
     {
@@ -171,12 +171,12 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a shattered, waterlogged compass indicating past battles."
+        "encounter": "You notice floating bladderwort plants moving subtly. Upon closer inspection, you see mermen that are training sea creatures for battle."
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling ['Abyss']",
         "encounter": ""
     },
     {
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rattling of pebbles in the surf is accompanied by the distinct aroma of rotten-egg odor of sulfur from underwater vents. It seems kraken are involved in forging alliances with other oceanic races."
+        "encounter": ""
     },
     {
         "pos": 32,
@@ -213,12 +213,12 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gurgling of a freshwater stream meeting the ocean breaks the silence, making the nearby seaweed-covered rocks quiver."
     },
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Upwelling']",
         "encounter": ""
     },
     {
@@ -230,7 +230,7 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Swirl']",
         "encounter": ""
     },
     {
@@ -260,20 +260,20 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Passage']",
         "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Picturesque ['Vortex']",
+        "encounter": "The colorful coral polyps rustles, revealing cursed mermaids that are raising a sunken ship from the depths."
     },
     {
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of treacherous rocks just below the surface makes it difficult to proceed. Perhaps the lighthouse guardians nearby can help."
     },
     {
         "pos": 46,
@@ -285,25 +285,25 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.. But be wary, for ghost ships lurk nearby."
     },
     {
         "pos": 48,
         "terrain": "O",
-        "features": "Infinite Narrows",
+        "features": "Spectacular ['Edifice']",
         "encounter": ""
     },
     {
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of scent of salted fish drying on racks, suggesting the presence of underwater nomads."
+        "encounter": "Every step forward is met with the increasing intensity of musk of a sea lion colony, suggesting the presence of underwater nomads."
     },
     {
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of barnacle-covered remnants of a wooden chest suggests that turtle island shamans have passed through here on a quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.."
+        "encounter": ""
     },
     {
         "pos": 51,
@@ -321,7 +321,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a sunken cannon half-buried in the coral wind through the gorgonian sea fans, revealing the past actions of sea dragons."
+        "encounter": ""
     },
     {
         "pos": 54,
@@ -344,8 +344,8 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
-        "encounter": "Hidden among black coral, you spot a sea serpent scale glinting in the sunlight."
+        "features": "Rippling ['Inlet']",
+        "encounter": ""
     },
     {
         "pos": 58,
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and hollow echoes in an underwater cavern grow louder. It seems sea witches are on the move."
+        "encounter": ""
     },
     {
         "pos": 60,
@@ -386,7 +386,7 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening ['Strait']",
         "encounter": ""
     },
     {
@@ -411,7 +411,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie rustling of palm fronds in a gentle breeze resonates from a hidden cave filled with glowing sea crystals, and the scent of pungent smell of seaweed drying in the sun fills the air."
     },
     {
         "pos": 69,
@@ -422,8 +422,8 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Vibrant Rise",
-        "encounter": ""
+        "features": "",
+        "encounter": "Hidden among sea palm kelp, you spot a mysterious, glowing underwater crystal glinting in the sunlight."
     },
     {
         "pos": 71,
@@ -434,7 +434,7 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Glistening Abyss",
+        "features": "",
         "encounter": ""
     },
     {
@@ -453,7 +453,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by an eerie, ghostly ship blocking the path, your attention is caught by crackling of a bonfire on the beach. Upon investigating, you discover a concealed treasure chest within a submerged statue with a ship's sextant for celestial navigation inside."
+        "encounter": ""
     },
     {
         "pos": 76,
@@ -519,13 +519,13 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense thick beds of eelgrass, you discover a coral crown adorned with precious gems. You can't shake the feeling of forgiveness."
     },
     {
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a captured sea serpent's egg. However, selkies stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -548,14 +548,14 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Spectacular Strait",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by hornwort leads to a clearing with barnacle-covered remnants of a wooden chest, indicating ship-eating barnacles have been here."
+        "encounter": ""
     },
     {
         "pos": 93,
@@ -567,12 +567,12 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across barnacle-covered remnants of a wooden chest of an old campsite, the scent of salty seaweed and kelp still lingering."
+        "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Lonely Lagoon",
+        "features": "",
         "encounter": ""
     },
     {

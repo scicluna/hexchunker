@@ -14,7 +14,7 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Tumultuous Plateau",
+        "features": "",
         "encounter": ""
     },
     {
@@ -32,20 +32,20 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept ['Atoll']",
         "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a submerged pirate's lair hidden by a waterfall, you sense the presence of merfolk."
     },
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Picturesque Delta",
-        "encounter": "You encounter underwater nomads which are collecting rare and magical seashells."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -98,14 +98,14 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Daunting ['Abyss']",
+        "encounter": "A distant rustling of seaweed in the currents draws your attention. Following it, you discover the remnants of a ship's broken figurehead of a past event."
     },
     {
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a band of marauding pirates waiting to attack, you're surprised to find a concealed treasure chest buried in the sand filled with a rusted, half-buried cutlass.As you journey forward, you come across a ghostly lantern that wards off spirits, with traces of damp, earthy smell of a rocky shore around them."
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -123,7 +123,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rustling of seaweed in the currents is accompanied by the distinct aroma of aromatic spices from a seaside market. It seems cursed ship captains are involved in conducting a mystical sea ritual."
+        "encounter": ""
     },
     {
         "pos": 21,
@@ -134,7 +134,7 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable ['Expanse']",
         "encounter": ""
     },
     {
@@ -183,7 +183,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice gorgonian sea fans moving subtly. Upon closer inspection, you see tidal wave elementals that are guarding a hidden cove filled with stolen treasure."
     },
     {
         "pos": 31,
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Nautical Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -278,8 +278,8 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
-        "encounter": "The way forward is blocked by a school of aggressive and territorial sharks, but you notice a concealed treasure chest buried in the sand that might lead around it."
+        "features": "Surging ['Ocean']",
+        "encounter": ""
     },
     {
         "pos": 47,
@@ -326,7 +326,7 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Bay']",
         "encounter": ""
     },
     {
@@ -338,8 +338,8 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Sweeping Channel",
-        "encounter": "The ground is littered with a tattered, waterlogged map of uncharted waters. It appears water elementals were here recently."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 57,
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a giant maelstrom that sucks everything in. As you contemplate a way around, you hear chattering of crabs on a rocky shore from the shadows."
+        "encounter": "Your way is impeded by a coral reef with sharp, hidden edges. As you contemplate a way around, you hear buzzing of bioluminescent creatures in the depths from the shadows."
     },
     {
         "pos": 59,
@@ -375,7 +375,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a concealed treasure chest buried under a giant pearl, you sense the presence of kelpie."
     },
     {
         "pos": 63,
@@ -386,8 +386,8 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
-        "encounter": "From the shadows of the an underwater volcanic vent leading to a hidden world, you sense the presence of storm giants."
+        "features": "Ageless ['Abyss']",
+        "encounter": ""
     },
     {
         "pos": 65,
@@ -398,8 +398,8 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Unfathomable Edifice",
-        "encounter": "You stumble upon a scene where crystal reef dwellers are engaged in navigating treacherous waters during a storm around a bottle of rare and potent mermaid tears, seemingly crucial for retrieve a powerful, magical artifact from a sunken shipwreck.."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 67,
@@ -410,13 +410,13 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Shimmering Plateau",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Maelstrom']",
         "encounter": ""
     },
     {
@@ -464,7 +464,7 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Immeasurable Jetty",
+        "features": "",
         "encounter": ""
     },
     {
@@ -482,7 +482,7 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Boundless Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -494,8 +494,8 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Radiant ['Maelstrom']",
+        "encounter": "The way forward is blocked by a colony of territorial sea lions blocking passage, but you notice a concealed treasure chest buried in the sand that might lead around it."
     },
     {
         "pos": 83,
@@ -507,13 +507,13 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense hornwort, you discover a bejeweled trident. You can't shake the feeling of trepidation."
     },
     {
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With deliver a shipment of rare spices to a distant island market. On your mind, the sudden appearance of a thick forest of kelp that entangles ships accompanied by rumbling of a distant underwater volcano becomes a challenging diversion."
     },
     {
         "pos": 86,
@@ -530,14 +530,14 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Shore']",
         "encounter": ""
     },
     {
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie crackling of a bonfire on the beach resonates from a hidden coral archway leading to a treasure trove, and the scent of warm, sun-kissed aroma of a sandy beach fills the air."
     },
     {
         "pos": 90,
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious sun-warmed sand envelops you, drawing you towards a submerged pirate's lair hidden by a waterfall where whirlpool spirits are escaping from the clutches of a kraken."
     },
     {
         "pos": 92,
@@ -566,14 +566,14 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable ['Drop-off']",
         "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a waterlogged chest with its lid ajar lie scattered, painting a tale of oceanic alchemists that singing haunting songs to lure sailors."
+        "encounter": ""
     },
     {
         "pos": 96,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a skeleton clutching a rusted cutlass on the seabed wind through the floating bladderwort plants, revealing the past actions of sirens."
+        "encounter": ""
     }
 ]

@@ -26,13 +26,13 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden thudding of footsteps on a wooden dock breaks the silence, making the nearby gorgonian sea fans quiver."
+        "features": "Tranquil ['Inlet']",
+        "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Rise']",
         "encounter": ""
     },
     {
@@ -50,7 +50,7 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Jetty']",
         "encounter": ""
     },
     {
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Mangrove']",
         "encounter": ""
     },
     {
@@ -110,14 +110,14 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Turbulent Shore",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft chattering of crabs on a rocky shore. As you follow, you encounter dolphin companions in the midst of rescuing shipwreck survivors."
+        "encounter": "A sudden gust brings with it pungent aroma of a hidden pirate's stash. You spot cursed mermaids that seem to be escaping from the clutches of a kraken."
     },
     {
         "pos": 20,
@@ -134,8 +134,8 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Picturesque Flats",
-        "encounter": "You find a hint leading you to deliver a mysterious message to a reclusive island hermit.. But be wary, for merfolk lurk nearby."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Picturesque Pinnacle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Upwelling']",
         "encounter": ""
     },
     {
@@ -183,13 +183,13 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant splashing of dolphins playing nearby draws your attention. Following it, you discover a shattered, waterlogged compass of a past event."
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Unfathomable ['Basin']",
+        "encounter": "Among the dense crinoids on the seafloor, you discover a ship's bell with a haunting chime. You can't shake the feeling of guilt."
     },
     {
         "pos": 32,
@@ -200,8 +200,8 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Peaceful Depression",
-        "encounter": ""
+        "features": "",
+        "encounter": "The whisper of whistling of wind through the rigging of a ship is accompanied by the distinct aroma of pungent aroma of a hidden pirate's stash. It seems storm giants are involved in healing wounded sea creatures."
     },
     {
         "pos": 34,
@@ -213,12 +213,12 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft seagulls cawing in the distance. As you follow, you encounter sea witches in the midst of navigating treacherous waters during a storm."
+        "encounter": ""
     },
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Tempestuous Billow",
+        "features": "",
         "encounter": ""
     },
     {
@@ -230,20 +230,20 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Plateau']",
         "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Sandbank']",
         "encounter": ""
     },
     {
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel joy as roaring of a powerful waterfall cascading into the sea echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 41,
@@ -261,7 +261,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear creaking of a ship's rigging in the wind coming from a hidden coral archway leading to a treasure trove."
     },
     {
         "pos": 44,
@@ -278,32 +278,32 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Dazzling Ridge",
+        "features": "Sweeping ['Basin']",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it saltwater in the air. You spot turtle island shamans that seem to be solving a riddle from an ancient sea scroll."
     },
     {
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a cursed island that draws ships in but won't let them leave. As you contemplate a way around, you hear rattling of pebbles in the surf from the shadows."
+        "encounter": ""
     },
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Undercurrent']",
         "encounter": ""
     },
     {
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by zostera seagrass leads to a clearing with a beached rowboat with a broken oar, indicating crystal reef dwellers have been here."
+        "encounter": ""
     },
     {
         "pos": 51,
@@ -326,7 +326,7 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Flats']",
         "encounter": ""
     },
     {
@@ -350,8 +350,8 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Vibrant ['Jetty']",
+        "encounter": "You find a hint leading you to rescue a stranded mermaid from a treacherous reef.. But be wary, for ship-eating barnacles lurk nearby."
     },
     {
         "pos": 59,
@@ -368,8 +368,8 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Harmonious Lagoon",
-        "encounter": "The air is filled with the smell of smell of seaweed roasting in the sun. You feel a sense of euphoria."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -392,7 +392,7 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic ['Bight']",
         "encounter": ""
     },
     {
@@ -465,12 +465,12 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a massive, floating tree trunk in the ship's path. As you approach, giant clams creating storms to deter sailors."
     },
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Lonely Channel",
+        "features": "",
         "encounter": ""
     },
     {
@@ -530,20 +530,20 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Cove']",
         "encounter": ""
     },
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "Jellyfish navigators gives you a quest to protect a colony of merfolk from an encroaching threat.In your path lies a collection of seashells with hidden messages surrounded by floating bladderwort plants."
+        "encounter": ""
     },
     {
         "pos": 91,
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "Lonely Basin",
+        "features": "",
         "encounter": ""
     },
     {
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Soothing Rise",
+        "features": "",
         "encounter": ""
     }
 ]

@@ -2,13 +2,13 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Surging Chasm",
-        "encounter": ""
+        "features": "",
+        "encounter": "A path surrounded by floating mats of sargassum seaweed leads to a clearing with a sunken rowboat with a hole in its hull, indicating crystal reef dwellers have been here."
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Billow']",
         "encounter": ""
     },
     {
@@ -32,14 +32,14 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Edifice']",
         "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a dense, toxic algae bloom poisoning the water, but you notice an underwater volcanic vent leading to a hidden world that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 7,
@@ -50,25 +50,25 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing ['Fathom']",
         "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among gorgonian sea fans, you spot a pirate's cutlass with an ornate hilt glinting in the sunlight."
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Spring']",
         "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Grand ['Current']",
         "encounter": ""
     },
     {
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a sunken rowboat with a hole in its hull that tell a story of a time when storm giants pursued slay a marauding sea monster terrorizing coastal villages.."
     },
     {
         "pos": 14,
@@ -93,19 +93,19 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a waterlogged chest with its lid ajar lie scattered, painting a tale of kelpie that raiding a coastal village for supplies."
+        "encounter": ""
     },
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal ['Spring']",
         "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "Island hermit gives you a quest to rescue a stranded mermaid from a treacherous reef.In your path lies a ship's chart with uncharted territories marked surrounded by coral reefs."
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -123,12 +123,12 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange the remnants of a sunken sea monster's scale lie scattered, painting a tale of pearl diver guilds that collecting rare and magical seashells."
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Secluded Cove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Ridge']",
         "encounter": ""
     },
     {
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Teeming Deep",
+        "features": "",
         "encounter": ""
     },
     {
@@ -255,7 +255,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a band of marauding pirates waiting to attack. As you contemplate a way around, you hear churning of water as a whirlpool forms from the shadows."
     },
     {
         "pos": 43,
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Tidal Flats",
+        "features": "",
         "encounter": ""
     },
     {
@@ -284,8 +284,8 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Ageless ['Jetty']",
+        "encounter": "You hear rustling of parchment as a map is unfurled coming from an ancient, submerged temple with hidden chambers."
     },
     {
         "pos": 48,
@@ -308,7 +308,7 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "Roaring Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft rustling of seaweed swaying in the current. As you follow, you encounter crystal reef dwellers in the midst of navigating treacherous waters during a storm."
     },
     {
         "pos": 55,
@@ -386,14 +386,14 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Pristine Rise",
-        "encounter": "Navigating through a school of aggressive and territorial sharks, you're surprised to find a secret underwater grotto accessible only at low tide filled with a torn and waterlogged book of sea legends.As you journey forward, you come across a ghostly lantern that wards off spirits, with traces of scent of damp driftwood around them."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "With find a lost underwater city rumored to hold ancient relics. On your mind, the sudden appearance of a ship-eating whirlpool known as the 'ship swallower' accompanied by crackling of a bonfire on the beach becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 66,
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of roaring of a powerful waterfall cascading into the sea is accompanied by the distinct aroma of clean, crisp scent of the open sea. It seems octopus oracles are involved in building a coral fortress."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -416,8 +416,8 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Harmonious ['Depression']",
+        "encounter": "An eerie buzzing of insects near a coastal marsh resonates from an overgrown shipwreck hidden beneath a dense kelp bed, and the scent of briny scent of low tide fills the air."
     },
     {
         "pos": 70,
@@ -429,7 +429,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it warm, sun-kissed aroma of a sandy beach. You spot kraken that seem to be collecting rare and magical seashells."
+        "encounter": ""
     },
     {
         "pos": 72,
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a deadly, bioluminescent sea creature swarm blocking your path. Perhaps it's related to your quest to defend a coastal village from a relentless pirate invasion.."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a rusted anchor half-buried in the sand suggests that shipwreck goblins have passed through here on a quest to escort a valuable cargo of precious gems through pirate-infested waters.."
     },
     {
         "pos": 85,
@@ -548,8 +548,8 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Mesmerizing Strait",
-        "encounter": "You hear chattering of crabs on a rocky shore coming from a secret pirate's den inside a massive, hollowed-out rock."
+        "features": "",
+        "encounter": "Your path is illuminated by the glint of a treasure chest full of cursed gold. However, water elementals stand guard, their intentions unknown."
     },
     {
         "pos": 92,
@@ -566,14 +566,14 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Harbor']",
         "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Timeless Plateau",
-        "encounter": "A path surrounded by floating bladderwort plants leads to a clearing with the remnants of an ancient ship's cargo hold, indicating mermen have been here."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 96,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden murmuring of merfolk singing in harmony breaks the silence, making the nearby caulerpa seaweed quiver."
     }
 ]

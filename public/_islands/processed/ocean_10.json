@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sponge colonies, you catch sight of a seafarer's compass that points to hidden treasure. But be cautious, chirping of crickets on a moonlit beach suggest coral golems are near."
+        "encounter": ""
     },
     {
         "pos": 1,
@@ -44,7 +44,7 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Surging Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -63,7 +63,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a message in a bottle nestled among mermaid's hair algae, but the unsettling feeling of grief makes you wary."
+        "encounter": ""
     },
     {
         "pos": 11,
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a coral reef with sharp, hidden edges, you're surprised to find a hidden treasure map etched into a ship's hull filled with a shattered, waterlogged compass.As you journey forward, you come across a mermaid's singing seashell necklace, with traces of fishy odor of the ocean depths around them."
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Boundless Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -110,14 +110,14 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Calm Current",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft rustling of seaweed swaying in the current. As you follow, you encounter seafaring druids in the midst of trading with passing merchant ships."
+        "encounter": ""
     },
     {
         "pos": 20,
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Idyllic Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -140,14 +140,14 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Reflective Reef",
-        "encounter": "A sudden gust brings with it aromatic blooms of coastal flowers. You spot underwater miners that seem to be repairing their damaged ship."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 24,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Majestic ['Spring']",
+        "encounter": "Hidden among floating bladderwort plants, you spot a rare, ancient ship's figurehead glinting in the sunlight."
     },
     {
         "pos": 25,
@@ -159,7 +159,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a ship-eating whirlpool known as the 'ship swallower' makes it difficult to proceed. Perhaps the jellyfish navigators nearby can help."
+        "encounter": ""
     },
     {
         "pos": 27,
@@ -171,7 +171,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where island hermit are engaged in convincing a shipwrecked sailor to join their crew around a treasure chest full of cursed gold, seemingly crucial for uncover the secrets of a mysterious, ship-swallowing whirlpool.."
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -188,7 +188,7 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Undercurrent']",
         "encounter": ""
     },
     {
@@ -255,37 +255,37 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a rusted, half-buried cutlass that tell a story of a time when mermen pursued retrieve a rare and magical seashell for a powerful sea witch.."
     },
     {
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a monstrous sea serpent lurking beneath the surface makes it difficult to proceed. Perhaps the storm giants nearby can help."
+        "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Sandbank']",
         "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel indignation as rustling of parchment as a map is unfurled echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Glistening Marina",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by floating mats of sargassum seaweed leads to a clearing with the remnants of a sunken pirate ship's flagpole, indicating sea serpents have been here."
+        "encounter": "The presence of a sudden, violent storm with massive waves makes it difficult to proceed. Perhaps the cursed mermaids nearby can help."
     },
     {
         "pos": 48,
@@ -302,14 +302,14 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Current']",
         "encounter": ""
     },
     {
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden crackling of a bonfire on the beach breaks the silence, making the nearby giant clam gardens quiver."
     },
     {
         "pos": 52,
@@ -320,8 +320,8 @@
     {
         "pos": 53,
         "terrain": "M",
-        "features": "Rocky Cirque",
-        "encounter": "The presence of a massive, ancient mountain avalanche makes it difficult to proceed. Perhaps the a clan of centaurs known for their mountain survival skills nearby can help."
+        "features": "Verdant Tor",
+        "encounter": "You see a stack of intricately woven tapestries that could be useful in your quest to retrieve a lost explorer's equipment from a high-altitude cliff.. But it's guarded by a tribe of centaurs skilled in herbalism."
     },
     {
         "pos": 54,
@@ -344,14 +344,14 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of mildewy scent of an old ship's cabin, suggesting the presence of turtle island shamans."
+        "features": "Surging ['Trough']",
+        "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice green string lettuce moving subtly. Upon closer inspection, you see kraken that are protecting a ship from ghostly apparitions."
     },
     {
         "pos": 59,
@@ -374,20 +374,20 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Tempestuous Bay",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "M",
-        "features": "Impressive Base",
-        "encounter": "Trails of a forgotten and weathered mountain scarecrow wind through the a field of high-altitude sunflowers, revealing the past actions of a family of wild yaks foraging for food."
+        "features": "Radiant Bowl",
+        "encounter": "A distant the rhythmic clinking of rocks as they tumble down slopes draws your attention. Following it, you discover a shattered and ancient mountain mosaic floor of a past event."
     },
     {
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a sunken city with buildings rising to the surface, but you notice a sunken shipwreck beneath a coral reef that might lead around it."
     },
     {
         "pos": 65,
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Ship-eating barnacles emerge from the an overgrown shipwreck hidden beneath a dense kelp bed, their intent focused on a ship's bell with a haunting chime."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -440,19 +440,19 @@
     {
         "pos": 73,
         "terrain": "M",
-        "features": "Unreachable Massif",
-        "encounter": "A mysterious the sweet, fruity scent of wild mountain berries envelops you, drawing you towards a hidden path through a field of rare alpine flowers where a clan of mountain dwarves working in their underground city are tending to their herds of yaks and livestock."
+        "features": "Gentle Tor",
+        "encounter": "The ground trembles slightly, and the distant drumming of a woodpecker grow louder. It seems a pack of ferocious snow wolves are on the move."
     },
     {
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Depression']",
         "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Moonlit Wave",
+        "features": "",
         "encounter": ""
     },
     {
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a giant maelstrom that sucks everything in, you're surprised to find a sunken shipwreck beneath a coral reef filled with a rusted ship's bell on the ocean floor.As you journey forward, you come across a seafarer's compass that points to hidden treasure, with traces of musty odor of a hidden sea cave around them."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -500,8 +500,8 @@
     {
         "pos": 83,
         "terrain": "M",
-        "features": "Unreachable Volcano",
-        "encounter": "A mysterious the spicy aroma of wild herbs drying in the mountain sun envelops you, drawing you towards a hidden tunnel leading to a secluded mountain cavern where a family of wild yaks foraging for food are practicing their magical abilities in secluded groves."
+        "features": "Windswept Bowl",
+        "encounter": "Strange a toppled and overgrown mountain fountain lie scattered, painting a tale of a clan of mountain dwarves working in their underground city that hunting for elusive prey in the rocky terrain."
     },
     {
         "pos": 84,
@@ -513,7 +513,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and crackling of a bonfire on the beach grow louder. It seems storm giants are on the move."
+        "encounter": ""
     },
     {
         "pos": 86,
@@ -524,7 +524,7 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Breathtaking Delta",
+        "features": "",
         "encounter": ""
     },
     {
@@ -560,13 +560,13 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Current']",
         "encounter": ""
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal ['Flats']",
         "encounter": ""
     },
     {
@@ -579,12 +579,12 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a sunken pirate ship's flagpole suggests that giant clams have passed through here on a quest to defend a coastal town from raiding sea creatures.."
+        "encounter": "Surrounded by feather boa kelp, a series of a concealed chamber within a massive sponge reveal traces of a damaged, half-buried treasure map scroll, and the distant rustling of parchment as a map is unfurled hint at more to discover."
     },
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Deep Fjord",
+        "features": "",
         "encounter": ""
     },
     {

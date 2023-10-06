@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Epic Atoll",
+        "features": "",
         "encounter": ""
     },
     {
@@ -20,8 +20,8 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Reflective ['Estuary']",
+        "encounter": "A sudden crackling of a bonfire on the beach breaks the silence, making the nearby mangrove prop roots quiver."
     },
     {
         "pos": 4,
@@ -50,7 +50,7 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Channel']",
         "encounter": ""
     },
     {
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of tangy scent of salt spray. You feel a sense of amusement."
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and clattering of seashells in the tide grow louder. It seems sea witches are on the move."
     },
     {
         "pos": 17,
@@ -123,7 +123,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a mysterious, enchanted mist causing disorientation. As you contemplate a way around, you hear seagulls cawing in the distance from the shadows."
     },
     {
         "pos": 21,
@@ -146,7 +146,7 @@
     {
         "pos": 24,
         "terrain": "O",
-        "features": "Salty Current",
+        "features": "",
         "encounter": ""
     },
     {
@@ -165,7 +165,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon the remnants of a mermaid's lost jewelry indicating past battles."
     },
     {
         "pos": 28,
@@ -183,7 +183,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft whispering of the sea breeze through palm trees. As you follow, you encounter jellyfish navigators in the midst of wreaking havoc on passing ships."
     },
     {
         "pos": 31,
@@ -201,13 +201,13 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among bubbling hot seawater vents, you spot a chest of exotic spices from distant lands glinting in the sunlight."
     },
     {
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among underwater mangrove roots, you spot a ghostly lantern that wards off spirits glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -248,8 +248,8 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
-        "encounter": "An eerie rustling of seaweed in the currents resonates from a treasure cache buried in the sand on a deserted island, and the scent of smoky scent of grilled seafood fills the air."
+        "features": "Tidal ['Kelp Forest']",
+        "encounter": ""
     },
     {
         "pos": 42,
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Moonlit Main",
+        "features": "",
         "encounter": ""
     },
     {
@@ -321,13 +321,13 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Pearl diver guilds gives you a quest to retrieve a stolen pearl from a cunning group of bandits.In your path lies a merfolk's enchanted harp surrounded by green string lettuce."
     },
     {
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense green string lettuce, you catch sight of a seafarer's compass that points to hidden treasure. But be cautious, rustling of parchment as a map is unfurled suggest merfolk are near."
+        "encounter": ""
     },
     {
         "pos": 55,
@@ -345,12 +345,12 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where sea witches are engaged in repairing their damaged ship around a pirate's cutlass with an ornate hilt, seemingly crucial for rescue a kidnapped noble from a group of pirates.."
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering ['Swirl']",
         "encounter": ""
     },
     {
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Expansive Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -380,7 +380,7 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal ['Channel']",
         "encounter": ""
     },
     {
@@ -416,14 +416,14 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit ['Tide']",
         "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of pungent aroma of a hidden pirate's stash. You feel a sense of confusion."
+        "encounter": ""
     },
     {
         "pos": 71,
@@ -434,14 +434,14 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Shore']",
         "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Pirates gives you a quest to navigate treacherous waters to find a legendary fishing spot.In your path lies a giant clamshell turned into a luxurious bed surrounded by hornwort."
     },
     {
         "pos": 74,
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Uncharted Rift",
+        "features": "Salty ['Estuary']",
         "encounter": ""
     },
     {
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Isle']",
         "encounter": ""
     },
     {
@@ -489,7 +489,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel anticipation as churning of water as a whirlpool forms echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 82,
@@ -543,7 +543,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by underwater mangrove roots leads to a clearing with a broken ship's mast jutting out of the water, indicating underwater nomads have been here."
     },
     {
         "pos": 91,
@@ -566,7 +566,7 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Picturesque Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -591,7 +591,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with a sunken chest with its lock rusted shut. It appears sea anemone sorcerers were here recently."
     },
     {
         "pos": 99,

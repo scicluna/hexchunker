@@ -26,14 +26,14 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "Boundless Bay",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover the remnants of a coral-encrusted treasure chest that tell a story of a time when giant clams pursued help a stranded sea serpent find its way back to the open sea.."
+        "encounter": ""
     },
     {
         "pos": 6,
@@ -93,12 +93,12 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft humming of a powerful sea enchantment. As you follow, you encounter dolphin companions in the midst of healing wounded sea creatures."
     },
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Ethereal Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -129,7 +129,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to find a lost underwater city rumored to hold ancient relics.. But be wary, for giant clams lurk nearby."
+        "encounter": "Peering through the dense zostera seagrass, you catch sight of a ship's bell with a haunting chime. But be cautious, cracking of icebergs in frigid waters suggest sea anemone sorcerers are near."
     },
     {
         "pos": 22,
@@ -140,8 +140,8 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
-        "encounter": "You find a hint leading you to guide a group of scholars on a research expedition to the deep ocean.. But be wary, for octopus oracles lurk nearby."
+        "features": "Endless ['Passage']",
+        "encounter": "With track down a legendary sea monster for a wealthy collector. On your mind, the sudden appearance of a massive, drifting iceberg with hidden dangers accompanied by crackling of a bonfire on the beach becomes a challenging diversion."
     },
     {
         "pos": 24,
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Immeasurable Sound",
+        "features": "",
         "encounter": ""
     },
     {
@@ -171,24 +171,24 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With uncover the truth behind a series of strange underwater disappearances. On your mind, the sudden appearance of a deadly, bioluminescent sea creature swarm accompanied by seagulls cawing in the distance becomes a challenging diversion."
     },
     {
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of creaking of a ship's rigging in the wind is accompanied by the distinct aroma of smell of seaweed roasting in the sun. It seems lighthouse guardians are involved in protecting their underwater city from intruders."
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable ['Current']",
         "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling ['Basin']",
         "encounter": ""
     },
     {
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Jetty']",
         "encounter": ""
     },
     {
@@ -224,14 +224,14 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Tidal Pool']",
         "encounter": ""
     },
     {
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and clattering of seashells in the tide grow louder. It seems sea anemone sorcerers are on the move."
     },
     {
         "pos": 39,
@@ -249,13 +249,13 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by brown algae forests, a series of a hidden coral maze filled with merfolk traps reveal traces of the remnants of a ship's lantern on the seafloor, and the distant roaring of a powerful waterfall cascading into the sea hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Selkies gives you a quest to rescue a stranded mermaid from a treacherous reef.In your path lies a ship's logbook with a mysterious route surrounded by bubbling hot seawater vents."
     },
     {
         "pos": 43,
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a powerful, magical barrier blocking passage. As you contemplate a way around, you hear distant rumble of thunder during a storm from the shadows."
     },
     {
         "pos": 45,
@@ -278,13 +278,13 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Unspoiled Spring",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
-        "features": "Glistening Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -296,8 +296,8 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Salty ['Bight']",
+        "encounter": "You notice underwater mangrove roots moving subtly. Upon closer inspection, you see sea witches that are healing wounded sea creatures."
     },
     {
         "pos": 50,
@@ -332,19 +332,19 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Current']",
         "encounter": ""
     },
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Lagoon']",
         "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Mesmerizing Undercurrent",
+        "features": "",
         "encounter": ""
     },
     {
@@ -374,7 +374,7 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Kelp Forest']",
         "encounter": ""
     },
     {
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Rise']",
         "encounter": ""
     },
     {
@@ -447,7 +447,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a haunted shipwreck with vengeful spirits. As you contemplate a way around, you hear booming of waves in a hidden sea cave from the shadows."
     },
     {
         "pos": 75,
@@ -458,8 +458,8 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Vibrant Expanse",
-        "encounter": ""
+        "features": "",
+        "encounter": "A sudden gust brings with it damp, earthy smell of a rocky shore. You spot sea witches that seem to be raising a sunken ship from the depths."
     },
     {
         "pos": 77,
@@ -500,8 +500,8 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Luminous Tide",
-        "encounter": "A distant distant rumble of thunder during a storm draws your attention. Following it, you discover a rusted, half-buried cutlass of a past event."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 84,
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Salty Vortex",
+        "features": "Raging ['Surf']",
         "encounter": ""
     },
     {
@@ -585,12 +585,12 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense black coral, you catch sight of a bejeweled trident. But be cautious, gentle lapping of waves against the shore suggest pearl diver guilds are near."
+        "encounter": "You find a hint leading you to deliver a mysterious message to a reclusive island hermit.. But be wary, for pirates lurk nearby."
     },
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Undercurrent']",
         "encounter": ""
     },
     {

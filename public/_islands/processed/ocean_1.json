@@ -2,13 +2,13 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Untamed Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular ['Upwelling']",
         "encounter": ""
     },
     {
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and rustling of seaweed swaying in the current grow louder. It seems kelpie are on the move."
     },
     {
         "pos": 8,
@@ -74,7 +74,7 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Shimmering Wave",
+        "features": "",
         "encounter": ""
     },
     {
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Reflective Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Beckoning Abyss",
+        "features": "",
         "encounter": ""
     },
     {
@@ -159,7 +159,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a seashell amulet that grants water-breathing. However, kelpie stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 27,
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Swirl']",
         "encounter": ""
     },
     {
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "Bubbling Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -207,7 +207,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With investigate a series of shipwrecks caused by a vengeful ghost ship. On your mind, the sudden appearance of a massive, drifting iceberg with hidden dangers accompanied by thudding of footsteps on a wooden dock becomes a challenging diversion."
     },
     {
         "pos": 35,
@@ -248,8 +248,8 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Deep ['Reef']",
+        "encounter": "Every step forward is met with the increasing intensity of aromatic herbs from a coastal garden, suggesting the presence of kraken."
     },
     {
         "pos": 42,
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Murmuring Bay",
+        "features": "",
         "encounter": ""
     },
     {
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among floating bladderwort plants, you spot a merfolk's enchanted harp glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 50,
@@ -327,13 +327,13 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by sponge colonies, a series of a hidden treasure map etched into a ship's hull reveal traces of the remnants of a coral-encrusted treasure chest, and the distant buzzing of bioluminescent creatures in the depths hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear buzzing of underwater machinery in a sunken city coming from a hidden coral maze filled with merfolk traps."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense tube worms near hydrothermal vents, you discover a chest of exotic spices from distant lands. You can't shake the feeling of determination."
     },
     {
         "pos": 59,
@@ -399,7 +399,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of smoky scent of grilled seafood, suggesting the presence of merfolk."
+        "encounter": ""
     },
     {
         "pos": 67,
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ship-eating barnacles gives you a quest to investigate reports of disappearing ships in a cursed sea.In your path lies a kraken's tentacle as a gruesome trophy surrounded by sea grape kelp."
     },
     {
         "pos": 73,
@@ -446,14 +446,14 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Narrows']",
         "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "With search for a hidden cove rumored to contain pirate treasure. On your mind, the sudden appearance of a treacherous, narrow strait with strong currents accompanied by whispering of the sea breeze through palm trees becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 76,
@@ -483,7 +483,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by sea grape kelp, a series of a concealed cavern within a towering underwater cliff reveal traces of a shattered, half-buried bottle with a message inside, and the distant rumbling of a distant underwater volcano hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 81,
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Calm Shoal",
+        "features": "Immeasurable ['Undercurrent']",
         "encounter": ""
     },
     {
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft low growling of a distant thunderstorm. As you follow, you encounter cursed mermaids in the midst of setting up an underwater market."
+        "encounter": "Your senses are overwhelmed by dread as you uncover a seashell amulet that grants water-breathing hidden within green string lettuce."
     },
     {
         "pos": 88,
@@ -560,7 +560,7 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Secluded Upwelling",
+        "features": "",
         "encounter": ""
     },
     {

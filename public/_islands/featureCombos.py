@@ -1163,15 +1163,15 @@ def random_feature(char):
     if char == "O":
         rng = random.randint(1,10)
         if rng == 10:
-            return f"{o_adjectives[random.randint(0,len(o_adjectives)-1)]} {o_nouns[random.randint(0, len(o_nouns)-1)]}"
+            return f"{random.choice(o_adjectives)} {random.choices(o_nouns)}"
     if char == "P":
-        return f"{p_adjectives[random.randint(0,len(p_adjectives)-1)]} {p_nouns[random.randint(0, len(p_nouns)-1)]}"
+        return f"{random.choice(p_adjectives)} {random.choice(p_nouns)}"
     if char == "H":
-        return f"{h_adjectives[random.randint(0,len(h_adjectives)-1)]} {h_nouns[random.randint(0, len(h_nouns)-1)]}"
+        return f"{random.choice(h_adjectives)} {random.choice(h_nouns)}"
     if char == "M":
-        return f"{m_adjectives[random.randint(0,len(m_adjectives)-1)]} {m_nouns[random.randint(0, len(m_nouns)-1)]}"
+        return f"{random.choice(m_adjectives)} {random.choice(m_nouns)}"
     if char == "F":
-        return f"{f_adjectives[random.randint(0,len(f_adjectives)-1)]} {f_nouns[random.randint(0, len(f_nouns)-1)]}"
+        return f"{random.choice(f_adjectives)} {random.choice(f_nouns)}"
     if char == "T":
-        return f"{t_name}"
+        return f"{random.choice(t_name)}"
     return ""

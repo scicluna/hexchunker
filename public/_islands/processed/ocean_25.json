@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Soothing Ocean",
+        "features": "",
         "encounter": ""
     },
     {
@@ -20,8 +20,8 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Timeless ['Bay']",
+        "encounter": "A path surrounded by floating mats of sargassum seaweed leads to a clearing with the remnants of a shattered glass bottle, indicating underwater nomads have been here."
     },
     {
         "pos": 4,
@@ -56,20 +56,20 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit ['Spring']",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "",
-        "encounter": "The sponge colonies rustles, revealing sea witches that are healing wounded sea creatures."
+        "features": "Epic ['Vortex']",
+        "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by confusion as you uncover a mysterious, glowing underwater crystal hidden within red algae beds."
+        "encounter": ""
     },
     {
         "pos": 12,
@@ -92,7 +92,7 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -104,14 +104,14 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Surging Kelp Forest",
+        "features": "Infinite ['Shore']",
         "encounter": ""
     },
     {
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it aromatic blooms of coastal flowers. You spot sunken treasure guardians that seem to be convincing a shipwrecked sailor to join their crew."
     },
     {
         "pos": 19,
@@ -195,7 +195,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a ship-eating whirlpool known as the 'ship swallower'. As you approach, island hermit wreaking havoc on passing ships."
+        "encounter": ""
     },
     {
         "pos": 33,
@@ -260,7 +260,7 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Harmonious Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -290,7 +290,7 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "Luminous Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -309,19 +309,19 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and gurgling of a freshwater stream meeting the ocean grow louder. It seems coral golems are on the move."
     },
     {
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Gulf']",
         "encounter": ""
     },
     {
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sponge colonies, you catch sight of a treasure chest full of cursed gold. But be cautious, humming of a powerful sea enchantment suggest storm giants are near."
+        "encounter": ""
     },
     {
         "pos": 54,
@@ -345,7 +345,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a massive, drifting iceberg with hidden dangers makes it difficult to proceed. Perhaps the ghost ships nearby can help."
     },
     {
         "pos": 58,
@@ -368,8 +368,8 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon a scene where seafaring druids are engaged in wreaking havoc on passing ships around a sea serpent scale, seemingly crucial for defend a coastal town from raiding sea creatures.."
+        "features": "Grand ['Sandbank']",
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -398,14 +398,14 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Depression']",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by disbelief as you uncover a mermaid's singing seashell necklace hidden within coral reefs."
     },
     {
         "pos": 68,
@@ -440,7 +440,7 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Undercurrent']",
         "encounter": ""
     },
     {
@@ -458,13 +458,13 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless ['Lagoon']",
         "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Infinite Estuary",
+        "features": "",
         "encounter": ""
     },
     {
@@ -482,7 +482,7 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Spring']",
         "encounter": ""
     },
     {
@@ -524,7 +524,7 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Mesmerizing Main",
+        "features": "Secluded ['Haven']",
         "encounter": ""
     },
     {
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Luminous Ocean",
+        "features": "",
         "encounter": ""
     },
     {
@@ -560,7 +560,7 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Vibrant Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil ['Bight']",
         "encounter": ""
     },
     {

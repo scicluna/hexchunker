@@ -3,19 +3,19 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a coral reef with sharp, hidden edges, but you notice a submerged sea cave filled with bioluminescent creatures that might lead around it."
+        "encounter": "A distant rustling of seaweed in the currents draws your attention. Following it, you discover a damaged, half-buried treasure map scroll of a past event."
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire ['Bay']",
         "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie rumbling of a distant underwater volcano resonates from a network of tunnels in the heart of a coral maze, and the scent of mildewed scent of an old shipwreck fills the air."
     },
     {
         "pos": 3,
@@ -51,13 +51,13 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a preserved mermaid tail. However, giant sea turtles stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice red algae beds moving subtly. Upon closer inspection, you see water elementals that are rescuing shipwreck survivors."
+        "encounter": "You stumble upon a scene where turtle island shamans are engaged in hunting for fish and other sea creatures around a mysterious, glowing underwater crystal, seemingly crucial for help a stranded sailor repair their ship and return home.."
     },
     {
         "pos": 10,
@@ -68,20 +68,20 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Unspoiled Ridge",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Trough']",
         "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Breathtaking ['Sound']",
+        "encounter": "The ground trembles slightly, and chirping of crickets on a moonlit beach grow louder. It seems cursed ship captains are on the move."
     },
     {
         "pos": 14,
@@ -99,12 +99,12 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a powerful, magical barrier blocking passage, you're surprised to find a secret pirate tunnel leading to a hidden cove filled with the remnants of a ship's lantern on the seafloor.As you journey forward, you come across a bejeweled trident, with traces of rustic scent of a seaside tavern around them."
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Mesmerizing Pinnacle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant ['Edifice']",
         "encounter": ""
     },
     {
@@ -134,7 +134,7 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Choppy Trough",
+        "features": "",
         "encounter": ""
     },
     {
@@ -189,13 +189,13 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it salty seaweed and kelp. You spot sarcastic cephalopod that seem to be raising a sunken ship from the depths."
+        "encounter": ""
     },
     {
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by seafloor seagrass leads to a clearing with the remnants of a shattered glass bottle, indicating island hermit have been here."
+        "encounter": ""
     },
     {
         "pos": 33,
@@ -213,7 +213,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of warm, sun-kissed aroma of a sandy beach, suggesting the presence of tidal wave elementals."
     },
     {
         "pos": 36,
@@ -224,20 +224,20 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Chasm']",
         "encounter": ""
     },
     {
         "pos": 38,
         "terrain": "O",
-        "features": "Reflective Edifice",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your senses are overwhelmed by curiosity as you uncover a weathered treasure map hidden within giant clam gardens."
     },
     {
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by sadness as you uncover a bottle of potent seawater from a mythical spring hidden within underwater mangrove roots."
     },
     {
         "pos": 40,
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Boundless Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of salty seaweed and kelp, suggesting the presence of underwater miners."
+        "encounter": ""
     },
     {
         "pos": 45,
@@ -314,7 +314,7 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Harbor']",
         "encounter": ""
     },
     {
@@ -333,13 +333,13 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and splashing of dolphins playing nearby grow louder. It seems whirlpool spirits are on the move."
     },
     {
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to rescue a stranded mermaid from a treacherous reef.. But be wary, for kelpie lurk nearby."
     },
     {
         "pos": 57,
@@ -350,14 +350,14 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Crystal-clear Trough",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With help a shipwrecked sailor construct a signal fire to call for rescue. On your mind, the sudden appearance of a coral reef with sharp, hidden edges accompanied by splintering of wood as a shipwreck breaks apart becomes a challenging diversion."
     },
     {
         "pos": 60,
@@ -375,12 +375,12 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about guide a group of scholars on a research expedition to the deep ocean., you're startled by splashing of dolphins playing nearby. It seems cursed mermaids are near."
+        "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Swirl']",
         "encounter": ""
     },
     {
@@ -411,13 +411,13 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by underwater mangrove roots leads to a clearing with the remnants of a shipwrecked sailor's journal, indicating underwater miners have been here."
     },
     {
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "Cursed ship captains emerge from the a submerged ship graveyard where ghost ships rest, their intent focused on a ship's chart with uncharted territories marked."
+        "encounter": ""
     },
     {
         "pos": 70,
@@ -459,12 +459,12 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a floating, abandoned shipwreck blocking your path. Perhaps it's related to your quest to rescue a group of trapped sailors from a sinking ship.."
+        "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Choppy Strait",
+        "features": "",
         "encounter": ""
     },
     {
@@ -476,20 +476,20 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Tumultuous Upwelling",
-        "encounter": "Hidden among halophila seagrass, you spot a kraken's tentacle as a gruesome trophy glinting in the sunlight."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Daunting Channel",
-        "encounter": "Kraken emerge from the a concealed treasure vault within an ancient shipwreck, their intent focused on a sunken ship's anchor."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a ship's broken mast suggests that sea anemone sorcerers have passed through here on a quest to deliver a mysterious message to a reclusive island hermit.."
     },
     {
         "pos": 82,
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Mesmerizing Harbor",
+        "features": "",
         "encounter": ""
     },
     {
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a concealed merfolk palace hidden behind a waterfall, you sense the presence of water elementals."
+        "encounter": ""
     },
     {
         "pos": 89,
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit ['Current']",
         "encounter": ""
     },
     {
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Upwelling']",
         "encounter": ""
     },
     {

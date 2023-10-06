@@ -39,13 +39,13 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense underwater mangrove roots, you discover a pirate's cutlass with an ornate hilt. You can't shake the feeling of bewilderment."
+        "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and echoing calls of whales in the distance grow louder. It seems turtle island shamans are on the move."
     },
     {
         "pos": 8,
@@ -57,7 +57,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a giant, tentacled kraken blocking the way, your attention is caught by buzzing of bioluminescent creatures in the depths. Upon investigating, you discover a concealed merfolk palace hidden behind a waterfall with a magical mermaid's mirror that reveals secrets inside."
     },
     {
         "pos": 10,
@@ -74,32 +74,32 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal ['Basin']",
         "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a bottle of rare and potent mermaid tears that could be useful in your quest to protect a colony of merfolk from an encroaching threat.. But it's guarded by kelpie."
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Breathtaking Narrows",
-        "encounter": ""
+        "features": "Unspoiled ['Main']",
+        "encounter": "Your senses are overwhelmed by indignation as you uncover a merfolk's enchanted harp hidden within hornwort."
     },
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Endless Main",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear splashing of dolphins playing nearby coming from an ancient, submerged temple with hidden chambers."
     },
     {
         "pos": 17,
@@ -117,13 +117,13 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden murmuring of merfolk singing in harmony breaks the silence, making the nearby green string lettuce quiver."
+        "encounter": ""
     },
     {
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a tattered, waterlogged map of uncharted waters of an old campsite, the scent of fishy odor of the ocean depths still lingering."
+        "encounter": ""
     },
     {
         "pos": 21,
@@ -140,8 +140,8 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Expansive Swirl",
-        "encounter": ""
+        "features": "",
+        "encounter": "Every step forward is met with the increasing intensity of smoky aroma of a beachside bonfire, suggesting the presence of crystal reef dwellers."
     },
     {
         "pos": 24,
@@ -158,13 +158,13 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Fathom']",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Azure ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -177,7 +177,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover the remnants of a ship's wheel half-buried in the sand that tell a story of a time when sea dragons pursued investigate reports of disappearing ships in a cursed sea.."
+        "encounter": ""
     },
     {
         "pos": 30,
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Trails of the remnants of a sunken sea monster's scale wind through the sea grape kelp, revealing the past actions of coral golems."
     },
     {
         "pos": 32,
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Timeless Gulf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -230,8 +230,8 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Serene ['Wave']",
+        "encounter": "You come across the remnants of a merfolk's forgotten treasure of an old campsite, the scent of fresh sea breeze still lingering."
     },
     {
         "pos": 39,
@@ -248,13 +248,13 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Secluded Billow",
-        "encounter": ""
+        "features": "",
+        "encounter": "The presence of a thick forest of kelp that entangles ships makes it difficult to proceed. Perhaps the merfolk nearby can help."
     },
     {
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Secluded ['Bay']",
         "encounter": ""
     },
     {
@@ -273,7 +273,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense floating mats of sargassum seaweed, you catch sight of a giant clamshell turned into a luxurious bed. But be cautious, rustling of parchment as a map is unfurled suggest giant sea turtles are near."
+        "encounter": ""
     },
     {
         "pos": 46,
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a tidal wave approaching with destructive force, but you notice a hidden cave filled with glowing sea crystals that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 53,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a coral reef with sharp, hidden edges blocking your path. Perhaps it's related to your quest to defend a coastal town from raiding sea creatures.."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -344,7 +344,7 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Murmuring Lagoon",
+        "features": "",
         "encounter": ""
     },
     {
@@ -375,7 +375,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it aromatic blooms of coastal flowers. You spot selkies that seem to be harvesting pearls from giant clams."
     },
     {
         "pos": 63,
@@ -393,13 +393,13 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden rustling of seaweed swaying in the current breaks the silence, making the nearby tube worms near hydrothermal vents quiver."
+        "encounter": ""
     },
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Abyssal ['Billow']",
+        "encounter": "You see a pirate flag bearing a fearsome symbol that could be useful in your quest to retrieve a stolen pearl from a cunning group of bandits.. But it's guarded by sarcastic cephalopod."
     },
     {
         "pos": 67,
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant splintering of wood as a shipwreck breaks apart draws your attention. Following it, you discover a damaged sextant with a cracked lens of a past event."
     },
     {
         "pos": 73,
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Majestic Undercurrent",
+        "features": "",
         "encounter": ""
     },
     {
@@ -464,7 +464,7 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Crystal-clear Vortex",
+        "features": "",
         "encounter": ""
     },
     {
@@ -488,7 +488,7 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Tide']",
         "encounter": ""
     },
     {
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Timeless Swirl",
+        "features": "",
         "encounter": ""
     },
     {
@@ -543,7 +543,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a shipwrecked sailor's journal. It appears sea anemone sorcerers were here recently."
+        "encounter": ""
     },
     {
         "pos": 91,
@@ -560,13 +560,13 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Cove']",
         "encounter": ""
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical ['Expanse']",
         "encounter": ""
     },
     {
@@ -585,7 +585,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a coral reef with sharp, hidden edges, you're surprised to find a sunken shipwreck beneath a coral reef filled with barnacle-covered remnants of a wooden chest.As you journey forward, you come across a preserved mermaid tail, with traces of musty odor of a hidden sea cave around them."
+        "encounter": ""
     },
     {
         "pos": 98,

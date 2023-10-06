@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Murmuring Swirl",
+        "features": "",
         "encounter": ""
     },
     {
@@ -45,12 +45,12 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant chirping of crickets on a moonlit beach draws your attention. Following it, you discover a shattered, waterlogged compass of a past event."
     },
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Daunting Seabed",
+        "features": "",
         "encounter": ""
     },
     {
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Calm Tidal Pool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Bubbling Cove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -141,7 +141,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where sea dragons are engaged in battling a giant sea serpent around a ship's chart with uncharted territories marked, seemingly crucial for recover a stolen, enchanted pearl necklace for a heartbroken mermaid.."
+        "encounter": ""
     },
     {
         "pos": 24,
@@ -153,7 +153,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by bewilderment as you uncover a seafarer's journal filled with tales of adventure hidden within thick beds of eelgrass."
     },
     {
         "pos": 26,
@@ -165,7 +165,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant rustling of palm fronds in a gentle breeze draws your attention. Following it, you discover a damaged sextant with a cracked lens of a past event."
     },
     {
         "pos": 28,
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely ['Seabed']",
         "encounter": ""
     },
     {
@@ -206,8 +206,8 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
-        "encounter": "The whisper of thudding of footsteps on a wooden dock is accompanied by the distinct aroma of fishy odor of the ocean depths. It seems storm giants are involved in building a coral fortress."
+        "features": "Azure ['Haven']",
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Inviting Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Salty Lagoon",
+        "features": "",
         "encounter": ""
     },
     {
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of fresh, salty scent of oysters on the shore. You feel a sense of fear."
+        "encounter": ""
     },
     {
         "pos": 49,
@@ -314,7 +314,7 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "Sparkling Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -339,13 +339,13 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it salty scent of a mermaid's hair. You spot oceanic alchemists that seem to be diving deep to consult with a sea oracle."
+        "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and sloshing of water in a mermaid's bathtub grow louder. It seems kelpie are on the move."
     },
     {
         "pos": 58,
@@ -386,14 +386,14 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
-        "encounter": "You feel an overwhelming sense of relief as you tread upon a rusted ship's bell on the ocean floor, hinting at a tale of merfolk."
+        "features": "Timeless ['Shore']",
+        "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice gorgonian sea fans moving subtly. Upon closer inspection, you see sirens that are guarding a hidden cove filled with stolen treasure."
+        "encounter": ""
     },
     {
         "pos": 66,
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Breathtaking Tidal Pool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of scent of salted fish drying on racks. You feel a sense of pride."
     },
     {
         "pos": 70,
@@ -429,7 +429,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense bubbling hot seawater vents, you discover a kraken's tentacle as a gruesome trophy. You can't shake the feeling of determination."
     },
     {
         "pos": 72,
@@ -464,8 +464,8 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
-        "encounter": "A path surrounded by caulerpa seaweed leads to a clearing with a broken ship's mast jutting out of the water, indicating dolphin companions have been here."
+        "features": "Silent ['Current']",
+        "encounter": ""
     },
     {
         "pos": 78,
@@ -483,13 +483,13 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Octopus oracles gives you a quest to retrieve a rare coral sample for an eccentric scientist.In your path lies a ship's sextant for celestial navigation surrounded by mermaid's hair algae."
     },
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Beckoning Haven",
-        "encounter": ""
+        "features": "",
+        "encounter": "You see a sea serpent scale that could be useful in your quest to investigate a series of shipwrecks caused by a vengeful ghost ship.. But it's guarded by ship-eating barnacles."
     },
     {
         "pos": 82,
@@ -506,7 +506,7 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Surging ['Ridge']",
         "encounter": ""
     },
     {
@@ -518,13 +518,13 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Gulf']",
         "encounter": ""
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Ageless Shoal",
+        "features": "",
         "encounter": ""
     },
     {
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Alluring Shoal",
+        "features": "",
         "encounter": ""
     },
     {
@@ -591,7 +591,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by trepidation as you uncover a pirate's cutlass with an ornate hilt hidden within sea palm kelp."
+        "encounter": ""
     },
     {
         "pos": 99,

@@ -26,8 +26,8 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Reflective ['Kelp Forest']",
+        "encounter": "Hidden among red calcareous algae, you spot a ship's sextant for celestial navigation glinting in the sunlight."
     },
     {
         "pos": 5,
@@ -38,7 +38,7 @@
     {
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Abyss']",
         "encounter": ""
     },
     {
@@ -50,13 +50,13 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Kelp Forest']",
         "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Ethereal Passage",
+        "features": "",
         "encounter": ""
     },
     {
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque ['Billow']",
         "encounter": ""
     },
     {
@@ -80,31 +80,31 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Epic Abyss",
-        "encounter": "The air is filled with the smell of briny smell of a fishing pier. You feel a sense of anticipation."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and rustling of seaweed swaying in the current grow louder. It seems lighthouse guardians are on the move."
+        "encounter": ""
     },
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Vast Spring",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and rustling of seaweed swaying in the current grow louder. It seems giant clams are on the move."
+        "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Vibrant Marina",
+        "features": "",
         "encounter": ""
     },
     {
@@ -117,7 +117,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by grief as you uncover a kraken's tentacle as a gruesome trophy hidden within caulerpa seaweed."
     },
     {
         "pos": 20,
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Sparkling Cove",
+        "features": "Azure ['Mangrove']",
         "encounter": ""
     },
     {
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Glistening Isle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Nautical Undercurrent",
+        "features": "",
         "encounter": ""
     },
     {
@@ -219,13 +219,13 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a ship's broken mast suggests that whirlpool spirits have passed through here on a quest to retrieve a rare coral sample for an eccentric scientist.."
+        "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Deep Abyss",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your senses are overwhelmed by hope as you uncover a kraken's tentacle as a gruesome trophy hidden within giant kelp with air-filled bladders."
     },
     {
         "pos": 38,
@@ -237,7 +237,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a monstrous, coral-covered sea monster blocking your path. Perhaps it's related to your quest to investigate a series of shipwrecks caused by a vengeful ghost ship.."
+        "encounter": ""
     },
     {
         "pos": 40,
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a torn and waterlogged book of sea legends indicating past battles."
     },
     {
         "pos": 42,
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Abyssal Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -338,7 +338,7 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Windswept Current",
+        "features": "",
         "encounter": ""
     },
     {
@@ -350,7 +350,7 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Limitless Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Gulf']",
         "encounter": ""
     },
     {
@@ -405,31 +405,31 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by nostalgia as you uncover a net filled with exotic and colorful fish hidden within giant kelp with air-filled bladders."
     },
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Unfathomable Sound",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless ['Billow']",
         "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a ship-eating whirlpool known as the 'ship swallower'. As you approach, seafaring druids healing wounded sea creatures."
+        "encounter": ""
     },
     {
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "With uncover the secrets of a mysterious, ship-swallowing whirlpool. On your mind, the sudden appearance of a sandbar hiding just below the water's surface accompanied by whispering of the sea breeze through palm trees becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 72,
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Beckoning Harbor",
+        "features": "",
         "encounter": ""
     },
     {
@@ -494,13 +494,13 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable ['Ocean']",
         "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring ['Deep']",
         "encounter": ""
     },
     {
@@ -543,13 +543,13 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense sea grape kelp, you catch sight of a sea serpent scale. But be cautious, whispering of the sea breeze through palm trees suggest sunken treasure guardians are near."
     },
     {
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice floating seaweed rafts moving subtly. Upon closer inspection, you see island hermit that are repairing their damaged ship."
+        "encounter": ""
     },
     {
         "pos": 92,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a ship's sextant for celestial navigation nestled among bubbling hot seawater vents, but the unsettling feeling of anxiety makes you wary."
+        "encounter": ""
     }
 ]

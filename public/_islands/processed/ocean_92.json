@@ -14,7 +14,7 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Tranquil Vortex",
+        "features": "",
         "encounter": ""
     },
     {
@@ -33,7 +33,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by brown algae forests leads to a clearing with a skeleton clutching a rusted cutlass on the seabed, indicating sea witches have been here."
+        "encounter": ""
     },
     {
         "pos": 6,
@@ -50,7 +50,7 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Murmuring Vortex",
+        "features": "",
         "encounter": ""
     },
     {
@@ -63,13 +63,13 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of jealousy as you tread upon the remnants of a shipwrecked sailor's journal, hinting at a tale of giant clams."
+        "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a sunken merchant ship's cargo suggests that storm giants have passed through here on a quest to deliver a shipment of rare spices to a distant island market.."
     },
     {
         "pos": 12,
@@ -93,13 +93,13 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by zostera seagrass, a series of a sunken shipwreck beneath a coral reef reveal traces of the remnants of a shipwrecked sailor's journal, and the distant chirping of crickets on a moonlit beach hint at more to discover."
     },
     {
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a ship's bell with a haunting chime nestled among tube worms near hydrothermal vents, but the unsettling feeling of sadness makes you wary."
+        "encounter": ""
     },
     {
         "pos": 17,
@@ -146,20 +146,20 @@
     {
         "pos": 24,
         "terrain": "O",
-        "features": "Peaceful Cove",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Azure Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a monstrous sea serpent lurking beneath the surface blocking your path. Perhaps it's related to your quest to help a stranded sea serpent find its way back to the open sea.."
     },
     {
         "pos": 27,
@@ -206,32 +206,32 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Shoal']",
         "encounter": ""
     },
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring ['Flats']",
         "encounter": ""
     },
     {
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie whispering of the sea breeze through palm trees resonates from a submerged sea cave filled with bioluminescent creatures, and the scent of aromatic herbs from a coastal garden fills the air."
+        "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a tidal wave approaching with destructive force blocking your path. Perhaps it's related to your quest to uncover the truth behind a series of strange underwater disappearances.."
     },
     {
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice sea palm kelp moving subtly. Upon closer inspection, you see pearl diver guilds that are protecting their underwater city from intruders."
     },
     {
         "pos": 39,
@@ -266,14 +266,14 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Main']",
         "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
-        "encounter": "You spot a barnacle-covered ship's wheel nestled among mermaid's hair algae, but the unsettling feeling of fear makes you wary."
+        "features": "Idyllic ['Undercurrent']",
+        "encounter": ""
     },
     {
         "pos": 46,
@@ -296,8 +296,8 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "Dense Maelstrom",
-        "encounter": ""
+        "features": "",
+        "encounter": "A sudden gust brings with it pungent aroma of a hidden pirate's stash. You spot octopus oracles that seem to be building a coral fortress."
     },
     {
         "pos": 50,
@@ -308,7 +308,7 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Flats']",
         "encounter": ""
     },
     {
@@ -332,7 +332,7 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic ['Estuary']",
         "encounter": ""
     },
     {
@@ -363,7 +363,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie roaring of a powerful waterfall cascading into the sea resonates from a forgotten pirate hideout in a remote cove, and the scent of briny scent of low tide fills the air."
+        "encounter": ""
     },
     {
         "pos": 61,
@@ -393,7 +393,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a shipwrecked chest filled with gold coins. However, octopus oracles stand guard, their intentions unknown."
     },
     {
         "pos": 66,
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Trough']",
         "encounter": ""
     },
     {
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The sponge colonies rustles, revealing sirens that are navigating treacherous waters during a storm."
     },
     {
         "pos": 70,
@@ -429,12 +429,12 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by red grape algae, a series of a network of tunnels in the heart of a coral maze reveal traces of a torn and waterlogged book of sea legends, and the distant seagulls cawing in the distance hint at more to discover."
+        "encounter": "An eerie rustling of seaweed swaying in the current resonates from a sunken temple accessible only by solving a riddle, and the scent of scent of coconut oil and sunscreen fills the air."
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Reef']",
         "encounter": ""
     },
     {
@@ -459,67 +459,67 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Selkies emerge from the a network of tunnels in the heart of a coral maze, their intent focused on a chest of mystical sea herbs and remedies."
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic ['Deep']",
         "encounter": ""
     },
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Shoal']",
         "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Channel']",
         "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant rattling of pebbles in the surf draws your attention. Following it, you discover a damaged, half-buried treasure map scroll of a past event."
+        "encounter": ""
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover the remnants of a ship's wheel half-buried in the sand that tell a story of a time when dolphin companions pursued guide a group of scholars on a research expedition to the deep ocean.."
+        "encounter": "Ahead, there is a powerful whirlpool pulling ships downward blocking your path. Perhaps it's related to your quest to help a stranded sailor repair their ship and return home.."
     },
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Mysterious Shoal",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear clanging of bells on a buoy in choppy waters coming from a hollowed-out giant clam used as a merfolk's dwelling."
     },
     {
         "pos": 84,
         "terrain": "O",
-        "features": "Sunlit Flats",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Pristine Pinnacle",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel relief as hissing of foam as waves recede echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 87,
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Daunting Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
@@ -567,19 +567,19 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by determination as you uncover a bottle of potent seawater from a mythical spring hidden within sea palm kelp."
+        "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted ['Spring']",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a monstrous, coral-covered sea monster makes it difficult to proceed. Perhaps the sea witches nearby can help."
     },
     {
         "pos": 97,

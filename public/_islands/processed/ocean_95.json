@@ -26,13 +26,13 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": "The whisper of humming of a powerful sea enchantment is accompanied by the distinct aroma of damp, earthy smell of a rocky shore. It seems cursed ship captains are involved in harvesting pearls from giant clams."
+        "features": "Sapphire ['Strait']",
+        "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Calm Vortex",
+        "features": "",
         "encounter": ""
     },
     {
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a sunken sea monster's scale of an old campsite, the scent of aromatic spices from a seaside market still lingering."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -63,7 +63,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft cracking of icebergs in frigid waters. As you follow, you encounter pearl diver guilds in the midst of repairing their damaged ship."
     },
     {
         "pos": 11,
@@ -99,12 +99,12 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft rattling of pebbles in the surf. As you follow, you encounter sea anemone sorcerers in the midst of hunting for treasure on a deserted island."
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Dense Passage",
+        "features": "",
         "encounter": ""
     },
     {
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Crystal-clear Estuary",
+        "features": "Windswept ['Atoll']",
         "encounter": ""
     },
     {
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Vast Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -165,7 +165,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear buzzing of underwater machinery in a sunken city coming from an overgrown shipwreck hidden beneath a dense kelp bed."
     },
     {
         "pos": 28,
@@ -182,8 +182,8 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Raging ['Strait']",
+        "encounter": "You uncover a beached rowboat with a broken oar that tell a story of a time when underwater miners pursued discover a lost civilization by deciphering cryptic underwater runes.."
     },
     {
         "pos": 31,
@@ -206,7 +206,7 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "Breathtaking Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Surging Rise",
+        "features": "",
         "encounter": ""
     },
     {
@@ -236,7 +236,7 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Tidal Pool']",
         "encounter": ""
     },
     {
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of rustic aroma of a wooden fishing boat. You feel a sense of relief."
     },
     {
         "pos": 42,
@@ -261,7 +261,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a rusted ship's bell on the ocean floor suggests that underwater nomads have passed through here on a quest to uncover the truth behind a series of strange underwater disappearances.."
     },
     {
         "pos": 44,
@@ -272,14 +272,14 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "Limitless Delta",
-        "encounter": ""
+        "features": "",
+        "encounter": "A distant sloshing of water in a mermaid's bathtub draws your attention. Following it, you discover a sunken cannon half-buried in the coral of a past event."
     },
     {
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by determination as you uncover a piece of driftwood with an ancient carving hidden within black coral."
     },
     {
         "pos": 47,
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a bottle of potent seawater from a mythical spring. However, ship-eating barnacles stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 50,
@@ -321,7 +321,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by treacherous rocks just below the surface. As you contemplate a way around, you hear pounding of heavy rain during a monsoon from the shadows."
     },
     {
         "pos": 54,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon barnacle-covered remnants of a wooden chest indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -356,14 +356,14 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Unspoiled Jetty",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a haunted shipwreck with vengeful spirits, you're surprised to find an overgrown shipwreck hidden beneath a dense kelp bed filled with a skeleton clutching a rusted cutlass on the seabed.As you journey forward, you come across a merfolk's enchanted harp, with traces of rustic aroma of a wooden fishing boat around them."
     },
     {
         "pos": 61,
@@ -393,7 +393,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by disbelief as you uncover a ship's cannon with ornate engravings hidden within coral reefs."
     },
     {
         "pos": 66,
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Rippling Rise",
+        "features": "",
         "encounter": ""
     },
     {
@@ -453,7 +453,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by anticipation as you uncover a treasure chest full of cursed gold hidden within thick beds of eelgrass."
+        "encounter": ""
     },
     {
         "pos": 76,
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling ['Depression']",
         "encounter": ""
     },
     {
@@ -488,7 +488,7 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Sound']",
         "encounter": ""
     },
     {
@@ -524,8 +524,8 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "",
-        "encounter": "With solve the mystery of a cursed shipwreck and its crew's fate. On your mind, the sudden appearance of treacherous rocks just below the surface accompanied by pounding of heavy rain during a monsoon becomes a challenging diversion."
+        "features": "Epic ['Harbor']",
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -543,7 +543,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by mermaid's hair algae leads to a clearing with a damaged, half-buried treasure map scroll, indicating seafaring druids have been here."
+        "encounter": ""
     },
     {
         "pos": 91,

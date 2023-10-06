@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by codium seaweed, a series of a submerged pirate's lair hidden by a waterfall reveal traces of the remnants of a sunken merchant ship's cargo, and the distant crackling of underwater lava flows hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 1,
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a rusted, half-buried cutlass of an old campsite, the scent of salty scent of a mermaid's hair still lingering."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -56,14 +56,14 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Boundless Shoal",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about retrieve a powerful, magical artifact from a sunken shipwreck., you're startled by buzzing of underwater machinery in a sunken city. It seems storm giants are near."
+        "encounter": ""
     },
     {
         "pos": 11,
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a ship-eating whirlpool known as the 'ship swallower', you're surprised to find a camouflaged underwater camouflage net used by merfolk filled with an abandoned lifeboat adrift on the waves.As you journey forward, you come across a ghostly lantern that wards off spirits, with traces of tangy scent of salt spray around them."
     },
     {
         "pos": 14,
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about defend a coastal town from raiding sea creatures., you're startled by thudding of footsteps on a wooden dock. It seems pirates are near."
+        "encounter": ""
     },
     {
         "pos": 17,
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled ['Whirlpool']",
         "encounter": ""
     },
     {
@@ -122,7 +122,7 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant ['Trough']",
         "encounter": ""
     },
     {
@@ -135,7 +135,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a giant, tentacled kraken blocking the way, you're surprised to find a concealed passage leading to an underwater city filled with the remnants of a sunken merchant ship's cargo.As you journey forward, you come across a bottle of rare and potent mermaid tears, with traces of fishy odor of the ocean depths around them."
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -152,13 +152,13 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Unfathomable Bight",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Serene ['Swirl']",
         "encounter": ""
     },
     {
@@ -170,19 +170,19 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy ['Shoal']",
         "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "With search for a hidden cove rumored to contain pirate treasure. On your mind, the sudden appearance of a powerful whirlpool pulling ships downward accompanied by humming of a powerful sea enchantment becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Secluded Inlet",
+        "features": "",
         "encounter": ""
     },
     {
@@ -201,12 +201,12 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of rustling of seaweed swaying in the current is accompanied by the distinct aroma of scent of damp, ancient sea scrolls. It seems island hermit are involved in summoning a tidal wave to defend their territory."
     },
     {
         "pos": 34,
         "terrain": "O",
-        "features": "Tempestuous Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense floating bladderwort plants, you catch sight of a ship's sextant for celestial navigation. But be cautious, echoing calls of whales in the distance suggest selkies are near."
+        "encounter": ""
     },
     {
         "pos": 42,
@@ -260,7 +260,7 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Bubbling Basin",
+        "features": "Tranquil ['Cove']",
         "encounter": ""
     },
     {
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear gurgling of a freshwater stream meeting the ocean coming from a treasure cache buried in the sand on a deserted island."
     },
     {
         "pos": 49,
@@ -326,8 +326,8 @@
     {
         "pos": 54,
         "terrain": "M",
-        "features": "Spectacular Ar\u00eate",
-        "encounter": "You encounter a pack of snow leopards hunting in the rocky terrain which are participating in grand feasts and celebrations."
+        "features": "Picturesque Face",
+        "encounter": "Your way is impeded by a band of nomadic warriors guarding their mountain territory. As you contemplate a way around, you hear the soft cooing of doves in the distance from the shadows."
     },
     {
         "pos": 55,
@@ -345,18 +345,18 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie distant rumble of thunder during a storm resonates from a labyrinthine coral labyrinth with hidden treasures, and the scent of fresh sea breeze fills the air."
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Deep Undercurrent",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Abyssal Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -374,38 +374,38 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Daunting Bight",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "M",
-        "features": "Jagged Ridge",
-        "encounter": "You encounter a family of snow hares darting among the rocks which are exploring ancient ruins and archaeological sites."
+        "features": "Towering Spire",
+        "encounter": "Deep in thought about help a reclusive mountain hermit find a rare and elusive herb., you're startled by the haunting hoot of an owl in the moonlit night. It seems a tribe of friendly mountain elves skilled in archery are near."
     },
     {
         "pos": 64,
         "terrain": "M",
-        "features": "Rocky Ravine",
-        "encounter": "Deep in thought about solve the mystery of a cursed mountain meadow., you're startled by the rumble of distant avalanches in the high peaks. It seems a clan of nomadic yetis roaming the peaks are near."
+        "features": "Grand Flank",
+        "encounter": "The ground trembles slightly, and the rhythmic thumping of a woodpecker's beak on trees grow louder. It seems a family of chamois gracefully leaping among crags are on the move."
     },
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Mesmerizing Depression",
+        "features": "Sweeping ['Whirlpool']",
         "encounter": ""
     },
     {
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where mermen are engaged in hunting for fish and other sea creatures around a piece of driftwood with an ancient carving, seemingly crucial for uncover the secrets of a mysterious, ship-swallowing whirlpool.."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Beckoning ['Depression']",
+        "encounter": "Ahead, there is a massive, drifting iceberg with hidden dangers blocking your path. Perhaps it's related to your quest to investigate a series of shipwrecks caused by a vengeful ghost ship.."
     },
     {
         "pos": 68,
@@ -429,12 +429,12 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a monstrous, coral-covered sea monster, your attention is caught by buzzing of bioluminescent creatures in the depths. Upon investigating, you discover a secret pirate's den inside a massive, hollowed-out rock with a captured sea serpent's egg inside."
+        "encounter": "A path surrounded by mangrove prop roots leads to a clearing with the remnants of a merfolk's forgotten treasure, indicating seafaring druids have been here."
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Tumultuous Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense sea anemone gardens, you discover a sparkling pearl necklace. You can't shake the feeling of guilt."
     },
     {
         "pos": 77,
@@ -471,7 +471,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon the remnants of a ship's broken mast indicating past battles."
     },
     {
         "pos": 79,
@@ -495,7 +495,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where giant clams are engaged in protecting a ship from ghostly apparitions around a merfolk's enchanted harp, seemingly crucial for search for a hidden cove rumored to contain pirate treasure.."
+        "encounter": ""
     },
     {
         "pos": 83,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a coral-encrusted treasure chest indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -536,19 +536,19 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Dense Deep",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of forgiveness as you tread upon a waterlogged chest with its lid ajar, hinting at a tale of sunken treasure guardians."
     },
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless ['Vortex']",
         "encounter": ""
     },
     {
@@ -573,7 +573,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "With discover a lost civilization by deciphering cryptic underwater runes. On your mind, the sudden appearance of a ship-eating whirlpool known as the 'ship swallower' accompanied by distant rumble of thunder during a storm becomes a challenging diversion."
+        "encounter": "Trails of the remnants of a shipwrecked sailor's journal wind through the seaweed-covered rocks, revealing the past actions of island hermit."
     },
     {
         "pos": 96,
@@ -585,7 +585,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant chirping of crickets on a moonlit beach draws your attention. Following it, you discover a ship's figurehead washed ashore of a past event."
     },
     {
         "pos": 98,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden gust brings with it scent of damp treasure maps. You spot selkies that seem to be navigating a treacherous whirlpool."
+        "features": "Peaceful ['Narrows']",
+        "encounter": ""
     }
 ]

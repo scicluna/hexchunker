@@ -21,7 +21,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where sunken treasure guardians are engaged in escaping from the clutches of a kraken around a beautifully crafted coral tiara, seemingly crucial for rescue a group of trapped sailors from a sinking ship.."
+        "encounter": ""
     },
     {
         "pos": 4,
@@ -39,12 +39,12 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a dense fog reducing visibility makes it difficult to proceed. Perhaps the shipwreck goblins nearby can help."
     },
     {
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless ['Lagoon']",
         "encounter": ""
     },
     {
@@ -86,14 +86,14 @@
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Soothing Reef",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a shattered glass bottle suggests that sarcastic cephalopod have passed through here on a quest to discover a lost civilization by deciphering cryptic underwater runes.."
+        "encounter": ""
     },
     {
         "pos": 16,
@@ -110,13 +110,13 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Secluded Undercurrent",
+        "features": "Abyssal ['Harbor']",
         "encounter": ""
     },
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Limitless Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -129,18 +129,18 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and hollow echoes in an underwater cavern grow louder. It seems merfolk are on the move."
+        "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant whispering of the sea breeze through palm trees draws your attention. Following it, you discover an abandoned lifeboat adrift on the waves of a past event."
     },
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Immeasurable Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -159,25 +159,25 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense seaweed-covered rocks, you discover a pirate flag bearing a fearsome symbol. You can't shake the feeling of excitement."
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming ['Gulf']",
         "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Tempestuous Rift",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Rippling ['Spring']",
+        "encounter": "An eerie gurgling of a freshwater stream meeting the ocean resonates from a labyrinthine coral labyrinth with hidden treasures, and the scent of warm, sun-kissed aroma of a sandy beach fills the air."
     },
     {
         "pos": 30,
@@ -188,8 +188,8 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Sunlit ['Current']",
+        "encounter": "A sudden chattering of crabs on a rocky shore breaks the silence, making the nearby kelp forests quiver."
     },
     {
         "pos": 32,
@@ -206,14 +206,14 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Basin']",
         "encounter": ""
     },
     {
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie booming of waves in a hidden sea cave resonates from an underwater whirlpool leading to a hidden realm, and the scent of warm, sun-kissed aroma of a sandy beach fills the air."
     },
     {
         "pos": 36,
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it smoky aroma of a beachside bonfire. You spot coral golems that seem to be setting up an underwater market."
     },
     {
         "pos": 38,
@@ -284,7 +284,7 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant ['Channel']",
         "encounter": ""
     },
     {
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Glistening Trough",
+        "features": "",
         "encounter": ""
     },
     {
@@ -314,8 +314,8 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "",
-        "encounter": "You hear buzzing of bioluminescent creatures in the depths coming from a hidden mermaid enclave in the heart of a kelp forest."
+        "features": "Rippling ['Seabed']",
+        "encounter": ""
     },
     {
         "pos": 53,
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by satisfaction as you uncover a merfolk's enchanted harp hidden within underwater mangrove roots."
     },
     {
         "pos": 55,
@@ -344,26 +344,26 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless ['Depression']",
         "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Drop-off']",
         "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Plateau']",
         "encounter": ""
     },
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Secluded ['Jetty']",
+        "encounter": "Surrounded by sea anemone gardens, a series of a concealed merfolk palace hidden behind a waterfall reveal traces of a damaged, half-buried treasure map scroll, and the distant rumbling of a distant underwater volcano hint at more to discover."
     },
     {
         "pos": 61,
@@ -375,7 +375,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a ship's logbook with a mysterious route that could be useful in your quest to solve the mystery of a cursed shipwreck and its crew's fate.. But it's guarded by sea dragons."
     },
     {
         "pos": 63,
@@ -398,7 +398,7 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Turbulent Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -423,7 +423,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon barnacle-covered remnants of a wooden chest indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 71,
@@ -440,14 +440,14 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Tide']",
         "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a thick forest of kelp that entangles ships makes it difficult to proceed. Perhaps the underwater miners nearby can help."
     },
     {
         "pos": 75,
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Bubbling Lagoon",
+        "features": "",
         "encounter": ""
     },
     {
@@ -482,7 +482,7 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Marina']",
         "encounter": ""
     },
     {
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of sadness as you tread upon the remnants of an ancient ship's cargo hold, hinting at a tale of underwater miners."
     },
     {
         "pos": 84,
@@ -513,7 +513,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of a sunken merchant ship's cargo of an old campsite, the scent of scent of damp, ancient sea scrolls still lingering."
     },
     {
         "pos": 86,
@@ -536,13 +536,13 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Murmuring Ocean",
+        "features": "Harmonious ['Plateau']",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Idyllic Bight",
+        "features": "",
         "encounter": ""
     },
     {
@@ -561,7 +561,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a sandbar hiding just below the water's surface, your attention is caught by buzzing of bioluminescent creatures in the depths. Upon investigating, you discover a concealed treasure chest buried under a giant pearl with a chest of mystical sea herbs and remedies inside."
     },
     {
         "pos": 94,
@@ -579,7 +579,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a collection of seashells with hidden messages that could be useful in your quest to discover the source of a mysterious bioluminescent phenomenon.. But it's guarded by whirlpool spirits."
+        "encounter": ""
     },
     {
         "pos": 97,

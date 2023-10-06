@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a submerged forest of gnarled, petrified trees, you're surprised to find a concealed cavern within a towering underwater cliff filled with the remnants of a ship's broken mast.As you journey forward, you come across a mermaid's singing seashell necklace, with traces of rancid smell of decaying plankton around them."
     },
     {
         "pos": 1,
@@ -38,7 +38,7 @@
     {
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Sandbank']",
         "encounter": ""
     },
     {
@@ -87,13 +87,13 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a skeleton clutching a rusted cutlass on the seabed of an old campsite, the scent of rich, earthy scent of wet sand still lingering."
+        "encounter": ""
     },
     {
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a ship's anchor chain wind through the seaweed-covered rocks, revealing the past actions of whirlpool spirits."
+        "encounter": ""
     },
     {
         "pos": 16,
@@ -104,13 +104,13 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Dense Wave",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine ['Lagoon']",
         "encounter": ""
     },
     {
@@ -177,18 +177,18 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense sea palm kelp, you discover a mermaid's singing seashell necklace. You can't shake the feeling of grief."
     },
     {
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a ship's chart with uncharted territories marked. However, sea serpents stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Flats']",
         "encounter": ""
     },
     {
@@ -224,13 +224,13 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Turbulent Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Sandbank']",
         "encounter": ""
     },
     {
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a dense, toxic algae bloom poisoning the water, you're surprised to find a sunken garden of rare and magical sea plants filled with a waterlogged chest with its lid ajar.As you journey forward, you come across a ship's sextant for celestial navigation, with traces of tangy scent of salt spray around them."
+        "encounter": ""
     },
     {
         "pos": 42,
@@ -261,7 +261,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of frustration as you tread upon a torn and faded pirate's treasure map, hinting at a tale of octopus oracles."
     },
     {
         "pos": 44,
@@ -296,7 +296,7 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Raging ['Expanse']",
         "encounter": ""
     },
     {
@@ -315,13 +315,13 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a bottle of potent seawater from a mythical spring that could be useful in your quest to navigate treacherous waters to find a legendary fishing spot.. But it's guarded by coral golems."
+        "encounter": ""
     },
     {
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a shattered, half-buried bottle with a message inside suggests that sea anemone sorcerers have passed through here on a quest to search for a hidden cove rumored to contain pirate treasure.."
+        "encounter": ""
     },
     {
         "pos": 54,
@@ -339,13 +339,13 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a monstrous, coral-covered sea monster blocking your path. Perhaps it's related to your quest to navigate treacherous waters to find a legendary fishing spot.."
     },
     {
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where underwater miners are engaged in creating elaborate maps of uncharted waters around a net filled with exotic and colorful fish, seemingly crucial for defend a coastal town from raiding sea creatures.."
+        "encounter": ""
     },
     {
         "pos": 58,
@@ -356,13 +356,13 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Picturesque Depression",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Delta']",
         "encounter": ""
     },
     {
@@ -380,14 +380,14 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Teeming Harbor",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across barnacle-covered remnants of a wooden chest of an old campsite, the scent of pungent smell of seaweed drying in the sun still lingering."
     },
     {
         "pos": 65,
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense floating seaweed rafts, you catch sight of a bottle of rare and potent mermaid tears. But be cautious, buzzing of underwater machinery in a sunken city suggest merfolk are near."
     },
     {
         "pos": 68,
@@ -416,7 +416,7 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Dazzling Marina",
+        "features": "",
         "encounter": ""
     },
     {
@@ -440,7 +440,7 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "Vast Ocean",
+        "features": "Raging ['Harbor']",
         "encounter": ""
     },
     {
@@ -459,12 +459,12 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Merfolk gives you a quest to investigate reports of disappearing ships in a cursed sea.In your path lies a barnacle-covered ship's wheel surrounded by red calcareous algae."
+        "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Windswept Isle",
+        "features": "Breathtaking ['Current']",
         "encounter": ""
     },
     {
@@ -513,7 +513,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of contentment as you tread upon an abandoned lifeboat adrift on the waves, hinting at a tale of dolphin companions."
+        "encounter": ""
     },
     {
         "pos": 86,
@@ -525,13 +525,13 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With search for a hidden cove rumored to contain pirate treasure. On your mind, the sudden appearance of an eerie, ghostly ship blocking the path accompanied by whistling of wind through the rigging of a ship becomes a challenging diversion."
     },
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Sunlit Undercurrent",
-        "encounter": ""
+        "features": "",
+        "encounter": "A distant clattering of seashells in the tide draws your attention. Following it, you discover the remnants of an ancient ship's cargo hold of a past event."
     },
     {
         "pos": 89,
@@ -555,25 +555,25 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a colony of hostile merfolk guarding their territory, you're surprised to find a hollowed-out giant clam used as a merfolk's dwelling filled with a rusted, half-buried cutlass.As you journey forward, you come across a preserved mermaid tail, with traces of freshly baked bread from a seaside bakery around them."
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious scent of damp driftwood envelops you, drawing you towards a submerged ship graveyard where ghost ships rest where giant clams are exploring the depths in search of a sunken city."
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Mysterious Fathom",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it rustic aroma of a wooden fishing boat. You spot oceanic alchemists that seem to be exploring a mysterious underwater cave."
+        "encounter": ""
     },
     {
         "pos": 96,
@@ -584,19 +584,19 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Peaceful Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Dazzling Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a seafarer's journal filled with tales of adventure that could be useful in your quest to escort a group of settlers to a remote, uncharted island.. But it's guarded by crystal reef dwellers."
     }
 ]

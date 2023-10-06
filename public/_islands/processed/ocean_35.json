@@ -2,13 +2,13 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Choppy Strait",
-        "encounter": "Your senses are overwhelmed by panic as you uncover a sunken ship's anchor hidden within sea palm kelp."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Spring']",
         "encounter": ""
     },
     {
@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Breathtaking Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -32,13 +32,13 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon a scene where seafaring druids are engaged in raising a sunken ship from the depths around a ship's cannon with ornate engravings, seemingly crucial for track down a legendary sea monster for a wealthy collector.."
+        "features": "Expansive ['Inlet']",
+        "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
-        "features": "Vibrant Whirlpool",
+        "features": "Calm ['Vortex']",
         "encounter": ""
     },
     {
@@ -63,7 +63,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a mysterious, enchanted mist causing disorientation, but you notice a hidden mermaid enclave in the heart of a kelp forest that might lead around it."
     },
     {
         "pos": 11,
@@ -75,7 +75,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and rustling of palm fronds in a gentle breeze grow louder. It seems giant sea turtles are on the move."
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -99,7 +99,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and humming of a powerful sea enchantment grow louder. It seems ship-eating barnacles are on the move."
+        "encounter": ""
     },
     {
         "pos": 17,
@@ -122,7 +122,7 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Mesmerizing Shore",
+        "features": "",
         "encounter": ""
     },
     {
@@ -141,12 +141,12 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of rustic scent of a seaside tavern, suggesting the presence of jellyfish navigators."
+        "encounter": "A trail of a damaged sextant with a cracked lens suggests that water elementals have passed through here on a quest to help a shipwrecked sailor construct a signal fire to call for rescue.."
     },
     {
         "pos": 24,
         "terrain": "O",
-        "features": "Spectacular Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -164,8 +164,8 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
-        "encounter": "A trail of a shattered, waterlogged compass suggests that merfolk have passed through here on a quest to retrieve a rare coral sample for an eccentric scientist.."
+        "features": "Vibrant ['Kelp Forest']",
+        "encounter": ""
     },
     {
         "pos": 28,
@@ -195,12 +195,12 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a tidal wave approaching with destructive force. As you contemplate a way around, you hear humming of a powerful sea enchantment from the shadows."
+        "encounter": ""
     },
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Majestic Vortex",
+        "features": "",
         "encounter": ""
     },
     {
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful ['Ridge']",
         "encounter": ""
     },
     {
@@ -225,25 +225,25 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a waterlogged chest with its lid ajar suggests that underwater miners have passed through here on a quest to uncover the truth behind a series of strange underwater disappearances.."
+        "encounter": ""
     },
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Deep ['Mangrove']",
         "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
-        "encounter": "From the shadows of the a network of tunnels in the heart of a coral maze, you sense the presence of selkies."
+        "features": "Teeming ['Upwelling']",
+        "encounter": ""
     },
     {
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter octopus oracles which are creating storms to deter sailors."
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Unspoiled Cove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -290,7 +290,7 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite ['Shoal']",
         "encounter": ""
     },
     {
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Epic ['Edifice']",
         "encounter": ""
     },
     {
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Trails of the remnants of an ancient ship's cargo hold wind through the seagrass meadows, revealing the past actions of turtle island shamans."
     },
     {
         "pos": 59,
@@ -363,19 +363,19 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The bubbling hot seawater vents rustles, revealing underwater miners that are harvesting pearls from giant clams."
     },
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Ocean']",
         "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter oceanic alchemists which are protecting a ship from ghostly apparitions."
     },
     {
         "pos": 63,
@@ -392,19 +392,19 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Sparkling ['Sound']",
+        "encounter": "Among the dense thick beds of eelgrass, you discover a net filled with exotic and colorful fish. You can't shake the feeling of nostalgia."
     },
     {
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a ghostly lantern that wards off spirits nestled among seafloor seagrass, but the unsettling feeling of anxiety makes you wary."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Abyssal Sandbank",
+        "features": "Surging ['Current']",
         "encounter": ""
     },
     {
@@ -423,13 +423,13 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel serenity as whistling of wind through the rigging of a ship echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a fishing net tangled in the coral suggests that underwater miners have passed through here on a quest to uncover the secrets of a mysterious, ship-swallowing whirlpool.."
     },
     {
         "pos": 72,
@@ -446,13 +446,13 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted ['Haven']",
         "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Silent ['Main']",
         "encounter": ""
     },
     {
@@ -495,13 +495,13 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a ship's lantern on the seafloor of an old campsite, the scent of pungent aroma of a hidden pirate's stash still lingering."
+        "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Majestic ['Seabed']",
+        "encounter": "Peering through the dense floating seaweed rafts, you catch sight of a barnacle-covered ship's wheel. But be cautious, echoing calls of whales in the distance suggest ghost ships are near."
     },
     {
         "pos": 84,
@@ -519,7 +519,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and churning of water as a whirlpool forms grow louder. It seems pirates are on the move."
+        "encounter": ""
     },
     {
         "pos": 87,
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a mermaid's lost jewelry. It appears giant sea turtles were here recently."
+        "encounter": ""
     },
     {
         "pos": 90,
@@ -554,20 +554,20 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Silent Edifice",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Haven']",
         "encounter": ""
     },
     {
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a mysterious, enchanted mist causing disorientation, your attention is caught by pounding of heavy rain during a monsoon. Upon investigating, you discover a submerged sea cave filled with bioluminescent creatures with a bottle of rare and potent mermaid tears inside."
     },
     {
         "pos": 95,
@@ -578,19 +578,19 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal ['Haven']",
         "encounter": ""
     },
     {
         "pos": 97,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Glistening ['Inlet']",
+        "encounter": "Whirlpool spirits emerge from the a concealed treasure chest buried under a giant pearl, their intent focused on a mysterious, glowing underwater crystal."
     },
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious ['Lagoon']",
         "encounter": ""
     },
     {

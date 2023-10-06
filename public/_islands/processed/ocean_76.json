@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear buzzing of underwater machinery in a sunken city coming from a sunken temple accessible only by solving a riddle."
+        "encounter": ""
     },
     {
         "pos": 2,
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Trough']",
         "encounter": ""
     },
     {
@@ -50,8 +50,8 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Sparkling ['Channel']",
+        "encounter": "The gorgonian sea fans rustles, revealing sea serpents that are protecting a ship from ghostly apparitions."
     },
     {
         "pos": 9,
@@ -62,7 +62,7 @@
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Azure Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "Underwater nomads gives you a quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.In your path lies a weathered treasure map surrounded by bubblegum coral."
+        "encounter": ""
     },
     {
         "pos": 15,
@@ -122,25 +122,25 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
-        "encounter": "You uncover a partially buried, broken spyglass that tell a story of a time when turtle island shamans pursued defend a coastal village from a relentless pirate invasion.."
+        "features": "Boundless ['Sound']",
+        "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Vast Trench",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among giant clam gardens, you spot a bejeweled trident glinting in the sunlight."
     },
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless ['Bay']",
         "encounter": ""
     },
     {
@@ -183,7 +183,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange the remnants of a ship's wheel half-buried in the sand lie scattered, painting a tale of ship-eating barnacles that searching for a lost artifact on the ocean floor."
     },
     {
         "pos": 31,
@@ -207,12 +207,12 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it rich, earthy scent of wet sand. You spot kraken that seem to be wreaking havoc on passing ships."
     },
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Dazzling Depression",
+        "features": "",
         "encounter": ""
     },
     {
@@ -224,8 +224,8 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
-        "encounter": "A trail of a shattered, waterlogged compass suggests that ship-eating barnacles have passed through here on a quest to retrieve a sunken treasure map from the lair of a giant octopus.."
+        "features": "Tidal ['Billow']",
+        "encounter": "Pearl diver guilds gives you a quest to solve the mystery of a cursed shipwreck and its crew's fate.In your path lies a seashell amulet that grants water-breathing surrounded by seaweed-covered rocks."
     },
     {
         "pos": 38,
@@ -255,13 +255,13 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a colony of territorial sea lions blocking passage makes it difficult to proceed. Perhaps the jellyfish navigators nearby can help."
     },
     {
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft pounding of heavy rain during a monsoon. As you follow, you encounter sea serpents in the midst of hunting for treasure on a deserted island."
     },
     {
         "pos": 44,
@@ -273,7 +273,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of euphoria as you tread upon a sunken chest with its lock rusted shut, hinting at a tale of floating market traders."
+        "encounter": "The brown algae forests rustles, revealing giant clams that are conducting a mystical sea ritual."
     },
     {
         "pos": 46,
@@ -308,26 +308,26 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "Windswept Bay",
-        "encounter": "You feel an overwhelming sense of confidence as you tread upon a damaged sextant with a cracked lens, hinting at a tale of sea witches."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking ['Trench']",
         "encounter": ""
     },
     {
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by an eerie, ghostly ship blocking the path, your attention is caught by creaking of a ship's rigging in the wind. Upon investigating, you discover an underwater whirlpool leading to a hidden realm with a sea serpent scale inside."
+        "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Sea anemone sorcerers gives you a quest to find a lost underwater city rumored to hold ancient relics.In your path lies a sunken ship's anchor surrounded by zostera seagrass."
     },
     {
         "pos": 55,
@@ -338,8 +338,8 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Mesmerizing Swirl",
-        "encounter": "You hear seagulls cawing in the distance coming from a sunken garden of rare and magical sea plants."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 57,
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a torn and faded pirate's treasure map wind through the hornwort, revealing the past actions of oceanic alchemists."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -416,7 +416,7 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Endless Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it aromatic herbs from a coastal garden. You spot giant sea turtles that seem to be rescuing shipwreck survivors."
+        "encounter": ""
     },
     {
         "pos": 77,
@@ -482,7 +482,7 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Tumultuous Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
@@ -495,7 +495,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel fear as rattling of pebbles in the surf echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 83,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a sunken pirate ship's flagpole suggests that sea serpents have passed through here on a quest to defend a coastal town from raiding sea creatures.."
     },
     {
         "pos": 88,
@@ -584,8 +584,8 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Azure Gulf",
-        "encounter": ""
+        "features": "",
+        "encounter": "The presence of a dense fog reducing visibility makes it difficult to proceed. Perhaps the octopus oracles nearby can help."
     },
     {
         "pos": 98,

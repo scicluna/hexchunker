@@ -38,32 +38,32 @@
     {
         "pos": 6,
         "terrain": "O",
-        "features": "Infinite Reef",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice sponge colonies moving subtly. Upon closer inspection, you see sea dragons that are singing haunting songs to lure sailors."
+        "encounter": ""
     },
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Tidal Inlet",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Mesmerizing Seamount",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Timeless ['Drop-off']",
+        "encounter": "The red algae beds rustles, revealing sunken treasure guardians that are negotiating with a powerful sea witch."
     },
     {
         "pos": 11,
@@ -98,14 +98,14 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Cove']",
         "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to protect a colony of merfolk from an encroaching threat.. But be wary, for whirlpool spirits lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -117,7 +117,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a rusted anchor half-buried in the sand suggests that sarcastic cephalopod have passed through here on a quest to rescue a stranded mermaid from a treacherous reef.."
     },
     {
         "pos": 20,
@@ -129,7 +129,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft rhythmic crashing of waves on rocky cliffs. As you follow, you encounter giant sea turtles in the midst of plotting revenge against a rival pirate captain."
+        "encounter": ""
     },
     {
         "pos": 22,
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Idyllic Pinnacle",
+        "features": "Majestic ['Strait']",
         "encounter": ""
     },
     {
@@ -164,8 +164,8 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Luminous Seabed",
-        "encounter": ""
+        "features": "",
+        "encounter": "You feel contentment as sloshing of water in a mermaid's bathtub echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 28,
@@ -177,7 +177,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a sunken merchant ship's cargo. It appears shipwreck goblins were here recently."
+        "encounter": ""
     },
     {
         "pos": 30,
@@ -195,7 +195,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear chattering of crabs on a rocky shore coming from an underwater whirlpool leading to a hidden realm."
     },
     {
         "pos": 33,
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among floating bladderwort plants, you spot a magical conch shell that can summon sea creatures glinting in the sunlight."
     },
     {
         "pos": 37,
@@ -242,14 +242,14 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Epic Cove",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear rustling of seaweed swaying in the current coming from an underwater volcanic vent leading to a hidden world."
+        "encounter": ""
     },
     {
         "pos": 42,
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel trepidation as clanging of bells on a buoy in choppy waters echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 49,
@@ -309,7 +309,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among kelp forests, you spot a pirate flag bearing a fearsome symbol glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 52,
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Abyss']",
         "encounter": ""
     },
     {
@@ -332,7 +332,7 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "Windswept Gulf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -344,7 +344,7 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent ['Swirl']",
         "encounter": ""
     },
     {
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a swarm of aggressive, giant jellyfish blocking your path. Perhaps it's related to your quest to escort a valuable cargo of precious gems through pirate-infested waters.."
     },
     {
         "pos": 60,
@@ -380,13 +380,13 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Secluded Seamount",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Salty Inlet",
+        "features": "",
         "encounter": ""
     },
     {
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear whispering of the sea breeze through palm trees coming from an ancient, submerged temple with hidden chambers."
     },
     {
         "pos": 68,
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Sapphire Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -434,32 +434,32 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Tidal Channel",
-        "encounter": ""
+        "features": "Tumultuous ['Upwelling']",
+        "encounter": "Your way is impeded by a whirlpool leading to a mysterious underwater realm. As you contemplate a way around, you hear pounding of heavy rain during a monsoon from the shadows."
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden whispering of the sea breeze through palm trees breaks the silence, making the nearby bubblegum coral quiver."
+        "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Secluded Marina",
+        "features": "Beckoning ['Upwelling']",
         "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among floating seaweed rafts, you spot a mermaid's singing seashell necklace glinting in the sunlight."
     },
     {
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a cursed island that draws ships in but won't let them leave, your attention is caught by roaring of a powerful waterfall cascading into the sea. Upon investigating, you discover a concealed passage leading to an underwater city with a bottle of rare and potent mermaid tears inside."
     },
     {
         "pos": 77,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping ['Shore']",
         "encounter": ""
     },
     {
@@ -488,20 +488,20 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective ['Isle']",
         "encounter": ""
     },
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Crystal-clear ['Flats']",
+        "encounter": "Your senses are overwhelmed by confidence as you uncover a bejeweled trident hidden within floating seaweed rafts."
     },
     {
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a haunted shipwreck with vengeful spirits. As you approach, water elementals trading with passing merchant ships."
+        "encounter": ""
     },
     {
         "pos": 84,
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by pride as you uncover a seafarer's compass that points to hidden treasure hidden within colorful coral polyps."
     },
     {
         "pos": 89,
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of contentment as you tread upon a beached rowboat with a broken oar, hinting at a tale of kraken."
     },
     {
         "pos": 92,
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Secluded ['Seabed']",
         "encounter": ""
     },
     {
@@ -591,12 +591,12 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "The gorgonian sea fans rustles, revealing dolphin companions that are engaging in a sea battle with rival pirates."
+        "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among mangrove prop roots, you spot a treasure chest full of cursed gold glinting in the sunlight."
+        "encounter": ""
     }
 ]

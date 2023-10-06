@@ -14,7 +14,7 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Raging Gulf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -26,7 +26,7 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "Unspoiled Estuary",
+        "features": "",
         "encounter": ""
     },
     {
@@ -50,25 +50,25 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Secluded Shoal",
+        "features": "Reflective ['Rise']",
         "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Murmuring Reef",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Idyllic Flats",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing ['Reef']",
         "encounter": ""
     },
     {
@@ -87,12 +87,12 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to rescue a group of trapped sailors from a sinking ship.. But be wary, for merfolk lurk nearby."
     },
     {
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable ['Sound']",
         "encounter": ""
     },
     {
@@ -123,19 +123,19 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a powerful, magical barrier blocking passage, you're surprised to find a submerged sea cave filled with bioluminescent creatures filled with the remnants of a ship's broken figurehead.As you journey forward, you come across a barnacle-covered ship's wheel, with traces of clean, crisp scent of the open sea around them."
+        "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Turbulent Whirlpool",
-        "encounter": ""
+        "features": "",
+        "encounter": "The whisper of booming of waves in a hidden sea cave is accompanied by the distinct aroma of saltwater in the air. It seems sea serpents are involved in creating storms to deter sailors."
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With uncover the secrets of a mysterious, ship-swallowing whirlpool. On your mind, the sudden appearance of a treacherous, narrow strait with strong currents accompanied by rustling of seaweed swaying in the current becomes a challenging diversion."
     },
     {
         "pos": 23,
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Infinite Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -183,7 +183,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a sunken rowboat with a hole in its hull suggests that storm giants have passed through here on a quest to slay a marauding sea monster terrorizing coastal villages.."
     },
     {
         "pos": 31,
@@ -195,7 +195,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Oceanic alchemists gives you a quest to retrieve a powerful, magical artifact from a sunken shipwreck.In your path lies a chest of mystical sea herbs and remedies surrounded by gorgonian sea fans."
     },
     {
         "pos": 33,
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about defend a coastal village from a relentless pirate invasion., you're startled by rustling of palm fronds in a gentle breeze. It seems kelpie are near."
     },
     {
         "pos": 38,
@@ -237,7 +237,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of freshly caught fish on a fishing boat, suggesting the presence of cursed mermaids."
     },
     {
         "pos": 40,
@@ -248,14 +248,14 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive ['Seabed']",
         "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice giant clam gardens moving subtly. Upon closer inspection, you see sea dragons that are healing wounded sea creatures."
     },
     {
         "pos": 43,
@@ -285,13 +285,13 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a sudden, violent storm with massive waves. As you contemplate a way around, you hear pounding of heavy rain during a monsoon from the shadows."
+        "encounter": ""
     },
     {
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a captured sea serpent's egg nestled among seaweed-covered rocks, but the unsettling feeling of amusement makes you wary."
     },
     {
         "pos": 49,
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting ['Ocean']",
         "encounter": ""
     },
     {
@@ -333,12 +333,12 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a sudden, violent storm with massive waves, your attention is caught by creaking of a ship's rigging in the wind. Upon investigating, you discover a submerged sea cave filled with bioluminescent creatures with a ship's sextant for celestial navigation inside."
     },
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Immeasurable Jetty",
+        "features": "",
         "encounter": ""
     },
     {
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious scent of damp, ancient sea scrolls envelops you, drawing you towards a concealed merfolk palace hidden behind a waterfall where ghost ships are summoning a tidal wave to defend their territory."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -362,7 +362,7 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Main']",
         "encounter": ""
     },
     {
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Surging Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -435,19 +435,19 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a waterlogged chest with its lid ajar indicating past battles."
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a pirate flag bearing a fearsome symbol. However, floating market traders stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a deadly, bioluminescent sea creature swarm, but you notice an ancient, submerged temple with hidden chambers that might lead around it."
     },
     {
         "pos": 75,
@@ -459,19 +459,19 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of musty odor of a hidden sea cave, suggesting the presence of sirens."
+        "encounter": "The whisper of rustling of seaweed swaying in the current is accompanied by the distinct aroma of tangy scent of salt spray. It seems water elementals are involved in exploring the depths in search of a sunken city."
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling ['Tidal Pool']",
         "encounter": ""
     },
     {
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a powerful, magical barrier blocking passage. As you contemplate a way around, you hear rustling of seaweed in the currents from the shadows."
     },
     {
         "pos": 79,
@@ -513,7 +513,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With investigate the disappearance of a famous sea captain and their crew. On your mind, the sudden appearance of a band of marauding pirates waiting to attack accompanied by whispering of the sea breeze through palm trees becomes a challenging diversion."
     },
     {
         "pos": 86,

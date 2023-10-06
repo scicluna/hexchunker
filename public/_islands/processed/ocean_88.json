@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Vast Chasm",
+        "features": "Iridescent ['Tide']",
         "encounter": ""
     },
     {
@@ -50,8 +50,8 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Majestic Wave",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your path is illuminated by the glint of a captured sea serpent's egg. However, water elementals stand guard, their intentions unknown."
     },
     {
         "pos": 9,
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie clattering of seashells in the tide resonates from a concealed cavern within a towering underwater cliff, and the scent of freshly baked bread from a seaside bakery fills the air."
     },
     {
         "pos": 12,
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it fresh, salty scent of oysters on the shore. You spot giant sea turtles that seem to be conducting a mystical sea ritual."
+        "encounter": "You stumble upon a ship's figurehead washed ashore indicating past battles."
     },
     {
         "pos": 15,
@@ -105,7 +105,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a coral crown adorned with precious gems nestled among feather boa kelp, but the unsettling feeling of confusion makes you wary."
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -122,20 +122,20 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring ['Depression']",
         "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to help a shipwrecked sailor construct a signal fire to call for rescue.. But be wary, for cursed ship captains lurk nearby."
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Merfolk gives you a quest to deliver a shipment of rare spices to a distant island market.In your path lies a preserved mermaid tail surrounded by floating bladderwort plants."
     },
     {
         "pos": 23,
@@ -177,7 +177,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious scent of damp treasure maps envelops you, drawing you towards a secret pirate's den inside a massive, hollowed-out rock where cursed ship captains are protecting their underwater city from intruders."
     },
     {
         "pos": 30,
@@ -224,14 +224,14 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Radiant Expanse",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 38,
         "terrain": "O",
-        "features": "Shimmering Tidal Pool",
-        "encounter": "Among the dense underwater mangrove roots, you discover a chest of mystical sea herbs and remedies. You can't shake the feeling of confusion."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 39,
@@ -242,32 +242,32 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Breathtaking Inlet",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Harmonious ['Abyss']",
+        "encounter": "Surrounded by crinoids on the seafloor, a series of a secret pirate's den inside a massive, hollowed-out rock reveal traces of a partially buried, broken spyglass, and the distant sizzling of saltwater on hot volcanic rocks hint at more to discover."
     },
     {
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it musk of a sea lion colony. You spot underwater miners that seem to be protecting their underwater city from intruders."
     },
     {
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of trepidation as you tread upon barnacle-covered remnants of a wooden chest, hinting at a tale of sea dragons."
+        "encounter": "Blocked by a colony of territorial sea lions blocking passage, your attention is caught by buzzing of insects near a coastal marsh. Upon investigating, you discover a concealed treasure chest within a submerged statue with a shipwrecked chest filled with gold coins inside."
     },
     {
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a ship's lantern on the seafloor wind through the sea palm kelp, revealing the past actions of dolphin companions."
+        "encounter": ""
     },
     {
         "pos": 45,
@@ -278,14 +278,14 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Pristine Narrows",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "The sea anemone gardens rustles, revealing mermen that are exploring a mysterious underwater cave."
+        "encounter": ""
     },
     {
         "pos": 48,
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a ship's sextant for celestial navigation that could be useful in your quest to investigate a series of shipwrecks caused by a vengeful ghost ship.. But it's guarded by giant clams."
     },
     {
         "pos": 60,
@@ -380,7 +380,7 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Main']",
         "encounter": ""
     },
     {
@@ -392,7 +392,7 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering ['Sound']",
         "encounter": ""
     },
     {
@@ -405,13 +405,13 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to investigate the disappearance of a famous sea captain and their crew.. But be wary, for sea dragons lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your journey leads you to a a band of marauding pirates waiting to attack. As you approach, kelpie summoning a tidal wave to defend their territory."
+        "features": "Sapphire ['Fathom']",
+        "encounter": ""
     },
     {
         "pos": 69,
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept ['Strait']",
         "encounter": ""
     },
     {
@@ -453,7 +453,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense red algae beds, you discover a seafarer's compass that points to hidden treasure. You can't shake the feeling of relief."
     },
     {
         "pos": 76,
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Underwater nomads gives you a quest to retrieve a powerful, magical artifact from a sunken shipwreck.In your path lies a mysterious, glowing underwater crystal surrounded by bubbling hot seawater vents."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice floating seaweed rafts moving subtly. Upon closer inspection, you see selkies that are forging alliances with other oceanic races."
     },
     {
         "pos": 84,
@@ -512,14 +512,14 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Lonely Ridge",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Silent Flats",
-        "encounter": ""
+        "features": "",
+        "encounter": "With slay a marauding sea monster terrorizing coastal villages. On your mind, the sudden appearance of a swarm of aggressive, giant jellyfish accompanied by humming of a powerful sea enchantment becomes a challenging diversion."
     },
     {
         "pos": 87,
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless ['Marina']",
         "encounter": ""
     },
     {
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a cursed island that draws ships in but won't let them leave. As you contemplate a way around, you hear sizzling of saltwater on hot volcanic rocks from the shadows."
+        "encounter": ""
     },
     {
         "pos": 92,

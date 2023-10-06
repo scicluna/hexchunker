@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of satisfaction as you tread upon a rusted ship's bell on the ocean floor, hinting at a tale of storm giants."
+        "encounter": ""
     },
     {
         "pos": 2,
@@ -32,19 +32,19 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Crystal-clear Shore",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
-        "features": "Lonely Surf",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Daunting Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a waterlogged chest with its lid ajar lie scattered, painting a tale of jellyfish navigators that raiding a coastal village for supplies."
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Fathom']",
         "encounter": ""
     },
     {
@@ -141,7 +141,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of an ancient ship's cannon lie scattered, painting a tale of kraken that battling a giant sea serpent."
+        "encounter": ""
     },
     {
         "pos": 24,
@@ -152,8 +152,8 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Immeasurable Shoal",
-        "encounter": ""
+        "features": "",
+        "encounter": "The way forward is blocked by a treacherous, labyrinthine underwater cave system, but you notice a submerged ship graveyard where ghost ships rest that might lead around it."
     },
     {
         "pos": 26,
@@ -171,7 +171,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Sea dragons emerge from the a secret underwater grotto accessible only at low tide, their intent focused on a seafarer's journal filled with tales of adventure."
     },
     {
         "pos": 29,
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Teeming Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -230,20 +230,20 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "Soothing Fathom",
-        "encounter": "Oceanic alchemists emerge from the a submerged sea cave filled with bioluminescent creatures, their intent focused on a merfolk's enchanted harp."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "With help a shipwrecked sailor construct a signal fire to call for rescue. On your mind, the sudden appearance of a thick forest of kelp that entangles ships accompanied by humming of a powerful sea enchantment becomes a challenging diversion."
+        "encounter": "A sudden rustling of seaweed in the currents breaks the silence, making the nearby giant clam gardens quiver."
     },
     {
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a sudden, violent storm with massive waves, your attention is caught by sizzling of saltwater on hot volcanic rocks. Upon investigating, you discover a sunken shipwreck beneath a coral reef with a coral crown adorned with precious gems inside."
     },
     {
         "pos": 41,
@@ -260,7 +260,7 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Estuary']",
         "encounter": ""
     },
     {
@@ -279,13 +279,13 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by anxiety as you uncover a ship's bell with a haunting chime hidden within seaweed-covered rocks."
+        "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
-        "features": "Timeless Swirl",
-        "encounter": "Navigating through a submerged forest of gnarled, petrified trees, you're surprised to find a hidden coral maze filled with merfolk traps filled with tattered fragments of a sunken pirate flag.As you journey forward, you come across a ship's cannon with ornate engravings, with traces of fresh sea breeze around them."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 48,
@@ -303,7 +303,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a kraken's tentacle as a gruesome trophy. However, selkies stand guard, their intentions unknown."
     },
     {
         "pos": 51,
@@ -332,14 +332,14 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing ['Edifice']",
         "encounter": ""
     },
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Crystal-clear ['Marina']",
+        "encounter": "You spot a pirate's cutlass with an ornate hilt nestled among seafloor seagrass, but the unsettling feeling of anticipation makes you wary."
     },
     {
         "pos": 57,
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic ['Lagoon']",
         "encounter": ""
     },
     {
@@ -387,7 +387,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a dense, toxic algae bloom poisoning the water blocking your path. Perhaps it's related to your quest to explore an underwater cave system to find a valuable artifact.."
+        "encounter": ""
     },
     {
         "pos": 65,
@@ -398,14 +398,14 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing ['Delta']",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a skeleton clutching a rusted cutlass on the seabed suggests that kraken have passed through here on a quest to discover a lost civilization by deciphering cryptic underwater runes.."
     },
     {
         "pos": 68,
@@ -429,19 +429,19 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among mermaid's hair algae, you spot a message in a bottle glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by rockweed leads to a clearing with the remnants of a sunken pirate ship's flagpole, indicating giant clams have been here."
+        "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear chattering of crabs on a rocky shore coming from a labyrinthine coral labyrinth with hidden treasures."
+        "encounter": ""
     },
     {
         "pos": 74,
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Secluded ['Rift']",
         "encounter": ""
     },
     {
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of tattered fragments of a sunken pirate flag wind through the rockweed, revealing the past actions of floating market traders."
+        "encounter": ""
     },
     {
         "pos": 84,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a ship's broken figurehead wind through the kelp forests, revealing the past actions of floating market traders."
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant hollow echoes in an underwater cavern draws your attention. Following it, you discover the remnants of a ship's broken mast of a past event."
     },
     {
         "pos": 92,
@@ -561,7 +561,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a rogue wave threatening to capsize the ship, your attention is caught by splashing of dolphins playing nearby. Upon investigating, you discover a concealed treasure chest within a submerged statue with a treasure chest full of cursed gold inside."
+        "encounter": ""
     },
     {
         "pos": 94,
@@ -573,7 +573,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a pirate's skeleton on a sunken ship wind through the sea palm kelp, revealing the past actions of sirens."
+        "encounter": ""
     },
     {
         "pos": 96,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a ship's chart with uncharted territories marked. However, merfolk stand guard, their intentions unknown."
+        "encounter": ""
     }
 ]

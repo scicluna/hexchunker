@@ -20,8 +20,8 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
-        "encounter": "Peering through the dense sea grape kelp, you catch sight of a barnacle-covered ship's wheel. But be cautious, thudding of footsteps on a wooden dock suggest selkies are near."
+        "features": "Bubbling ['Surf']",
+        "encounter": ""
     },
     {
         "pos": 4,
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Ethereal Billow",
+        "features": "",
         "encounter": ""
     },
     {
@@ -57,7 +57,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Trails of the remnants of a sunken sea monster's scale wind through the sea palm kelp, revealing the past actions of tidal wave elementals."
     },
     {
         "pos": 10,
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie crackling of underwater lava flows resonates from a hidden coral archway leading to a treasure trove, and the scent of warm, sun-kissed aroma of a sandy beach fills the air."
     },
     {
         "pos": 14,
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by zostera seagrass, a series of a concealed treasure chest within a submerged statue reveal traces of a skeleton clutching a rusted cutlass on the seabed, and the distant sizzling of saltwater on hot volcanic rocks hint at more to discover."
     },
     {
         "pos": 16,
@@ -111,13 +111,13 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden echoing calls of whales in the distance breaks the silence, making the nearby red calcareous algae quiver."
+        "encounter": ""
     },
     {
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with an abandoned lifeboat adrift on the waves. It appears ghost ships were here recently."
     },
     {
         "pos": 20,
@@ -134,7 +134,7 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal ['Surf']",
         "encounter": ""
     },
     {
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by gratitude as you uncover a sunken ship's anchor hidden within caulerpa seaweed."
     },
     {
         "pos": 25,
@@ -158,7 +158,7 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling ['Edifice']",
         "encounter": ""
     },
     {
@@ -200,7 +200,7 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Shimmering Seabed",
+        "features": "",
         "encounter": ""
     },
     {
@@ -213,7 +213,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of buzzing of bioluminescent creatures in the depths is accompanied by the distinct aroma of saltwater in the air. It seems kelpie are involved in hunting for treasure on a deserted island."
     },
     {
         "pos": 36,
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Harbor']",
         "encounter": ""
     },
     {
@@ -237,18 +237,18 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of panic as you tread upon a damaged, half-buried treasure map scroll, hinting at a tale of crystal reef dwellers."
     },
     {
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to help a shipwrecked sailor construct a signal fire to call for rescue.. But be wary, for octopus oracles lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Salty Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -273,7 +273,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice seagrass meadows moving subtly. Upon closer inspection, you see sea dragons that are summoning a tidal wave to defend their territory."
     },
     {
         "pos": 46,
@@ -309,7 +309,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of humming of a powerful sea enchantment is accompanied by the distinct aroma of salty scent of a mermaid's hair. It seems sea witches are involved in trading secrets with a wandering hermit."
     },
     {
         "pos": 52,
@@ -321,7 +321,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by sponge colonies leads to a clearing with the remnants of a fishing net tangled in the coral, indicating kelpie have been here."
     },
     {
         "pos": 54,
@@ -339,7 +339,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense bubblegum coral, you catch sight of a bottle of potent seawater from a mythical spring. But be cautious, gentle lapping of waves against the shore suggest mermen are near."
     },
     {
         "pos": 57,
@@ -356,7 +356,7 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious ['Pinnacle']",
         "encounter": ""
     },
     {
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it musk of a sea lion colony. You spot coral golems that seem to be wreaking havoc on passing ships."
+        "encounter": "Deep in thought about help a stranded sailor repair their ship and return home., you're startled by murmuring of merfolk singing in harmony. It seems coral golems are near."
     },
     {
         "pos": 62,
@@ -398,7 +398,7 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal ['Tide']",
         "encounter": ""
     },
     {
@@ -422,8 +422,8 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Vibrant Trough",
-        "encounter": "Coral golems gives you a quest to rescue a kidnapped noble from a group of pirates.In your path lies a pirate flag bearing a fearsome symbol surrounded by gorgonian sea fans."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 71,
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Surf']",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a dense fog reducing visibility, your attention is caught by gurgling of a freshwater stream meeting the ocean. Upon investigating, you discover a treasure cache buried in the sand on a deserted island with a mysterious, glowing underwater crystal inside."
     },
     {
         "pos": 77,
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Harmonious Wave",
+        "features": "",
         "encounter": ""
     },
     {
@@ -488,7 +488,7 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed ['Billow']",
         "encounter": ""
     },
     {
@@ -512,19 +512,19 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Daunting Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 86,
         "terrain": "O",
-        "features": "Epic Reef",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Majestic Fathom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -572,13 +572,13 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Radiant Delta",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Secluded ['Pinnacle']",
         "encounter": ""
     },
     {

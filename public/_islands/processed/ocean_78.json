@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "With retrieve a lost, enchanted trident from a sunken temple. On your mind, the sudden appearance of a mysterious, enchanted mist causing disorientation accompanied by cracking of icebergs in frigid waters becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 2,
@@ -21,7 +21,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a fishing net tangled in the coral. It appears cursed mermaids were here recently."
     },
     {
         "pos": 4,
@@ -38,14 +38,14 @@
     {
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Endless ['Undercurrent']",
         "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Ageless ['Atoll']",
+        "encounter": "Deep in thought about retrieve a powerful, magical artifact from a sunken shipwreck., you're startled by humming of a powerful sea enchantment. It seems water elementals are near."
     },
     {
         "pos": 8,
@@ -56,14 +56,14 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Unspoiled Swirl",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Unspoiled Pinnacle",
-        "encounter": "You stumble upon the remnants of a sunken pirate ship's flagpole indicating past battles."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 11,
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Nautical Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -176,7 +176,7 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Surging Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -188,7 +188,7 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent ['Atoll']",
         "encounter": ""
     },
     {
@@ -200,8 +200,8 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Unfathomable Wave",
-        "encounter": "Mermen gives you a quest to navigate a treacherous coral maze to reach a hidden oasis.In your path lies a shipwrecked chest filled with gold coins surrounded by bubblegum coral."
+        "features": "",
+        "encounter": "With help a shipwrecked sailor construct a signal fire to call for rescue. On your mind, the sudden appearance of a submerged forest of gnarled, petrified trees accompanied by churning of water as a whirlpool forms becomes a challenging diversion."
     },
     {
         "pos": 34,
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring ['Delta']",
         "encounter": ""
     },
     {
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Serene Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -303,7 +303,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of chirping of crickets on a moonlit beach is accompanied by the distinct aroma of rich, earthy scent of wet sand. It seems shipwreck goblins are involved in conducting a mystical sea ritual."
     },
     {
         "pos": 51,
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice colorful coral polyps moving subtly. Upon closer inspection, you see pirates that are negotiating with a powerful sea witch."
     },
     {
         "pos": 53,
@@ -338,20 +338,20 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
-        "encounter": "Among the dense green string lettuce, you discover a sea serpent scale. You can't shake the feeling of forgiveness."
+        "features": "Radiant ['Undercurrent']",
+        "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Grand Rise",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious briny scent of low tide envelops you, drawing you towards a sunken, ghostly ship hidden in a fog bank where giant sea turtles are singing haunting songs to lure sailors."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -386,7 +386,7 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Moonlit Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among kelp forests, you spot a shipwrecked chest filled with gold coins glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -422,8 +422,8 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Radiant ['Bay']",
+        "encounter": "You find a hint leading you to defend a coastal town from raiding sea creatures.. But be wary, for cursed ship captains lurk nearby."
     },
     {
         "pos": 71,
@@ -476,14 +476,14 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Salty ['Tide']",
         "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of tattered fragments of a sunken pirate flag wind through the bubbling hot seawater vents, revealing the past actions of storm giants."
+        "encounter": ""
     },
     {
         "pos": 81,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of freshly caught fish on a fishing boat, suggesting the presence of coral golems."
+        "encounter": "Ahead, there is a powerful, magical barrier blocking passage blocking your path. Perhaps it's related to your quest to retrieve a rare and magical seashell for a powerful sea witch.."
     },
     {
         "pos": 85,
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Majestic Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Soothing Passage",
+        "features": "",
         "encounter": ""
     },
     {
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Limitless Estuary",
+        "features": "",
         "encounter": ""
     },
     {
@@ -585,7 +585,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "Floating market traders emerge from the a sunken shipwreck beneath a coral reef, their intent focused on a shipwrecked chest filled with gold coins."
+        "encounter": ""
     },
     {
         "pos": 98,

@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Mermen emerge from the a hidden coral archway leading to a treasure trove, their intent focused on a captured sea serpent's egg."
+        "encounter": ""
     },
     {
         "pos": 2,
@@ -50,7 +50,7 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming ['Reef']",
         "encounter": ""
     },
     {
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by floating bladderwort plants leads to a clearing with a ship's figurehead washed ashore, indicating cursed mermaids have been here."
     },
     {
         "pos": 12,
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense green string lettuce, you discover a seafarer's journal filled with tales of adventure. You can't shake the feeling of wonder."
     },
     {
         "pos": 14,
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Vibrant Cove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -128,26 +128,26 @@
     {
         "pos": 21,
         "terrain": "H",
-        "features": "Verdant Dale",
-        "encounter": "You stumble upon a decayed and mossy shipwreck on dry land indicating past battles."
+        "features": "Pleasant Elevation",
+        "encounter": "With retrieve a rare and valuable plant for an ailing herbalist. On your mind, the sudden appearance of a towering and impassable cliff wall accompanied by the cawing of crows in the early morning becomes a challenging diversion."
     },
     {
         "pos": 22,
         "terrain": "H",
-        "features": "Slopey Terrace",
-        "encounter": "Deep in thought about track down a legendary and elusive beast in the highlands., you're startled by the rhythmic dripping of water in a cave. It seems a group of friendly and nature-loving wood elves are near."
+        "features": "Hazy Decline",
+        "encounter": "Surrounded by sparse patches of desert scrub, a series of a hidden hollow beneath a field of wildflowers reveal traces of a tumbledown and forgotten barn, and the distant the distant braying of donkeys on a farm hint at more to discover."
     },
     {
         "pos": 23,
         "terrain": "H",
-        "features": "Remote Roll",
-        "encounter": "A trail of a forgotten and tumbledown windmill suggests that a colony of burrowing creatures with intricate tunnel systems have passed through here on a quest to solve the mystery of a cursed meadow that kills all plant life.."
+        "features": "Undulating Hillock",
+        "encounter": "The ground is littered with a tumbledown and forgotten barn. It appears a band of hill giants causing trouble for nearby villages were here recently."
     },
     {
         "pos": 24,
         "terrain": "M",
-        "features": "Elevated Pass",
-        "encounter": "The presence of a treacherous, rushing mountain waterfall makes it difficult to proceed. Perhaps the a family of chamois gracefully leaping among crags nearby can help."
+        "features": "Unyielding Ar\u00eate",
+        "encounter": "Peering through the dense a grove of twisted alpine juniper trees, you catch sight of a stack of hand-drawn maps and parchment. But be cautious, the distant hooting of a nocturnal owl suggest a herd of surefooted mountain ibex are near."
     },
     {
         "pos": 25,
@@ -164,13 +164,13 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Daunting Basin",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Calm ['Billow']",
         "encounter": ""
     },
     {
@@ -188,26 +188,26 @@
     {
         "pos": 31,
         "terrain": "H",
-        "features": "Foggy Slope",
-        "encounter": "Surrounded by dense, knee-high ferns, a series of a hidden chamber beneath a hillside tomb reveal traces of a tumbledown and forgotten barn, and the distant the soft hush of falling snow in winter hint at more to discover."
+        "features": "Dominant Dell",
+        "encounter": "A sudden gust brings with it the tangy scent of a creek or stream. You spot a pride of ferocious mountain lions that seem to be conducting trade with traveling merchants and caravans."
     },
     {
         "pos": 32,
         "terrain": "H",
-        "features": "Gentle Decline",
-        "encounter": "Peering through the dense small, gnarled shrubs, you catch sight of a piece of an ancient and powerful relic. But be cautious, the distant call of a solitary hawk soaring above suggest a band of hill giants causing trouble for nearby villages are near."
+        "features": "Undulating Foothill",
+        "encounter": "You hear the chorus of birdsong welcoming the dawn coming from a burrow in the side of a hill where a reclusive hermit dwells."
     },
     {
         "pos": 33,
         "terrain": "M",
-        "features": "Inaccessible Pass",
-        "encounter": "You see a carved bone figurine of a mountain deity that could be useful in your quest to investigate the theft of valuable mountain minerals.. But it's guarded by a clan of mountain trolls lurking in dark caves."
+        "features": "Dramatic Summit",
+        "encounter": "Your way is impeded by a steep and rocky mountain cliffside. As you contemplate a way around, you hear the rhythmic thumping of a woodpecker's beak on trees from the shadows."
     },
     {
         "pos": 34,
         "terrain": "M",
-        "features": "Timeless Pass",
-        "encounter": "The air is filled with the smell of the sweet, vanilla-like scent of mountain cedarwood. You feel a sense of freedom."
+        "features": "Cloud-covered Tor",
+        "encounter": "Your path is illuminated by the glint of a set of intricately beaded necklaces. However, a family of snow hares darting among the rocks stand guard, their intentions unknown."
     },
     {
         "pos": 35,
@@ -219,19 +219,19 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a ship's logbook with a mysterious route nestled among green string lettuce, but the unsettling feeling of euphoria makes you wary."
+        "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "H",
-        "features": "Misty Mound",
-        "encounter": "You uncover a broken and moss-covered wagon wheel that tell a story of a time when a band of traveling bards and minstrels pursued defend a remote settlement from an approaching pack of wolves.."
+        "features": "Serene Summit",
+        "encounter": "You're guided by the soft the soft whisper of wind through tall grasses. As you follow, you encounter a mischievous group of pixies playing tricks on travelers in the midst of foraging for edible plants and herbs."
     },
     {
         "pos": 38,
         "terrain": "H",
-        "features": "Dewy Heights",
-        "encounter": "Peering through the dense wildflowers in vibrant colors, you catch sight of a carved stone amulet with ancient symbols. But be cautious, the soft hooting of an owl in the moonlight suggest a band of hill giants causing trouble for nearby villages are near."
+        "features": "Dappled Tumulus",
+        "encounter": "The whisper of the gentle rustling of ferns in the forest is accompanied by the distinct aroma of the musty scent of old, weathered books. It seems a colony of territorial badgers digging elaborate burrows are involved in seeking guidance from wise and ancient elders."
     },
     {
         "pos": 39,
@@ -243,13 +243,13 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a shipwrecked chest filled with gold coins. However, underwater nomads stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a damaged sextant with a cracked lens indicating past battles."
     },
     {
         "pos": 42,
@@ -260,7 +260,7 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Abyssal Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -273,12 +273,12 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter turtle island shamans which are protecting their underwater city from intruders."
+        "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Luminous Inlet",
+        "features": "",
         "encounter": ""
     },
     {
@@ -302,8 +302,8 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Majestic Expanse",
-        "encounter": ""
+        "features": "",
+        "encounter": "The whisper of buzzing of bioluminescent creatures in the depths is accompanied by the distinct aroma of rancid smell of decaying plankton. It seems sea witches are involved in creating storms to deter sailors."
     },
     {
         "pos": 51,
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense mermaid's hair algae, you discover a mermaid's singing seashell necklace. You can't shake the feeling of serenity."
     },
     {
         "pos": 53,
@@ -350,13 +350,13 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Murmuring Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Vibrant Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -374,7 +374,7 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous ['Harbor']",
         "encounter": ""
     },
     {
@@ -392,7 +392,7 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Untamed Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -465,13 +465,13 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a network of tunnels in the heart of a coral maze, you sense the presence of cursed mermaids."
     },
     {
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of scent of salty tears in the wind. You feel a sense of curiosity."
+        "encounter": ""
     },
     {
         "pos": 79,
@@ -482,13 +482,13 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous ['Estuary']",
         "encounter": ""
     },
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Peaceful Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -506,14 +506,14 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "Vast Isle",
-        "encounter": ""
+        "features": "",
+        "encounter": "Island hermit gives you a quest to discover a lost civilization by deciphering cryptic underwater runes.In your path lies a ship's sextant for celestial navigation surrounded by crinoids on the seafloor."
     },
     {
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it scent of salted fish drying on racks. You spot sunken treasure guardians that seem to be hunting for treasure on a deserted island."
+        "encounter": ""
     },
     {
         "pos": 86,
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling ['Jetty']",
         "encounter": ""
     },
     {
@@ -567,18 +567,18 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense giant underwater mushrooms, you catch sight of a mermaid's singing seashell necklace. But be cautious, chirping of crickets on a moonlit beach suggest sea serpents are near."
     },
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Tidal Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
-        "features": "Nautical Wave",
+        "features": "",
         "encounter": ""
     },
     {
