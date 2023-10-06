@@ -1,5 +1,5 @@
 import { Terrain } from '@/types/islandTypes'
-import { forest, hills, mountains, ocean, plains } from '@/data/images'
+import { forest, hills, mountains, ocean, plains, towns } from '@/data/images'
 
 export function imagePick(char: Terrain) {
     switch (char) {
@@ -17,6 +17,9 @@ export function imagePick(char: Terrain) {
         }
         case "P": {
             return plains[Math.floor(Math.random() * plains.length)]
+        }
+        case "T": {
+            return towns[Math.floor(Math.random() * towns.length)]
         }
         default: {
             return ocean[Math.floor(Math.random() * ocean.length)]
