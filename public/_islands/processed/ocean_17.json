@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and chattering of crabs on a rocky shore grow louder. It seems sea witches are on the move."
+        "encounter": "The ground is littered with a torn and faded pirate's treasure map. It appears sea witches were here recently."
     },
     {
         "pos": 1,
@@ -14,7 +14,7 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Azure Lagoon",
+        "features": "",
         "encounter": ""
     },
     {
@@ -44,7 +44,7 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Edifice",
         "encounter": ""
     },
     {
@@ -57,19 +57,19 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of hope as you tread upon the remnants of a fishing net tangled in the coral, hinting at a tale of sea anemone sorcerers."
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Windswept Haven",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a sandbar hiding just below the water's surface, you're surprised to find an ancient, submerged temple with hidden chambers filled with a tattered, waterlogged map of uncharted waters.As you journey forward, you come across a message in a bottle, with traces of aromatic blooms of coastal flowers around them."
     },
     {
         "pos": 12,
@@ -93,13 +93,13 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a submerged forest of gnarled, petrified trees, you're surprised to find a submerged sea cave filled with bioluminescent creatures filled with a torn and faded pirate's treasure map.As you journey forward, you come across a magical mermaid's mirror that reveals secrets, with traces of pungent aroma of a hidden pirate's stash around them."
     },
     {
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a skeleton clutching a rusted cutlass on the seabed suggests that giant clams have passed through here on a quest to uncover the truth behind a series of strange underwater disappearances.."
+        "encounter": ""
     },
     {
         "pos": 17,
@@ -110,13 +110,13 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Sunlit Estuary",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Calm Inlet",
+        "features": "Mysterious Chasm",
         "encounter": ""
     },
     {
@@ -140,20 +140,20 @@
     {
         "pos": 23,
         "terrain": "M",
-        "features": "Unreachable Pass",
-        "encounter": "Your journey leads you to a a steep and rocky mountain cliffside. As you approach, a family of griffons soaring above the mountains nurturing their young and teaching them survival skills."
+        "features": "Cloud-covered Trench",
+        "encounter": "Your path is illuminated by the glint of a piece of exquisite silk fabric. However, a colony of territorial marmots with intricate burrows stand guard, their intentions unknown."
     },
     {
         "pos": 24,
         "terrain": "M",
-        "features": "Resilient Summit",
-        "encounter": "You spot a collection of ancient coins nestled among clumps of prickly pear cacti at high altitudes, but the unsettling feeling of awe makes you wary."
+        "features": "Gentle Valley",
+        "encounter": "You hear the chirping of young birds in their mountain nests coming from a secret passage beneath a high-altitude riverbank."
     },
     {
         "pos": 25,
         "terrain": "M",
-        "features": "Rolling Base",
-        "encounter": "You stumble upon a scene where a pack of elusive snow foxes blending into the snowy landscape are engaged in mining precious gemstones and metals around a bundle of rare and exotic spices, seemingly crucial for retrieve a stolen tribal relic hidden in the high peaks.."
+        "features": "Foreboding Divide",
+        "encounter": "A trail of a set of fading and illegible mountain inscriptions suggests that a family of noble mountain lions have passed through here on a quest to escort a group of explorers to uncover ancient mountain ruins.."
     },
     {
         "pos": 26,
@@ -165,7 +165,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "With retrieve a rare coral sample for an eccentric scientist. On your mind, the sudden appearance of an eerie, ghostly ship blocking the path accompanied by thudding of footsteps on a wooden dock becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 28,
@@ -194,38 +194,38 @@
     {
         "pos": 32,
         "terrain": "M",
-        "features": "Ancient Trench",
-        "encounter": "Peering through the dense sparse patches of alpine wildflowers, you catch sight of a piece of exquisite hand-blown glass. But be cautious, the gentle rustling of alpine ferns in the forest suggest a band of itinerant monks seeking enlightenment are near."
+        "features": "Immutable Col",
+        "encounter": "The presence of a treacherous, hidden mountain crevasse makes it difficult to proceed. Perhaps the a pack of elusive snow foxes blending into the snowy landscape nearby can help."
     },
     {
         "pos": 33,
         "terrain": "M",
-        "features": "Resilient Col",
-        "encounter": "You stumble upon a scene where a clan of nomadic yetis roaming the peaks are engaged in exploring hidden caves and caverns around a pair of intricately carved yak horns, seemingly crucial for retrieve a rare and valuable alpine plant for an ailing herbalist.."
+        "features": "Sacred Flank",
+        "encounter": "A mischievous group of perytons stalking travelers emerge from the a hidden path through a field of rare alpine flowers, their intent focused on a well-preserved set of mammoth bones."
     },
     {
         "pos": 34,
         "terrain": "M",
-        "features": "Glacial Massif",
-        "encounter": "You're guided by the soft the rhythmic clinking of rocks as they tumble down slopes. As you follow, you encounter a colony of cave-dwelling fire beetles in the midst of blessing the land with fertility and abundance."
+        "features": "Isolated Col",
+        "encounter": "You feel serenity as the distant howling of a pack of wolves echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 35,
         "terrain": "M",
-        "features": "Isolated Gorge",
-        "encounter": "The air is filled with the smell of the pungent odor of sagebrush in the highlands. You feel a sense of admiration."
+        "features": "Towering Ar\u00eate",
+        "encounter": "A sudden gust brings with it the rich, earthy smell of a fertile mountain meadow. You spot a nomadic tribe of mountaineers with yaks and tents that seem to be practicing their magical abilities in secluded groves."
     },
     {
         "pos": 36,
         "terrain": "H",
-        "features": "Remote Crest",
-        "encounter": "An eerie the soothing sound of a bubbling brook resonates from a hidden trail leading to a remote hilltop, and the scent of the clean, fresh scent of a mountain breeze fills the air."
+        "features": "Rising Pinnacle",
+        "encounter": "You uncover a half-buried and mossy stone well that tell a story of a time when a family of giant hawks nesting in the cliffs pursued escort a group of settlers to establish a new village in the hills.."
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a seashell amulet that grants water-breathing nestled among tube worms near hydrothermal vents, but the unsettling feeling of anticipation makes you wary."
     },
     {
         "pos": 38,
@@ -249,37 +249,37 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "Shipwreck goblins emerge from the a sunken garden of rare and magical sea plants, their intent focused on a ship's chart with uncharted territories marked."
+        "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by sea grape kelp, a series of a concealed treasure chest within a submerged statue reveal traces of a shattered, half-buried bottle with a message inside, and the distant rattling of pebbles in the surf hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where sunken treasure guardians are engaged in diving deep to consult with a sea oracle around a ship's logbook with a mysterious route, seemingly crucial for help a stranded sailor repair their ship and return home.."
+        "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "M",
-        "features": "Sacred Spire",
-        "encounter": "Deep in thought about help a clan of mountain creatures negotiate a truce with a rival group., you're startled by the distant cry of an eagle soaring above. It seems a majestic dragon nesting high in the peaks are near."
+        "features": "Harsh Gorge",
+        "encounter": "The presence of a patch of quicksand hidden beneath the mountain surface makes it difficult to proceed. Perhaps the a flock of giant condors soaring high above nearby can help."
     },
     {
         "pos": 45,
         "terrain": "M",
-        "features": "Mysterious Trench",
-        "encounter": "The way forward is blocked by a band of nomadic warriors guarding their mountain territory, but you notice a concealed opening in a thicket of mountain herbs that might lead around it."
+        "features": "Remote Ar\u00eate",
+        "encounter": "A path surrounded by clusters of mushrooms in damp mountain forests leads to a clearing with a forgotten and weathered mountain scarecrow, indicating a family of alpine dwarves known for their mining have been here."
     },
     {
         "pos": 46,
         "terrain": "M",
-        "features": "Craggy Trench",
-        "encounter": "You feel an overwhelming sense of peace of mind as you tread upon a toppled and shattered mountain stone monolith, hinting at a tale of a tribe of centaurs skilled in herbalism."
+        "features": "Magnificent Valley",
+        "encounter": "The whisper of the soothing sound of a babbling mountain brook is accompanied by the distinct aroma of the tangy aroma of a mountain barbecue feast. It seems a band of traveling bards and minstrels are involved in embarking on spiritual journeys to mountain peaks."
     },
     {
         "pos": 47,
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it salty scent of a mermaid's hair. You spot sirens that seem to be diving deep to consult with a sea oracle."
+        "encounter": ""
     },
     {
         "pos": 50,
@@ -320,26 +320,26 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Tempestuous Rise",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "M",
-        "features": "Dramatic Trench",
-        "encounter": "Peering through the dense a stand of tall, ancient alpine redwoods, you catch sight of a stack of ancient scrolls filled with knowledge. But be cautious, the distant howling of wolves in the night suggest a solitary hermit living in a mountain cave are near."
+        "features": "Rough Cliff",
+        "encounter": "A distant the soft purring of a contented mountain cat draws your attention. Following it, you discover a tattered and forgotten mountain battle banner of a past event."
     },
     {
         "pos": 55,
         "terrain": "M",
-        "features": "Imposing Ridge",
-        "encounter": "A mysterious the earthy scent of moss growing on mountain rocks envelops you, drawing you towards a concealed entrance to a hidden cavern behind a waterfall where a clan of mountain trolls lurking in dark caves are practicing their magical abilities in secluded groves."
+        "features": "Sun-kissed Base",
+        "encounter": "An eerie the chorus of birdsong welcoming the dawn resonates from a secret passage leading to an ancient burial chamber, and the scent of the tangy scent of sun-warmed mountain stones fills the air."
     },
     {
         "pos": 56,
         "terrain": "M",
-        "features": "Eternal Gully",
-        "encounter": "Deep in thought about retrieve a lost explorer's equipment from a high-altitude cliff., you're startled by the soothing sound of a babbling mountain brook. It seems a clan of mountain giants known for their strength are near."
+        "features": "Desolate Sierra",
+        "encounter": "A mysterious the warm, dusty smell of mountain trails envelops you, drawing you towards a hidden chamber beneath a mountain shrine where a band of skilled yeti hunters are hunting for elusive game in the rocky terrain."
     },
     {
         "pos": 57,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it crisp, ocean-scented laundry on a line. You spot merfolk that seem to be protecting their underwater city from intruders."
+        "encounter": "You stumble upon a sunken rowboat with a hole in its hull indicating past battles."
     },
     {
         "pos": 62,
@@ -386,14 +386,14 @@
     {
         "pos": 64,
         "terrain": "M",
-        "features": "Expansive Gorge",
-        "encounter": "A pack of snow leopards hunting in the rocky terrain emerge from the a network of tunnels dug by underground creatures, their intent focused on a stack of ancient and mysterious scrolls."
+        "features": "Serrated Ravine",
+        "encounter": "A colony of rock-dwelling bats hanging from cavern ceilings gives you a quest to investigate reports of strange lights and sounds in a mountain cave.In your path lies a stack of ancient scrolls filled with knowledge surrounded by clusters of ferns in the shade of mountain forests."
     },
     {
         "pos": 65,
         "terrain": "M",
-        "features": "Timeless Ravine",
-        "encounter": "You stumble upon a cracked and abandoned mountain millstone indicating past battles."
+        "features": "Expansive Gully",
+        "encounter": "You see a well-preserved set of mammoth bones that could be useful in your quest to retrieve a rare and valuable alpine plant for an ailing herbalist.. But it's guarded by a family of snow hares darting among the rocks."
     },
     {
         "pos": 66,
@@ -405,13 +405,13 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange the remnants of a shipwrecked sailor's journal lie scattered, painting a tale of sea serpents that creating elaborate maps of uncharted waters."
     },
     {
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of an ancient ship's cannon. It appears whirlpool spirits were here recently."
     },
     {
         "pos": 69,
@@ -434,7 +434,7 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Picturesque Sound",
+        "features": "Unfathomable Harbor",
         "encounter": ""
     },
     {
@@ -446,8 +446,8 @@
     {
         "pos": 74,
         "terrain": "M",
-        "features": "Breathtaking Flank",
-        "encounter": "You're guided by the soft the rhythmic croak of frogs near a highland pond. As you follow, you encounter a mischievous group of perytons stalking travelers in the midst of creating intricate crafts and tools."
+        "features": "Solitary Apex",
+        "encounter": "Strange a tattered and forgotten mountain battle banner lie scattered, painting a tale of a mischievous group of perytons stalking travelers that taming and riding surefooted mountain goats."
     },
     {
         "pos": 75,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Billow",
         "encounter": ""
     },
     {
@@ -488,7 +488,7 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Immeasurable Sound",
+        "features": "",
         "encounter": ""
     },
     {
@@ -519,7 +519,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a treacherous, labyrinthine underwater cave system, but you notice a sunken temple accessible only by solving a riddle that might lead around it."
     },
     {
         "pos": 87,
@@ -530,14 +530,14 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Spring",
         "encounter": ""
     },
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Majestic Cove",
-        "encounter": ""
+        "features": "",
+        "encounter": "You stumble upon a scene where water elementals are engaged in navigating a treacherous whirlpool around a ship's cannon with ornate engravings, seemingly crucial for retrieve a sunken treasure from a ghost ship guarded by vengeful spirits.."
     },
     {
         "pos": 90,
@@ -554,13 +554,13 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Vibrant Bight",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Narrows",
         "encounter": ""
     },
     {

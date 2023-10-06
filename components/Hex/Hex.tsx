@@ -4,7 +4,6 @@ import Image from 'next/image'
 import { imagePick } from '@/utils/imagePick'
 import { Island } from '@/types/islandTypes'
 
-export type char = 'F' | 'H' | 'M' | 'O' | 'P'
 type HexProps = {
     tile: Island
     size: number
@@ -22,7 +21,7 @@ export default function Hex({ tile, size, chunkSize }: HexProps) {
         } as React.CSSProperties}
             className={`relative ${style.hexagon}`} >
             <div>
-                <Image src={hexImage} alt={'map tile'} fill className='aspect-square' unoptimized />
+                <Image src={hexImage} alt={'map tile'} fill className='aspect-square cursor-pointer hover:scale-105 hover:animate-pulse transition-all' unoptimized />
             </div>
         </div>
     )

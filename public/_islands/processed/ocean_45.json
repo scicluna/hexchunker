@@ -9,12 +9,12 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and roaring of a powerful waterfall cascading into the sea grow louder. It seems underwater miners are on the move."
+        "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Rise",
         "encounter": ""
     },
     {
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it rich, earthy scent of wet sand. You spot mermen that seem to be escaping from the clutches of a kraken."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -68,13 +68,13 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Tranquil Seabed",
-        "encounter": ""
+        "features": "",
+        "encounter": "You hear crackling of underwater lava flows coming from an underwater lagoon hidden by dense seaweed."
     },
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic Seamount",
         "encounter": ""
     },
     {
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by frustration as you uncover a beautifully crafted coral tiara hidden within seafloor seagrass."
+        "encounter": "You spot a magical conch shell that can summon sea creatures nestled among coral reefs, but the unsettling feeling of anger makes you wary."
     },
     {
         "pos": 15,
@@ -105,7 +105,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a submerged forest of gnarled, petrified trees, your attention is caught by splintering of wood as a shipwreck breaks apart. Upon investigating, you discover a submerged pirate's lair hidden by a waterfall with a collection of seashells with hidden messages inside."
     },
     {
         "pos": 18,
@@ -117,7 +117,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a massive, floating tree trunk in the ship's path. As you contemplate a way around, you hear whistling of wind through the rigging of a ship from the shadows."
+        "encounter": ""
     },
     {
         "pos": 20,
@@ -165,13 +165,13 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it sun-warmed sand. You spot seafaring druids that seem to be conducting a mystical sea ritual."
     },
     {
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of clattering of seashells in the tide is accompanied by the distinct aroma of salty seaweed and kelp. It seems coral golems are involved in forging alliances with other oceanic races."
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Crystal-clear Fjord",
+        "features": "",
         "encounter": ""
     },
     {
@@ -273,7 +273,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of fresh, salty scent of oysters on the shore, suggesting the presence of coral golems."
+        "encounter": ""
     },
     {
         "pos": 46,
@@ -284,7 +284,7 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Kelp Forest",
         "encounter": ""
     },
     {
@@ -296,7 +296,7 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "Pristine Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -326,7 +326,7 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "Spectacular Depression",
+        "features": "",
         "encounter": ""
     },
     {
@@ -362,19 +362,19 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "Calm Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Lagoon",
         "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Plateau",
         "encounter": ""
     },
     {
@@ -392,13 +392,13 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Iridescent Sound",
+        "encounter": "Your path is illuminated by the glint of a coral crown adorned with precious gems. However, underwater nomads stand guard, their intentions unknown."
     },
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Fjord",
         "encounter": ""
     },
     {
@@ -416,13 +416,13 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Seabed",
         "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Surf",
         "encounter": ""
     },
     {
@@ -434,14 +434,14 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Endless Trough",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With escort a fragile, magical artifact through dangerous waters. On your mind, the sudden appearance of a cursed island that draws ships in but won't let them leave accompanied by distant rumble of thunder during a storm becomes a challenging diversion."
     },
     {
         "pos": 74,
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "Unfathomable Strait",
+        "features": "",
         "encounter": ""
     },
     {
@@ -471,7 +471,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a rusted anchor half-buried in the sand indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 79,
@@ -494,8 +494,8 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of rancid smell of decaying plankton, suggesting the presence of lighthouse guardians."
+        "features": "Dazzling Abyss",
+        "encounter": ""
     },
     {
         "pos": 83,
@@ -525,18 +525,18 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to rescue a group of trapped sailors from a sinking ship.. But be wary, for dolphin companions lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among black coral, you spot a chest of mystical sea herbs and remedies glinting in the sunlight."
     },
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Sunlit Trough",
+        "features": "",
         "encounter": ""
     },
     {
@@ -555,7 +555,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of gratitude as you tread upon the remnants of a sunken sea monster's scale, hinting at a tale of sirens."
+        "encounter": ""
     },
     {
         "pos": 93,
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Reef",
         "encounter": ""
     },
     {
@@ -585,7 +585,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a concealed treasure chest buried under a giant pearl, you sense the presence of mermen."
     },
     {
         "pos": 98,

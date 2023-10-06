@@ -3,25 +3,25 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to explore an underwater cave system to find a valuable artifact.. But be wary, for sea dragons lurk nearby."
     },
     {
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft roaring of a powerful waterfall cascading into the sea. As you follow, you encounter shipwreck goblins in the midst of solving a riddle from an ancient sea scroll."
+        "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Fathom",
         "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Sunlit Passage",
+        "encounter": "Trails of the remnants of an ancient ship's cargo hold wind through the sea anemone gardens, revealing the past actions of sunken treasure guardians."
     },
     {
         "pos": 4,
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Teeming Narrows",
+        "features": "Deep Fjord",
         "encounter": ""
     },
     {
@@ -86,14 +86,14 @@
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Choppy Deep",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Sarcastic cephalopod emerge from the a sunken temple accessible only by solving a riddle, their intent focused on a preserved mermaid tail."
     },
     {
         "pos": 16,
@@ -110,8 +110,8 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Limitless Chasm",
+        "encounter": "The ground is littered with an abandoned lifeboat adrift on the waves. It appears kraken were here recently."
     },
     {
         "pos": 19,
@@ -123,13 +123,13 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden sizzling of saltwater on hot volcanic rocks breaks the silence, making the nearby giant kelp with air-filled bladders quiver."
+        "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice mangrove prop roots moving subtly. Upon closer inspection, you see ghost ships that are hunting for fish and other sea creatures."
     },
     {
         "pos": 22,
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Turbulent Lagoon",
+        "features": "",
         "encounter": ""
     },
     {
@@ -165,13 +165,13 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft gentle lapping of waves against the shore. As you follow, you encounter sea serpents in the midst of protecting their underwater city from intruders."
+        "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Salty Expanse",
-        "encounter": "Ahead, there is a dense fog reducing visibility blocking your path. Perhaps it's related to your quest to retrieve a lost, enchanted trident from a sunken temple.."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Boundless Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -260,7 +260,7 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Estuary",
         "encounter": ""
     },
     {
@@ -278,8 +278,8 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
-        "encounter": "Navigating through a monstrous, coral-covered sea monster, you're surprised to find a concealed treasure chest buried under a giant pearl filled with the remnants of a fishing net tangled in the coral.As you journey forward, you come across a magical conch shell that can summon sea creatures, with traces of fishy odor of the ocean depths around them."
+        "features": "Silent Flats",
+        "encounter": ""
     },
     {
         "pos": 47,
@@ -291,13 +291,13 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among green string lettuce, you spot a ship's logbook with a mysterious route glinting in the sunlight."
     },
     {
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a torn and faded pirate's treasure map wind through the coral reefs, revealing the past actions of ship-eating barnacles."
+        "encounter": "You're guided by the soft chattering of crabs on a rocky shore. As you follow, you encounter storm giants in the midst of setting up an underwater market."
     },
     {
         "pos": 50,
@@ -321,7 +321,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of rancid smell of decaying plankton. You feel a sense of contentment."
     },
     {
         "pos": 54,
@@ -351,12 +351,12 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a sunken merchant ship's cargo. It appears floating market traders were here recently."
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic Isle",
         "encounter": ""
     },
     {
@@ -368,26 +368,26 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Vast Kelp Forest",
+        "encounter": "You spot a seafarer's journal filled with tales of adventure nestled among seafloor seagrass, but the unsettling feeling of gratitude makes you wary."
     },
     {
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden hissing of foam as waves recede breaks the silence, making the nearby halophila seagrass quiver."
     },
     {
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft sloshing of water in a mermaid's bathtub. As you follow, you encounter water elementals in the midst of training sea creatures for battle."
+        "encounter": "A distant pounding of heavy rain during a monsoon draws your attention. Following it, you discover a shattered, half-buried bottle with a message inside of a past event."
     },
     {
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of rotten-egg odor of sulfur from underwater vents, suggesting the presence of octopus oracles."
+        "encounter": ""
     },
     {
         "pos": 65,
@@ -399,7 +399,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "With explore an underwater cave system to find a valuable artifact. On your mind, the sudden appearance of a cursed lighthouse guiding ships to their doom accompanied by cracking of icebergs in frigid waters becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 67,
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Ocean",
         "encounter": ""
     },
     {
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Lagoon",
         "encounter": ""
     },
     {
@@ -524,8 +524,8 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Beckoning Trough",
-        "encounter": "You feel desperation as buzzing of insects near a coastal marsh echo in the distance. Perhaps it's a sign of what's to come."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a sandbar hiding just below the water's surface. As you contemplate a way around, you hear chirping of crickets on a moonlit beach from the shadows."
+        "encounter": ""
     },
     {
         "pos": 90,
@@ -560,8 +560,8 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Reflective Shoal",
-        "encounter": "The ground is littered with the remnants of a ship's lantern on the seafloor. It appears cursed ship captains were here recently."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 94,
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Sweeping Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -591,7 +591,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel wonder as rustling of parchment as a map is unfurled echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 99,

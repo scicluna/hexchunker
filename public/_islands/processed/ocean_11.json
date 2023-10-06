@@ -14,14 +14,14 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Breathtaking Current",
-        "encounter": "A path surrounded by seagrass meadows leads to a clearing with a rusted ship's bell on the ocean floor, indicating ghost ships have been here."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Giant clams emerge from the a concealed passage leading to an underwater city, their intent focused on a barnacle-covered ship's wheel."
     },
     {
         "pos": 4,
@@ -74,7 +74,7 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Epic Edifice",
+        "features": "",
         "encounter": ""
     },
     {
@@ -116,20 +116,20 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Depression",
         "encounter": ""
     },
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Immeasurable Jetty",
+        "features": "Vibrant Bight",
         "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among bubbling hot seawater vents, you spot a sea serpent scale glinting in the sunlight."
     },
     {
         "pos": 22,
@@ -158,13 +158,13 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "Roaring Seabed",
-        "encounter": "Your journey leads you to a a rogue wave threatening to capsize the ship. As you approach, pearl diver guilds convincing a shipwrecked sailor to join their crew."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Majestic Strait",
+        "features": "",
         "encounter": ""
     },
     {
@@ -177,12 +177,12 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Seafaring druids gives you a quest to retrieve a lost, enchanted trident from a sunken temple.In your path lies a ship's cannon with ornate engravings surrounded by caulerpa seaweed."
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Spectacular Bay",
+        "features": "",
         "encounter": ""
     },
     {
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Bay",
         "encounter": ""
     },
     {
@@ -243,19 +243,19 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "The sea palm kelp rustles, revealing cursed ship captains that are searching for a lost artifact on the ocean floor."
+        "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by green string lettuce leads to a clearing with a sunken cannon half-buried in the coral, indicating pearl diver guilds have been here."
+        "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by green string lettuce, a series of a forgotten pirate hideout in a remote cove reveal traces of a damaged sextant with a cracked lens, and the distant gentle lapping of waves against the shore hint at more to discover."
     },
     {
         "pos": 43,
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Infinite Seabed",
+        "features": "",
         "encounter": ""
     },
     {
@@ -326,13 +326,13 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable Inlet",
         "encounter": ""
     },
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Chasm",
         "encounter": ""
     },
     {
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of splintering of wood as a shipwreck breaks apart is accompanied by the distinct aroma of tangy scent of salt spray. It seems underwater nomads are involved in conducting a mystical sea ritual."
+        "encounter": ""
     },
     {
         "pos": 60,
@@ -410,14 +410,14 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Glistening Swirl",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your senses are overwhelmed by gratitude as you uncover a bottle of rare and potent mermaid tears hidden within floating seaweed rafts."
     },
     {
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a sunken merchant ship's cargo. It appears sea dragons were here recently."
     },
     {
         "pos": 70,
@@ -434,7 +434,7 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing Shore",
         "encounter": ""
     },
     {
@@ -464,7 +464,7 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Whirlpool",
         "encounter": ""
     },
     {
@@ -488,7 +488,7 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Sweeping Isle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -536,13 +536,13 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Sparkling Ridge",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Rift",
         "encounter": ""
     },
     {
@@ -554,7 +554,7 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Surf",
         "encounter": ""
     },
     {
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense halophila seagrass, you discover a kraken's tentacle as a gruesome trophy. You can't shake the feeling of bewilderment."
     }
 ]

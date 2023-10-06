@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a powerful, magical artifact from a sunken shipwreck.. But be wary, for kelpie lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 1,
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a dense fog reducing visibility blocking your path. Perhaps it's related to your quest to search for a hidden cove rumored to contain pirate treasure.."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Trough",
         "encounter": ""
     },
     {
@@ -81,13 +81,13 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange a ship's figurehead washed ashore lie scattered, painting a tale of dolphin companions that conducting a mystical sea ritual."
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Dazzling Mangrove",
-        "encounter": ""
+        "features": "",
+        "encounter": "The ground is littered with the remnants of an ancient ship's cannon. It appears sirens were here recently."
     },
     {
         "pos": 15,
@@ -110,7 +110,7 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "Sweeping Ocean",
+        "features": "Surging Spring",
         "encounter": ""
     },
     {
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable Inlet",
         "encounter": ""
     },
     {
@@ -147,13 +147,13 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of whistling of wind through the rigging of a ship is accompanied by the distinct aroma of rancid smell of decaying plankton. It seems water elementals are involved in building a coral fortress."
     },
     {
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a broken ship's mast jutting out of the water suggests that giant clams have passed through here on a quest to retrieve a rare coral sample for an eccentric scientist.."
+        "encounter": "Storm giants gives you a quest to retrieve a lost, enchanted trident from a sunken temple.In your path lies a ghostly lantern that wards off spirits surrounded by underwater mangrove roots."
     },
     {
         "pos": 26,
@@ -170,13 +170,13 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Sunlit Tide",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Calm Rise",
+        "features": "",
         "encounter": ""
     },
     {
@@ -188,7 +188,7 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "Limitless Jetty",
+        "features": "",
         "encounter": ""
     },
     {
@@ -213,18 +213,18 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a chest of mystical sea herbs and remedies that could be useful in your quest to defend a coastal village from a relentless pirate invasion.. But it's guarded by sunken treasure guardians."
     },
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Iridescent Bight",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Rise",
         "encounter": ""
     },
     {
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Rift",
         "encounter": ""
     },
     {
@@ -260,20 +260,20 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Infinite Billow",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Daunting Seabed",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to search for a hidden cove rumored to contain pirate treasure.. But be wary, for water elementals lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 46,
@@ -290,7 +290,7 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Chasm",
         "encounter": ""
     },
     {
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden rustling of palm fronds in a gentle breeze breaks the silence, making the nearby giant kelp with air-filled bladders quiver."
+        "encounter": ""
     },
     {
         "pos": 55,
@@ -356,13 +356,13 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely Estuary",
         "encounter": ""
     },
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Fjord",
         "encounter": ""
     },
     {
@@ -374,13 +374,13 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Lonely Flats",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Uncharted Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -423,7 +423,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and rustling of seaweed in the currents grow louder. It seems sea witches are on the move."
     },
     {
         "pos": 71,
@@ -435,12 +435,12 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "The halophila seagrass rustles, revealing octopus oracles that are exploring a mysterious underwater cave."
+        "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Kelp Forest",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a powerful whirlpool pulling ships downward. As you contemplate a way around, you hear distant rumble of thunder during a storm from the shadows."
     },
     {
         "pos": 77,
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Pinnacle",
         "encounter": ""
     },
     {
@@ -489,7 +489,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by red grape algae leads to a clearing with the remnants of a pirate's skeleton on a sunken ship, indicating ghost ships have been here."
     },
     {
         "pos": 82,
@@ -506,7 +506,7 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant Reef",
         "encounter": ""
     },
     {
@@ -536,37 +536,37 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Delta",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of pride as you tread upon barnacle-covered remnants of a wooden chest, hinting at a tale of turtle island shamans."
     },
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Main",
         "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter sea anemone sorcerers which are singing haunting songs to lure sailors."
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about track down a legendary sea monster for a wealthy collector., you're startled by sighing of the wind through sea caves. It seems giant sea turtles are near."
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted Trough",
         "encounter": ""
     },
     {
@@ -584,7 +584,7 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Raging Atoll",
+        "features": "",
         "encounter": ""
     },
     {

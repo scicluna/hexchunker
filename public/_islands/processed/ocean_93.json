@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice crinoids on the seafloor moving subtly. Upon closer inspection, you see coral golems that are plotting revenge against a rival pirate captain."
+        "encounter": "Ahead, there is a giant maelstrom that sucks everything in blocking your path. Perhaps it's related to your quest to help a stranded sailor repair their ship and return home.."
     },
     {
         "pos": 1,
@@ -26,7 +26,7 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "Majestic Main",
+        "features": "",
         "encounter": ""
     },
     {
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a powerful, magical barrier blocking passage. As you contemplate a way around, you hear buzzing of underwater machinery in a sunken city from the shadows."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of sun-warmed sand. You feel a sense of frustration."
     },
     {
         "pos": 14,
@@ -122,19 +122,19 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Limitless Isle",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Trails of the remnants of a sunken merchant ship's cargo wind through the thick beds of eelgrass, revealing the past actions of kraken."
     },
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Boundless Channel",
+        "features": "",
         "encounter": ""
     },
     {
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Vast Kelp Forest",
+        "features": "Moonlit Sandbank",
         "encounter": ""
     },
     {
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of awe as you tread upon the remnants of a pirate's skeleton on a sunken ship, hinting at a tale of pearl diver guilds."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -243,13 +243,13 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a band of marauding pirates waiting to attack makes it difficult to proceed. Perhaps the kelpie nearby can help."
     },
     {
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a ship's broken mast suggests that octopus oracles have passed through here on a quest to escort a group of settlers to a remote, uncharted island.."
     },
     {
         "pos": 42,
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by excitement as you uncover a captured sea serpent's egg hidden within gorgonian sea fans."
+        "encounter": ""
     },
     {
         "pos": 45,
@@ -291,7 +291,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of scent of salty tears in the wind, suggesting the presence of shipwreck goblins."
     },
     {
         "pos": 49,
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Mysterious Reef",
+        "features": "",
         "encounter": ""
     },
     {
@@ -321,19 +321,19 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft sizzling of saltwater on hot volcanic rocks. As you follow, you encounter lighthouse guardians in the midst of rescuing shipwreck survivors."
+        "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to protect a colony of merfolk from an encroaching threat.. But be wary, for pirates lurk nearby."
     },
     {
         "pos": 55,
         "terrain": "O",
-        "features": "Pristine Trench",
-        "encounter": ""
+        "features": "",
+        "encounter": "You're guided by the soft clattering of seashells in the tide. As you follow, you encounter giant sea turtles in the midst of battling a giant sea serpent."
     },
     {
         "pos": 56,
@@ -356,13 +356,13 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable Fjord",
         "encounter": ""
     },
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Marina",
         "encounter": ""
     },
     {
@@ -380,7 +380,7 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Timeless Depression",
+        "features": "",
         "encounter": ""
     },
     {
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Alluring Shoal",
+        "features": "",
         "encounter": ""
     },
     {
@@ -495,7 +495,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel fear as rustling of seaweed swaying in the current echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 83,
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Abyss",
         "encounter": ""
     },
     {
@@ -543,13 +543,13 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it smoky aroma of a beachside bonfire. You spot island hermit that seem to be solving a riddle from an ancient sea scroll."
+        "encounter": "A trail of a sunken rowboat with a hole in its hull suggests that sea serpents have passed through here on a quest to discover the source of a mysterious bioluminescent phenomenon.."
     },
     {
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "Cursed mermaids emerge from the an underwater whirlpool leading to a hidden realm, their intent focused on a pirate flag bearing a fearsome symbol."
+        "encounter": ""
     },
     {
         "pos": 92,
@@ -560,20 +560,20 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Alluring Strait",
+        "encounter": "A sudden hissing of foam as waves recede breaks the silence, making the nearby underwater mangrove roots quiver."
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Shimmering Surf",
-        "encounter": ""
+        "features": "",
+        "encounter": "Surrounded by kelp forests, a series of a concealed merfolk palace hidden behind a waterfall reveal traces of a sunken rowboat with a hole in its hull, and the distant clattering of seashells in the tide hint at more to discover."
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a tattered, waterlogged map of uncharted waters suggests that cursed ship captains have passed through here on a quest to retrieve a lost, enchanted trident from a sunken temple.."
     },
     {
         "pos": 96,

@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Grand Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -26,14 +26,14 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Bay",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover the remnants of a coral-encrusted treasure chest that tell a story of a time when giant clams pursued help a stranded sea serpent find its way back to the open sea.."
     },
     {
         "pos": 6,
@@ -44,13 +44,13 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Windswept Shoal",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Lonely Fathom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -92,13 +92,13 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Glistening Haven",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Expanse",
         "encounter": ""
     },
     {
@@ -129,7 +129,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to find a lost underwater city rumored to hold ancient relics.. But be wary, for giant clams lurk nearby."
     },
     {
         "pos": 22,
@@ -141,7 +141,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to guide a group of scholars on a research expedition to the deep ocean.. But be wary, for octopus oracles lurk nearby."
     },
     {
         "pos": 24,
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Picturesque Current",
+        "features": "Immeasurable Sound",
         "encounter": ""
     },
     {
@@ -237,7 +237,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a coral reef with sharp, hidden edges. As you contemplate a way around, you hear clattering of seashells in the tide from the shadows."
+        "encounter": ""
     },
     {
         "pos": 40,
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by brown algae forests, a series of a hidden coral maze filled with merfolk traps reveal traces of the remnants of a ship's lantern on the seafloor, and the distant roaring of a powerful waterfall cascading into the sea hint at more to discover."
     },
     {
         "pos": 42,
@@ -278,20 +278,20 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled Spring",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Surf",
         "encounter": ""
     },
     {
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to help a stranded sailor repair their ship and return home.. But be wary, for shipwreck goblins lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 49,
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a piece of driftwood with an ancient carving that could be useful in your quest to escort a group of settlers to a remote, uncharted island.. But it's guarded by shipwreck goblins."
+        "encounter": ""
     },
     {
         "pos": 53,
@@ -339,24 +339,24 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear rustling of seaweed in the currents coming from a hidden mermaid enclave in the heart of a kelp forest."
+        "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing Undercurrent",
         "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Sapphire Expanse",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Inviting Trench",
+        "features": "",
         "encounter": ""
     },
     {
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant chirping of crickets on a moonlit beach draws your attention. Following it, you discover a damaged, half-buried treasure map scroll of a past event."
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -410,13 +410,13 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Unfathomable Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Immeasurable Undercurrent",
+        "features": "",
         "encounter": ""
     },
     {
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant Expanse",
         "encounter": ""
     },
     {
@@ -470,44 +470,44 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Spectacular Tidal Pool",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
-        "features": "Tempestuous Jetty",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Immeasurable Fathom",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where tidal wave elementals are engaged in training sea creatures for battle around a beautifully crafted coral tiara, seemingly crucial for rescue a stranded mermaid from a treacherous reef.."
+        "encounter": ""
     },
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Mesmerizing Reef",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
-        "encounter": "Surrounded by halophila seagrass, a series of a hidden cave behind a waterfall reveal traces of a partially buried, broken spyglass, and the distant gurgling of a freshwater stream meeting the ocean hint at more to discover."
+        "features": "Luminous Tide",
+        "encounter": "A distant distant rumble of thunder during a storm draws your attention. Following it, you discover a rusted, half-buried cutlass of a past event."
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to defend a coastal town from raiding sea creatures.. But be wary, for sea anemone sorcerers lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Vortex",
         "encounter": ""
     },
     {
@@ -554,14 +554,14 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Ethereal Cove",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by seagrass meadows leads to a clearing with the remnants of a merfolk's forgotten treasure, indicating giant clams have been here."
+        "encounter": ""
     },
     {
         "pos": 94,
@@ -579,13 +579,13 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear cracking of icebergs in frigid waters coming from a sunken, ghostly ship hidden in a fog bank."
+        "encounter": ""
     },
     {
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense black coral, you catch sight of a bejeweled trident. But be cautious, gentle lapping of waves against the shore suggest pearl diver guilds are near."
     },
     {
         "pos": 98,
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Azure Trough",
+        "features": "",
         "encounter": ""
     }
 ]

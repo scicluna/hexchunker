@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Serene Seabed",
+        "features": "",
         "encounter": ""
     },
     {
@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Tempestuous Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -32,8 +32,8 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Nautical Whirlpool",
+        "encounter": "Strange the remnants of a pirate's skeleton on a sunken ship lie scattered, painting a tale of sarcastic cephalopod that hunting for treasure on a deserted island."
     },
     {
         "pos": 6,
@@ -80,8 +80,8 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Nautical Inlet",
-        "encounter": "Your senses are overwhelmed by sadness as you uncover a sunken ship's anchor hidden within bubbling hot seawater vents."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -98,14 +98,14 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Mesmerizing Bay",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among hornwort, you spot a ghostly lantern that wards off spirits glinting in the sunlight."
     },
     {
         "pos": 18,
@@ -134,7 +134,7 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Boundless Fathom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -171,7 +171,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter giant clams which are guarding a hidden cove filled with stolen treasure."
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -183,13 +183,13 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it scent of coconut oil and sunscreen. You spot sea anemone sorcerers that seem to be taming and riding sea turtles."
+        "encounter": "Your way is impeded by a school of aggressive and territorial sharks. As you contemplate a way around, you hear buzzing of insects near a coastal marsh from the shadows."
     },
     {
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of rotten-egg odor of sulfur from underwater vents. You feel a sense of loneliness."
+        "encounter": ""
     },
     {
         "pos": 32,
@@ -213,7 +213,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense mangrove prop roots, you discover a seafarer's journal filled with tales of adventure. You can't shake the feeling of pride."
+        "encounter": ""
     },
     {
         "pos": 36,
@@ -237,7 +237,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious scent of freshly caught lobster and crab envelops you, drawing you towards a sunken shipwreck beneath a coral reef where sea dragons are raiding a coastal village for supplies."
+        "encounter": ""
     },
     {
         "pos": 40,
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring Fathom",
         "encounter": ""
     },
     {
@@ -260,14 +260,14 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Daunting Ocean",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a dense minefield of explosive devices, you're surprised to find an underwater cave network filled with glowing algae filled with a skeleton clutching a rusted cutlass on the seabed.As you journey forward, you come across a treasure chest full of cursed gold, with traces of aromatic herbs from a coastal garden around them."
     },
     {
         "pos": 45,
@@ -279,7 +279,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where selkies are engaged in hunting for treasure on a deserted island around a shipwrecked chest filled with gold coins, seemingly crucial for deliver a shipment of rare spices to a distant island market.."
+        "encounter": ""
     },
     {
         "pos": 47,
@@ -320,19 +320,19 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Fjord",
         "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a pirate flag bearing a fearsome symbol nestled among coral reefs, but the unsettling feeling of satisfaction makes you wary."
     },
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Reef",
         "encounter": ""
     },
     {
@@ -345,12 +345,12 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a coral crown adorned with precious gems. However, lighthouse guardians stand guard, their intentions unknown."
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Sandbank",
         "encounter": ""
     },
     {
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover barnacle-covered remnants of a wooden chest that tell a story of a time when underwater nomads pursued search for a hidden cove rumored to contain pirate treasure.."
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -392,7 +392,7 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear Surf",
         "encounter": ""
     },
     {
@@ -411,13 +411,13 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a fishing net tangled in the coral. It appears sunken treasure guardians were here recently."
     },
     {
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie rustling of seaweed in the currents resonates from a hidden treasure map etched into a ship's hull, and the scent of freshly caught fish on a fishing boat fills the air."
+        "encounter": ""
     },
     {
         "pos": 70,
@@ -435,19 +435,19 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of gratitude as you tread upon the remnants of an ancient ship's cargo hold, hinting at a tale of floating market traders."
     },
     {
         "pos": 73,
         "terrain": "O",
-        "features": "Choppy Expanse",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a ship's figurehead washed ashore that tell a story of a time when cursed mermaids pursued deliver a mysterious message to a reclusive island hermit.."
+        "encounter": ""
     },
     {
         "pos": 75,
@@ -464,14 +464,14 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Mysterious Rise",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a treacherous, narrow strait with strong currents. As you approach, sea serpents summoning a tidal wave to defend their territory."
+        "encounter": ""
     },
     {
         "pos": 79,
@@ -482,20 +482,20 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Marina",
         "encounter": ""
     },
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Soothing Swirl",
-        "encounter": "Among the dense red grape algae, you discover a ship's cannon with ornate engravings. You can't shake the feeling of forgiveness."
+        "features": "",
+        "encounter": "Strange a rusted, half-buried cutlass lie scattered, painting a tale of cursed mermaids that collecting rare and magical seashells."
     },
     {
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and rattling of pebbles in the surf grow louder. It seems coral golems are on the move."
     },
     {
         "pos": 83,
@@ -506,8 +506,8 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "",
-        "encounter": "Cursed mermaids emerge from the a hidden pirate's tunnel behind a cascading waterfall, their intent focused on a captured sea serpent's egg."
+        "features": "Inviting Trench",
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -536,19 +536,19 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Reflective Ridge",
-        "encounter": ""
+        "features": "",
+        "encounter": "Navigating through treacherous rocks just below the surface, you're surprised to find a treasure cache buried in the sand on a deserted island filled with the remnants of a sunken pirate ship's flagpole.As you journey forward, you come across a chest of exotic spices from distant lands, with traces of rich, earthy scent of wet sand around them."
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant murmuring of merfolk singing in harmony draws your attention. Following it, you discover the remnants of a fishing net tangled in the coral of a past event."
+        "encounter": ""
     },
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal Strait",
         "encounter": ""
     },
     {
@@ -561,7 +561,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a mermaid's singing seashell necklace nestled among sea lettuce, but the unsettling feeling of frustration makes you wary."
     },
     {
         "pos": 94,
@@ -597,6 +597,6 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter tidal wave elementals which are trading with passing merchant ships."
     }
 ]

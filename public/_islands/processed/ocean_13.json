@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Serene Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Sapphire Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -50,7 +50,7 @@
     {
         "pos": 8,
         "terrain": "O",
-        "features": "Windswept Bight",
+        "features": "",
         "encounter": ""
     },
     {
@@ -69,18 +69,18 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel gratitude as roaring of a powerful waterfall cascading into the sea echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
-        "encounter": "You hear rumbling of a distant underwater volcano coming from a secret mermaid library hidden in a deep trench."
+        "features": "Turbulent Kelp Forest",
+        "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Cove",
         "encounter": ""
     },
     {
@@ -93,12 +93,12 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter cursed mermaids which are setting up an underwater market."
     },
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Turbulent Shore",
+        "features": "",
         "encounter": ""
     },
     {
@@ -116,7 +116,7 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Sunlit Depression",
+        "features": "",
         "encounter": ""
     },
     {
@@ -146,7 +146,7 @@
     {
         "pos": 24,
         "terrain": "O",
-        "features": "Peaceful Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -158,7 +158,7 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Marina",
         "encounter": ""
     },
     {
@@ -189,18 +189,18 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon the remnants of a shattered glass bottle indicating past battles."
     },
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Abyssal Isle",
+        "encounter": "The red algae beds rustles, revealing island hermit that are rescuing shipwreck survivors."
     },
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Edifice",
         "encounter": ""
     },
     {
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense kelp forests, you discover a chest of mystical sea herbs and remedies. You can't shake the feeling of panic."
     },
     {
         "pos": 42,
@@ -279,7 +279,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense giant kelp with air-filled bladders, you discover a collection of seashells with hidden messages. You can't shake the feeling of forgiveness."
+        "encounter": "Among the dense seafloor seagrass, you discover a seafarer's compass that points to hidden treasure. You can't shake the feeling of panic."
     },
     {
         "pos": 47,
@@ -362,19 +362,19 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled Whirlpool",
         "encounter": ""
     },
     {
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft churning of water as a whirlpool forms. As you follow, you encounter sea serpents in the midst of training sea creatures for battle."
+        "encounter": ""
     },
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Reflective Isle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -393,7 +393,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel forgiveness as echoing calls of whales in the distance echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 66,
@@ -416,13 +416,13 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Boundless Lagoon",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Spectacular Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -488,7 +488,7 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "Sapphire Basin",
+        "features": "",
         "encounter": ""
     },
     {
@@ -506,7 +506,7 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "Silent Expanse",
+        "features": "Bubbling Estuary",
         "encounter": ""
     },
     {
@@ -536,26 +536,26 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Expansive Marina",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Breathtaking Strait",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Radiant Undercurrent",
-        "encounter": ""
+        "features": "",
+        "encounter": "Navigating through a school of aggressive and territorial sharks, you're surprised to find a hidden treasure map etched into a ship's hull filled with the remnants of a merfolk's forgotten treasure.As you journey forward, you come across a sunken ship's anchor, with traces of aromatic herbs from a coastal garden around them."
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by thick beds of eelgrass, a series of a concealed treasure chest within a submerged statue reveal traces of the remnants of a mermaid's lost jewelry, and the distant pounding of heavy rain during a monsoon hint at more to discover."
     },
     {
         "pos": 93,
@@ -566,8 +566,8 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
-        "encounter": "From the shadows of the an overgrown shipwreck hidden beneath a dense kelp bed, you sense the presence of sarcastic cephalopod."
+        "features": "Azure Sound",
+        "encounter": ""
     },
     {
         "pos": 95,
@@ -590,13 +590,13 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Isle",
         "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Expanse",
         "encounter": ""
     }
 ]

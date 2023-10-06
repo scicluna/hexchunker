@@ -20,19 +20,19 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Endless Drop-off",
+        "features": "Teeming Billow",
         "encounter": ""
     },
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": "You hear rustling of seaweed in the currents coming from an underwater whirlpool leading to a hidden realm."
+        "features": "Windswept Drop-off",
+        "encounter": "Sarcastic cephalopod emerge from the a concealed chamber within a massive sponge, their intent focused on a weathered treasure map."
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Calm Plateau",
+        "features": "",
         "encounter": ""
     },
     {
@@ -56,20 +56,20 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "Sparkling Reef",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable Seamount",
         "encounter": ""
     },
     {
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by joy as you uncover a pirate's cutlass with an ornate hilt hidden within caulerpa seaweed."
     },
     {
         "pos": 12,
@@ -80,25 +80,25 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Grand Rise",
         "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Majestic Kelp Forest",
-        "encounter": "Strange a shattered, half-buried bottle with a message inside lie scattered, painting a tale of coral golems that solving a riddle from an ancient sea scroll."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter sea anemone sorcerers which are trading secrets with a wandering hermit."
     },
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Ageless Cove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Sunlit Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -153,30 +153,30 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of anger as you tread upon barnacle-covered remnants of a wooden chest, hinting at a tale of floating market traders."
     },
     {
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a sunken ship's wreckage causing navigation hazards. As you contemplate a way around, you hear sighing of the wind through sea caves from the shadows."
     },
     {
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the an underwater whirlpool leading to a hidden realm, you sense the presence of cursed ship captains."
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Sapphire Swirl",
-        "encounter": "You notice brown algae forests moving subtly. Upon closer inspection, you see octopus oracles that are protecting a ship from ghostly apparitions."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Glistening Trench",
+        "features": "",
         "encounter": ""
     },
     {
@@ -201,18 +201,18 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and murmuring of merfolk singing in harmony grow louder. It seems crystal reef dwellers are on the move."
+        "encounter": ""
     },
     {
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a deadly, bioluminescent sea creature swarm makes it difficult to proceed. Perhaps the storm giants nearby can help."
+        "encounter": ""
     },
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Beckoning Undercurrent",
+        "features": "",
         "encounter": ""
     },
     {
@@ -230,13 +230,13 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "Sunlit Expanse",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
-        "features": "Tidal Harbor",
+        "features": "",
         "encounter": ""
     },
     {
@@ -272,14 +272,14 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Current",
         "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
-        "encounter": "Peering through the dense giant kelp with air-filled bladders, you catch sight of a bottle of enchanted ink for writing underwater. But be cautious, echoing calls of whales in the distance suggest coral golems are near."
+        "features": "Windswept Jetty",
+        "encounter": ""
     },
     {
         "pos": 47,
@@ -332,8 +332,8 @@
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Windswept Abyss",
+        "encounter": "The way forward is blocked by a powerful whirlpool pulling ships downward, but you notice a secret pirate's den inside a massive, hollowed-out rock that might lead around it."
     },
     {
         "pos": 56,
@@ -350,7 +350,7 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant Fjord",
         "encounter": ""
     },
     {
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden rustling of seaweed swaying in the current breaks the silence, making the nearby brown algae forests quiver."
+        "encounter": ""
     },
     {
         "pos": 64,
@@ -392,7 +392,7 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "Endless Wave",
+        "features": "",
         "encounter": ""
     },
     {
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with an abandoned lifeboat adrift on the waves. It appears mermen were here recently."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -416,7 +416,7 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Bight",
         "encounter": ""
     },
     {
@@ -429,18 +429,18 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by thick beds of eelgrass leads to a clearing with the remnants of a ship's broken figurehead, indicating dolphin companions have been here."
     },
     {
         "pos": 72,
         "terrain": "O",
-        "features": "Salty Current",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
-        "features": "Tempestuous Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Jetty",
         "encounter": ""
     },
     {
@@ -471,7 +471,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice mangrove prop roots moving subtly. Upon closer inspection, you see whirlpool spirits that are negotiating with a powerful sea witch."
     },
     {
         "pos": 79,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by anticipation as you uncover a collection of seashells with hidden messages hidden within floating bladderwort plants."
     },
     {
         "pos": 85,
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "Unspoiled Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Mysterious Flats",
+        "features": "",
         "encounter": ""
     },
     {
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Serene Narrows",
+        "features": "",
         "encounter": ""
     }
 ]

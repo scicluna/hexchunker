@@ -27,7 +27,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a sunken treasure map from the lair of a giant octopus.. But be wary, for water elementals lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 5,
@@ -51,7 +51,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a dense minefield of explosive devices. As you contemplate a way around, you hear rattling of pebbles in the surf from the shadows."
     },
     {
         "pos": 9,
@@ -81,13 +81,13 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about protect a colony of merfolk from an encroaching threat., you're startled by buzzing of insects near a coastal marsh. It seems seafaring druids are near."
+        "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden clattering of seashells in the tide breaks the silence, making the nearby seagrass meadows quiver."
     },
     {
         "pos": 15,
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Rise",
         "encounter": ""
     },
     {
@@ -129,18 +129,18 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel indignation as sizzling of saltwater on hot volcanic rocks echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 22,
         "terrain": "O",
-        "features": "Crystal-clear Seamount",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Inviting Inlet",
         "encounter": ""
     },
     {
@@ -159,7 +159,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Floating market traders emerge from the an underwater whirlpool leading to a hidden realm, their intent focused on a ghostly lantern that wards off spirits."
     },
     {
         "pos": 27,
@@ -176,13 +176,13 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Dazzling Chasm",
+        "features": "Deep Main",
         "encounter": ""
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent Spring",
         "encounter": ""
     },
     {
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Tidal Pool",
         "encounter": ""
     },
     {
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Trough",
         "encounter": ""
     },
     {
@@ -249,25 +249,25 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The floating bladderwort plants rustles, revealing shipwreck goblins that are repairing their damaged ship."
     },
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Dense Shoal",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Majestic Strait",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of aromatic spices from a seaside market, suggesting the presence of pearl diver guilds."
     },
     {
         "pos": 45,
@@ -285,18 +285,18 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden murmuring of merfolk singing in harmony breaks the silence, making the nearby underwater mangrove roots quiver."
     },
     {
         "pos": 48,
         "terrain": "O",
-        "features": "Sunlit Rise",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 49,
         "terrain": "O",
-        "features": "Sweeping Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -327,13 +327,13 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a whirlpool leading to a mysterious underwater realm makes it difficult to proceed. Perhaps the sea witches nearby can help."
     },
     {
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a captured sea serpent's egg that could be useful in your quest to discover the source of a mysterious bioluminescent phenomenon.. But it's guarded by merfolk."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel anger as splashing of dolphins playing nearby echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a sunken city with buildings rising to the surface, but you notice a forgotten pirate hideout in a remote cove that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -405,12 +405,12 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of damp, earthy smell of a rocky shore. You feel a sense of forgiveness."
+        "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Mysterious Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -435,12 +435,12 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of curiosity as you tread upon the remnants of a shattered glass bottle, hinting at a tale of pearl diver guilds."
     },
     {
         "pos": 73,
         "terrain": "O",
-        "features": "Immeasurable Bay",
+        "features": "Infinite Delta",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious rustic aroma of a wooden fishing boat envelops you, drawing you towards a concealed treasure chest buried under a giant pearl where mermen are raising a sunken ship from the depths."
+        "encounter": ""
     },
     {
         "pos": 77,
@@ -495,19 +495,19 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense red grape algae, you discover a coral crown adorned with precious gems. You can't shake the feeling of dread."
     },
     {
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to discover the source of a mysterious bioluminescent phenomenon.. But be wary, for kraken lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it scent of damp treasure maps. You spot giant clams that seem to be plotting revenge against a rival pirate captain."
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -554,14 +554,14 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Untamed Reef",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a damaged sextant with a cracked lens indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 94,
@@ -573,7 +573,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by determination as you uncover a seafarer's compass that points to hidden treasure hidden within gorgonian sea fans."
     },
     {
         "pos": 96,
@@ -590,8 +590,8 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Iridescent Drop-off",
-        "encounter": "Ahead, there is a sunken city with buildings rising to the surface blocking your path. Perhaps it's related to your quest to discover the source of a mysterious bioluminescent phenomenon.."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 99,

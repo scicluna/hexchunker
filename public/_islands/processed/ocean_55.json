@@ -2,14 +2,14 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Abyssal Passage",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious aromatic herbs from a coastal garden envelops you, drawing you towards a camouflaged underwater camouflage net used by merfolk where octopus oracles are repairing their damaged ship."
     },
     {
         "pos": 2,
@@ -62,7 +62,7 @@
     {
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Surging Shore",
         "encounter": ""
     },
     {
@@ -152,8 +152,8 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Tidal Maelstrom",
+        "encounter": "The presence of a treacherous, narrow strait with strong currents makes it difficult to proceed. Perhaps the selkies nearby can help."
     },
     {
         "pos": 26,
@@ -171,18 +171,18 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where water elementals are engaged in battling a giant sea serpent around a shipwrecked chest filled with gold coins, seemingly crucial for discover the source of a mysterious bioluminescent phenomenon.."
     },
     {
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "Ghost ships gives you a quest to retrieve a rare and magical seashell for a powerful sea witch.In your path lies a sparkling pearl necklace surrounded by red algae beds."
+        "encounter": ""
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful Flats",
         "encounter": ""
     },
     {
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a ship's lantern on the seafloor suggests that cursed mermaids have passed through here on a quest to retrieve a powerful, magical artifact from a sunken shipwreck.."
     },
     {
         "pos": 34,
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Tempestuous Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -236,7 +236,7 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Maelstrom",
         "encounter": ""
     },
     {
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Boundless Trough",
+        "features": "",
         "encounter": ""
     },
     {
@@ -273,19 +273,19 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon the remnants of a ship's broken mast indicating past battles."
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Drop-off",
         "encounter": ""
     },
     {
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter sea witches which are guarding a hidden cove filled with stolen treasure."
+        "encounter": ""
     },
     {
         "pos": 48,
@@ -296,7 +296,7 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Fathom",
         "encounter": ""
     },
     {
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by underwater mangrove roots, a series of a concealed treasure chest within a submerged statue reveal traces of the remnants of a pirate's skeleton on a sunken ship, and the distant booming of waves in a hidden sea cave hint at more to discover."
     },
     {
         "pos": 53,
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a sunken rowboat with a hole in its hull of an old campsite, the scent of smoky scent of grilled seafood still lingering."
+        "encounter": ""
     },
     {
         "pos": 55,
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a pirate's cutlass with an ornate hilt. However, octopus oracles stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 60,
@@ -374,13 +374,13 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Deep",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Marina",
         "encounter": ""
     },
     {
@@ -399,13 +399,13 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The coral reefs rustles, revealing whirlpool spirits that are exploring the depths in search of a sunken city."
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Tidal Inlet",
+        "encounter": "Deep in thought about retrieve a sunken treasure map from the lair of a giant octopus., you're startled by gurgling of a freshwater stream meeting the ocean. It seems sea dragons are near."
     },
     {
         "pos": 68,
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a treacherous, labyrinthine underwater cave system, your attention is caught by hollow echoes in an underwater cavern. Upon investigating, you discover a concealed merfolk palace hidden behind a waterfall with a bottle of enchanted ink for writing underwater inside."
+        "encounter": ""
     },
     {
         "pos": 70,
@@ -434,14 +434,14 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Delta",
         "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of scent of damp, ancient sea scrolls. You feel a sense of awe."
+        "encounter": ""
     },
     {
         "pos": 74,
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Current",
         "encounter": ""
     },
     {
@@ -471,30 +471,30 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon tattered fragments of a sunken pirate flag indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Water elementals emerge from the an underwater whirlpool leading to a hidden realm, their intent focused on a mermaid's singing seashell necklace."
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where mermen are engaged in battling a giant sea serpent around a ship's sextant for celestial navigation, seemingly crucial for find a lost underwater city rumored to hold ancient relics.."
     },
     {
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a powerful whirlpool pulling ships downward, you're surprised to find a sunken garden of rare and magical sea plants filled with the remnants of a coral-encrusted treasure chest.As you journey forward, you come across a giant clamshell turned into a luxurious bed, with traces of smoky aroma of a beachside bonfire around them."
+        "encounter": "Strange a damaged, half-buried treasure map scroll lie scattered, painting a tale of floating market traders that solving a riddle from an ancient sea scroll."
     },
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Mysterious Fjord",
+        "features": "Daunting Spring",
         "encounter": ""
     },
     {
@@ -507,12 +507,12 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter octopus oracles which are training sea creatures for battle."
     },
     {
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Maelstrom",
         "encounter": ""
     },
     {
@@ -543,7 +543,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious pungent aroma of a hidden pirate's stash envelops you, drawing you towards a concealed merfolk palace hidden behind a waterfall where shipwreck goblins are trading with passing merchant ships."
     },
     {
         "pos": 91,
@@ -555,7 +555,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a giant, tentacled kraken blocking the way, you're surprised to find an ancient, submerged temple with hidden chambers filled with a sunken cannon half-buried in the coral.As you journey forward, you come across a seafarer's compass that points to hidden treasure, with traces of scent of damp treasure maps around them."
+        "encounter": ""
     },
     {
         "pos": 93,
@@ -567,13 +567,13 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a massive, floating tree trunk in the ship's path, your attention is caught by churning of water as a whirlpool forms. Upon investigating, you discover a hidden coral maze filled with merfolk traps with a bottle of enchanted ink for writing underwater inside."
+        "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious warm, sun-kissed aroma of a sandy beach envelops you, drawing you towards a hidden cave behind a waterfall where shipwreck goblins are solving a riddle from an ancient sea scroll."
+        "encounter": ""
     },
     {
         "pos": 96,

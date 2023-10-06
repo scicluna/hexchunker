@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Breathtaking Trough",
+        "features": "",
         "encounter": ""
     },
     {
@@ -26,7 +26,7 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "Untamed Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -39,7 +39,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a colony of hostile merfolk guarding their territory makes it difficult to proceed. Perhaps the kraken nearby can help."
+        "encounter": ""
     },
     {
         "pos": 7,
@@ -57,7 +57,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a cursed island that draws ships in but won't let them leave, but you notice a hidden coral maze filled with merfolk traps that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 10,
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a hidden coral maze filled with merfolk traps, you sense the presence of kelpie."
+        "encounter": ""
     },
     {
         "pos": 15,
@@ -98,13 +98,13 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "Turbulent Cove",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Windswept Bight",
+        "features": "",
         "encounter": ""
     },
     {
@@ -122,7 +122,7 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Upwelling",
         "encounter": ""
     },
     {
@@ -135,18 +135,18 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft roaring of a powerful waterfall cascading into the sea. As you follow, you encounter oceanic alchemists in the midst of escaping from the clutches of a kraken."
+        "encounter": ""
     },
     {
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a pirate flag bearing a fearsome symbol. However, giant clams stand guard, their intentions unknown."
     },
     {
         "pos": 24,
         "terrain": "O",
-        "features": "Silent Trench",
+        "features": "",
         "encounter": ""
     },
     {
@@ -164,13 +164,13 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Roaring Flats",
-        "encounter": "The air is filled with the smell of aromatic spices from a seaside market. You feel a sense of trepidation."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled Ocean",
         "encounter": ""
     },
     {
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter lighthouse guardians which are taming and riding sea turtles."
+        "encounter": ""
     },
     {
         "pos": 37,
@@ -237,12 +237,12 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense zostera seagrass, you discover a captured sea serpent's egg. You can't shake the feeling of determination."
     },
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Unfathomable Abyss",
+        "features": "",
         "encounter": ""
     },
     {
@@ -261,7 +261,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of splashing of dolphins playing nearby is accompanied by the distinct aroma of pungent aroma of a hidden pirate's stash. It seems sirens are involved in creating elaborate maps of uncharted waters."
+        "encounter": ""
     },
     {
         "pos": 44,
@@ -272,7 +272,7 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Tide",
         "encounter": ""
     },
     {
@@ -308,7 +308,7 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "Epic Depression",
+        "features": "",
         "encounter": ""
     },
     {
@@ -368,8 +368,8 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "Secluded Inlet",
-        "encounter": "A sudden chattering of crabs on a rocky shore breaks the silence, making the nearby brown algae forests quiver."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -380,8 +380,8 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Shimmering Trench",
+        "encounter": "From the shadows of the a labyrinthine coral labyrinth with hidden treasures, you sense the presence of storm giants."
     },
     {
         "pos": 64,
@@ -411,18 +411,18 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a piece of driftwood with an ancient carving. However, sea dragons stand guard, their intentions unknown."
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Infinite Fathom",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Tumultuous Sound",
+        "features": "",
         "encounter": ""
     },
     {
@@ -453,25 +453,25 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of cracking of icebergs in frigid waters is accompanied by the distinct aroma of scent of damp treasure maps. It seems merfolk are involved in engaging in a sea battle with rival pirates."
+        "encounter": ""
     },
     {
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Island hermit emerge from the a hidden treasure map etched into a ship's hull, their intent focused on a seafarer's compass that points to hidden treasure."
+        "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "Cursed mermaids emerge from the a hidden cave filled with glowing sea crystals, their intent focused on a ship's cannon with ornate engravings."
+        "encounter": ""
     },
     {
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a bottle of potent seawater from a mythical spring. However, kelpie stand guard, their intentions unknown."
+        "encounter": "You uncover a sunken chest with its lock rusted shut that tell a story of a time when kelpie pursued retrieve a rare coral sample for an eccentric scientist.."
     },
     {
         "pos": 79,
@@ -524,7 +524,7 @@
     {
         "pos": 87,
         "terrain": "O",
-        "features": "Alluring Wave",
+        "features": "",
         "encounter": ""
     },
     {
@@ -549,7 +549,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense bubbling hot seawater vents, you catch sight of a collection of seashells with hidden messages. But be cautious, thudding of footsteps on a wooden dock suggest island hermit are near."
+        "encounter": ""
     },
     {
         "pos": 92,
@@ -567,24 +567,24 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a treacherous, narrow strait with strong currents makes it difficult to proceed. Perhaps the ship-eating barnacles nearby can help."
     },
     {
         "pos": 95,
         "terrain": "O",
-        "features": "Vibrant Vortex",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie buzzing of underwater machinery in a sunken city resonates from an underwater cave network filled with glowing algae, and the scent of scent of coconut oil and sunscreen fills the air."
+        "encounter": ""
     },
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Alluring Passage",
+        "features": "",
         "encounter": ""
     },
     {

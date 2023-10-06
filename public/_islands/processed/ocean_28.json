@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it freshly caught fish on a fishing boat. You spot coral golems that seem to be solving a riddle from an ancient sea scroll."
+        "encounter": ""
     },
     {
         "pos": 1,
@@ -15,7 +15,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with the remnants of a sunken sea monster's scale. It appears seafaring druids were here recently."
     },
     {
         "pos": 3,
@@ -51,12 +51,12 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of an ancient ship's cargo hold wind through the mangrove prop roots, revealing the past actions of whirlpool spirits."
+        "encounter": ""
     },
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Tide",
         "encounter": ""
     },
     {
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense bubbling hot seawater vents, you discover a preserved mermaid tail. You can't shake the feeling of indignation."
     },
     {
         "pos": 12,
@@ -87,7 +87,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a hidden coral archway leading to a treasure trove, you sense the presence of whirlpool spirits."
+        "encounter": ""
     },
     {
         "pos": 15,
@@ -99,18 +99,18 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by underwater mangrove roots leads to a clearing with a torn and waterlogged book of sea legends, indicating kraken have been here."
     },
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Limitless Current",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Reef",
         "encounter": ""
     },
     {
@@ -129,7 +129,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gentle lapping of waves against the shore breaks the silence, making the nearby crinoids on the seafloor quiver."
     },
     {
         "pos": 22,
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Tidal Current",
+        "features": "",
         "encounter": ""
     },
     {
@@ -158,14 +158,14 @@
     {
         "pos": 26,
         "terrain": "M",
-        "features": "Frozen Summit",
-        "encounter": "You stumble upon a half-buried and broken mountain cart axle indicating past battles."
+        "features": "Sun-kissed Ar\u00eate",
+        "encounter": "Trails of a tumbledown and forgotten mountain barn wind through the a thicket of mountain willow trees, revealing the past actions of a clan of centaurs known for their mountain survival skills."
     },
     {
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and rustling of parchment as a map is unfurled grow louder. It seems underwater miners are on the move."
+        "encounter": ""
     },
     {
         "pos": 28,
@@ -206,7 +206,7 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Mangrove",
         "encounter": ""
     },
     {
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of scent of damp driftwood, suggesting the presence of turtle island shamans."
+        "encounter": ""
     },
     {
         "pos": 37,
@@ -231,7 +231,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it crisp, ocean-scented laundry on a line. You spot sea serpents that seem to be exploring the depths in search of a sunken city."
+        "encounter": ""
     },
     {
         "pos": 39,
@@ -243,7 +243,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a beached rowboat with a broken oar wind through the kelp forests, revealing the past actions of octopus oracles."
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Depression",
         "encounter": ""
     },
     {
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a powerful, magical barrier blocking passage. As you contemplate a way around, you hear crackling of a bonfire on the beach from the shadows."
     },
     {
         "pos": 50,
@@ -314,7 +314,7 @@
     {
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Shoal",
         "encounter": ""
     },
     {
@@ -326,7 +326,7 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Seamount",
         "encounter": ""
     },
     {
@@ -350,8 +350,8 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Sparkling Rift",
-        "encounter": ""
+        "features": "",
+        "encounter": "An eerie creaking of a ship's rigging in the wind resonates from an underwater whirlpool leading to a hidden realm, and the scent of clean, crisp scent of the open sea fills the air."
     },
     {
         "pos": 59,
@@ -374,7 +374,7 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "Sweeping Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -398,7 +398,7 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful Edifice",
         "encounter": ""
     },
     {
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a rare, ancient ship's figurehead that could be useful in your quest to investigate reports of disappearing ships in a cursed sea.. But it's guarded by tidal wave elementals."
+        "encounter": ""
     },
     {
         "pos": 73,
@@ -452,13 +452,13 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Inviting Chasm",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely Upwelling",
         "encounter": ""
     },
     {
@@ -494,8 +494,8 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Deep Depression",
-        "encounter": ""
+        "features": "",
+        "encounter": "Strange the remnants of a shattered glass bottle lie scattered, painting a tale of octopus oracles that setting up an underwater market."
     },
     {
         "pos": 83,
@@ -512,14 +512,14 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Secluded Bay",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your way is impeded by a massive, ancient sea turtle that won't move. As you contemplate a way around, you hear roaring of a powerful waterfall cascading into the sea from the shadows."
     },
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
-        "encounter": "Navigating through a massive, ancient sea turtle that won't move, you're surprised to find a hollowed-out giant clam used as a merfolk's dwelling filled with the remnants of a merfolk's forgotten treasure.As you journey forward, you come across a ship's chart with uncharted territories marked, with traces of rustic scent of a seaside tavern around them."
+        "features": "Unspoiled Chasm",
+        "encounter": ""
     },
     {
         "pos": 87,
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Silent Trough",
+        "features": "",
         "encounter": ""
     },
     {
@@ -555,13 +555,13 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and rhythmic crashing of waves on rocky cliffs grow louder. It seems cursed ship captains are on the move."
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and rumbling of a distant underwater volcano grow louder. It seems merfolk are on the move."
     },
     {
         "pos": 94,

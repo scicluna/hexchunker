@@ -2,19 +2,19 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Breathtaking Marina",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Abyss",
         "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Turbulent Deep",
+        "features": "",
         "encounter": ""
     },
     {
@@ -26,19 +26,19 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic Lagoon",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a concealed passage leading to an underwater city, you sense the presence of pirates."
+        "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
-        "features": "Sweeping Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -57,12 +57,12 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a tattered, waterlogged map of uncharted waters suggests that tidal wave elementals have passed through here on a quest to rescue a group of trapped sailors from a sinking ship.."
+        "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
-        "features": "Salty Harbor",
+        "features": "",
         "encounter": ""
     },
     {
@@ -80,7 +80,7 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Shoal",
         "encounter": ""
     },
     {
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Upwelling",
         "encounter": ""
     },
     {
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Serene Strait",
+        "features": "",
         "encounter": ""
     },
     {
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Soothing Plateau",
+        "features": "",
         "encounter": ""
     },
     {
@@ -165,7 +165,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where kelpie are engaged in navigating a treacherous whirlpool around a merfolk's enchanted harp, seemingly crucial for retrieve a lost, enchanted trident from a sunken temple.."
     },
     {
         "pos": 28,
@@ -183,7 +183,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a pirate's cutlass with an ornate hilt that could be useful in your quest to retrieve a powerful, magical artifact from a sunken shipwreck.. But it's guarded by seafaring druids."
+        "encounter": ""
     },
     {
         "pos": 31,
@@ -200,25 +200,25 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "Immeasurable Abyss",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a powerful whirlpool pulling ships downward. As you contemplate a way around, you hear hissing of foam as waves recede from the shadows."
+        "encounter": ""
     },
     {
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by frustration as you uncover a rare, ancient ship's figurehead hidden within giant underwater mushrooms."
+        "encounter": ""
     },
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Unfathomable Abyss",
+        "features": "",
         "encounter": ""
     },
     {
@@ -236,7 +236,7 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Trough",
         "encounter": ""
     },
     {
@@ -255,7 +255,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of rustic scent of a seaside tavern, suggesting the presence of island hermit."
     },
     {
         "pos": 43,
@@ -267,19 +267,19 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of churning of water as a whirlpool forms is accompanied by the distinct aroma of fishy odor of the ocean depths. It seems pearl diver guilds are involved in trading with passing merchant ships."
+        "encounter": ""
     },
     {
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant sizzling of saltwater on hot volcanic rocks draws your attention. Following it, you discover the remnants of a ship's broken figurehead of a past event."
+        "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The sea palm kelp rustles, revealing pearl diver guilds that are building a coral fortress."
     },
     {
         "pos": 47,
@@ -302,14 +302,14 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Calm Shoal",
-        "encounter": ""
+        "features": "Azure Atoll",
+        "encounter": "You come across the remnants of a sunken sea monster's scale of an old campsite, the scent of scent of damp treasure maps still lingering."
     },
     {
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a torn and faded pirate's treasure map lie scattered, painting a tale of sea dragons that raising a sunken ship from the depths."
+        "encounter": "Among the dense red algae beds, you discover a bejeweled trident. You can't shake the feeling of amusement."
     },
     {
         "pos": 52,
@@ -320,7 +320,7 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "Silent Rift",
+        "features": "",
         "encounter": ""
     },
     {
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a seashell amulet that grants water-breathing nestled among giant underwater mushrooms, but the unsettling feeling of jealousy makes you wary."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -344,7 +344,7 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Tranquil Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -374,14 +374,14 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Delta",
         "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie distant rumble of thunder during a storm resonates from an underwater volcanic vent leading to a hidden world, and the scent of pungent aroma of a hidden pirate's stash fills the air."
+        "encounter": ""
     },
     {
         "pos": 64,
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of splashing of dolphins playing nearby is accompanied by the distinct aroma of rustic aroma of a wooden fishing boat. It seems shipwreck goblins are involved in escaping from the clutches of a kraken."
+        "encounter": ""
     },
     {
         "pos": 70,
@@ -441,7 +441,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant splintering of wood as a shipwreck breaks apart draws your attention. Following it, you discover the remnants of a sunken merchant ship's cargo of a past event."
     },
     {
         "pos": 74,
@@ -465,7 +465,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about defend a coastal village from a relentless pirate invasion., you're startled by splintering of wood as a shipwreck breaks apart. It seems shipwreck goblins are near."
     },
     {
         "pos": 78,
@@ -482,7 +482,7 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Dense Channel",
+        "features": "",
         "encounter": ""
     },
     {
@@ -501,7 +501,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of the remnants of a sunken sea monster's scale suggests that underwater nomads have passed through here on a quest to protect a colony of merfolk from an encroaching threat.."
     },
     {
         "pos": 84,
@@ -525,19 +525,19 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a rogue wave threatening to capsize the ship blocking your path. Perhaps it's related to your quest to retrieve a lost, enchanted trident from a sunken temple.."
     },
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Inviting Bight",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a sunken chest with its lock rusted shut that tell a story of a time when whirlpool spirits pursued rescue a stranded mermaid from a treacherous reef.."
+        "encounter": ""
     },
     {
         "pos": 90,
@@ -549,24 +549,24 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Deep in thought about defend a coastal town from raiding sea creatures., you're startled by echoing calls of whales in the distance. It seems turtle island shamans are near."
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a waterlogged chest with its lid ajar indicating past battles."
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a rare, ancient ship's figurehead that could be useful in your quest to escort a fragile, magical artifact through dangerous waters.. But it's guarded by water elementals."
+        "encounter": ""
     },
     {
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic Fjord",
         "encounter": ""
     },
     {
@@ -585,18 +585,18 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden distant rumble of thunder during a storm breaks the silence, making the nearby bubbling hot seawater vents quiver."
     },
     {
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among halophila seagrass, you spot a pirate flag bearing a fearsome symbol glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a giant maelstrom that sucks everything in. As you contemplate a way around, you hear buzzing of insects near a coastal marsh from the shadows."
     }
 ]

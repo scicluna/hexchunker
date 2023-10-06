@@ -11,7 +11,7 @@ export default function World({ islandChain }: MainStageProps) {
     return (
         <main className="h-full w-fit grid grid-cols-[repeat(10,1fr)]">
             {islandChain && islandChain.map((island, islandNumber) => (
-                <div className={`grid grid-cols-[repeat(10,1fr)] h-[${HEXSIZE}rem] max-w-fit`} key={islandNumber}>
+                <div className={`grid grid-cols-[repeat(10,1fr)] h-[${HEXSIZE}rem] max-w-fit gap-x-[1px]`} key={islandNumber}>
                     {island.map(tile => (
                         <Hex tile={tile} size={HEXSIZE} chunkSize={CHUNKDIMENSIONS} key={`${islandNumber + '-' + tile.pos}`} />
                     ))}

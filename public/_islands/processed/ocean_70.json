@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Jetty",
         "encounter": ""
     },
     {
@@ -20,14 +20,14 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Windswept Channel",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter tidal wave elementals which are forging alliances with other oceanic races."
     },
     {
         "pos": 5,
@@ -75,12 +75,12 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a rogue wave threatening to capsize the ship, but you notice a secret pirate's den inside a massive, hollowed-out rock that might lead around it."
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed Passage",
         "encounter": ""
     },
     {
@@ -105,7 +105,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With escort a valuable cargo of precious gems through pirate-infested waters. On your mind, the sudden appearance of a school of aggressive and territorial sharks accompanied by buzzing of insects near a coastal marsh becomes a challenging diversion."
     },
     {
         "pos": 18,
@@ -117,7 +117,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a sunken chest with its lock rusted shut indicating past battles."
     },
     {
         "pos": 20,
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a mermaid's lost jewelry lie scattered, painting a tale of sea serpents that hunting for treasure on a deserted island."
+        "encounter": ""
     },
     {
         "pos": 25,
@@ -159,7 +159,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a pirate's skeleton on a sunken ship wind through the sponge colonies, revealing the past actions of lighthouse guardians."
+        "encounter": ""
     },
     {
         "pos": 27,
@@ -183,7 +183,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of rotten-egg odor of sulfur from underwater vents. You feel a sense of panic."
+        "encounter": ""
     },
     {
         "pos": 31,
@@ -207,7 +207,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among bubblegum coral, you spot a beautifully crafted coral tiara glinting in the sunlight."
+        "encounter": "You spot a giant clamshell turned into a luxurious bed nestled among hornwort, but the unsettling feeling of hope makes you wary."
     },
     {
         "pos": 35,
@@ -237,7 +237,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a colony of hostile merfolk guarding their territory, you're surprised to find a concealed treasure vault within an ancient shipwreck filled with a sunken rowboat with a hole in its hull.As you journey forward, you come across a seafarer's compass that points to hidden treasure, with traces of aromatic herbs from a coastal garden around them."
     },
     {
         "pos": 40,
@@ -254,7 +254,7 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Dense Expanse",
+        "features": "Tempestuous Kelp Forest",
         "encounter": ""
     },
     {
@@ -302,8 +302,8 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Mysterious Sound",
+        "encounter": "Turtle island shamans emerge from the a submerged ship graveyard where ghost ships rest, their intent focused on a piece of driftwood with an ancient carving."
     },
     {
         "pos": 51,
@@ -321,7 +321,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by fear as you uncover a mysterious, glowing underwater crystal hidden within black coral."
     },
     {
         "pos": 54,
@@ -338,14 +338,14 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Trench",
         "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to deliver a mysterious message to a reclusive island hermit.. But be wary, for underwater miners lurk nearby."
     },
     {
         "pos": 58,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a damaged sextant with a cracked lens suggests that giant clams have passed through here on a quest to uncover the secrets of a mysterious, ship-swallowing whirlpool.."
     },
     {
         "pos": 62,
@@ -404,13 +404,13 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": "You encounter octopus oracles which are building a coral fortress."
+        "features": "Azure Chasm",
+        "encounter": ""
     },
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Inlet",
         "encounter": ""
     },
     {
@@ -459,7 +459,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel disbelief as clanging of bells on a buoy in choppy waters echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 77,
@@ -471,13 +471,13 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice underwater mangrove roots moving subtly. Upon closer inspection, you see sirens that are raiding a coastal village for supplies."
+        "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a bottle of enchanted ink for writing underwater. However, crystal reef dwellers stand guard, their intentions unknown."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -494,13 +494,13 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Unfathomable Atoll",
+        "encounter": "You stumble upon the remnants of a ship's broken figurehead indicating past battles."
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Majestic Estuary",
+        "features": "",
         "encounter": ""
     },
     {
@@ -536,8 +536,8 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground is littered with a ship's figurehead washed ashore. It appears octopus oracles were here recently."
+        "features": "Untamed Sound",
+        "encounter": ""
     },
     {
         "pos": 90,
@@ -554,20 +554,20 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Deep Deep",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Azure Cove",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear pounding of heavy rain during a monsoon coming from a hidden mermaid enclave in the heart of a kelp forest."
     },
     {
         "pos": 95,
@@ -584,7 +584,7 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Mesmerizing Seamount",
+        "features": "",
         "encounter": ""
     },
     {

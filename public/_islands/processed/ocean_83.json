@@ -33,7 +33,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and chirping of crickets on a moonlit beach grow louder. It seems oceanic alchemists are on the move."
     },
     {
         "pos": 6,
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense red grape algae, you discover a ship's cannon with ornate engravings. You can't shake the feeling of serenity."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -80,14 +80,14 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Deep Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with a beached rowboat with a broken oar. It appears sea anemone sorcerers were here recently."
+        "encounter": "Merfolk emerge from the a sunken temple accessible only by solving a riddle, their intent focused on a magical conch shell that can summon sea creatures."
     },
     {
         "pos": 15,
@@ -104,8 +104,8 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Calm Ocean",
+        "encounter": "The way forward is blocked by a deadly, bioluminescent sea creature swarm, but you notice a concealed treasure chest within a submerged statue that might lead around it."
     },
     {
         "pos": 18,
@@ -128,14 +128,14 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "Ageless Current",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
-        "encounter": "The way forward is blocked by a powerful whirlpool pulling ships downward, but you notice a concealed merfolk palace hidden behind a waterfall that might lead around it."
+        "features": "Beckoning Trough",
+        "encounter": ""
     },
     {
         "pos": 23,
@@ -147,13 +147,13 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "With investigate a series of shipwrecks caused by a vengeful ghost ship. On your mind, the sudden appearance of a dense minefield of explosive devices accompanied by hollow echoes in an underwater cavern becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 25,
         "terrain": "O",
-        "features": "Spectacular Harbor",
-        "encounter": "You uncover the remnants of a shattered glass bottle that tell a story of a time when dolphin companions pursued investigate the disappearance of a famous sea captain and their crew.."
+        "features": "",
+        "encounter": "Your journey leads you to a a giant, tentacled kraken blocking the way. As you approach, pirates exploring a mysterious underwater cave."
     },
     {
         "pos": 26,
@@ -176,7 +176,7 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "Glistening Estuary",
+        "features": "Silent Bight",
         "encounter": ""
     },
     {
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a sunken rowboat with a hole in its hull indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 32,
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a sunken rowboat with a hole in its hull indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it scent of damp driftwood. You spot giant sea turtles that seem to be performing a ritual to calm a storm."
+        "encounter": ""
     },
     {
         "pos": 38,
@@ -296,7 +296,7 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Reef",
         "encounter": ""
     },
     {
@@ -387,7 +387,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a chest of mystical sea herbs and remedies nestled among floating seaweed rafts, but the unsettling feeling of jealousy makes you wary."
+        "encounter": ""
     },
     {
         "pos": 65,
@@ -411,7 +411,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Kraken emerge from the a treasure cache buried in the sand on a deserted island, their intent focused on a magical mermaid's mirror that reveals secrets."
     },
     {
         "pos": 69,
@@ -422,14 +422,14 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Abyssal Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "Ship-eating barnacles gives you a quest to investigate reports of disappearing ships in a cursed sea.In your path lies a mysterious, glowing underwater crystal surrounded by caulerpa seaweed."
+        "encounter": ""
     },
     {
         "pos": 72,
@@ -447,7 +447,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it pungent smell of seaweed drying in the sun. You spot octopus oracles that seem to be convincing a shipwrecked sailor to join their crew."
+        "encounter": "You come across an abandoned lifeboat adrift on the waves of an old campsite, the scent of aromatic spices from a seaside market still lingering."
     },
     {
         "pos": 75,
@@ -459,12 +459,12 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a torn and faded pirate's treasure map that tell a story of a time when mermen pursued investigate a series of shipwrecks caused by a vengeful ghost ship.."
+        "encounter": ""
     },
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Vast Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it salty scent of a mermaid's hair. You spot crystal reef dwellers that seem to be forging alliances with other oceanic races."
+        "encounter": ""
     },
     {
         "pos": 80,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "Kelpie emerge from the a hidden coral maze filled with merfolk traps, their intent focused on a pirate's cutlass with an ornate hilt."
+        "encounter": ""
     },
     {
         "pos": 85,
@@ -518,7 +518,7 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring Swirl",
         "encounter": ""
     },
     {
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "Majestic Plateau",
+        "features": "",
         "encounter": ""
     },
     {
@@ -578,7 +578,7 @@
     {
         "pos": 96,
         "terrain": "O",
-        "features": "Majestic Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Dense Surf",
+        "features": "",
         "encounter": ""
     }
 ]

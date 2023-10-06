@@ -14,8 +14,8 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Crystal-clear Rift",
-        "encounter": "A sudden gust brings with it fresh, salty scent of oysters on the shore. You spot sunken treasure guardians that seem to be wreaking havoc on passing ships."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 3,
@@ -33,7 +33,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear gentle lapping of waves against the shore coming from a secret merfolk concert hall hidden in a cave."
+        "encounter": ""
     },
     {
         "pos": 6,
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Lagoon",
         "encounter": ""
     },
     {
@@ -141,12 +141,12 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense brown algae forests, you catch sight of a captured sea serpent's egg. But be cautious, crackling of a bonfire on the beach suggest merfolk are near."
+        "encounter": ""
     },
     {
         "pos": 24,
         "terrain": "O",
-        "features": "Crystal-clear Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -170,8 +170,8 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground trembles slightly, and low growling of a distant thunderstorm grow louder. It seems tidal wave elementals are on the move."
+        "features": "Crystal-clear Undercurrent",
+        "encounter": ""
     },
     {
         "pos": 29,
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "Daunting Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -207,12 +207,12 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and whistling of wind through the rigging of a ship grow louder. It seems floating market traders are on the move."
+        "encounter": ""
     },
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Radiant Delta",
+        "features": "Dense Bay",
         "encounter": ""
     },
     {
@@ -242,7 +242,7 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular Gulf",
         "encounter": ""
     },
     {
@@ -272,7 +272,7 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "Boundless Fathom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -290,19 +290,19 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "Tranquil Billow",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 49,
         "terrain": "O",
-        "features": "Crystal-clear Depression",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Ethereal Rift",
+        "features": "",
         "encounter": ""
     },
     {
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by giant kelp with air-filled bladders leads to a clearing with an abandoned lifeboat adrift on the waves, indicating shipwreck goblins have been here."
     },
     {
         "pos": 53,
@@ -338,14 +338,14 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "",
-        "encounter": "Peering through the dense thick beds of eelgrass, you catch sight of a bottle of rare and potent mermaid tears. But be cautious, hissing of foam as waves recede suggest lighthouse guardians are near."
+        "features": "Soothing Pinnacle",
+        "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a sparkling pearl necklace that could be useful in your quest to investigate reports of disappearing ships in a cursed sea.. But it's guarded by sea dragons."
     },
     {
         "pos": 58,
@@ -375,7 +375,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among mermaid's hair algae, you spot a sea serpent scale glinting in the sunlight."
     },
     {
         "pos": 63,
@@ -386,7 +386,7 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Moonlit Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -399,7 +399,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a torn and waterlogged book of sea legends that tell a story of a time when floating market traders pursued explore an underwater cave system to find a valuable artifact.."
     },
     {
         "pos": 67,
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Marina",
         "encounter": ""
     },
     {
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of a ship's wheel half-buried in the sand of an old campsite, the scent of smoky scent of grilled seafood still lingering."
     },
     {
         "pos": 80,
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Inviting Current",
+        "features": "",
         "encounter": ""
     },
     {
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "Kelpie emerge from the a labyrinthine coral labyrinth with hidden treasures, their intent focused on a net filled with exotic and colorful fish."
+        "encounter": ""
     },
     {
         "pos": 95,
@@ -590,8 +590,8 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Sunlit Jetty",
-        "encounter": "A path surrounded by giant clam gardens leads to a clearing with the remnants of a ship's wheel half-buried in the sand, indicating dolphin companions have been here."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 99,

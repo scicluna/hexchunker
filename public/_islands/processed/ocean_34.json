@@ -3,7 +3,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about retrieve a sunken treasure map from the lair of a giant octopus., you're startled by crackling of underwater lava flows. It seems sunken treasure guardians are near."
+        "encounter": ""
     },
     {
         "pos": 1,
@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Serene Swirl",
+        "features": "",
         "encounter": ""
     },
     {
@@ -38,7 +38,7 @@
     {
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Reef",
         "encounter": ""
     },
     {
@@ -69,18 +69,18 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant gurgling of a freshwater stream meeting the ocean draws your attention. Following it, you discover the remnants of an ancient ship's cargo hold of a past event."
+        "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Trough",
         "encounter": ""
     },
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Dense Flats",
+        "features": "",
         "encounter": ""
     },
     {
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Tidal Pool",
         "encounter": ""
     },
     {
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Surging Marina",
+        "features": "",
         "encounter": ""
     },
     {
@@ -201,12 +201,12 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and thudding of footsteps on a wooden dock grow louder. It seems jellyfish navigators are on the move."
+        "encounter": ""
     },
     {
         "pos": 34,
         "terrain": "O",
-        "features": "Abyssal Delta",
+        "features": "",
         "encounter": ""
     },
     {
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft splashing of dolphins playing nearby. As you follow, you encounter water elementals in the midst of building a coral fortress."
+        "encounter": ""
     },
     {
         "pos": 38,
@@ -243,7 +243,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a skeleton clutching a rusted cutlass on the seabed wind through the halophila seagrass, revealing the past actions of sunken treasure guardians."
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -254,14 +254,14 @@
     {
         "pos": 42,
         "terrain": "O",
-        "features": "Tempestuous Surf",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Tranquil Fjord",
-        "encounter": "Every step forward is met with the increasing intensity of rich, earthy scent of wet sand, suggesting the presence of coral golems."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 44,
@@ -272,13 +272,13 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Unspoiled Billow",
+        "encounter": "You hear echoing calls of whales in the distance coming from an underwater whirlpool leading to a hidden realm."
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "Idyllic Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -327,12 +327,12 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among bubbling hot seawater vents, you spot a ship's cannon with ornate engravings glinting in the sunlight."
     },
     {
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Inlet",
         "encounter": ""
     },
     {
@@ -345,7 +345,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The codium seaweed rustles, revealing oceanic alchemists that are wreaking havoc on passing ships."
     },
     {
         "pos": 58,
@@ -368,7 +368,7 @@
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Epic Whirlpool",
         "encounter": ""
     },
     {
@@ -440,8 +440,8 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "Teeming Expanse",
-        "encounter": ""
+        "features": "",
+        "encounter": "Surrounded by mermaid's hair algae, a series of a hidden pirate's tunnel behind a cascading waterfall reveal traces of barnacle-covered remnants of a wooden chest, and the distant rustling of palm fronds in a gentle breeze hint at more to discover."
     },
     {
         "pos": 74,
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Majestic Main",
+        "features": "",
         "encounter": ""
     },
     {
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Maelstrom",
         "encounter": ""
     },
     {
@@ -512,7 +512,7 @@
     {
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Trench",
         "encounter": ""
     },
     {
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among giant clam gardens, you spot a merfolk's enchanted harp glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 89,
@@ -543,7 +543,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Ahead, there is a massive, drifting iceberg with hidden dangers blocking your path. Perhaps it's related to your quest to retrieve a sunken treasure map from the lair of a giant octopus.."
     },
     {
         "pos": 91,
@@ -554,7 +554,7 @@
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Windswept Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -566,25 +566,25 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Inviting Channel",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it salty seaweed and kelp. You spot coral golems that seem to be diving deep to consult with a sea oracle."
+        "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter tidal wave elementals which are training sea creatures for battle."
+        "encounter": ""
     },
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Tranquil Haven",
+        "features": "",
         "encounter": ""
     },
     {

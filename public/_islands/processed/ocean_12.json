@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Beckoning Billow",
+        "features": "",
         "encounter": ""
     },
     {
@@ -38,14 +38,14 @@
     {
         "pos": 6,
         "terrain": "O",
-        "features": "Sparkling Ocean",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about help a stranded sailor repair their ship and return home., you're startled by rhythmic crashing of waves on rocky cliffs. It seems seafaring druids are near."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -81,7 +81,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to help a stranded sailor repair their ship and return home.. But be wary, for whirlpool spirits lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 14,
@@ -122,7 +122,7 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Harbor",
         "encounter": ""
     },
     {
@@ -140,32 +140,32 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Reef",
         "encounter": ""
     },
     {
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing Reef",
         "encounter": ""
     },
     {
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense kelp forests, you catch sight of a magical mermaid's mirror that reveals secrets. But be cautious, rustling of seaweed in the currents suggest sea witches are near."
     },
     {
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by coral reefs, a series of an underwater cave network filled with glowing algae reveal traces of the remnants of a ship's broken figurehead, and the distant thudding of footsteps on a wooden dock hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Uncharted Kelp Forest",
+        "encounter": "Ahead, there is a cursed island that draws ships in but won't let them leave blocking your path. Perhaps it's related to your quest to help a shipwrecked sailor construct a signal fire to call for rescue.."
     },
     {
         "pos": 28,
@@ -177,7 +177,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Kelpie gives you a quest to explore an underwater cave system to find a valuable artifact.In your path lies a merfolk's enchanted harp surrounded by brown algae forests."
     },
     {
         "pos": 30,
@@ -189,7 +189,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A trail of a skeleton clutching a rusted cutlass on the seabed suggests that seafaring druids have passed through here on a quest to guide a group of scholars on a research expedition to the deep ocean.."
     },
     {
         "pos": 32,
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rustling of seaweed swaying in the current is accompanied by the distinct aroma of salty scent of a mermaid's hair. It seems sarcastic cephalopod are involved in trading secrets with a wandering hermit."
+        "encounter": ""
     },
     {
         "pos": 38,
@@ -242,20 +242,20 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Azure Deep",
-        "encounter": ""
+        "features": "",
+        "encounter": "Deep in thought about investigate reports of disappearing ships in a cursed sea., you're startled by echoing calls of whales in the distance. It seems cursed ship captains are near."
     },
     {
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of cracking of icebergs in frigid waters is accompanied by the distinct aroma of aromatic herbs from a coastal garden. It seems sea witches are involved in navigating treacherous waters during a storm."
+        "encounter": ""
     },
     {
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of scent of damp treasure maps. You feel a sense of trepidation."
     },
     {
         "pos": 43,
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious scent of salty tears in the wind envelops you, drawing you towards an underwater volcanic vent leading to a hidden world where sirens are exploring a mysterious underwater cave."
     },
     {
         "pos": 45,
@@ -279,7 +279,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice sea anemone gardens moving subtly. Upon closer inspection, you see floating market traders that are rescuing shipwreck survivors."
+        "encounter": "A sudden whistling of wind through the rigging of a ship breaks the silence, making the nearby brown algae forests quiver."
     },
     {
         "pos": 47,
@@ -290,7 +290,7 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Vortex",
         "encounter": ""
     },
     {
@@ -303,7 +303,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a coral reef with sharp, hidden edges. As you contemplate a way around, you hear hissing of foam as waves recede from the shadows."
     },
     {
         "pos": 51,
@@ -315,7 +315,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by guilt as you uncover a magical mermaid's mirror that reveals secrets hidden within giant clam gardens."
     },
     {
         "pos": 53,
@@ -338,20 +338,20 @@
     {
         "pos": 56,
         "terrain": "O",
-        "features": "Immeasurable Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Inviting Bight",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense red algae beds, you catch sight of a magical mermaid's mirror that reveals secrets. But be cautious, thudding of footsteps on a wooden dock suggest oceanic alchemists are near."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a rusted, half-buried cutlass that tell a story of a time when sunken treasure guardians pursued navigate treacherous waters to reach a hidden pirate haven.."
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -399,13 +399,13 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about rescue a group of trapped sailors from a sinking ship., you're startled by sloshing of water in a mermaid's bathtub. It seems selkies are near."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Inviting Atoll",
-        "encounter": "The whisper of booming of waves in a hidden sea cave is accompanied by the distinct aroma of sun-warmed sand. It seems sarcastic cephalopod are involved in building a coral fortress."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -428,7 +428,7 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Main",
         "encounter": ""
     },
     {
@@ -458,7 +458,7 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Channel",
         "encounter": ""
     },
     {
@@ -471,7 +471,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a hidden cave filled with glowing sea crystals, you sense the presence of merfolk."
+        "encounter": ""
     },
     {
         "pos": 79,
@@ -513,7 +513,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter seafaring druids which are setting up an underwater market."
     },
     {
         "pos": 86,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a chest of exotic spices from distant lands nestled among bubbling hot seawater vents, but the unsettling feeling of indignation makes you wary."
+        "encounter": ""
     },
     {
         "pos": 88,
@@ -542,8 +542,8 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Crystal-clear Swirl",
-        "encounter": "Peering through the dense floating mats of sargassum seaweed, you catch sight of a chest of mystical sea herbs and remedies. But be cautious, sloshing of water in a mermaid's bathtub suggest selkies are near."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 91,
@@ -560,7 +560,7 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Shimmering Bay",
+        "features": "",
         "encounter": ""
     },
     {
@@ -572,26 +572,26 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Passage",
         "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a treacherous, labyrinthine underwater cave system, but you notice a secret merfolk concert hall hidden in a cave that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Every step forward is met with the increasing intensity of scent of damp treasure maps, suggesting the presence of whirlpool spirits."
     },
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Pristine Lagoon",
-        "encounter": "A sudden gust brings with it briny scent of low tide. You spot ghost ships that seem to be summoning a tidal wave to defend their territory."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 99,

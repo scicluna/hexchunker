@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "Endless Tidal Pool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -39,7 +39,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious rustic aroma of a wooden fishing boat envelops you, drawing you towards an underwater cave network filled with glowing algae where giant clams are trading secrets with a wandering hermit."
+        "encounter": ""
     },
     {
         "pos": 7,
@@ -74,7 +74,7 @@
     {
         "pos": 12,
         "terrain": "O",
-        "features": "Boundless Vortex",
+        "features": "",
         "encounter": ""
     },
     {
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal Plateau",
         "encounter": ""
     },
     {
@@ -123,19 +123,19 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The kelp forests rustles, revealing turtle island shamans that are creating elaborate maps of uncharted waters."
     },
     {
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear sizzling of saltwater on hot volcanic rocks coming from a secret merfolk concert hall hidden in a cave."
     },
     {
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and clattering of seashells in the tide grow louder. It seems sea witches are on the move."
     },
     {
         "pos": 23,
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among giant underwater mushrooms, you spot a seafarer's journal filled with tales of adventure glinting in the sunlight."
     },
     {
         "pos": 25,
@@ -188,14 +188,14 @@
     {
         "pos": 31,
         "terrain": "O",
-        "features": "",
-        "encounter": "With investigate a series of shipwrecks caused by a vengeful ghost ship. On your mind, the sudden appearance of a haunted shipwreck with vengeful spirits accompanied by murmuring of merfolk singing in harmony becomes a challenging diversion."
+        "features": "Boundless Flats",
+        "encounter": ""
     },
     {
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a ship-eating whirlpool known as the 'ship swallower'. As you approach, underwater miners healing wounded sea creatures."
     },
     {
         "pos": 33,
@@ -207,7 +207,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of barnacle-covered remnants of a wooden chest suggests that lighthouse guardians have passed through here on a quest to search for a hidden cove rumored to contain pirate treasure.."
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -219,7 +219,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden murmuring of merfolk singing in harmony breaks the silence, making the nearby tube worms near hydrothermal vents quiver."
     },
     {
         "pos": 37,
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a submerged forest of gnarled, petrified trees blocking your path. Perhaps it's related to your quest to help a stranded sailor repair their ship and return home.."
+        "encounter": ""
     },
     {
         "pos": 42,
@@ -266,26 +266,26 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Expansive Passage",
-        "encounter": ""
+        "features": "",
+        "encounter": "Trails of a waterlogged chest with its lid ajar wind through the caulerpa seaweed, revealing the past actions of oceanic alchemists."
     },
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Whirlpool",
         "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange the remnants of a sunken merchant ship's cargo lie scattered, painting a tale of turtle island shamans that convincing a shipwrecked sailor to join their crew."
     },
     {
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense sponge colonies, you discover a chest of mystical sea herbs and remedies. You can't shake the feeling of anxiety."
     },
     {
         "pos": 48,
@@ -296,13 +296,13 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "",
-        "encounter": "The presence of a sudden, violent storm with massive waves makes it difficult to proceed. Perhaps the cursed mermaids nearby can help."
+        "features": "Majestic Passage",
+        "encounter": ""
     },
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Choppy Ocean",
+        "features": "Immeasurable Bay",
         "encounter": ""
     },
     {
@@ -326,7 +326,7 @@
     {
         "pos": 54,
         "terrain": "O",
-        "features": "Raging Strait",
+        "features": "",
         "encounter": ""
     },
     {
@@ -339,18 +339,18 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a rusted, half-buried cutlass wind through the sea grape kelp, revealing the past actions of ghost ships."
+        "encounter": ""
     },
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Teeming Maelstrom",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Timeless Billow",
+        "features": "",
         "encounter": ""
     },
     {
@@ -416,7 +416,7 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Choppy Rise",
+        "features": "",
         "encounter": ""
     },
     {
@@ -471,7 +471,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by caulerpa seaweed, a series of a secret underwater grotto accessible only at low tide reveal traces of an abandoned lifeboat adrift on the waves, and the distant hollow echoes in an underwater cavern hint at more to discover."
+        "encounter": ""
     },
     {
         "pos": 79,
@@ -591,12 +591,12 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a thick forest of kelp that entangles ships, but you notice a submerged sea cave filled with bioluminescent creatures that might lead around it."
     },
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Daunting Fjord",
+        "features": "",
         "encounter": ""
     }
 ]

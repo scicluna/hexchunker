@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Sweeping Isle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -14,14 +14,14 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Current",
         "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice sea grape kelp moving subtly. Upon closer inspection, you see pirates that are conducting a mystical sea ritual."
     },
     {
         "pos": 4,
@@ -57,7 +57,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You're guided by the soft sighing of the wind through sea caves. As you follow, you encounter octopus oracles in the midst of raiding a coastal village for supplies."
     },
     {
         "pos": 10,
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious briny smell of a fishing pier envelops you, drawing you towards a network of tunnels in the heart of a coral maze where island hermit are taming and riding sea turtles."
     },
     {
         "pos": 12,
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Rift",
         "encounter": ""
     },
     {
@@ -123,13 +123,13 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a mysterious, glowing underwater crystal. However, pearl diver guilds stand guard, their intentions unknown."
     },
     {
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by mermaid's hair algae, a series of a secret pirate's den inside a massive, hollowed-out rock reveal traces of the remnants of a sunken sea monster's scale, and the distant rumbling of a distant underwater volcano hint at more to discover."
     },
     {
         "pos": 22,
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a bottle of potent seawater from a mythical spring that could be useful in your quest to discover a lost civilization by deciphering cryptic underwater runes.. But it's guarded by underwater nomads."
     },
     {
         "pos": 25,
@@ -158,7 +158,7 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "Crystal-clear Seabed",
+        "features": "",
         "encounter": ""
     },
     {
@@ -170,7 +170,7 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque Swirl",
         "encounter": ""
     },
     {
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Secluded Maelstrom",
         "encounter": ""
     },
     {
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Epic Tide",
         "encounter": ""
     },
     {
@@ -249,7 +249,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice seaweed-covered rocks moving subtly. Upon closer inspection, you see cursed mermaids that are navigating treacherous waters during a storm."
     },
     {
         "pos": 42,
@@ -260,8 +260,8 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "Inviting Drop-off",
-        "encounter": ""
+        "features": "",
+        "encounter": "Ahead, there is a monstrous, coral-covered sea monster blocking your path. Perhaps it's related to your quest to retrieve a stolen pearl from a cunning group of bandits.."
     },
     {
         "pos": 44,
@@ -272,13 +272,13 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "Breathtaking Fjord",
-        "encounter": ""
+        "features": "",
+        "encounter": "Surrounded by feather boa kelp, a series of a concealed cavern within a towering underwater cliff reveal traces of the remnants of a ship's wheel half-buried in the sand, and the distant hollow echoes in an underwater cavern hint at more to discover."
     },
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed Mangrove",
         "encounter": ""
     },
     {
@@ -290,7 +290,7 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "Luminous Expanse",
+        "features": "",
         "encounter": ""
     },
     {
@@ -309,7 +309,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a colony of hostile merfolk guarding their territory, you're surprised to find an underwater lagoon hidden by dense seaweed filled with the remnants of a ship's broken figurehead.As you journey forward, you come across a weathered treasure map, with traces of scent of damp driftwood around them."
+        "encounter": ""
     },
     {
         "pos": 52,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear sighing of the wind through sea caves coming from a hidden coral archway leading to a treasure trove."
     },
     {
         "pos": 56,
@@ -350,8 +350,8 @@
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Daunting Plateau",
-        "encounter": "A mysterious rancid smell of decaying plankton envelops you, drawing you towards a concealed treasure chest buried in the sand where sea serpents are performing a ritual to calm a storm."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -374,7 +374,7 @@
     {
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Inlet",
         "encounter": ""
     },
     {
@@ -386,26 +386,26 @@
     {
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable Swirl",
         "encounter": ""
     },
     {
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel excitement as distant rumble of thunder during a storm echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a ship's sextant for celestial navigation nestled among bubblegum coral, but the unsettling feeling of hope makes you wary."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel indignation as splashing of dolphins playing nearby echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -440,7 +440,7 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "Roaring Cove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -452,7 +452,7 @@
     {
         "pos": 75,
         "terrain": "O",
-        "features": "Harmonious Wave",
+        "features": "",
         "encounter": ""
     },
     {
@@ -465,7 +465,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of rustic aroma of a wooden fishing boat. You feel a sense of desperation."
     },
     {
         "pos": 78,
@@ -477,7 +477,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a ship's logbook with a mysterious route. However, sirens stand guard, their intentions unknown."
     },
     {
         "pos": 80,
@@ -494,7 +494,7 @@
     {
         "pos": 82,
         "terrain": "O",
-        "features": "Calm Channel",
+        "features": "",
         "encounter": ""
     },
     {
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of rotten-egg odor of sulfur from underwater vents. You feel a sense of empathy."
     },
     {
         "pos": 89,
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Kelp Forest",
         "encounter": ""
     },
     {
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a sunken merchant ship's cargo of an old campsite, the scent of freshly baked bread from a seaside bakery still lingering."
+        "encounter": ""
     },
     {
         "pos": 95,

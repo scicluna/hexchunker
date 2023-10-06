@@ -26,26 +26,26 @@
     {
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": "You come across a waterlogged chest with its lid ajar of an old campsite, the scent of scent of damp driftwood still lingering."
+        "features": "Timeless Billow",
+        "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The red algae beds rustles, revealing lighthouse guardians that are performing a ritual to calm a storm."
     },
     {
         "pos": 6,
         "terrain": "O",
-        "features": "Picturesque Ocean",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "From the shadows of the a hidden coral maze filled with merfolk traps, you sense the presence of cursed mermaids."
     },
     {
         "pos": 8,
@@ -92,8 +92,8 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "Radiant Surf",
-        "encounter": "Among the dense rockweed, you discover a captured sea serpent's egg. You can't shake the feeling of frustration."
+        "features": "Ageless Trench",
+        "encounter": ""
     },
     {
         "pos": 16,
@@ -105,7 +105,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice red algae beds moving subtly. Upon closer inspection, you see cursed ship captains that are engaging in a sea battle with rival pirates."
     },
     {
         "pos": 18,
@@ -116,8 +116,8 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your senses are overwhelmed by sadness as you uncover a kraken's tentacle as a gruesome trophy hidden within codium seaweed."
+        "features": "Murmuring Depression",
+        "encounter": "The crinoids on the seafloor rustles, revealing floating market traders that are exploring the depths in search of a sunken city."
     },
     {
         "pos": 20,
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Dazzling Marina",
+        "features": "",
         "encounter": ""
     },
     {
@@ -158,13 +158,13 @@
     {
         "pos": 26,
         "terrain": "O",
-        "features": "Ethereal Channel",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 27,
         "terrain": "O",
-        "features": "Reflective Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -176,13 +176,13 @@
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
-        "encounter": "Lighthouse guardians emerge from the a secret underwater grotto accessible only at low tide, their intent focused on a seashell amulet that grants water-breathing."
+        "features": "Iridescent Wave",
+        "encounter": ""
     },
     {
         "pos": 30,
         "terrain": "O",
-        "features": "Reflective Strait",
+        "features": "",
         "encounter": ""
     },
     {
@@ -213,25 +213,25 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter coral golems which are rescuing shipwreck survivors."
     },
     {
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious Jetty",
         "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and clattering of seashells in the tide grow louder. It seems coral golems are on the move."
     },
     {
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by trepidation as you uncover a ship's cannon with ornate engravings hidden within giant underwater mushrooms."
+        "encounter": ""
     },
     {
         "pos": 39,
@@ -248,7 +248,7 @@
     {
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous Maelstrom",
         "encounter": ""
     },
     {
@@ -266,7 +266,7 @@
     {
         "pos": 44,
         "terrain": "O",
-        "features": "Endless Seabed",
+        "features": "",
         "encounter": ""
     },
     {
@@ -302,7 +302,7 @@
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Delta",
         "encounter": ""
     },
     {
@@ -327,7 +327,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious scent of coconut oil and sunscreen envelops you, drawing you towards an ancient, submerged temple with hidden chambers where tidal wave elementals are harvesting pearls from giant clams."
     },
     {
         "pos": 55,
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rattling of pebbles in the surf is accompanied by the distinct aroma of damp, earthy smell of a rocky shore. It seems sea dragons are involved in trading with passing merchant ships."
+        "encounter": "Ahead, there is a dense minefield of explosive devices blocking your path. Perhaps it's related to your quest to defend a coastal town from raiding sea creatures.."
     },
     {
         "pos": 64,
@@ -399,13 +399,13 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a school of aggressive and territorial sharks, but you notice a secret underwater grotto accessible only at low tide that might lead around it."
+        "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a rogue wave threatening to capsize the ship, your attention is caught by clattering of seashells in the tide. Upon investigating, you discover a secret pirate tunnel leading to a hidden cove with a ship's cannon with ornate engravings inside."
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -422,20 +422,20 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Rise",
         "encounter": ""
     },
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Luminous Depression",
+        "encounter": "Among the dense codium seaweed, you discover a bottle of potent seawater from a mythical spring. You can't shake the feeling of admiration."
     },
     {
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel relief as clanging of bells on a buoy in choppy waters echo in the distance. Perhaps it's a sign of what's to come."
+        "encounter": ""
     },
     {
         "pos": 73,
@@ -453,7 +453,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden whistling of wind through the rigging of a ship breaks the silence, making the nearby underwater mangrove roots quiver."
     },
     {
         "pos": 76,
@@ -500,7 +500,7 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Pristine Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -518,13 +518,13 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Shore",
         "encounter": ""
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Strait",
         "encounter": ""
     },
     {
@@ -548,14 +548,14 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "Salty Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a beached rowboat with a broken oar that tell a story of a time when ship-eating barnacles pursued slay a marauding sea monster terrorizing coastal villages.."
     },
     {
         "pos": 93,
@@ -567,19 +567,19 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice sea lettuce moving subtly. Upon closer inspection, you see turtle island shamans that are negotiating with a powerful sea witch."
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among red algae beds, you spot a ship's chart with uncharted territories marked glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among codium seaweed, you spot a mysterious, glowing underwater crystal glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 97,
@@ -590,13 +590,13 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Deep Vortex",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Rippling Spring",
+        "features": "",
         "encounter": ""
     }
 ]

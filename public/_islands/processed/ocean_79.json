@@ -14,7 +14,7 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Teeming Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -27,7 +27,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by mermaid's hair algae, a series of a network of tunnels in the heart of a coral maze reveal traces of the remnants of a mermaid's lost jewelry, and the distant roaring of a powerful waterfall cascading into the sea hint at more to discover."
     },
     {
         "pos": 5,
@@ -39,12 +39,12 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense feather boa kelp, you discover a seashell amulet that grants water-breathing. You can't shake the feeling of forgiveness."
     },
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Radiant Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -56,20 +56,20 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Seabed",
         "encounter": ""
     },
     {
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The red calcareous algae rustles, revealing cursed ship captains that are navigating a treacherous whirlpool."
     },
     {
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it scent of damp, ancient sea scrolls. You spot merfolk that seem to be building a coral fortress."
     },
     {
         "pos": 12,
@@ -86,7 +86,7 @@
     {
         "pos": 14,
         "terrain": "O",
-        "features": "Immeasurable Atoll",
+        "features": "Picturesque Flats",
         "encounter": ""
     },
     {
@@ -110,20 +110,20 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Surging Reef",
         "encounter": ""
     },
     {
         "pos": 19,
         "terrain": "O",
-        "features": "Epic Tide",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a merfolk's forgotten treasure suggests that merfolk have passed through here on a quest to rescue a stranded mermaid from a treacherous reef.."
+        "encounter": "You stumble upon a damaged, half-buried treasure map scroll indicating past battles."
     },
     {
         "pos": 21,
@@ -147,7 +147,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across a torn and waterlogged book of sea legends of an old campsite, the scent of crisp, ocean-scented laundry on a line still lingering."
     },
     {
         "pos": 25,
@@ -171,7 +171,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it smell of seaweed roasting in the sun. You spot giant clams that seem to be trading secrets with a wandering hermit."
     },
     {
         "pos": 29,
@@ -195,7 +195,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a cursed island that draws ships in but won't let them leave, you're surprised to find a concealed treasure vault within an ancient shipwreck filled with a shattered, waterlogged compass.As you journey forward, you come across a ship's chart with uncharted territories marked, with traces of fresh sea breeze around them."
     },
     {
         "pos": 33,
@@ -206,7 +206,7 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "Grand Basin",
+        "features": "Iridescent Maelstrom",
         "encounter": ""
     },
     {
@@ -243,7 +243,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "The caulerpa seaweed rustles, revealing lighthouse guardians that are performing a ritual to calm a storm."
+        "encounter": ""
     },
     {
         "pos": 41,
@@ -261,13 +261,13 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of an ancient ship's cannon suggests that jellyfish navigators have passed through here on a quest to uncover the secrets of a mysterious, ship-swallowing whirlpool.."
+        "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a haunted shipwreck with vengeful spirits, you're surprised to find a concealed chamber within a massive sponge filled with the remnants of a sunken pirate ship's flagpole.As you journey forward, you come across a ship's logbook with a mysterious route, with traces of sun-warmed sand around them."
     },
     {
         "pos": 45,
@@ -278,7 +278,7 @@
     {
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Surf",
         "encounter": ""
     },
     {
@@ -290,14 +290,14 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Seamount",
         "encounter": ""
     },
     {
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The giant kelp with air-filled bladders rustles, revealing cursed mermaids that are collecting rare and magical seashells."
     },
     {
         "pos": 50,
@@ -357,7 +357,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The way forward is blocked by a massive, ancient sea turtle that won't move, but you notice a sunken temple accessible only by solving a riddle that might lead around it."
     },
     {
         "pos": 60,
@@ -381,12 +381,12 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by treacherous rocks just below the surface, your attention is caught by buzzing of insects near a coastal marsh. Upon investigating, you discover a hidden cave behind a waterfall with a seafarer's compass that points to hidden treasure inside."
+        "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
-        "features": "Boundless Swirl",
+        "features": "",
         "encounter": ""
     },
     {
@@ -398,14 +398,14 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Unspoiled Trench",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "Soothing Basin",
-        "encounter": "You find a hint leading you to defend a coastal town from raiding sea creatures.. But be wary, for sunken treasure guardians lurk nearby."
+        "features": "",
+        "encounter": ""
     },
     {
         "pos": 68,
@@ -423,7 +423,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and sighing of the wind through sea caves grow louder. It seems underwater miners are on the move."
     },
     {
         "pos": 71,
@@ -434,7 +434,7 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Main",
         "encounter": ""
     },
     {
@@ -446,13 +446,13 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "Ageless Bay",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque Vortex",
         "encounter": ""
     },
     {
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Alluring Whirlpool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -482,7 +482,7 @@
     {
         "pos": 80,
         "terrain": "O",
-        "features": "Boundless Sandbank",
+        "features": "",
         "encounter": ""
     },
     {
@@ -495,12 +495,12 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a concealed cavern within a towering underwater cliff, you sense the presence of jellyfish navigators."
+        "encounter": ""
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Ageless Strait",
+        "features": "",
         "encounter": ""
     },
     {
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Pinnacle",
         "encounter": ""
     },
     {
@@ -584,7 +584,7 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Bight",
         "encounter": ""
     },
     {
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "Majestic Kelp Forest",
+        "features": "",
         "encounter": ""
     }
 ]

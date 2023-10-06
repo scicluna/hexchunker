@@ -14,7 +14,7 @@ export default function HexSkeleton({ pos, size, chunkSize }: HexSkeletonProp) {
             marginLeft: `${Math.floor(pos / chunkSize) % 2 === 0 ? size * (1.732 / 2 / 2) : 0}rem`,
             marginRight: `${Math.floor(pos / chunkSize) % 2 === 0 ? -size * (1.732 / 2 / 2) : 0}rem`
         } as React.CSSProperties}
-            className={`relative ${style.hexagon}`} >
+            className={`relative ${style.hexagon} bg-white`} >
             <div />
         </div>
     )

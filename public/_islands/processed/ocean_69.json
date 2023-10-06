@@ -27,7 +27,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by admiration as you uncover a ghostly lantern that wards off spirits hidden within crinoids on the seafloor."
     },
     {
         "pos": 5,
@@ -38,7 +38,7 @@
     {
         "pos": 6,
         "terrain": "O",
-        "features": "Tempestuous Shore",
+        "features": "Tempestuous Whirlpool",
         "encounter": ""
     },
     {
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Abyss",
         "encounter": ""
     },
     {
@@ -80,14 +80,14 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Moonlit Sound",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 14,
         "terrain": "O",
-        "features": "",
-        "encounter": "An eerie echoing calls of whales in the distance resonates from a secret pirate tunnel leading to a hidden cove, and the scent of pungent smell of seaweed drying in the sun fills the air."
+        "features": "Unfathomable Rift",
+        "encounter": ""
     },
     {
         "pos": 15,
@@ -128,7 +128,7 @@
     {
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Surf",
         "encounter": ""
     },
     {
@@ -219,13 +219,13 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft gurgling of a freshwater stream meeting the ocean. As you follow, you encounter sirens in the midst of repairing their damaged ship."
+        "encounter": ""
     },
     {
         "pos": 37,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Vast Chasm",
+        "encounter": "You see a message in a bottle that could be useful in your quest to solve the mystery of a cursed shipwreck and its crew's fate.. But it's guarded by selkies."
     },
     {
         "pos": 38,
@@ -236,19 +236,19 @@
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping Upwelling",
         "encounter": ""
     },
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Untamed Main",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 41,
         "terrain": "O",
-        "features": "Iridescent Rift",
+        "features": "",
         "encounter": ""
     },
     {
@@ -261,7 +261,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice sea lettuce moving subtly. Upon closer inspection, you see cursed ship captains that are wreaking havoc on passing ships."
+        "encounter": ""
     },
     {
         "pos": 44,
@@ -290,19 +290,19 @@
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Calm Passage",
+        "encounter": "You hear whispering of the sea breeze through palm trees coming from a secret pirate tunnel leading to a hidden cove."
     },
     {
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a colony of hostile merfolk guarding their territory, your attention is caught by booming of waves in a hidden sea cave. Upon investigating, you discover a sunken garden of rare and magical sea plants with a ghostly lantern that wards off spirits inside."
     },
     {
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Billow",
         "encounter": ""
     },
     {
@@ -327,24 +327,24 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and distant rumble of thunder during a storm grow louder. It seems lighthouse guardians are on the move."
+        "encounter": "Your journey leads you to a a treacherous, narrow strait with strong currents. As you approach, mermen collecting rare and magical seashells."
     },
     {
         "pos": 55,
-        "terrain": "O",
-        "features": "Lonely Maelstrom",
-        "encounter": ""
-    },
-    {
-        "pos": 56,
         "terrain": "O",
         "features": "",
         "encounter": ""
     },
     {
+        "pos": 56,
+        "terrain": "O",
+        "features": "Secluded Marina",
+        "encounter": ""
+    },
+    {
         "pos": 57,
         "terrain": "O",
-        "features": "Serene Delta",
+        "features": "",
         "encounter": ""
     },
     {
@@ -362,7 +362,7 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "Iridescent Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -375,19 +375,19 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a treacherous, labyrinthine underwater cave system. As you approach, sirens performing a ritual to calm a storm."
+        "encounter": ""
     },
     {
         "pos": 63,
         "terrain": "O",
-        "features": "Secluded Upwelling",
+        "features": "Abyssal Surf",
         "encounter": ""
     },
     {
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice giant underwater mushrooms moving subtly. Upon closer inspection, you see merfolk that are healing wounded sea creatures."
+        "encounter": ""
     },
     {
         "pos": 65,
@@ -398,14 +398,14 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious Bight",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense seafloor seagrass, you discover a seashell amulet that grants water-breathing. You can't shake the feeling of panic."
     },
     {
         "pos": 68,
@@ -464,26 +464,26 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "Timeless Shore",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Silent Marina",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter shipwreck goblins which are solving a riddle from an ancient sea scroll."
     },
     {
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Hidden among bubblegum coral, you spot a chest of exotic spices from distant lands glinting in the sunlight."
     },
     {
         "pos": 81,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Blocked by a massive, drifting iceberg with hidden dangers, your attention is caught by clattering of seashells in the tide. Upon investigating, you discover an underwater volcanic vent leading to a hidden world with a shipwrecked chest filled with gold coins inside."
     },
     {
         "pos": 85,
@@ -531,7 +531,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a ship's sextant for celestial navigation nestled among sea grape kelp, but the unsettling feeling of panic makes you wary."
+        "encounter": ""
     },
     {
         "pos": 89,
@@ -548,13 +548,13 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful Reef",
         "encounter": ""
     },
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Unspoiled Pinnacle",
+        "features": "Ageless Surf",
         "encounter": ""
     },
     {
@@ -566,14 +566,14 @@
     {
         "pos": 94,
         "terrain": "O",
-        "features": "Turbulent Narrows",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter giant sea turtles which are healing wounded sea creatures."
+        "encounter": ""
     },
     {
         "pos": 96,
@@ -590,7 +590,7 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Iridescent Edifice",
+        "features": "",
         "encounter": ""
     },
     {

@@ -2,37 +2,37 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Passage",
         "encounter": ""
     },
     {
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a torn and faded pirate's treasure map of an old campsite, the scent of rotten-egg odor of sulfur from underwater vents still lingering."
-    },
-    {
-        "pos": 2,
-        "terrain": "O",
-        "features": "Dazzling Estuary",
         "encounter": ""
     },
     {
-        "pos": 3,
+        "pos": 2,
         "terrain": "O",
         "features": "",
         "encounter": ""
     },
     {
+        "pos": 3,
+        "terrain": "O",
+        "features": "Sweeping Fathom",
+        "encounter": ""
+    },
+    {
         "pos": 4,
         "terrain": "O",
-        "features": "Mysterious Seamount",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Alluring Bight",
+        "features": "",
         "encounter": ""
     },
     {
@@ -45,7 +45,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a sandbar hiding just below the water's surface, you're surprised to find an underwater cave network filled with glowing algae filled with tattered fragments of a sunken pirate flag.As you journey forward, you come across a ship's cannon with ornate engravings, with traces of musk of a sea lion colony around them."
+        "encounter": ""
     },
     {
         "pos": 8,
@@ -62,20 +62,20 @@
     {
         "pos": 10,
         "terrain": "O",
-        "features": "",
-        "encounter": "From the shadows of the a sunken garden of rare and magical sea plants, you sense the presence of ghost ships."
+        "features": "Picturesque Undercurrent",
+        "encounter": "Whirlpool spirits gives you a quest to escort a fragile, magical artifact through dangerous waters.In your path lies a bottle of enchanted ink for writing underwater surrounded by sea palm kelp."
     },
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Untamed Flats",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear buzzing of underwater machinery in a sunken city coming from a concealed treasure vault within an ancient shipwreck."
+        "encounter": ""
     },
     {
         "pos": 13,
@@ -122,8 +122,8 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Shimmering Fjord",
-        "encounter": ""
+        "features": "",
+        "encounter": "Your way is impeded by a massive, ancient sea turtle that won't move. As you contemplate a way around, you hear whistling of wind through the rigging of a ship from the shadows."
     },
     {
         "pos": 21,
@@ -146,7 +146,7 @@
     {
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Upwelling",
         "encounter": ""
     },
     {
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant sighing of the wind through sea caves draws your attention. Following it, you discover an abandoned lifeboat adrift on the waves of a past event."
+        "encounter": ""
     },
     {
         "pos": 34,
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "Untamed Mangrove",
+        "features": "",
         "encounter": ""
     },
     {
@@ -224,7 +224,7 @@
     {
         "pos": 37,
         "terrain": "O",
-        "features": "Nautical Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -267,7 +267,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a rusted ship's bell on the ocean floor indicating past battles."
+        "encounter": ""
     },
     {
         "pos": 45,
@@ -284,7 +284,7 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Silent Tidal Pool",
         "encounter": ""
     },
     {
@@ -296,7 +296,7 @@
     {
         "pos": 49,
         "terrain": "O",
-        "features": "Salty Ridge",
+        "features": "",
         "encounter": ""
     },
     {
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie booming of waves in a hidden sea cave resonates from a hidden coral archway leading to a treasure trove, and the scent of crisp, ocean-scented laundry on a line fills the air."
     },
     {
         "pos": 56,
@@ -351,19 +351,19 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of serenity as you tread upon the remnants of a ship's wheel half-buried in the sand, hinting at a tale of underwater nomads."
     },
     {
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by rockweed leads to a clearing with the remnants of a ship's broken mast, indicating jellyfish navigators have been here."
+        "encounter": "The red grape algae rustles, revealing octopus oracles that are solving a riddle from an ancient sea scroll."
     },
     {
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by codium seaweed leads to a clearing with a rusted ship's bell on the ocean floor, indicating underwater nomads have been here."
+        "encounter": ""
     },
     {
         "pos": 61,
@@ -380,7 +380,7 @@
     {
         "pos": 63,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Basin",
         "encounter": ""
     },
     {
@@ -398,13 +398,13 @@
     {
         "pos": 66,
         "terrain": "O",
-        "features": "Soothing Flats",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Strait",
         "encounter": ""
     },
     {
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Breathtaking Vortex",
+        "features": "",
         "encounter": ""
     },
     {
@@ -435,7 +435,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a school of aggressive and territorial sharks. As you approach, ghost ships repairing their damaged ship."
+        "encounter": ""
     },
     {
         "pos": 73,
@@ -446,7 +446,7 @@
     {
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent Tidal Pool",
         "encounter": ""
     },
     {
@@ -464,7 +464,7 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted Cove",
         "encounter": ""
     },
     {
@@ -483,7 +483,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a sea serpent scale nestled among seagrass meadows, but the unsettling feeling of hope makes you wary."
+        "encounter": ""
     },
     {
         "pos": 81,
@@ -495,7 +495,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a ship's sextant for celestial navigation nestled among sea grape kelp, but the unsettling feeling of guilt makes you wary."
     },
     {
         "pos": 83,
@@ -518,13 +518,13 @@
     {
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Bight",
         "encounter": ""
     },
     {
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Maelstrom",
         "encounter": ""
     },
     {
@@ -542,26 +542,26 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Sparkling Abyss",
+        "encounter": "You find a hint leading you to guide a group of scholars on a research expedition to the deep ocean.. But be wary, for oceanic alchemists lurk nearby."
     },
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Rippling Mangrove",
+        "encounter": "Your senses are overwhelmed by trepidation as you uncover a rare, ancient ship's figurehead hidden within giant clam gardens."
     },
     {
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by tube worms near hydrothermal vents leads to a clearing with a sunken rowboat with a hole in its hull, indicating giant clams have been here."
+        "encounter": ""
     },
     {
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense red calcareous algae, you catch sight of a seafarer's compass that points to hidden treasure. But be cautious, creaking of a ship's rigging in the wind suggest ghost ships are near."
     },
     {
         "pos": 94,
@@ -572,8 +572,8 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Sunlit Current",
+        "encounter": "Storm giants gives you a quest to investigate reports of disappearing ships in a cursed sea.In your path lies a seafarer's compass that points to hidden treasure surrounded by tube worms near hydrothermal vents."
     },
     {
         "pos": 96,
@@ -591,12 +591,12 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your way is impeded by a monstrous sea serpent lurking beneath the surface. As you contemplate a way around, you hear rustling of palm fronds in a gentle breeze from the shadows."
     },
     {
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The seaweed-covered rocks rustles, revealing dolphin companions that are trading with passing merchant ships."
     }
 ]

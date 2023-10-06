@@ -9,7 +9,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across a broken ship's mast jutting out of the water of an old campsite, the scent of salty seaweed and kelp still lingering."
     },
     {
         "pos": 2,
@@ -27,18 +27,18 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel an overwhelming sense of bewilderment as you tread upon an abandoned lifeboat adrift on the waves, hinting at a tale of sirens."
     },
     {
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Trails of the remnants of a shattered glass bottle wind through the red calcareous algae, revealing the past actions of water elementals."
     },
     {
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Jetty",
         "encounter": ""
     },
     {
@@ -51,7 +51,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "The tube worms near hydrothermal vents rustles, revealing kelpie that are rescuing shipwreck survivors."
+        "encounter": ""
     },
     {
         "pos": 9,
@@ -104,7 +104,7 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "Peaceful Haven",
+        "features": "",
         "encounter": ""
     },
     {
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable Haven",
         "encounter": ""
     },
     {
@@ -212,7 +212,7 @@
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Surging Upwelling",
         "encounter": ""
     },
     {
@@ -231,12 +231,12 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant roaring of a powerful waterfall cascading into the sea draws your attention. Following it, you discover a sunken rowboat with a hole in its hull of a past event."
+        "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
-        "features": "Silent Passage",
+        "features": "",
         "encounter": ""
     },
     {
@@ -284,25 +284,25 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "",
-        "encounter": "You feel an overwhelming sense of confusion as you tread upon a torn and waterlogged book of sea legends, hinting at a tale of jellyfish navigators."
+        "features": "Ethereal Rift",
+        "encounter": ""
     },
     {
         "pos": 48,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Roaring Upwelling",
+        "encounter": "You spot a bottle of rare and potent mermaid tears nestled among rockweed, but the unsettling feeling of sadness makes you wary."
     },
     {
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a powerful whirlpool pulling ships downward. As you approach, lighthouse guardians exploring the depths in search of a sunken city."
+        "encounter": ""
     },
     {
         "pos": 50,
         "terrain": "O",
-        "features": "Majestic Upwelling",
+        "features": "",
         "encounter": ""
     },
     {
@@ -321,12 +321,12 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where turtle island shamans are engaged in hunting for treasure on a deserted island around a bottle of potent seawater from a mythical spring, seemingly crucial for explore an underwater cave system to find a valuable artifact.."
+        "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
-        "features": "Ageless Atoll",
+        "features": "Silent Estuary",
         "encounter": ""
     },
     {
@@ -356,8 +356,8 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "Turbulent Shoal",
-        "encounter": ""
+        "features": "",
+        "encounter": "A sudden hissing of foam as waves recede breaks the silence, making the nearby feather boa kelp quiver."
     },
     {
         "pos": 60,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a rogue wave threatening to capsize the ship. As you contemplate a way around, you hear echoing calls of whales in the distance from the shadows."
+        "encounter": ""
     },
     {
         "pos": 62,
@@ -386,14 +386,14 @@
     {
         "pos": 64,
         "terrain": "M",
-        "features": "Spectacular Butte",
-        "encounter": "Blocked by a field of high-altitude thorn bushes, your attention is caught by the chirping of mountain grasshoppers in the sunlight. Upon investigating, you discover a concealed entrance to a treasure-filled cave system with a stack of ancient and mysterious scrolls inside."
+        "features": "Wild Butte",
+        "encounter": "The way forward is blocked by a swarm of voracious mountain locusts devouring vegetation, but you notice a well-hidden alcove high on a cliffside that might lead around it."
     },
     {
         "pos": 65,
         "terrain": "M",
-        "features": "Timeless Face",
-        "encounter": "Your way is impeded by a sudden and unpredictable mountain sinkhole. As you contemplate a way around, you hear the crackling of leaves underfoot on forest trails from the shadows."
+        "features": "Stony Pinnacle",
+        "encounter": "You encounter a herd of surefooted mountain ibex which are scaling steep cliffs in search of food."
     },
     {
         "pos": 66,
@@ -423,7 +423,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a sea serpent scale nestled among hornwort, but the unsettling feeling of guilt makes you wary."
+        "encounter": ""
     },
     {
         "pos": 71,
@@ -452,8 +452,8 @@
     {
         "pos": 75,
         "terrain": "M",
-        "features": "Isolated Butte",
-        "encounter": "Peering through the dense a field of cotton plants with fluffy bolls at high altitudes, you catch sight of a weathered and ancient treasure map. But be cautious, the rhythmic clinking of rocks as they tumble down slopes suggest a clan of mountain dwarves working in their underground city are near."
+        "features": "Snowy Cliff",
+        "encounter": "You feel excitement as the distant barking of a vigilant mountain dog echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 76,
@@ -465,7 +465,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to slay a marauding sea monster terrorizing coastal villages.. But be wary, for giant sea turtles lurk nearby."
+        "encounter": ""
     },
     {
         "pos": 78,
@@ -495,12 +495,12 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Ship-eating barnacles emerge from the an underwater whirlpool leading to a hidden realm, their intent focused on a pirate's cutlass with an ornate hilt."
+        "encounter": "Your path is illuminated by the glint of a merfolk's enchanted harp. However, floating market traders stand guard, their intentions unknown."
     },
     {
         "pos": 83,
         "terrain": "O",
-        "features": "Inviting Reef",
+        "features": "",
         "encounter": ""
     },
     {
@@ -512,14 +512,14 @@
     {
         "pos": 85,
         "terrain": "H",
-        "features": "Weathered Terrace",
-        "encounter": "A path surrounded by sparse patches of desert scrub leads to a clearing with a crumbling and abandoned bridge, indicating giant eagles nesting in high cliffs and peaks have been here."
+        "features": "Sunlit Tumulus",
+        "encounter": "Your way is impeded by a massive, ancient burial mound. As you contemplate a way around, you hear the gentle splashing of water in a hillside stream from the shadows."
     },
     {
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by an eerie, ghostly ship blocking the path. As you contemplate a way around, you hear murmuring of merfolk singing in harmony from the shadows."
+        "encounter": ""
     },
     {
         "pos": 87,
@@ -530,7 +530,7 @@
     {
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious Ocean",
         "encounter": ""
     },
     {
@@ -542,7 +542,7 @@
     {
         "pos": 90,
         "terrain": "O",
-        "features": "Unfathomable Flats",
+        "features": "",
         "encounter": ""
     },
     {
@@ -567,7 +567,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant crackling of underwater lava flows draws your attention. Following it, you discover a skeleton clutching a rusted cutlass on the seabed of a past event."
     },
     {
         "pos": 95,
@@ -584,14 +584,14 @@
     {
         "pos": 97,
         "terrain": "O",
-        "features": "Immeasurable Tide",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a massive, drifting iceberg with hidden dangers, your attention is caught by rustling of parchment as a map is unfurled. Upon investigating, you discover a camouflaged underwater camouflage net used by merfolk with a ship's sextant for celestial navigation inside."
+        "encounter": ""
     },
     {
         "pos": 99,

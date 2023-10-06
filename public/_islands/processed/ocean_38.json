@@ -44,7 +44,7 @@
     {
         "pos": 7,
         "terrain": "O",
-        "features": "Boundless Atoll",
+        "features": "",
         "encounter": ""
     },
     {
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel dread as chattering of crabs on a rocky shore echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 12,
@@ -80,7 +80,7 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Rippling Basin",
+        "features": "Glistening Ocean",
         "encounter": ""
     },
     {
@@ -93,7 +93,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of salty scent of a mermaid's hair. You feel a sense of panic."
     },
     {
         "pos": 16,
@@ -122,7 +122,7 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Windswept Delta",
+        "features": "",
         "encounter": ""
     },
     {
@@ -152,7 +152,7 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Delta",
         "encounter": ""
     },
     {
@@ -164,13 +164,13 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
-        "encounter": "A distant cracking of icebergs in frigid waters draws your attention. Following it, you discover the remnants of a ship's broken mast of a past event."
+        "features": "Majestic Tide",
+        "encounter": ""
     },
     {
         "pos": 28,
         "terrain": "O",
-        "features": "Radiant Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -183,7 +183,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a torn and faded pirate's treasure map lie scattered, painting a tale of underwater miners that trading secrets with a wandering hermit."
+        "encounter": ""
     },
     {
         "pos": 31,
@@ -200,14 +200,14 @@
     {
         "pos": 33,
         "terrain": "O",
-        "features": "",
-        "encounter": "Hidden among seagrass meadows, you spot a captured sea serpent's egg glinting in the sunlight."
+        "features": "Mysterious Main",
+        "encounter": ""
     },
     {
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about recover a stolen, enchanted pearl necklace for a heartbroken mermaid., you're startled by buzzing of insects near a coastal marsh. It seems water elementals are near."
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -237,7 +237,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it smoky scent of grilled seafood. You spot kraken that seem to be engaging in a sea battle with rival pirates."
+        "encounter": "You're guided by the soft chattering of crabs on a rocky shore. As you follow, you encounter underwater miners in the midst of building a coral fortress."
     },
     {
         "pos": 40,
@@ -272,7 +272,7 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Abyss",
         "encounter": ""
     },
     {
@@ -284,7 +284,7 @@
     {
         "pos": 47,
         "terrain": "O",
-        "features": "Limitless Tidal Pool",
+        "features": "",
         "encounter": ""
     },
     {
@@ -320,13 +320,13 @@
     {
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless Mangrove",
         "encounter": ""
     },
     {
         "pos": 54,
         "terrain": "O",
-        "features": "Vast Depression",
+        "features": "",
         "encounter": ""
     },
     {
@@ -351,7 +351,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about navigate a treacherous coral maze to reach a hidden oasis., you're startled by buzzing of bioluminescent creatures in the depths. It seems kraken are near."
+        "encounter": ""
     },
     {
         "pos": 59,
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and pounding of heavy rain during a monsoon grow louder. It seems shipwreck goblins are on the move."
     },
     {
         "pos": 64,
@@ -410,20 +410,20 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "Epic Inlet",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 69,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Glistening Current",
+        "encounter": "A sudden gust brings with it salty scent of a mermaid's hair. You spot ship-eating barnacles that seem to be collecting rare and magical seashells."
     },
     {
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Navigating through a mysterious, enchanted mist causing disorientation, you're surprised to find a sunken, ghostly ship hidden in a fog bank filled with a damaged, half-buried treasure map scroll.As you journey forward, you come across a treasure chest full of cursed gold, with traces of smoky scent of grilled seafood around them."
     },
     {
         "pos": 71,
@@ -458,8 +458,8 @@
     {
         "pos": 76,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your senses are overwhelmed by relief as you uncover a merfolk's enchanted harp hidden within red calcareous algae."
+        "features": "Vast Abyss",
+        "encounter": ""
     },
     {
         "pos": 77,
@@ -471,7 +471,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a haunted shipwreck with vengeful spirits. As you approach, kraken raising a sunken ship from the depths."
     },
     {
         "pos": 79,
@@ -513,7 +513,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter dolphin companions which are singing haunting songs to lure sailors."
+        "encounter": "Your senses are overwhelmed by anxiety as you uncover a seashell amulet that grants water-breathing hidden within red algae beds."
     },
     {
         "pos": 86,
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of mildewed scent of an old shipwreck. You feel a sense of anger."
     },
     {
         "pos": 88,
@@ -549,12 +549,12 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense caulerpa seaweed, you catch sight of a ship's logbook with a mysterious route. But be cautious, splintering of wood as a shipwreck breaks apart suggest cursed ship captains are near."
     },
     {
         "pos": 92,
         "terrain": "O",
-        "features": "Limitless Channel",
+        "features": "",
         "encounter": ""
     },
     {
@@ -590,7 +590,7 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted Fjord",
         "encounter": ""
     },
     {

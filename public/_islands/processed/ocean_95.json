@@ -2,7 +2,7 @@
     {
         "pos": 0,
         "terrain": "O",
-        "features": "Moonlit Isle",
+        "features": "",
         "encounter": ""
     },
     {
@@ -14,7 +14,7 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Tranquil Swirl",
+        "features": "",
         "encounter": ""
     },
     {
@@ -27,25 +27,25 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of humming of a powerful sea enchantment is accompanied by the distinct aroma of damp, earthy smell of a rocky shore. It seems cursed ship captains are involved in harvesting pearls from giant clams."
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Vortex",
         "encounter": ""
     },
     {
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a broken ship's mast jutting out of the water lie scattered, painting a tale of underwater miners that escaping from the clutches of a kraken."
+        "encounter": ""
     },
     {
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You come across the remnants of a sunken sea monster's scale of an old campsite, the scent of aromatic spices from a seaside market still lingering."
     },
     {
         "pos": 8,
@@ -57,7 +57,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by codium seaweed leads to a clearing with a partially buried, broken spyglass, indicating ghost ships have been here."
+        "encounter": ""
     },
     {
         "pos": 10,
@@ -68,7 +68,7 @@
     {
         "pos": 11,
         "terrain": "O",
-        "features": "Endless Inlet",
+        "features": "",
         "encounter": ""
     },
     {
@@ -80,7 +80,7 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "Epic Inlet",
+        "features": "",
         "encounter": ""
     },
     {
@@ -104,8 +104,8 @@
     {
         "pos": 17,
         "terrain": "O",
-        "features": "",
-        "encounter": "Ahead, there is an eerie, ghostly ship blocking the path blocking your path. Perhaps it's related to your quest to escort a valuable cargo of precious gems through pirate-infested waters.."
+        "features": "Dense Passage",
+        "encounter": ""
     },
     {
         "pos": 18,
@@ -116,14 +116,14 @@
     {
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal-clear Estuary",
         "encounter": ""
     },
     {
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through treacherous rocks just below the surface, you're surprised to find a sunken temple accessible only by solving a riddle filled with the remnants of a merfolk's forgotten treasure.As you journey forward, you come across a bottle of rare and potent mermaid tears, with traces of scent of freshly caught lobster and crab around them."
+        "encounter": ""
     },
     {
         "pos": 21,
@@ -140,8 +140,8 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "Luminous Rift",
-        "encounter": "Among the dense sea palm kelp, you discover a magical conch shell that can summon sea creatures. You can't shake the feeling of grief."
+        "features": "Vast Maelstrom",
+        "encounter": ""
     },
     {
         "pos": 24,
@@ -206,8 +206,8 @@
     {
         "pos": 34,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden chattering of crabs on a rocky shore breaks the silence, making the nearby underwater mangrove roots quiver."
+        "features": "Breathtaking Mangrove",
+        "encounter": ""
     },
     {
         "pos": 35,
@@ -218,7 +218,7 @@
     {
         "pos": 36,
         "terrain": "O",
-        "features": "Sapphire Plateau",
+        "features": "Surging Rise",
         "encounter": ""
     },
     {
@@ -242,7 +242,7 @@
     {
         "pos": 40,
         "terrain": "O",
-        "features": "Glistening Kelp Forest",
+        "features": "",
         "encounter": ""
     },
     {
@@ -272,14 +272,14 @@
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless Delta",
         "encounter": ""
     },
     {
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among sponge colonies, you spot a pirate's cutlass with an ornate hilt glinting in the sunlight."
+        "encounter": ""
     },
     {
         "pos": 47,
@@ -297,13 +297,13 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your path is illuminated by the glint of a bottle of potent seawater from a mythical spring. However, ship-eating barnacles stand guard, their intentions unknown."
     },
     {
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a coral reef with sharp, hidden edges. As you contemplate a way around, you hear hissing of foam as waves recede from the shadows."
+        "encounter": ""
     },
     {
         "pos": 51,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon barnacle-covered remnants of a wooden chest indicating past battles."
     },
     {
         "pos": 56,
@@ -344,7 +344,7 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Calm Narrows",
+        "features": "",
         "encounter": ""
     },
     {
@@ -356,7 +356,7 @@
     {
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled Jetty",
         "encounter": ""
     },
     {
@@ -404,7 +404,7 @@
     {
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Rise",
         "encounter": ""
     },
     {
@@ -416,7 +416,7 @@
     {
         "pos": 69,
         "terrain": "O",
-        "features": "Glistening Surf",
+        "features": "",
         "encounter": ""
     },
     {
@@ -453,7 +453,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by anticipation as you uncover a treasure chest full of cursed gold hidden within thick beds of eelgrass."
     },
     {
         "pos": 76,
@@ -506,13 +506,13 @@
     {
         "pos": 84,
         "terrain": "O",
-        "features": "Radiant Spring",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 85,
         "terrain": "O",
-        "features": "Untamed Depression",
+        "features": "",
         "encounter": ""
     },
     {
@@ -525,7 +525,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "With solve the mystery of a cursed shipwreck and its crew's fate. On your mind, the sudden appearance of treacherous rocks just below the surface accompanied by pounding of heavy rain during a monsoon becomes a challenging diversion."
     },
     {
         "pos": 88,
@@ -543,7 +543,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by mermaid's hair algae leads to a clearing with a damaged, half-buried treasure map scroll, indicating seafaring druids have been here."
     },
     {
         "pos": 91,
@@ -590,7 +590,7 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "Pristine Marina",
+        "features": "",
         "encounter": ""
     },
     {

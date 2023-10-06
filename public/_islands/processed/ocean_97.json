@@ -14,13 +14,13 @@
     {
         "pos": 2,
         "terrain": "O",
-        "features": "Immeasurable Expanse",
-        "encounter": ""
+        "features": "",
+        "encounter": "The ground is littered with the remnants of a coral-encrusted treasure chest. It appears cursed ship captains were here recently."
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "Timeless Bight",
+        "features": "",
         "encounter": ""
     },
     {
@@ -32,7 +32,7 @@
     {
         "pos": 5,
         "terrain": "O",
-        "features": "Crystal-clear Rift",
+        "features": "",
         "encounter": ""
     },
     {
@@ -51,7 +51,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You spot a ship's logbook with a mysterious route nestled among floating mats of sargassum seaweed, but the unsettling feeling of nostalgia makes you wary."
     },
     {
         "pos": 9,
@@ -69,19 +69,19 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a massive, drifting iceberg with hidden dangers makes it difficult to proceed. Perhaps the underwater nomads nearby can help."
     },
     {
         "pos": 12,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Uncharted Edifice",
+        "encounter": "Surrounded by thick beds of eelgrass, a series of a hidden cave filled with glowing sea crystals reveal traces of the remnants of a mermaid's lost jewelry, and the distant clanging of bells on a buoy in choppy waters hint at more to discover."
     },
     {
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft thudding of footsteps on a wooden dock. As you follow, you encounter shipwreck goblins in the midst of summoning a tidal wave to defend their territory."
+        "encounter": "Surrounded by red grape algae, a series of a concealed cavern within a towering underwater cliff reveal traces of the remnants of a sunken merchant ship's cargo, and the distant sloshing of water in a mermaid's bathtub hint at more to discover."
     },
     {
         "pos": 14,
@@ -92,13 +92,13 @@
     {
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious Flats",
         "encounter": ""
     },
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Sandbank",
         "encounter": ""
     },
     {
@@ -110,8 +110,8 @@
     {
         "pos": 18,
         "terrain": "O",
-        "features": "",
-        "encounter": "Merfolk emerge from the a treasure cache buried in the sand on a deserted island, their intent focused on a piece of driftwood with an ancient carving."
+        "features": "Murmuring Kelp Forest",
+        "encounter": ""
     },
     {
         "pos": 19,
@@ -122,7 +122,7 @@
     {
         "pos": 20,
         "terrain": "O",
-        "features": "Mesmerizing Tide",
+        "features": "",
         "encounter": ""
     },
     {
@@ -153,7 +153,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where underwater miners are engaged in exploring a mysterious underwater cave around a mysterious, glowing underwater crystal, seemingly crucial for slay a marauding sea monster terrorizing coastal villages.."
+        "encounter": ""
     },
     {
         "pos": 26,
@@ -164,7 +164,7 @@
     {
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Passage",
         "encounter": ""
     },
     {
@@ -182,7 +182,7 @@
     {
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Haven",
         "encounter": ""
     },
     {
@@ -201,7 +201,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Kelpie emerge from the a sunken temple accessible only by solving a riddle, their intent focused on a treasure chest full of cursed gold."
     },
     {
         "pos": 34,
@@ -225,7 +225,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of tattered fragments of a sunken pirate flag suggests that sirens have passed through here on a quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.."
+        "encounter": ""
     },
     {
         "pos": 38,
@@ -297,7 +297,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "The sponge colonies rustles, revealing underwater nomads that are taming and riding sea turtles."
+        "encounter": ""
     },
     {
         "pos": 50,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "With uncover the truth behind a series of strange underwater disappearances. On your mind, the sudden appearance of a colony of hostile merfolk guarding their territory accompanied by seagulls cawing in the distance becomes a challenging diversion."
+        "encounter": ""
     },
     {
         "pos": 56,
@@ -344,20 +344,20 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "Sweeping Trench",
-        "encounter": ""
+        "features": "",
+        "encounter": "You see a bottle of enchanted ink for writing underwater that could be useful in your quest to help a stranded sea serpent find its way back to the open sea.. But it's guarded by dolphin companions."
     },
     {
         "pos": 58,
         "terrain": "O",
-        "features": "Glistening Jetty",
+        "features": "",
         "encounter": ""
     },
     {
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense tube worms near hydrothermal vents, you catch sight of a preserved mermaid tail. But be cautious, rattling of pebbles in the surf suggest whirlpool spirits are near."
     },
     {
         "pos": 60,
@@ -399,7 +399,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden rustling of parchment as a map is unfurled breaks the silence, making the nearby red grape algae quiver."
+        "encounter": ""
     },
     {
         "pos": 67,
@@ -410,7 +410,7 @@
     {
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Wave",
         "encounter": ""
     },
     {
@@ -422,7 +422,7 @@
     {
         "pos": 70,
         "terrain": "O",
-        "features": "Lonely Drop-off",
+        "features": "",
         "encounter": ""
     },
     {
@@ -470,7 +470,7 @@
     {
         "pos": 78,
         "terrain": "O",
-        "features": "Soothing Current",
+        "features": "",
         "encounter": ""
     },
     {
@@ -500,13 +500,13 @@
     {
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Spring",
         "encounter": ""
     },
     {
         "pos": 84,
         "terrain": "O",
-        "features": "Rippling Fathom",
+        "features": "",
         "encounter": ""
     },
     {
@@ -537,7 +537,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a waterlogged chest with its lid ajar that tell a story of a time when sarcastic cephalopod pursued navigate a treacherous coral maze to reach a hidden oasis.."
     },
     {
         "pos": 90,
@@ -560,7 +560,7 @@
     {
         "pos": 93,
         "terrain": "O",
-        "features": "Vibrant Seamount",
+        "features": "",
         "encounter": ""
     },
     {
@@ -572,7 +572,7 @@
     {
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Tide",
         "encounter": ""
     },
     {
@@ -590,13 +590,13 @@
     {
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Edifice",
         "encounter": ""
     },
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Shoal",
         "encounter": ""
     }
 ]
