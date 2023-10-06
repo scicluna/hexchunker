@@ -20,19 +20,19 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Drop-off",
         "encounter": ""
     },
     {
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear rustling of seaweed in the currents coming from an underwater whirlpool leading to a hidden realm."
     },
     {
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Plateau",
         "encounter": ""
     },
     {
@@ -56,7 +56,7 @@
     {
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Reef",
         "encounter": ""
     },
     {
@@ -86,8 +86,8 @@
     {
         "pos": 14,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Majestic Kelp Forest",
+        "encounter": "Strange a shattered, half-buried bottle with a message inside lie scattered, painting a tale of coral golems that solving a riddle from an ancient sea scroll."
     },
     {
         "pos": 15,
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Cove",
         "encounter": ""
     },
     {
@@ -140,7 +140,7 @@
     {
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Expanse",
         "encounter": ""
     },
     {
@@ -170,13 +170,13 @@
     {
         "pos": 28,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Sapphire Swirl",
+        "encounter": "You notice brown algae forests moving subtly. Upon closer inspection, you see octopus oracles that are protecting a ship from ghostly apparitions."
     },
     {
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Trench",
         "encounter": ""
     },
     {
@@ -201,18 +201,18 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground trembles slightly, and murmuring of merfolk singing in harmony grow louder. It seems crystal reef dwellers are on the move."
     },
     {
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The presence of a deadly, bioluminescent sea creature swarm makes it difficult to proceed. Perhaps the storm giants nearby can help."
     },
     {
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Undercurrent",
         "encounter": ""
     },
     {
@@ -230,13 +230,13 @@
     {
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Expanse",
         "encounter": ""
     },
     {
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Harbor",
         "encounter": ""
     },
     {
@@ -279,7 +279,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Peering through the dense giant kelp with air-filled bladders, you catch sight of a bottle of enchanted ink for writing underwater. But be cautious, echoing calls of whales in the distance suggest coral golems are near."
     },
     {
         "pos": 47,
@@ -381,7 +381,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden rustling of seaweed swaying in the current breaks the silence, making the nearby brown algae forests quiver."
     },
     {
         "pos": 64,
@@ -392,7 +392,7 @@
     {
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Wave",
         "encounter": ""
     },
     {
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The ground is littered with an abandoned lifeboat adrift on the waves. It appears mermen were here recently."
     },
     {
         "pos": 68,
@@ -434,13 +434,13 @@
     {
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Current",
         "encounter": ""
     },
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Ridge",
         "encounter": ""
     },
     {
@@ -536,7 +536,7 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled Ridge",
         "encounter": ""
     },
     {
@@ -548,7 +548,7 @@
     {
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Flats",
         "encounter": ""
     },
     {
@@ -596,7 +596,7 @@
     {
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Narrows",
         "encounter": ""
     }
 ]

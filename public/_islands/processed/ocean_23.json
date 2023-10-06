@@ -8,7 +8,7 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Seabed",
         "encounter": ""
     },
     {
@@ -20,7 +20,7 @@
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Kelp Forest",
         "encounter": ""
     },
     {
@@ -80,8 +80,8 @@
     {
         "pos": 13,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Nautical Inlet",
+        "encounter": "Your senses are overwhelmed by sadness as you uncover a sunken ship's anchor hidden within bubbling hot seawater vents."
     },
     {
         "pos": 14,
@@ -98,7 +98,7 @@
     {
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing Bay",
         "encounter": ""
     },
     {
@@ -134,7 +134,7 @@
     {
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Fathom",
         "encounter": ""
     },
     {
@@ -171,7 +171,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter giant clams which are guarding a hidden cove filled with stolen treasure."
     },
     {
         "pos": 29,
@@ -183,13 +183,13 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A sudden gust brings with it scent of coconut oil and sunscreen. You spot sea anemone sorcerers that seem to be taming and riding sea turtles."
     },
     {
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The air is filled with the smell of rotten-egg odor of sulfur from underwater vents. You feel a sense of loneliness."
     },
     {
         "pos": 32,
@@ -213,7 +213,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Among the dense mangrove prop roots, you discover a seafarer's journal filled with tales of adventure. You can't shake the feeling of pride."
     },
     {
         "pos": 36,
@@ -237,7 +237,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A mysterious scent of freshly caught lobster and crab envelops you, drawing you towards a sunken shipwreck beneath a coral reef where sea dragons are raiding a coastal village for supplies."
     },
     {
         "pos": 40,
@@ -260,7 +260,7 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Ocean",
         "encounter": ""
     },
     {
@@ -279,7 +279,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You stumble upon a scene where selkies are engaged in hunting for treasure on a deserted island around a shipwrecked chest filled with gold coins, seemingly crucial for deliver a shipment of rare spices to a distant island market.."
     },
     {
         "pos": 47,
@@ -369,7 +369,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover barnacle-covered remnants of a wooden chest that tell a story of a time when underwater nomads pursued search for a hidden cove rumored to contain pirate treasure.."
     },
     {
         "pos": 62,
@@ -417,7 +417,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "An eerie rustling of seaweed in the currents resonates from a hidden treasure map etched into a ship's hull, and the scent of freshly caught fish on a fishing boat fills the air."
     },
     {
         "pos": 70,
@@ -440,14 +440,14 @@
     {
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Expanse",
         "encounter": ""
     },
     {
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You uncover a ship's figurehead washed ashore that tell a story of a time when cursed mermaids pursued deliver a mysterious message to a reclusive island hermit.."
     },
     {
         "pos": 75,
@@ -464,14 +464,14 @@
     {
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Rise",
         "encounter": ""
     },
     {
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a treacherous, narrow strait with strong currents. As you approach, sea serpents summoning a tidal wave to defend their territory."
     },
     {
         "pos": 79,
@@ -488,8 +488,8 @@
     {
         "pos": 81,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Soothing Swirl",
+        "encounter": "Among the dense red grape algae, you discover a ship's cannon with ornate engravings. You can't shake the feeling of forgiveness."
     },
     {
         "pos": 82,
@@ -507,7 +507,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Cursed mermaids emerge from the a hidden pirate's tunnel behind a cascading waterfall, their intent focused on a captured sea serpent's egg."
     },
     {
         "pos": 85,
@@ -536,14 +536,14 @@
     {
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Ridge",
         "encounter": ""
     },
     {
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant murmuring of merfolk singing in harmony draws your attention. Following it, you discover the remnants of a fishing net tangled in the coral of a past event."
     },
     {
         "pos": 91,

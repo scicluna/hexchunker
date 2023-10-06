@@ -67,7 +67,7 @@ def generate_island(width, height):
             distance_to_center = math.sqrt((x - center_x)**2 + (y - center_y)**2)
             threshold = 0.3 + distance_to_center / width * 0.5
             if n > threshold:
-                island_map[y][x] = 'P' if n < 0.5 else ('H' if n < 0.65 else 'M')
+                island_map[y][x] = 'P' if n < 0.5 else ('H' if n < 0.58 else 'M')
 
     # Add forests
     for y in range(height):

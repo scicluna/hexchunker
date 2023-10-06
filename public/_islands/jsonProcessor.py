@@ -1,5 +1,7 @@
 import json
 import os
+from featureCombos import random_feature
+from encounterCombos import random_encounter
 
 def text_to_json():
     raw_directory = "./public/_islands/raw/"
@@ -23,8 +25,8 @@ def text_to_json():
                     json_content.append({
                         "pos": j*10+i,
                         "terrain": char,
-                        "features": "",
-                        "encounter": ""
+                        "features": random_feature(char),
+                        "encounter": random_encounter(char)
                     })
             
             # Save the JSON to the processed directory

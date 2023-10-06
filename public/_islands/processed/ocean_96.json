@@ -8,32 +8,32 @@
     {
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Silent Sound",
         "encounter": ""
     },
     {
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Epic Upwelling",
         "encounter": ""
     },
     {
         "pos": 3,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed Tidal Pool",
         "encounter": ""
     },
     {
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant clanging of bells on a buoy in choppy waters draws your attention. Following it, you discover the remnants of a coral-encrusted treasure chest of a past event."
     },
     {
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You hear hollow echoes in an underwater cavern coming from a concealed chamber within a massive sponge."
     },
     {
         "pos": 6,
@@ -69,7 +69,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You feel loneliness as clanging of bells on a buoy in choppy waters echo in the distance. Perhaps it's a sign of what's to come."
     },
     {
         "pos": 12,
@@ -152,14 +152,14 @@
     {
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Fathom",
         "encounter": ""
     },
     {
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A distant splintering of wood as a shipwreck breaks apart draws your attention. Following it, you discover the remnants of a coral-encrusted treasure chest of a past event."
     },
     {
         "pos": 27,
@@ -183,7 +183,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Strange a beached rowboat with a broken oar lie scattered, painting a tale of seafaring druids that protecting their underwater city from intruders."
     },
     {
         "pos": 31,
@@ -194,7 +194,7 @@
     {
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Undercurrent",
         "encounter": ""
     },
     {
@@ -219,13 +219,13 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "A path surrounded by mermaid's hair algae leads to a clearing with a damaged sextant with a cracked lens, indicating cursed ship captains have been here."
     },
     {
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You encounter sea witches which are wreaking havoc on passing ships."
     },
     {
         "pos": 38,
@@ -260,19 +260,19 @@
     {
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring Reef",
         "encounter": ""
     },
     {
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You find a hint leading you to help a stranded sailor repair their ship and return home.. But be wary, for kelpie lurk nearby."
     },
     {
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Rift",
         "encounter": ""
     },
     {
@@ -308,8 +308,8 @@
     {
         "pos": 51,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Reflective Swirl",
+        "encounter": "The ground trembles slightly, and rustling of seaweed swaying in the current grow louder. It seems whirlpool spirits are on the move."
     },
     {
         "pos": 52,
@@ -333,7 +333,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You notice colorful coral polyps moving subtly. Upon closer inspection, you see whirlpool spirits that are trading secrets with a wandering hermit."
     },
     {
         "pos": 56,
@@ -344,8 +344,8 @@
     {
         "pos": 57,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Beckoning Trench",
+        "encounter": "Your senses are overwhelmed by euphoria as you uncover a sea serpent scale hidden within sponge colonies."
     },
     {
         "pos": 58,
@@ -362,13 +362,13 @@
     {
         "pos": 60,
         "terrain": "O",
-        "features": "",
-        "encounter": ""
+        "features": "Moonlit Trench",
+        "encounter": "The ground trembles slightly, and clanging of bells on a buoy in choppy waters grow louder. It seems water elementals are on the move."
     },
     {
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing Undercurrent",
         "encounter": ""
     },
     {
@@ -387,7 +387,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Surrounded by bubbling hot seawater vents, a series of a concealed treasure chest within a submerged statue reveal traces of a torn and waterlogged book of sea legends, and the distant hissing of foam as waves recede hint at more to discover."
     },
     {
         "pos": 65,
@@ -405,7 +405,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "You see a seafarer's journal filled with tales of adventure that could be useful in your quest to navigate treacherous waters to find a legendary fishing spot.. But it's guarded by seafaring druids."
     },
     {
         "pos": 68,
@@ -428,20 +428,20 @@
     {
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Atoll",
         "encounter": ""
     },
     {
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "The whisper of booming of waves in a hidden sea cave is accompanied by the distinct aroma of sun-warmed sand. It seems giant clams are involved in harvesting pearls from giant clams."
     },
     {
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your journey leads you to a a massive, floating tree trunk in the ship's path. As you approach, pirates convincing a shipwrecked sailor to join their crew."
     },
     {
         "pos": 74,
@@ -476,7 +476,7 @@
     {
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Flats",
         "encounter": ""
     },
     {
@@ -591,7 +591,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": ""
+        "encounter": "Your senses are overwhelmed by joy as you uncover a bottle of potent seawater from a mythical spring hidden within brown algae forests."
     },
     {
         "pos": 99,
