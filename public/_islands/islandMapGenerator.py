@@ -59,14 +59,15 @@ def generate_island(width, height):
     has_town = False
 
     # Generate basic island shape using Perlin noise
+    base = random.randint(0, 10000)
     for y in range(height):
         for x in range(width):
-            n = noise.pnoise2(x * scale_x, y * scale_y, octaves=2, persistence=0.5, lacunarity=2.0, repeatx=1024, repeaty=1024, base=42)
+            n = noise.pnoise2(x * scale_x, y * scale_y, octaves=2, persistence=0.5, lacunarity=2.0, repeatx=1024, repeaty=1024, base=base)
             n = (n + 1) / 2.0  # Normalize noise value
             distance_to_center = math.sqrt((x - center_x)**2 + (y - center_y)**2)
             threshold = 0.3 + distance_to_center / width * 0.5
             if n > threshold:
-                island_map[y][x] = 'P' if n < 0.5 else ('H' if n < 0.7 else 'M')
+                island_map[y][x] = 'P' if n < 0.5 else ('H' if n < 0.65 else 'M')
 
     # Add forests
     for y in range(height):

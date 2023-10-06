@@ -115,7 +115,7 @@
     },
     {
         "pos": 19,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
@@ -139,13 +139,13 @@
     },
     {
         "pos": 23,
-        "terrain": "F",
+        "terrain": "T",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 24,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
@@ -187,7 +187,7 @@
     },
     {
         "pos": 31,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
@@ -199,19 +199,19 @@
     },
     {
         "pos": 33,
-        "terrain": "P",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 34,
-        "terrain": "P",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 35,
-        "terrain": "O",
+        "terrain": "P",
         "features": "",
         "encounter": ""
     },
@@ -241,7 +241,7 @@
     },
     {
         "pos": 40,
-        "terrain": "H",
+        "terrain": "O",
         "features": "",
         "encounter": ""
     },
@@ -253,19 +253,19 @@
     },
     {
         "pos": 42,
-        "terrain": "H",
+        "terrain": "P",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 43,
-        "terrain": "H",
+        "terrain": "F",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 44,
-        "terrain": "H",
+        "terrain": "F",
         "features": "",
         "encounter": ""
     },
@@ -277,19 +277,19 @@
     },
     {
         "pos": 46,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 47,
-        "terrain": "P",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 48,
-        "terrain": "H",
+        "terrain": "M",
         "features": "",
         "encounter": ""
     },
@@ -313,19 +313,19 @@
     },
     {
         "pos": 52,
-        "terrain": "H",
+        "terrain": "P",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 53,
-        "terrain": "H",
+        "terrain": "P",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 54,
-        "terrain": "H",
+        "terrain": "F",
         "features": "",
         "encounter": ""
     },
@@ -337,19 +337,19 @@
     },
     {
         "pos": 56,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 57,
-        "terrain": "F",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 58,
-        "terrain": "H",
+        "terrain": "M",
         "features": "",
         "encounter": ""
     },
@@ -367,7 +367,7 @@
     },
     {
         "pos": 61,
-        "terrain": "H",
+        "terrain": "O",
         "features": "",
         "encounter": ""
     },
@@ -379,19 +379,19 @@
     },
     {
         "pos": 63,
-        "terrain": "H",
+        "terrain": "P",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 64,
-        "terrain": "H",
+        "terrain": "O",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 65,
-        "terrain": "H",
+        "terrain": "O",
         "features": "",
         "encounter": ""
     },
@@ -403,7 +403,7 @@
     },
     {
         "pos": 67,
-        "terrain": "P",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
@@ -415,7 +415,7 @@
     },
     {
         "pos": 69,
-        "terrain": "H",
+        "terrain": "O",
         "features": "",
         "encounter": ""
     },
@@ -433,31 +433,31 @@
     },
     {
         "pos": 72,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 73,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 74,
-        "terrain": "P",
+        "terrain": "F",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 75,
-        "terrain": "P",
+        "terrain": "O",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 76,
-        "terrain": "H",
+        "terrain": "F",
         "features": "",
         "encounter": ""
     },
@@ -493,13 +493,13 @@
     },
     {
         "pos": 82,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 83,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
@@ -511,7 +511,7 @@
     },
     {
         "pos": 85,
-        "terrain": "H",
+        "terrain": "O",
         "features": "",
         "encounter": ""
     },
@@ -529,7 +529,7 @@
     },
     {
         "pos": 88,
-        "terrain": "M",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
@@ -577,25 +577,25 @@
     },
     {
         "pos": 96,
-        "terrain": "O",
+        "terrain": "H",
         "features": "",
         "encounter": ""
     },
     {
         "pos": 97,
-        "terrain": "H",
-        "features": "",
-        "encounter": ""
-    },
-    {
-        "pos": 98,
         "terrain": "O",
         "features": "",
         "encounter": ""
     },
     {
-        "pos": 99,
+        "pos": 98,
         "terrain": "H",
+        "features": "",
+        "encounter": ""
+    },
+    {
+        "pos": 99,
+        "terrain": "O",
         "features": "",
         "encounter": ""
     }

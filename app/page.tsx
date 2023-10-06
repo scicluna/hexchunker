@@ -9,7 +9,7 @@ export default async function Main() {
   console.log("chunks", islandChain.length)
 
   return (
-    <main>
+    <main className="w-fit h-fit">
       <World islandChain={islandChain} />
     </main>
   )
