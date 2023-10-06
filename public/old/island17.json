@@ -1,402 +1,702 @@
 [
     {
         "pos": 0,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 1,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 2,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Rugged Coastline,",
+        "encounter": "Roiling Sea"
     },
     {
         "pos": 3,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Verdant Knoll,",
+        "encounter": "Hilly Bandits"
     },
     {
         "pos": 4,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Spiraled Summit,",
+        "encounter": "Mountainous Dragon"
     },
     {
         "pos": 5,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Verdant Grove,",
+        "encounter": "Forested Animals"
     },
     {
         "pos": 6,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Coast Village",
+        "encounter": "Plains Nomads"
     },
     {
         "pos": 7,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 8,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": ""
     },
     {
         "pos": 9,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": "Rolling Waves"
     },
     {
         "pos": 10,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Rich Mines",
+        "encounter": "Bandit Camp"
     },
     {
         "pos": 11,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "M",
+        "feature": "Druid Circles",
+        "encounter": "Dragon Lair"
     },
     {
         "pos": 12,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Port-towns",
+        "encounter": "Wild Animals"
     },
     {
         "pos": 13,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "M",
+        "feature": "",
+        "encounter": "Nomadic Tribes"
     },
     {
         "pos": 14,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "P",
+        "feature": "crystal-clear waters",
+        "encounter": ""
     },
     {
         "pos": 15,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "rolling hills",
+        "encounter": ""
     },
     {
         "pos": 16,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "snow-capped peaks",
+        "encounter": "Roiling Waves"
     },
     {
         "pos": 17,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "ancient groves",
+        "encounter": "Dragon Lair"
     },
     {
         "pos": 18,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "trade-towns",
+        "encounter": "Stormy Seas"
     },
     {
         "pos": 19,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Ancient Ruins"
     },
     {
         "pos": 20,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Tidal Surge"
     },
     {
         "pos": 21,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Whirlpools",
+        "encounter": ""
     },
     {
         "pos": 22,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "H",
+        "feature": "Burial mounds",
+        "encounter": ""
     },
     {
         "pos": 23,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "H",
+        "feature": "Hidden caves",
+        "encounter": "turbulent waves"
     },
     {
         "pos": 24,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "H",
+        "feature": "Druid circles",
+        "encounter": "treacherous bandits"
     },
     {
         "pos": 25,
-        "terrain": "H"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Port-towns",
+        "encounter": "towering ruins"
     },
     {
         "pos": 26,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "ferocious predators"
     },
     {
         "pos": 27,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "mysterious nomads"
     },
     {
         "pos": 28,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": ""
     },
     {
         "pos": 29,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": ""
     },
     {
         "pos": 30,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Rich Mines",
+        "encounter": "Sea Monsters"
     },
     {
         "pos": 31,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Bandit Camps"
     },
     {
         "pos": 32,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Port-Towns",
+        "encounter": "Dragon Lairs"
     },
     {
         "pos": 33,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "F",
+        "feature": "",
+        "encounter": "Wild Animals"
     },
     {
         "pos": 34,
-        "terrain": "H"
+        "number": 17,
+        "terrain": "P",
+        "feature": "Burial Mounds",
+        "encounter": "Nomadic Tribes"
     },
     {
         "pos": 35,
-        "terrain": "H"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": ""
     },
     {
         "pos": 36,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Whirlpools",
+        "encounter": ""
     },
     {
         "pos": 37,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Sunken Cities",
+        "encounter": "Hilly Bandits"
     },
     {
         "pos": 38,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Scenic Lookouts",
+        "encounter": "Oceanic Monsters"
     },
     {
         "pos": 39,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Stone Formations",
+        "encounter": "Hilly Treasures"
     },
     {
         "pos": 40,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Mountain Dragons"
     },
     {
         "pos": 41,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Forest Animals"
     },
     {
         "pos": 42,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "P",
+        "feature": "Dense Reefs",
+        "encounter": "Plains Tribes"
     },
     {
         "pos": 43,
-        "terrain": "F"
+        "number": 17,
+        "terrain": "F",
+        "feature": "Mystic Lookouts",
+        "encounter": ""
     },
     {
         "pos": 44,
-        "terrain": "F"
+        "number": 17,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 45,
-        "terrain": "H"
+        "number": 17,
+        "terrain": "P",
+        "feature": "",
+        "encounter": "oceanic shipwreck"
     },
     {
         "pos": 46,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "crystal clear",
+        "encounter": "hillside bandits"
     },
     {
         "pos": 47,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "craggy cliffs",
+        "encounter": "mountain dragon"
     },
     {
         "pos": 48,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "snow-capped peaks",
+        "encounter": "forest animals"
     },
     {
         "pos": 49,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "M",
+        "feature": "towering redwoods",
+        "encounter": "plain tribes"
     },
     {
         "pos": 50,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "M",
+        "feature": "Port-Townsville",
+        "encounter": ""
     },
     {
         "pos": 51,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 52,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "raging bandits"
     },
     {
         "pos": 53,
-        "terrain": "F"
+        "number": 17,
+        "terrain": "F",
+        "feature": "Coral Reefs",
+        "encounter": "ancient ruins"
     },
     {
         "pos": 54,
-        "terrain": "F"
+        "number": 17,
+        "terrain": "F",
+        "feature": "Burial Mounds",
+        "encounter": "wild animals"
     },
     {
         "pos": 55,
-        "terrain": "H"
+        "number": 17,
+        "terrain": "P",
+        "feature": "Rich Mines",
+        "encounter": "lost travelers"
     },
     {
         "pos": 56,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "shipwrecks"
     },
     {
         "pos": 57,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Port-Towns",
+        "encounter": "mountain hermits"
     },
     {
         "pos": 58,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 59,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 60,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": "Angry Bandits"
     },
     {
         "pos": 61,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": "Mysterious Ruins"
     },
     {
         "pos": 62,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Rich Mines",
+        "encounter": "Roaming Merchants"
     },
     {
         "pos": 63,
-        "terrain": "H"
+        "number": 17,
+        "terrain": "H",
+        "feature": "Druid Circles",
+        "encounter": "Savage Animals"
     },
     {
         "pos": 64,
-        "terrain": "H"
+        "number": 17,
+        "terrain": "H",
+        "feature": "Port-Towns",
+        "encounter": "Forlorn Travelers"
     },
     {
         "pos": 65,
-        "terrain": "H"
+        "number": 17,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 66,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 67,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Submerged Ruins",
+        "encounter": "Sea monsters"
     },
     {
         "pos": 68,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Ancient Tumulus",
+        "encounter": "Bandit camps"
     },
     {
         "pos": 69,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Mystic Caverns",
+        "encounter": "Dragon lairs"
     },
     {
         "pos": 70,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Verdant Grotto",
+        "encounter": "Wild animals"
     },
     {
         "pos": 71,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Fishing Village",
+        "encounter": "Nomadic tribes"
     },
     {
         "pos": 72,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 73,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 74,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "P",
+        "feature": "serene cove",
+        "encounter": "Sea monsters"
     },
     {
         "pos": 75,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "P",
+        "feature": "craggy summit",
+        "encounter": "Bandit camps"
     },
     {
         "pos": 76,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "granite spire",
+        "encounter": "Dragon lairs"
     },
     {
         "pos": 77,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "mystical grove",
+        "encounter": "Wild animals"
     },
     {
         "pos": 78,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "port-town Arboris",
+        "encounter": "Nomadic tribes"
     },
     {
         "pos": 79,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 80,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 81,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Coral Reefs",
+        "encounter": "Oceanic Beasts"
     },
     {
         "pos": 82,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Burial Mounds",
+        "encounter": "Hillside Camp"
     },
     {
         "pos": 83,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "M",
+        "feature": "Hidden Caves",
+        "encounter": "Mountainous Lair"
     },
     {
         "pos": 84,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Ancient Trees",
+        "encounter": "Forest Beasts"
     },
     {
         "pos": 85,
-        "terrain": "P"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Port-Town",
+        "encounter": "Plains Tribes"
     },
     {
         "pos": 86,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 87,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 88,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "coral reefs",
+        "encounter": "wild bandits"
     },
     {
         "pos": 89,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "burial mounds",
+        "encounter": "sea monsters"
     },
     {
         "pos": 90,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "hidden caves",
+        "encounter": "ancient ruins"
     },
     {
         "pos": 91,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "ancient trees",
+        "encounter": "hidden groves"
     },
     {
         "pos": 92,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "port-town",
+        "encounter": "nomadic tribes"
     },
     {
         "pos": 93,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 94,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "Roaming Merchants"
     },
     {
         "pos": 95,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Migrating Whales",
+        "encounter": "Wild Animals"
     },
     {
         "pos": 96,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Mossy Rocks",
+        "encounter": "Mountain Hermit"
     },
     {
         "pos": 97,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Ancient Cavern",
+        "encounter": "Shipwreck"
     },
     {
         "pos": 98,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Dense Jungle",
+        "encounter": "Bandit Camp"
     },
     {
         "pos": 99,
-        "terrain": "O"
+        "number": 17,
+        "terrain": "O",
+        "feature": "Port-Town \"New Haven\"",
+        "encounter": ""
     }
 ]

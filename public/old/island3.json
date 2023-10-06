@@ -1,402 +1,702 @@
 [
     {
         "pos": 0,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 1,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "A large coral reef of brightly-colored fish, attracting all sorts of marine life.",
+        "encounter": ""
     },
     {
         "pos": 2,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "A tall hill with a commanding view of the surrounding area, and a mysterious stone structure at the top.",
+        "encounter": "You encounter a large coral reef of brightly-colored fish, attracting all sorts of marine life."
     },
     {
         "pos": 3,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "A steep mountain peak, home to a hidden cave with rumored treasures.",
+        "encounter": ""
     },
     {
         "pos": 4,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "An ancient tree with a knothole where a wise druid lives, giving advice to all who come to seek it.",
+        "encounter": "You come across a tall hill with a commanding view of the surrounding area. There is a mysterious stone structure at the top."
     },
     {
         "pos": 5,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "A bustling port town with a bustling market and a wide variety of ships coming in and out of the harbor.",
+        "encounter": ""
     },
     {
         "pos": 6,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "You reach a steep mountain peak. Rumors tell of a hidden cave at the top, full of treasures."
     },
     {
         "pos": 7,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 8,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "You wander through the forest and come across a large, ancient tree with a knothole. Inside the knothole is a wise druid, offering advice to all who visit."
     },
     {
         "pos": 9,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 10,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": "You encounter a bustling port town on the plains filled with people from all around. A wide variety of ships come in and out of the harbor, making the town alive with activity."
     },
     {
         "pos": 11,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 12,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 13,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 14,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 15,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 16,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 17,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 18,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 19,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 20,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 21,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 22,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 23,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 24,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 25,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 26,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 27,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 28,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 29,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 30,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 31,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 32,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 33,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 34,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 35,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 36,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 37,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 38,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 39,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 40,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 41,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 42,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 43,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 44,
-        "terrain": "H"
+        "number": 3,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 45,
-        "terrain": "H"
+        "number": 3,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 46,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 47,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 48,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 49,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 50,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 51,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 52,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 53,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 54,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "F",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 55,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 56,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 57,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 58,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 59,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 60,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 61,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 62,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 63,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 64,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "M",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 65,
-        "terrain": "P"
+        "number": 3,
+        "terrain": "H",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 66,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 67,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 68,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 69,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 70,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 71,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 72,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 73,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 74,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 75,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "P",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 76,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 77,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 78,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 79,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 80,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 81,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 82,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 83,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 84,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 85,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 86,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 87,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 88,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 89,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 90,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 91,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 92,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 93,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 94,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 95,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 96,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 97,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 98,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     },
     {
         "pos": 99,
-        "terrain": "O"
+        "number": 3,
+        "terrain": "O",
+        "feature": "",
+        "encounter": ""
     }
 ]
