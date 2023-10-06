@@ -13,8 +13,15 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      keyframes: {
+        "shimmer": {
+          "100%": {
+            "transform": "translateX(100%)"
+          }
+        }
+      }
     },
   },
-  plugins: [],
+  plugins: []
 }
 export default config

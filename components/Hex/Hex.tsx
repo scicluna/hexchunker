@@ -1,3 +1,4 @@
+"use client"
 import style from './Hex.module.css'
 import Image from 'next/image'
 import { imagePick } from '@/utils/imagePick'
@@ -21,7 +22,7 @@ export default function Hex({ tile, size, chunkSize }: HexProps) {
         } as React.CSSProperties}
             className={`relative ${style.hexagon}`} >
             <div>
-                <Image src={hexImage} alt={'map tile'} fill className='aspect-square' />
+                <Image src={hexImage} alt={'map tile'} fill className='aspect-square' unoptimized />
             </div>
         </div>
     )

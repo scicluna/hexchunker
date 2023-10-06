@@ -84,4 +84,4 @@ def generate_island(width, height):
     adjust_border_tiles(island_map, 0.75)
     return island_map
 
-generate_islands(100, 10, 10)
+generate_islands(20, 10, 10)
