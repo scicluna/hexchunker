@@ -1,4 +1,5 @@
 export type Island = {
+    chunk: number
     pos: number
     terrain: Terrain
     features: string

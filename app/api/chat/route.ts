@@ -3,6 +3,7 @@ import { Message as VercelChatMessage, StreamingTextResponse } from 'ai';
 import { ChatOpenAI } from 'langchain/chat_models/openai';
 import { BytesOutputParser } from 'langchain/schema/output_parser';
 import { PromptTemplate } from 'langchain/prompts';
+export const runtime = 'edge';
 
 const formatMessage = (message: VercelChatMessage) => {
     return `${message.role}: ${message.content}`;
@@ -23,6 +24,7 @@ AI:`;
 
 export async function POST(req: NextRequest) {
     const body = await req.json();
+    console.log(body)
     const details = body.details
     const messages = body.messages ?? [];
     const formattedPreviousMessages = messages.slice(0, -1).map(formatMessage);

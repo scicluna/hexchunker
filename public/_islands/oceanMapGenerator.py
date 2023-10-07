@@ -93,5 +93,3 @@ def generate_ocean_with_island(width, height):
 
     adjust_border_tiles(ocean_map, 0.95)  # Higher chance to convert border tiles to ocean
     return ocean_map
-
-generate_open_ocean_with_islands(100, 10, 10)

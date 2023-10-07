@@ -1,5 +1,6 @@
 import json
 import os
+import re  # Import the re module
 from featureCombos import random_feature
 from encounterCombos import random_encounter
 
@@ -14,7 +15,10 @@ def text_to_json():
     # List all text files in raw directory
     files = [f for f in os.listdir(raw_directory) if f.endswith(".txt")]
     
-    for file in files:
+    for x,file in enumerate(files):
+        # Extract the number from the filename using regex
+        chunk_number = int(re.search(r'(\d+)(?=.txt)', file).group(1))
+        
         with open(raw_directory + file, 'r') as f:
             lines = f.readlines()
             
@@ -23,6 +27,7 @@ def text_to_json():
             for j,line in enumerate(lines):
                 for i, char in enumerate(line.strip()):
                     json_content.append({
+                        "chunk": chunk_number,
                         "pos": j*10+i,
                         "terrain": char,
                         "features": random_feature(char),

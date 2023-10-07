@@ -13,7 +13,7 @@ export default function World({ islandChain }: MainStageProps) {
             {islandChain && islandChain.map((island, islandNumber) => (
                 <div className={`grid grid-cols-[repeat(10,1fr)] h-[${HEXSIZE}rem] max-w-fit gap-x-[1px]`} key={islandNumber}>
                     {island.map(tile => (
-                        <Hex tile={tile} chunkno={islandNumber} size={HEXSIZE} chunkSize={CHUNKDIMENSIONS} key={`${islandNumber + '-' + tile.pos}`} />
+                        <Hex tile={tile} chunkno={islandNumber} size={HEXSIZE} chunkSize={CHUNKDIMENSIONS} key={`${tile.chunk + '-' + tile.pos}`} />
                     ))}
                 </div>
             ))}

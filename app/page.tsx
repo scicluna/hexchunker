@@ -1,10 +1,10 @@
 import type { Island } from "@/types/islandTypes";
 import World from "@/components/World";
-import { readText } from "@/utils/readText";
+import { readJsonChunks } from "@/utils/readJsonChunks";
 
 
 export default async function Main() {
-  const islandChain: Island[][] = await readText();
+  const islandChain: Island[][] = await readJsonChunks();
   console.log("chunks", islandChain.length)
 
   return (
