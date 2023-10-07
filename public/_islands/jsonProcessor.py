@@ -26,7 +26,8 @@ def text_to_json():
                         "pos": j*10+i,
                         "terrain": char,
                         "features": random_feature(char),
-                        "encounter": random_encounter(char)
+                        "encounter": random_encounter(char),
+                        "history": []
                     })
             
             # Save the JSON to the processed directory

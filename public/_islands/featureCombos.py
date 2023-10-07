@@ -1163,7 +1163,7 @@ def random_feature(char):
     if char == "O":
         rng = random.randint(1,10)
         if rng == 10:
-            return f"{random.choice(o_adjectives)} {random.choices(o_nouns)}"
+            return f"{random.choice(o_adjectives)} {random.choice(o_nouns)}"
     if char == "P":
         return f"{random.choice(p_adjectives)} {random.choice(p_nouns)}"
     if char == "H":
