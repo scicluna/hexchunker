@@ -9,7 +9,7 @@ export default function LoadingWorld({ islandChainSize }: LoadingProps) {
     const CHUNKDIMENSIONS = 10
     const islandChain = Array.from({ length: islandChainSize }, () => Array(100).fill(""));
     return (
-        <section className="grid grid-cols-[repeat(10,1fr)]  bg-gradient-to-r from-transparent via-rose-50/10 to-transparent -translate-x-full animate-[shimmer_5s_infinite]">
+        <section className="h-fit w-fit grid grid-cols-[repeat(10,1fr)]  bg-gradient-to-r from-transparent via-rose-50/10 to-transparent -translate-x-full animate-[shimmer_1s_infinite]">
             {islandChain && islandChain.map((island, islandNumber) => (
                 <div className={`grid grid-cols-[repeat(10,1fr)] h-[${HEXSIZE}rem] max-w-fit`} key={islandNumber}>
                     {island.map((tile, i) => (
