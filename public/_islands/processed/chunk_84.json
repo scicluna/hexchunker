@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of trepidation as you tread upon the remnants of a merfolk's forgotten treasure, hinting at a tale of sea witches.",
+        "encounter": "",
         "history": []
     },
     {
@@ -19,7 +19,7 @@
         "chunk": 84,
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Spring",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 84,
         "pos": 7,
         "terrain": "O",
-        "features": "Murmuring Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a rusted anchor half-buried in the sand wind through the green string lettuce, revealing the past actions of coral golems.",
+        "encounter": "",
         "history": []
     },
     {
@@ -131,7 +131,7 @@
         "chunk": 84,
         "pos": 16,
         "terrain": "O",
-        "features": "Roaring Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -171,7 +171,7 @@
         "chunk": 84,
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Bay",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The whisper of cracking of icebergs in frigid waters is accompanied by the distinct aroma of aromatic spices from a seaside market. It seems lighthouse guardians are involved in summoning a tidal wave to defend their territory.",
         "history": []
     },
     {
@@ -235,7 +235,7 @@
         "chunk": 84,
         "pos": 29,
         "terrain": "O",
-        "features": "Sparkling Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 84,
         "pos": 31,
         "terrain": "O",
-        "features": "Raging Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sarcastic cephalopod emerge from the a hidden coral archway leading to a treasure trove, their intent focused on a ship's bell with a haunting chime.",
         "history": []
     },
     {
@@ -331,8 +331,8 @@
         "chunk": 84,
         "pos": 41,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon a scene where floating market traders are engaged in creating elaborate maps of uncharted waters around a seafarer's compass that points to hidden treasure, seemingly crucial for navigate treacherous waters to reach a hidden pirate haven..",
+        "features": "Untamed Narrows",
+        "encounter": "You find a hint leading you to deliver a mysterious message to a reclusive island hermit.. But be wary, for oceanic alchemists lurk nearby.",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "With retrieve a powerful, magical artifact from a sunken shipwreck. On your mind, the sudden appearance of a mysterious, enchanted mist causing disorientation accompanied by buzzing of insects near a coastal marsh becomes a challenging diversion.",
         "history": []
     },
     {
@@ -355,7 +355,7 @@
         "chunk": 84,
         "pos": 44,
         "terrain": "O",
-        "features": "Sapphire Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -372,22 +372,22 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a swarm of aggressive, giant jellyfish, but you notice an underwater whirlpool leading to a hidden realm that might lead around it.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 84,
         "pos": 47,
         "terrain": "O",
-        "features": "Roaring Plateau",
-        "encounter": "You feel anger as rhythmic crashing of waves on rocky cliffs echo in the distance. Perhaps it's a sign of what's to come.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 84,
         "pos": 48,
         "terrain": "O",
-        "features": "Beckoning Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -404,14 +404,14 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The crinoids on the seafloor rustles, revealing sea witches that are plotting revenge against a rival pirate captain.",
         "history": []
     },
     {
         "chunk": 84,
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable Pinnacle",
         "encounter": "",
         "history": []
     },
@@ -435,8 +435,8 @@
         "chunk": 84,
         "pos": 54,
         "terrain": "O",
-        "features": "",
-        "encounter": "Hidden among rockweed, you spot a message in a bottle glinting in the sunlight.",
+        "features": "Moonlit Current",
+        "encounter": "",
         "history": []
     },
     {
@@ -467,8 +467,8 @@
         "chunk": 84,
         "pos": 58,
         "terrain": "O",
-        "features": "",
-        "encounter": "You spot a chest of mystical sea herbs and remedies nestled among brown algae forests, but the unsettling feeling of grief makes you wary.",
+        "features": "Dense Chasm",
+        "encounter": "",
         "history": []
     },
     {
@@ -476,14 +476,14 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rustling of palm fronds in a gentle breeze is accompanied by the distinct aroma of musk of a sea lion colony. It seems sea dragons are involved in diving deep to consult with a sea oracle.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 84,
         "pos": 60,
         "terrain": "O",
-        "features": "Nautical Expanse",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 84,
         "pos": 70,
         "terrain": "O",
-        "features": "Serene Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -579,8 +579,8 @@
         "chunk": 84,
         "pos": 72,
         "terrain": "O",
-        "features": "Salty Whirlpool",
-        "encounter": "You feel admiration as thudding of footsteps on a wooden dock echo in the distance. Perhaps it's a sign of what's to come.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a ship's lantern on the seafloor of an old campsite, the scent of rotten-egg odor of sulfur from underwater vents still lingering.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey leads you to a a thick forest of kelp that entangles ships. As you approach, tidal wave elementals training sea creatures for battle.",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a piece of driftwood with an ancient carving that could be useful in your quest to investigate a series of shipwrecks caused by a vengeful ghost ship.. But it's guarded by sarcastic cephalopod.",
+        "encounter": "",
         "history": []
     },
     {
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among sea grape kelp, you spot a captured sea serpent's egg glinting in the sunlight.",
+        "encounter": "",
         "history": []
     },
     {
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the dense rockweed, you discover a kraken's tentacle as a gruesome trophy. You can't shake the feeling of grief.",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a piece of driftwood with an ancient carving that could be useful in your quest to search for a hidden cove rumored to contain pirate treasure.. But it's guarded by shipwreck goblins.",
+        "encounter": "",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel indignation as seagulls cawing in the distance echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
@@ -715,7 +715,7 @@
         "chunk": 84,
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping Shore",
         "encounter": "",
         "history": []
     },
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden clattering of seashells in the tide breaks the silence, making the nearby sponge colonies quiver.",
+        "encounter": "",
         "history": []
     },
     {
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The whisper of distant rumble of thunder during a storm is accompanied by the distinct aroma of rustic aroma of a wooden fishing boat. It seems crystal reef dwellers are involved in trading with passing merchant ships.",
         "history": []
     },
     {
@@ -795,7 +795,7 @@
         "chunk": 84,
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Passage",
         "encounter": "",
         "history": []
     }

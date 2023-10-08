@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter sea anemone sorcerers which are building a coral fortress.",
+        "encounter": "",
         "history": []
     },
     {
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "Turtle island shamans emerge from the a concealed passage leading to an underwater city, their intent focused on a ship's bell with a haunting chime.",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,8 +67,8 @@
         "chunk": 81,
         "pos": 8,
         "terrain": "O",
-        "features": "Unfathomable Trough",
-        "encounter": "You stumble upon the remnants of a fishing net tangled in the coral indicating past battles.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -99,7 +99,7 @@
         "chunk": 81,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Isle",
         "encounter": "",
         "history": []
     },
@@ -123,7 +123,7 @@
         "chunk": 81,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Pinnacle",
         "encounter": "",
         "history": []
     },
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of saltwater in the air, suggesting the presence of ghost ships.",
+        "encounter": "",
         "history": []
     },
     {
@@ -187,7 +187,7 @@
         "chunk": 81,
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted Upwelling",
         "encounter": "",
         "history": []
     },
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a ship's broken mast wind through the giant kelp with air-filled bladders, revealing the past actions of oceanic alchemists.",
+        "encounter": "",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 81,
         "pos": 28,
         "terrain": "O",
-        "features": "Calm Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a shattered, half-buried bottle with a message inside lie scattered, painting a tale of cursed ship captains that creating elaborate maps of uncharted waters.",
+        "encounter": "",
         "history": []
     },
     {
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter cursed mermaids which are creating elaborate maps of uncharted waters.",
         "history": []
     },
     {
@@ -276,14 +276,14 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to guide a group of scholars on a research expedition to the deep ocean.. But be wary, for jellyfish navigators lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 81,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable Narrows",
         "encounter": "",
         "history": []
     },
@@ -291,7 +291,7 @@
         "chunk": 81,
         "pos": 36,
         "terrain": "O",
-        "features": "Soothing Strait",
+        "features": "Nautical Harbor",
         "encounter": "",
         "history": []
     },
@@ -315,7 +315,7 @@
         "chunk": 81,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal Channel",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 81,
         "pos": 43,
         "terrain": "O",
-        "features": "Iridescent Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -379,7 +379,7 @@
         "chunk": 81,
         "pos": 47,
         "terrain": "O",
-        "features": "Picturesque Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -411,8 +411,8 @@
         "chunk": 81,
         "pos": 51,
         "terrain": "O",
-        "features": "Iridescent Main",
-        "encounter": "Your path is illuminated by the glint of a kraken's tentacle as a gruesome trophy. However, floating market traders stand guard, their intentions unknown.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -459,7 +459,7 @@
         "chunk": 81,
         "pos": 57,
         "terrain": "O",
-        "features": "Tempestuous Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -467,7 +467,7 @@
         "chunk": 81,
         "pos": 58,
         "terrain": "O",
-        "features": "Inviting Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where pirates are engaged in trading secrets with a wandering hermit around a pirate flag bearing a fearsome symbol, seemingly crucial for navigate a treacherous coral maze to reach a hidden oasis..",
+        "encounter": "",
         "history": []
     },
     {
@@ -508,30 +508,30 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "An eerie hollow echoes in an underwater cavern resonates from a labyrinthine coral labyrinth with hidden treasures, and the scent of salty scent of a mermaid's hair fills the air.",
         "history": []
     },
     {
         "chunk": 81,
         "pos": 64,
-        "terrain": "M",
-        "features": "Harsh Col",
-        "encounter": "You see a set of finely crafted pottery that could be useful in your quest to escort a group of mountain miners through treacherous terrain.. But it's guarded by a group of reclusive cloud giants in their mountain fortress.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 81,
         "pos": 65,
-        "terrain": "M",
-        "features": "Snowy Bowl",
-        "encounter": "The whisper of the chorus of birdsong welcoming the dawn is accompanied by the distinct aroma of the earthy smell of petrichor after a mountain storm. It seems a clan of centaurs known for their mountain survival skills are involved in engaging in friendly competitions and games.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 81,
         "pos": 66,
         "terrain": "O",
-        "features": "Reflective Spring",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 81,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Estuary",
         "encounter": "",
         "history": []
     },
@@ -547,7 +547,7 @@
         "chunk": 81,
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Seamount",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 81,
         "pos": 69,
         "terrain": "O",
-        "features": "Tranquil Shore",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -579,7 +579,7 @@
         "chunk": 81,
         "pos": 72,
         "terrain": "O",
-        "features": "Tumultuous Upwelling",
+        "features": "Glistening Passage",
         "encounter": "",
         "history": []
     },
@@ -595,16 +595,16 @@
         "chunk": 81,
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Inviting Upwelling",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 81,
         "pos": 75,
-        "terrain": "M",
-        "features": "Foggy Bluff",
-        "encounter": "Trails of a crumbling and half-buried mountain tower wind through the clusters of aromatic herbs in the highlands, revealing the past actions of a majestic dragon nesting high in the peaks.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant creaking of a ship's rigging in the wind draws your attention. Following it, you discover a partially buried, broken spyglass of a past event.",
+        "encounter": "",
         "history": []
     },
     {
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "From the shadows of the a concealed treasure chest buried in the sand, you sense the presence of underwater nomads.",
         "history": []
     },
     {
@@ -668,23 +668,23 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel serenity as buzzing of underwater machinery in a sunken city echo in the distance. Perhaps it's a sign of what's to come.",
         "history": []
     },
     {
         "chunk": 81,
         "pos": 84,
         "terrain": "O",
-        "features": "Surging Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 81,
         "pos": 85,
-        "terrain": "H",
-        "features": "Alluring Brae",
-        "encounter": "Deep in thought about track down a rogue mage who has disrupted the balance of nature., you're startled by the crackling of leaves underfoot in the forest. It seems a pack of elusive timberwolves are near.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter pearl diver guilds which are taming and riding sea turtles.",
         "history": []
     },
     {
@@ -763,7 +763,7 @@
         "chunk": 81,
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing Delta",
         "encounter": "",
         "history": []
     },
@@ -779,7 +779,7 @@
         "chunk": 81,
         "pos": 97,
         "terrain": "O",
-        "features": "Surging Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },

@@ -19,7 +19,7 @@
         "chunk": 100,
         "pos": 2,
         "terrain": "O",
-        "features": "Secluded Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -43,7 +43,7 @@
         "chunk": 100,
         "pos": 5,
         "terrain": "O",
-        "features": "Silent Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 100,
         "pos": 7,
         "terrain": "O",
-        "features": "Calm Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 100,
         "pos": 8,
         "terrain": "O",
-        "features": "Glistening Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense zostera seagrass, you catch sight of a chest of exotic spices from distant lands. But be cautious, clattering of seashells in the tide suggest sea serpents are near.",
         "history": []
     },
     {
@@ -115,7 +115,7 @@
         "chunk": 100,
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Upwelling",
         "encounter": "",
         "history": []
     },
@@ -123,7 +123,7 @@
         "chunk": 100,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant Sound",
         "encounter": "",
         "history": []
     },
@@ -139,7 +139,7 @@
         "chunk": 100,
         "pos": 17,
         "terrain": "O",
-        "features": "Sweeping Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Blocked by a giant maelstrom that sucks everything in, your attention is caught by distant rumble of thunder during a storm. Upon investigating, you discover a hidden cave behind a waterfall with a mysterious, glowing underwater crystal inside.",
         "history": []
     },
     {
@@ -179,7 +179,7 @@
         "chunk": 100,
         "pos": 22,
         "terrain": "O",
-        "features": "Shimmering Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a magical mermaid's mirror that reveals secrets. However, pirates stand guard, their intentions unknown.",
+        "encounter": "The presence of a monstrous sea serpent lurking beneath the surface makes it difficult to proceed. Perhaps the pirates nearby can help.",
         "history": []
     },
     {
@@ -260,14 +260,14 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a sudden, violent storm with massive waves, but you notice a concealed treasure chest buried in the sand that might lead around it.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 100,
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Atoll",
         "encounter": "",
         "history": []
     },
@@ -275,7 +275,7 @@
         "chunk": 100,
         "pos": 34,
         "terrain": "O",
-        "features": "Dense Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -300,7 +300,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "Storm giants gives you a quest to rescue a kidnapped noble from a group of pirates.In your path lies a pirate's cutlass with an ornate hilt surrounded by giant underwater mushrooms.",
+        "encounter": "",
         "history": []
     },
     {
@@ -323,7 +323,7 @@
         "chunk": 100,
         "pos": 40,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Upwelling",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 100,
         "pos": 41,
         "terrain": "O",
-        "features": "Vibrant Basin",
+        "features": "Mesmerizing Seamount",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 100,
         "pos": 45,
         "terrain": "O",
-        "features": "Unspoiled Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -419,7 +419,7 @@
         "chunk": 100,
         "pos": 52,
         "terrain": "O",
-        "features": "Majestic Sandbank",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -427,8 +427,8 @@
         "chunk": 100,
         "pos": 53,
         "terrain": "O",
-        "features": "",
-        "encounter": "Trails of the remnants of a shipwrecked sailor's journal wind through the underwater mangrove roots, revealing the past actions of selkies.",
+        "features": "Secluded Maelstrom",
+        "encounter": "Hidden among coral reefs, you spot a mermaid's singing seashell necklace glinting in the sunlight.",
         "history": []
     },
     {
@@ -444,14 +444,14 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Strange a tattered, waterlogged map of uncharted waters lie scattered, painting a tale of coral golems that trading with passing merchant ships.",
         "history": []
     },
     {
         "chunk": 100,
         "pos": 56,
         "terrain": "O",
-        "features": "Inviting Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -460,14 +460,14 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden chattering of crabs on a rocky shore breaks the silence, making the nearby sea lettuce quiver.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 100,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring Spring",
         "encounter": "",
         "history": []
     },
@@ -507,7 +507,7 @@
         "chunk": 100,
         "pos": 63,
         "terrain": "O",
-        "features": "Tempestuous Shore",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -516,15 +516,15 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant rustling of seaweed in the currents draws your attention. Following it, you discover a rusted, half-buried cutlass of a past event.",
         "history": []
     },
     {
         "chunk": 100,
         "pos": 65,
-        "terrain": "M",
-        "features": "Craggy Gully",
-        "encounter": "You see a bundle of rare and colorful feathers that could be useful in your quest to defend a remote mountain monastery from bandit attacks.. But it's guarded by a family of snow hares darting among the rocks.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "You're guided by the soft thudding of footsteps on a wooden dock. As you follow, you encounter shipwreck goblins in the midst of solving a riddle from an ancient sea scroll.",
         "history": []
     },
     {
@@ -547,7 +547,7 @@
         "chunk": 100,
         "pos": 68,
         "terrain": "O",
-        "features": "Glistening Seamount",
+        "features": "Expansive Wave",
         "encounter": "",
         "history": []
     },
@@ -571,7 +571,7 @@
         "chunk": 100,
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Gulf",
         "encounter": "",
         "history": []
     },
@@ -603,8 +603,8 @@
         "chunk": 100,
         "pos": 75,
         "terrain": "O",
-        "features": "",
-        "encounter": "With escort a fragile, magical artifact through dangerous waters. On your mind, the sudden appearance of a colony of territorial sea lions blocking passage accompanied by rhythmic crashing of waves on rocky cliffs becomes a challenging diversion.",
+        "features": "Limitless Surf",
+        "encounter": "",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is illuminated by the glint of a barnacle-covered ship's wheel. However, jellyfish navigators stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a giant, tentacled kraken blocking the way makes it difficult to proceed. Perhaps the tidal wave elementals nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 100,
         "pos": 93,
         "terrain": "O",
-        "features": "Crystal-clear Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a massive, floating tree trunk in the ship's path makes it difficult to proceed. Perhaps the underwater miners nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
@@ -787,8 +787,8 @@
         "chunk": 100,
         "pos": 98,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Crystal-clear Plateau",
+        "encounter": "A trail of a shattered, half-buried bottle with a message inside suggests that lighthouse guardians have passed through here on a quest to rescue a kidnapped noble from a group of pirates..",
         "history": []
     },
     {

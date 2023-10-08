@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Coral golems gives you a quest to escort a fragile, magical artifact through dangerous waters.In your path lies a weathered treasure map surrounded by coral reefs.",
+        "encounter": "",
         "history": []
     },
     {
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground is littered with the remnants of a ship's lantern on the seafloor. It appears turtle island shamans were here recently.",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 27,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 27,
         "pos": 8,
         "terrain": "O",
-        "features": "Picturesque Main",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel excitement as sizzling of saltwater on hot volcanic rocks echo in the distance. Perhaps it's a sign of what's to come.",
         "history": []
     },
     {
@@ -131,7 +131,7 @@
         "chunk": 27,
         "pos": 16,
         "terrain": "O",
-        "features": "Shimmering Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden gust brings with it fishy odor of the ocean depths. You spot cursed ship captains that seem to be forging alliances with other oceanic races.",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 27,
         "pos": 20,
         "terrain": "O",
-        "features": "Endless Tidal Pool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -203,7 +203,7 @@
         "chunk": 27,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Shore",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 27,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring Tide",
         "encounter": "",
         "history": []
     },
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden sizzling of saltwater on hot volcanic rocks breaks the silence, making the nearby rockweed quiver.",
+        "encounter": "",
         "history": []
     },
     {
@@ -252,14 +252,14 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense gorgonian sea fans, you discover a shipwrecked chest filled with gold coins. You can't shake the feeling of satisfaction.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 27,
         "pos": 32,
         "terrain": "O",
-        "features": "Secluded Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -299,7 +299,7 @@
         "chunk": 27,
         "pos": 37,
         "terrain": "O",
-        "features": "Alluring Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -332,14 +332,14 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The way forward is blocked by a floating, abandoned shipwreck, but you notice a hidden treasure map etched into a ship's hull that might lead around it.",
         "history": []
     },
     {
         "chunk": 27,
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Inviting Main",
         "encounter": "",
         "history": []
     },
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon a scene where pirates are engaged in training sea creatures for battle around a rare, ancient ship's figurehead, seemingly crucial for escort a valuable cargo of precious gems through pirate-infested waters..",
         "history": []
     },
     {
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden whispering of the sea breeze through palm trees breaks the silence, making the nearby caulerpa seaweed quiver.",
+        "encounter": "",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense codium seaweed, you catch sight of a ship's chart with uncharted territories marked. But be cautious, gurgling of a freshwater stream meeting the ocean suggest water elementals are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -428,14 +428,14 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by bubbling hot seawater vents, a series of a secret pirate tunnel leading to a hidden cove reveal traces of a rusted anchor half-buried in the sand, and the distant sighing of the wind through sea caves hint at more to discover.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 27,
         "pos": 54,
         "terrain": "O",
-        "features": "Luminous Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -444,7 +444,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice tube worms near hydrothermal vents moving subtly. Upon closer inspection, you see cursed mermaids that are guarding a hidden cove filled with stolen treasure.",
         "history": []
     },
     {
@@ -475,7 +475,7 @@
         "chunk": 27,
         "pos": 59,
         "terrain": "O",
-        "features": "Silent Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -483,7 +483,7 @@
         "chunk": 27,
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing Gulf",
         "encounter": "",
         "history": []
     },
@@ -492,15 +492,15 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of nostalgia as you tread upon the remnants of a sunken sea monster's scale, hinting at a tale of water elementals.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 27,
         "pos": 62,
         "terrain": "O",
-        "features": "Majestic Isle",
-        "encounter": "The ground is littered with a damaged sextant with a cracked lens. It appears storm giants were here recently.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Hidden among mermaid's hair algae, you spot a sea serpent scale glinting in the sunlight.",
         "history": []
     },
     {
@@ -555,7 +555,7 @@
         "chunk": 27,
         "pos": 69,
         "terrain": "O",
-        "features": "Abyssal Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -603,8 +603,8 @@
         "chunk": 27,
         "pos": 75,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your way is impeded by a dense minefield of explosive devices. As you contemplate a way around, you hear booming of waves in a hidden sea cave from the shadows.",
+        "features": "Murmuring Fjord",
+        "encounter": "Blocked by a treacherous, labyrinthine underwater cave system, your attention is caught by rumbling of a distant underwater volcano. Upon investigating, you discover an underwater volcanic vent leading to a hidden world with a mysterious, glowing underwater crystal inside.",
         "history": []
     },
     {
@@ -627,8 +627,8 @@
         "chunk": 27,
         "pos": 78,
         "terrain": "O",
-        "features": "Sparkling Seabed",
-        "encounter": "Cursed mermaids emerge from the a concealed treasure chest within a submerged statue, their intent focused on a sunken ship's anchor.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is illuminated by the glint of a bottle of potent seawater from a mythical spring. However, sarcastic cephalopod stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a powerful whirlpool pulling ships downward. As you contemplate a way around, you hear chattering of crabs on a rocky shore from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
@@ -707,7 +707,7 @@
         "chunk": 27,
         "pos": 88,
         "terrain": "O",
-        "features": "Unfathomable Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -732,14 +732,14 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by halophila seagrass, a series of a secret merfolk concert hall hidden in a cave reveal traces of a damaged sextant with a cracked lens, and the distant thudding of footsteps on a wooden dock hint at more to discover.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 27,
         "pos": 92,
         "terrain": "O",
-        "features": "Tumultuous Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -779,7 +779,7 @@
         "chunk": 27,
         "pos": 97,
         "terrain": "O",
-        "features": "Majestic Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },

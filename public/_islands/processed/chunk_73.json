@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense red algae beds, you catch sight of a sea serpent scale. But be cautious, seagulls cawing in the distance suggest merfolk are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of gratitude as you tread upon a damaged, half-buried treasure map scroll, hinting at a tale of sirens.",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 73,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Strait",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 73,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Surf",
         "encounter": "",
         "history": []
     },
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by hornwort, a series of an underwater lagoon hidden by dense seaweed reveal traces of the remnants of a shipwrecked sailor's journal, and the distant buzzing of insects near a coastal marsh hint at more to discover.",
+        "encounter": "",
         "history": []
     },
     {
@@ -132,15 +132,15 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across the remnants of an ancient ship's cannon of an old campsite, the scent of aromatic spices from a seaside market still lingering.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 17,
         "terrain": "O",
-        "features": "Breathtaking Estuary",
-        "encounter": "The air is filled with the smell of smoky scent of grilled seafood. You feel a sense of confidence.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a dense minefield of explosive devices makes it difficult to proceed. Perhaps the ghost ships nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie sizzling of saltwater on hot volcanic rocks resonates from a network of tunnels in the heart of a coral maze, and the scent of rich, earthy scent of wet sand fills the air.",
+        "encounter": "",
         "history": []
     },
     {
@@ -195,7 +195,7 @@
         "chunk": 73,
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Channel",
         "encounter": "",
         "history": []
     },
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of admiration as you tread upon the remnants of a merfolk's forgotten treasure, hinting at a tale of seafaring druids.",
+        "encounter": "",
         "history": []
     },
     {
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice tube worms near hydrothermal vents moving subtly. Upon closer inspection, you see sea witches that are negotiating with a powerful sea witch.",
         "history": []
     },
     {
@@ -259,7 +259,7 @@
         "chunk": 73,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Grand Seamount",
         "encounter": "",
         "history": []
     },
@@ -308,14 +308,14 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey leads you to a a coral reef with sharp, hidden edges. As you approach, storm giants healing wounded sea creatures.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Pinnacle",
         "encounter": "",
         "history": []
     },
@@ -363,8 +363,8 @@
         "chunk": 73,
         "pos": 45,
         "terrain": "O",
-        "features": "",
-        "encounter": "You come across a torn and faded pirate's treasure map of an old campsite, the scent of musty odor of a hidden sea cave still lingering.",
+        "features": "Tidal Trench",
+        "encounter": "Blocked by a cursed lighthouse guiding ships to their doom, your attention is caught by hollow echoes in an underwater cavern. Upon investigating, you discover a submerged pirate's lair hidden by a waterfall with a treasure chest full of cursed gold inside.",
         "history": []
     },
     {
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice coral reefs moving subtly. Upon closer inspection, you see sunken treasure guardians that are raiding a coastal village for supplies.",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 73,
         "pos": 50,
         "terrain": "O",
-        "features": "Untamed Tidal Pool",
+        "features": "Uncharted Spring",
         "encounter": "",
         "history": []
     },
@@ -427,7 +427,7 @@
         "chunk": 73,
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Cove",
         "encounter": "",
         "history": []
     },
@@ -459,7 +459,7 @@
         "chunk": 73,
         "pos": 57,
         "terrain": "O",
-        "features": "Sapphire Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -476,7 +476,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your senses are overwhelmed by relief as you uncover a mysterious, glowing underwater crystal hidden within caulerpa seaweed.",
         "history": []
     },
     {
@@ -491,7 +491,7 @@
         "chunk": 73,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Marina",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 73,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Passage",
         "encounter": "",
         "history": []
     },
@@ -514,24 +514,24 @@
     {
         "chunk": 73,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Pristine Trench",
+        "encounter": "Your way is impeded by a band of marauding mountain bandits. As you contemplate a way around, you hear the bubbling of a crystal-clear mountain spring from the shadows.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 65,
-        "terrain": "O",
-        "features": "Mesmerizing Rise",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Basaltic Divide",
+        "encounter": "A distant the distant chattering of squirrels in the trees draws your attention. Following it, you discover a weathered and toppled mountain stone statue of a past event.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 66,
         "terrain": "O",
-        "features": "Soothing Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -586,32 +586,32 @@
     {
         "chunk": 73,
         "pos": 73,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Climbable Summit",
+        "encounter": "Among the dense a carpet of clover beneath mountain oak trees, you discover a carved wooden totem adorned with feathers. You can't shake the feeling of excitement.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 74,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Weathered Dell",
+        "encounter": "A colony of rock gnomes with intricate underground tunnels emerge from the a concealed entrance to an underground dwarven city, their intent focused on a well-preserved set of animal bones.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 75,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Dense Col",
+        "encounter": "Surrounded by dandelions scattered on mountain slopes, a series of a hidden oasis within a remote mountain plateau reveal traces of a broken and moss-covered mountain bridge, and the distant the crackling of leaves underfoot on forest trails hint at more to discover.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 76,
         "terrain": "O",
-        "features": "Silent Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -619,7 +619,7 @@
         "chunk": 73,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Main",
         "encounter": "",
         "history": []
     },
@@ -659,39 +659,39 @@
         "chunk": 73,
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal Atoll",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 83,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Peaked Cirque",
+        "encounter": "You uncover a toppled and vine-covered mountain statue that tell a story of a time when a family of alpine dwarves known for their mining pursued defend a remote mountain village from an approaching avalanche..",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 84,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Picturesque Roll",
+        "encounter": "Strange a half-buried and mossy stone well lie scattered, painting a tale of a colony of burrowing creatures with intricate tunnel systems that engaging in diplomacy and negotiations with other clans.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 85,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Verdant Trench",
+        "encounter": "You see a stack of ancient and mysterious scrolls that could be useful in your quest to retrieve a stolen mountain clan artifact from a rival tribe.. But it's guarded by a tribe of friendly mountain elves skilled in archery.",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 86,
         "terrain": "O",
-        "features": "Epic Shore",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -708,14 +708,14 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of salty seaweed and kelp, suggesting the presence of underwater miners.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 73,
         "pos": 89,
         "terrain": "O",
-        "features": "Mysterious Rise",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You hear whistling of wind through the rigging of a ship coming from a concealed merfolk palace hidden behind a waterfall.",
         "history": []
     },
     {
@@ -779,8 +779,8 @@
         "chunk": 73,
         "pos": 97,
         "terrain": "O",
-        "features": "Turbulent Upwelling",
-        "encounter": "The ground is littered with the remnants of a mermaid's lost jewelry. It appears ghost ships were here recently.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -795,7 +795,7 @@
         "chunk": 73,
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring Abyss",
         "encounter": "",
         "history": []
     }

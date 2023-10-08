@@ -19,7 +19,7 @@
         "chunk": 6,
         "pos": 2,
         "terrain": "O",
-        "features": "Choppy Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -51,7 +51,7 @@
         "chunk": 6,
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Pinnacle",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 6,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Fathom",
         "encounter": "",
         "history": []
     },
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover the remnants of a coral-encrusted treasure chest that tell a story of a time when water elementals pursued retrieve a sunken treasure map from the lair of a giant octopus..",
+        "encounter": "",
         "history": []
     },
     {
@@ -92,31 +92,31 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see a chest of mystical sea herbs and remedies that could be useful in your quest to escort a group of settlers to a remote, uncharted island.. But it's guarded by selkies.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 12,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A path surrounded by hornwort leads to a clearing with a torn and faded pirate's treasure map, indicating merfolk have been here.",
+        "terrain": "H",
+        "features": "Dappled Incline",
+        "encounter": "You feel enthusiasm as the rhythmic thumping of a woodpecker's beak echo in the distance. Perhaps it's a sign of what's to come.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 13,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Secluded Dune",
+        "encounter": "You encounter a band of itinerant herbalists and healers which are scouting for signs of approaching storms or threats.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 14,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Imposing Terrace",
+        "encounter": "Deep in thought about defend a peaceful group of forest creatures from an encroaching threat., you're startled by the distant drumming of a woodpecker. It seems a clan of wise and reclusive hermit wizards are near.",
         "history": []
     },
     {
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a sunken pirate ship's flagpole. It appears sea serpents were here recently.",
+        "encounter": "Peering through the dense floating bladderwort plants, you catch sight of a sea serpent scale. But be cautious, low growling of a distant thunderstorm suggest ghost ships are near.",
         "history": []
     },
     {
@@ -171,40 +171,40 @@
         "chunk": 6,
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Strait",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 22,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Sunny Dale",
+        "encounter": "A distant the crackling of leaves underfoot in the forest draws your attention. Following it, you discover a decayed and overgrown dock on dry land of a past event.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Foggy Upland",
+        "encounter": "You hear the cawing of crows in the early morning coming from a concealed burrow beneath a grassy knoll.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 24,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Echoing Foothill",
+        "encounter": "You stumble upon a scene where a clan of nomadic halflings traveling in hillside caravans are engaged in tending to their herds of goats and sheep around a bundle of rare and colorful feathers, seemingly crucial for retrieve a lost family heirloom hidden in an ancient cave..",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 25,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Unyielding Pinnacle",
+        "encounter": "The a dense canopy of oak trees in alpine areas rustles, revealing a tribe of reclusive druids living in the high forests that are flying gracefully through mountain valleys.",
         "history": []
     },
     {
@@ -219,7 +219,7 @@
         "chunk": 6,
         "pos": 27,
         "terrain": "O",
-        "features": "Murmuring Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -228,15 +228,15 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the dense crinoids on the seafloor, you discover a magical mermaid's mirror that reveals secrets. You can't shake the feeling of satisfaction.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 29,
         "terrain": "O",
-        "features": "Breathtaking Maelstrom",
-        "encounter": "",
+        "features": "",
+        "encounter": "You spot a ship's cannon with ornate engravings nestled among bubbling hot seawater vents, but the unsettling feeling of euphoria makes you wary.",
         "history": []
     },
     {
@@ -260,39 +260,39 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a shattered glass bottle indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 33,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Lofty Divide",
+        "encounter": "The clumps of prickly pear cacti at high altitudes rustles, revealing a flock of giant condors soaring high above that are building underground tunnels and chambers.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 34,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A sudden thudding of footsteps on a wooden dock breaks the silence, making the nearby mermaid's hair algae quiver.",
+        "terrain": "M",
+        "features": "Breathtaking Volcano",
+        "encounter": "The whisper of the rustling of small mammals in the rocky terrain is accompanied by the distinct aroma of the salty scent of a distant sea breeze on high peaks. It seems a clan of mountain giants known for their strength are involved in embarking on long migrations to find fertile lands.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 35,
-        "terrain": "O",
-        "features": "Silent Fjord",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Massive Cliff",
+        "encounter": "The air is filled with the smell of the spicy aroma of wild mountain cinnamon in the air. You feel a sense of freedom.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 36,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Splendid Tor",
+        "encounter": "Among the dense mountain grasses with seed heads in the wind, you discover a pair of exquisite yeti pelts. You can't shake the feeling of harmony.",
         "history": []
     },
     {
@@ -340,14 +340,14 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of freshly baked bread from a seaside bakery. You feel a sense of confusion.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Tide",
         "encounter": "",
         "history": []
     },
@@ -362,9 +362,9 @@
     {
         "chunk": 6,
         "pos": 45,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Inaccessible Cliff",
+        "encounter": "With defend a remote mountain village from an approaching avalanche. On your mind, the sudden appearance of a treacherous, rushing mountain waterfall accompanied by the gentle rustling of alpine ferns in the forest becomes a challenging diversion.",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 6,
         "pos": 50,
         "terrain": "O",
-        "features": "Crystal-clear Flats",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -420,15 +420,15 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter ship-eating barnacles which are navigating treacherous waters during a storm.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 53,
         "terrain": "O",
-        "features": "Deep Chasm",
-        "encounter": "",
+        "features": "",
+        "encounter": "Pearl diver guilds emerge from the a secret merfolk concert hall hidden in a cave, their intent focused on a bottle of enchanted ink for writing underwater.",
         "history": []
     },
     {
@@ -467,7 +467,7 @@
         "chunk": 6,
         "pos": 58,
         "terrain": "O",
-        "features": "Breathtaking Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -531,7 +531,7 @@
         "chunk": 6,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Main",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 6,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Bay",
         "encounter": "",
         "history": []
     },
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense floating mats of sargassum seaweed, you catch sight of a barnacle-covered ship's wheel. But be cautious, creaking of a ship's rigging in the wind suggest tidal wave elementals are near.",
         "history": []
     },
     {
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The presence of a sunken city with buildings rising to the surface makes it difficult to proceed. Perhaps the mermen nearby can help.",
         "history": []
     },
     {
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a mysterious, glowing underwater crystal nestled among seafloor seagrass, but the unsettling feeling of loneliness makes you wary.",
+        "encounter": "",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a coral-encrusted treasure chest. It appears underwater nomads were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -691,7 +691,7 @@
         "chunk": 6,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic Deep",
         "encounter": "",
         "history": []
     },
@@ -707,15 +707,15 @@
         "chunk": 6,
         "pos": 88,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Choppy Vortex",
+        "encounter": "You encounter whirlpool spirits which are raiding a coastal village for supplies.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 89,
         "terrain": "O",
-        "features": "Choppy Undercurrent",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of scent of salted fish drying on racks, suggesting the presence of lighthouse guardians.",
+        "encounter": "",
         "history": []
     },
     {

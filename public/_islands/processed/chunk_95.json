@@ -59,16 +59,16 @@
         "chunk": 95,
         "pos": 7,
         "terrain": "O",
-        "features": "Unspoiled Trough",
-        "encounter": "",
+        "features": "",
+        "encounter": "Blocked by a powerful whirlpool pulling ships downward, your attention is caught by pounding of heavy rain during a monsoon. Upon investigating, you discover a hidden cave behind a waterfall with a ship's logbook with a mysterious route inside.",
         "history": []
     },
     {
         "chunk": 95,
         "pos": 8,
         "terrain": "O",
-        "features": "",
-        "encounter": "The whisper of rhythmic crashing of waves on rocky cliffs is accompanied by the distinct aroma of sun-warmed sand. It seems turtle island shamans are involved in protecting their underwater city from intruders.",
+        "features": "Boundless Marina",
+        "encounter": "",
         "history": []
     },
     {
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by resignation as you uncover a ship's bell with a haunting chime hidden within giant underwater mushrooms.",
+        "encounter": "",
         "history": []
     },
     {
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A path surrounded by mermaid's hair algae leads to a clearing with a rusted, half-buried cutlass, indicating cursed mermaids have been here.",
         "history": []
     },
     {
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to rescue a kidnapped noble from a group of pirates.. But be wary, for kraken lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with a ship's figurehead washed ashore. It appears sea anemone sorcerers were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -220,7 +220,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a magical conch shell that can summon sea creatures that could be useful in your quest to navigate a treacherous coral maze to reach a hidden oasis.. But it's guarded by sarcastic cephalopod.",
+        "encounter": "",
         "history": []
     },
     {
@@ -251,8 +251,8 @@
         "chunk": 95,
         "pos": 31,
         "terrain": "O",
-        "features": "Unspoiled Cove",
-        "encounter": "A sudden gurgling of a freshwater stream meeting the ocean breaks the silence, making the nearby zostera seagrass quiver.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a massive, floating tree trunk in the ship's path blocking your path. Perhaps it's related to your quest to retrieve a powerful, magical artifact from a sunken shipwreck..",
+        "encounter": "",
         "history": []
     },
     {
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The whisper of pounding of heavy rain during a monsoon is accompanied by the distinct aroma of briny scent of low tide. It seems island hermit are involved in rescuing shipwreck survivors.",
         "history": []
     },
     {
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You uncover a sunken cannon half-buried in the coral that tell a story of a time when lighthouse guardians pursued rescue a group of trapped sailors from a sinking ship..",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 95,
         "pos": 41,
         "terrain": "O",
-        "features": "Grand Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 95,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Channel",
         "encounter": "",
         "history": []
     },
@@ -355,7 +355,7 @@
         "chunk": 95,
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Sound",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 95,
         "pos": 45,
         "terrain": "O",
-        "features": "Untamed Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -403,8 +403,8 @@
         "chunk": 95,
         "pos": 50,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Silent Drop-off",
+        "encounter": "Among the dense giant clam gardens, you discover a weathered treasure map. You can't shake the feeling of confidence.",
         "history": []
     },
     {
@@ -419,7 +419,7 @@
         "chunk": 95,
         "pos": 52,
         "terrain": "O",
-        "features": "Sapphire Isle",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is illuminated by the glint of a giant clamshell turned into a luxurious bed. However, ship-eating barnacles stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -491,7 +491,7 @@
         "chunk": 95,
         "pos": 61,
         "terrain": "O",
-        "features": "Moonlit Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden rustling of seaweed in the currents breaks the silence, making the nearby sea palm kelp quiver.",
         "history": []
     },
     {
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden chirping of crickets on a moonlit beach breaks the silence, making the nearby hornwort quiver.",
+        "encounter": "",
         "history": []
     },
     {
@@ -571,7 +571,7 @@
         "chunk": 95,
         "pos": 71,
         "terrain": "O",
-        "features": "Timeless Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a merfolk's enchanted harp that could be useful in your quest to investigate the disappearance of a famous sea captain and their crew.. But it's guarded by underwater miners.",
+        "encounter": "",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to deliver a shipment of rare spices to a distant island market.. But be wary, for cursed ship captains lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -643,7 +643,7 @@
         "chunk": 95,
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Swirl",
         "encounter": "",
         "history": []
     },
@@ -667,7 +667,7 @@
         "chunk": 95,
         "pos": 83,
         "terrain": "O",
-        "features": "Murmuring Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -676,7 +676,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter sea witches which are creating elaborate maps of uncharted waters.",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a giant clam snapping shut on unsuspecting ships blocking your path. Perhaps it's related to your quest to slay a marauding sea monster terrorizing coastal villages..",
+        "encounter": "A distant buzzing of insects near a coastal marsh draws your attention. Following it, you discover a sunken chest with its lock rusted shut of a past event.",
         "history": []
     },
     {
@@ -708,7 +708,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your way is impeded by a cursed lighthouse guiding ships to their doom. As you contemplate a way around, you hear gentle lapping of waves against the shore from the shadows.",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Strange a skeleton clutching a rusted cutlass on the seabed lie scattered, painting a tale of kraken that escaping from the clutches of a kraken.",
         "history": []
     },
     {
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel an overwhelming sense of frustration as you tread upon a damaged sextant with a cracked lens, hinting at a tale of giant clams.",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A path surrounded by mangrove prop roots leads to a clearing with the remnants of a fishing net tangled in the coral, indicating underwater miners have been here.",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "With recover a stolen, enchanted pearl necklace for a heartbroken mermaid. On your mind, the sudden appearance of a massive, ancient sea turtle that won't move accompanied by clattering of seashells in the tide becomes a challenging diversion.",
+        "encounter": "",
         "history": []
     }
 ]

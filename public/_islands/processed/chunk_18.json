@@ -4,14 +4,14 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a sandbar hiding just below the water's surface, but you notice a submerged ship graveyard where ghost ships rest that might lead around it.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 1,
         "terrain": "O",
-        "features": "Sunlit Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -27,7 +27,7 @@
         "chunk": 18,
         "pos": 3,
         "terrain": "O",
-        "features": "Serene Harbor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -43,7 +43,7 @@
         "chunk": 18,
         "pos": 5,
         "terrain": "O",
-        "features": "Raging Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 18,
         "pos": 8,
         "terrain": "O",
-        "features": "Rippling Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel an overwhelming sense of disbelief as you tread upon a broken ship's mast jutting out of the water, hinting at a tale of water elementals.",
         "history": []
     },
     {
@@ -91,7 +91,7 @@
         "chunk": 18,
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely Rise",
         "encounter": "",
         "history": []
     },
@@ -99,7 +99,7 @@
         "chunk": 18,
         "pos": 12,
         "terrain": "O",
-        "features": "Majestic Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -116,14 +116,14 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a haunted shipwreck with vengeful spirits makes it difficult to proceed. Perhaps the sea witches nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Tide",
         "encounter": "",
         "history": []
     },
@@ -131,7 +131,7 @@
         "chunk": 18,
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Tide",
         "encounter": "",
         "history": []
     },
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice sponge colonies moving subtly. Upon closer inspection, you see crystal reef dwellers that are forging alliances with other oceanic races.",
         "history": []
     },
     {
@@ -171,23 +171,23 @@
         "chunk": 18,
         "pos": 21,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon the remnants of a mermaid's lost jewelry indicating past battles.",
+        "features": "Bubbling Seamount",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 22,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Ethereal Spring",
+        "encounter": "Your way is impeded by a rogue wave threatening to capsize the ship. As you contemplate a way around, you hear rustling of seaweed in the currents from the shadows.",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Current",
         "encounter": "",
         "history": []
     },
@@ -195,7 +195,7 @@
         "chunk": 18,
         "pos": 24,
         "terrain": "O",
-        "features": "Sapphire Mangrove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Strange tattered fragments of a sunken pirate flag lie scattered, painting a tale of merfolk that escaping from the clutches of a kraken.",
         "history": []
     },
     {
@@ -235,7 +235,7 @@
         "chunk": 18,
         "pos": 29,
         "terrain": "O",
-        "features": "Boundless Spring",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -243,7 +243,7 @@
         "chunk": 18,
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Marina",
         "encounter": "",
         "history": []
     },
@@ -267,8 +267,8 @@
         "chunk": 18,
         "pos": 33,
         "terrain": "O",
-        "features": "Dazzling Wave",
-        "encounter": "",
+        "features": "",
+        "encounter": "Sarcastic cephalopod emerge from the a concealed passage leading to an underwater city, their intent focused on a message in a bottle.",
         "history": []
     },
     {
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft rustling of palm fronds in a gentle breeze. As you follow, you encounter crystal reef dwellers in the midst of solving a riddle from an ancient sea scroll.",
+        "encounter": "The tube worms near hydrothermal vents rustles, revealing kraken that are exploring the depths in search of a sunken city.",
         "history": []
     },
     {
@@ -284,7 +284,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of the remnants of a sunken pirate ship's flagpole suggests that crystal reef dwellers have passed through here on a quest to solve the mystery of a cursed shipwreck and its crew's fate..",
         "history": []
     },
     {
@@ -316,31 +316,31 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden whistling of wind through the rigging of a ship breaks the silence, making the nearby giant underwater mushrooms quiver.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 40,
         "terrain": "O",
-        "features": "Windswept Basin",
-        "encounter": "",
+        "features": "",
+        "encounter": "The presence of a mysterious, enchanted mist causing disorientation makes it difficult to proceed. Perhaps the turtle island shamans nearby can help.",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 41,
         "terrain": "O",
-        "features": "",
-        "encounter": "The presence of treacherous rocks just below the surface makes it difficult to proceed. Perhaps the storm giants nearby can help.",
+        "features": "Deep Bight",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 42,
         "terrain": "O",
-        "features": "Infinite Isle",
-        "encounter": "Ahead, there is treacherous rocks just below the surface blocking your path. Perhaps it's related to your quest to recover a stolen, enchanted pearl necklace for a heartbroken mermaid..",
+        "features": "Sparkling Fjord",
+        "encounter": "",
         "history": []
     },
     {
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot a bottle of rare and potent mermaid tears nestled among giant underwater mushrooms, but the unsettling feeling of amusement makes you wary.",
         "history": []
     },
     {
@@ -419,7 +419,7 @@
         "chunk": 18,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled Lagoon",
         "encounter": "",
         "history": []
     },
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground trembles slightly, and murmuring of merfolk singing in harmony grow louder. It seems storm giants are on the move.",
         "history": []
     },
     {
@@ -476,14 +476,14 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where pirates are engaged in collecting rare and magical seashells around a piece of driftwood with an ancient carving, seemingly crucial for defend a coastal village from a relentless pirate invasion..",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Reef",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 18,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted Seamount",
         "encounter": "",
         "history": []
     },
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and whispering of the sea breeze through palm trees grow louder. It seems sunken treasure guardians are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -571,7 +571,7 @@
         "chunk": 18,
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Tide",
         "encounter": "",
         "history": []
     },
@@ -587,8 +587,8 @@
         "chunk": 18,
         "pos": 73,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Picturesque Swirl",
+        "encounter": "A trail of the remnants of a shattered glass bottle suggests that seafaring druids have passed through here on a quest to slay a marauding sea monster terrorizing coastal villages..",
         "history": []
     },
     {
@@ -612,14 +612,14 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Strange a sunken cannon half-buried in the coral lie scattered, painting a tale of underwater miners that engaging in a sea battle with rival pirates.",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Passage",
         "encounter": "",
         "history": []
     },
@@ -635,7 +635,7 @@
         "chunk": 18,
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing Isle",
         "encounter": "",
         "history": []
     },
@@ -651,15 +651,15 @@
         "chunk": 18,
         "pos": 81,
         "terrain": "O",
-        "features": "Moonlit Channel",
-        "encounter": "",
+        "features": "",
+        "encounter": "The presence of a rogue wave threatening to capsize the ship makes it difficult to proceed. Perhaps the turtle island shamans nearby can help.",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 82,
         "terrain": "O",
-        "features": "Ethereal Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -667,7 +667,7 @@
         "chunk": 18,
         "pos": 83,
         "terrain": "O",
-        "features": "Calm Swirl",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The colorful coral polyps rustles, revealing ghost ships that are performing a ritual to calm a storm.",
         "history": []
     },
     {
@@ -715,16 +715,16 @@
         "chunk": 18,
         "pos": 89,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Majestic Pinnacle",
+        "encounter": "Your path is illuminated by the glint of a bottle of enchanted ink for writing underwater. However, octopus oracles stand guard, their intentions unknown.",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 90,
         "terrain": "O",
-        "features": "Salty Shore",
-        "encounter": "You come across a sunken chest with its lock rusted shut of an old campsite, the scent of briny scent of low tide still lingering.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -732,7 +732,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear creaking of a ship's rigging in the wind coming from a concealed cavern within a towering underwater cliff.",
+        "encounter": "Deep in thought about discover a lost civilization by deciphering cryptic underwater runes., you're startled by churning of water as a whirlpool forms. It seems coral golems are near.",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 18,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Inlet",
         "encounter": "",
         "history": []
     },
@@ -763,8 +763,8 @@
         "chunk": 18,
         "pos": 95,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Silent Strait",
+        "encounter": "A mysterious musk of a sea lion colony envelops you, drawing you towards a submerged pirate's lair hidden by a waterfall where underwater nomads are protecting their underwater city from intruders.",
         "history": []
     },
     {
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Hidden among caulerpa seaweed, you spot a ship's cannon with ornate engravings glinting in the sunlight.",
         "history": []
     },
     {

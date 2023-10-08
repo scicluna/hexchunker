@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is a giant clam snapping shut on unsuspecting ships blocking your path. Perhaps it's related to your quest to navigate a treacherous coral maze to reach a hidden oasis..",
         "history": []
     },
     {
@@ -43,8 +43,8 @@
         "chunk": 92,
         "pos": 5,
         "terrain": "O",
-        "features": "Picturesque Ocean",
-        "encounter": "You spot a kraken's tentacle as a gruesome trophy nestled among gorgonian sea fans, but the unsettling feeling of anticipation makes you wary.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 92,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent Passage",
         "encounter": "",
         "history": []
     },
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice green string lettuce moving subtly. Upon closer inspection, you see octopus oracles that are rescuing shipwreck survivors.",
+        "encounter": "",
         "history": []
     },
     {
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice thick beds of eelgrass moving subtly. Upon closer inspection, you see sea serpents that are repairing their damaged ship.",
+        "encounter": "",
         "history": []
     },
     {
@@ -204,14 +204,14 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of pungent smell of seaweed drying in the sun. You feel a sense of loneliness.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 92,
         "pos": 26,
         "terrain": "O",
-        "features": "Turbulent Current",
+        "features": "Peaceful Main",
         "encounter": "",
         "history": []
     },
@@ -220,7 +220,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of the remnants of a shipwrecked sailor's journal suggests that underwater nomads have passed through here on a quest to retrieve a lost, enchanted trident from a sunken temple..",
         "history": []
     },
     {
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a ship's wheel half-buried in the sand of an old campsite, the scent of scent of damp treasure maps still lingering.",
+        "encounter": "",
         "history": []
     },
     {
@@ -283,7 +283,7 @@
         "chunk": 92,
         "pos": 35,
         "terrain": "O",
-        "features": "Boundless Expanse",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of hollow echoes in an underwater cavern is accompanied by the distinct aroma of clean, crisp scent of the open sea. It seems shipwreck goblins are involved in harvesting pearls from giant clams.",
+        "encounter": "",
         "history": []
     },
     {
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The tube worms near hydrothermal vents rustles, revealing sea witches that are wreaking havoc on passing ships.",
         "history": []
     },
     {
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The giant kelp with air-filled bladders rustles, revealing sarcastic cephalopod that are exploring the depths in search of a sunken city.",
         "history": []
     },
     {
@@ -379,7 +379,7 @@
         "chunk": 92,
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Delta",
         "encounter": "",
         "history": []
     },
@@ -436,15 +436,15 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense seagrass meadows, you catch sight of a treasure chest full of cursed gold. But be cautious, buzzing of insects near a coastal marsh suggest giant clams are near.",
         "history": []
     },
     {
         "chunk": 92,
         "pos": 55,
-        "terrain": "M",
-        "features": "Eternal Saddle",
-        "encounter": "The way forward is blocked by a vast, open mountain plain with no shelter from the elements, but you notice a concealed trapdoor in the floor of an ancient temple that might lead around it.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -459,7 +459,7 @@
         "chunk": 92,
         "pos": 57,
         "terrain": "O",
-        "features": "Picturesque Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -492,14 +492,14 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a sunken city with buildings rising to the surface blocking your path. Perhaps it's related to your quest to retrieve a sunken treasure map from the lair of a giant octopus..",
+        "encounter": "You see a merfolk's enchanted harp that could be useful in your quest to rescue a group of trapped sailors from a sinking ship.. But it's guarded by pirates.",
         "history": []
     },
     {
         "chunk": 92,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Abyssal Jetty",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 92,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant Tide",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a preserved mermaid tail that could be useful in your quest to retrieve a rare and magical seashell for a powerful sea witch.. But it's guarded by island hermit.",
+        "encounter": "",
         "history": []
     },
     {
@@ -619,7 +619,7 @@
         "chunk": 92,
         "pos": 77,
         "terrain": "O",
-        "features": "Raging Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -651,7 +651,7 @@
         "chunk": 92,
         "pos": 81,
         "terrain": "O",
-        "features": "Dense Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a massive, ancient sea turtle that won't move. As you approach, pearl diver guilds creating elaborate maps of uncharted waters.",
+        "encounter": "",
         "history": []
     },
     {
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Deep in thought about rescue a kidnapped noble from a group of pirates., you're startled by whistling of wind through the rigging of a ship. It seems giant clams are near.",
         "history": []
     },
     {
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a giant, tentacled kraken blocking the way. As you approach, sea witches creating storms to deter sailors.",
+        "encounter": "",
         "history": []
     },
     {
@@ -787,7 +787,7 @@
         "chunk": 92,
         "pos": 98,
         "terrain": "O",
-        "features": "Beckoning Depression",
+        "features": "Glistening Rift",
         "encounter": "",
         "history": []
     },
@@ -795,8 +795,8 @@
         "chunk": 92,
         "pos": 99,
         "terrain": "O",
-        "features": "",
-        "encounter": "Sarcastic cephalopod gives you a quest to rescue a kidnapped noble from a group of pirates.In your path lies a pirate flag bearing a fearsome symbol surrounded by sponge colonies.",
+        "features": "Dazzling Vortex",
+        "encounter": "",
         "history": []
     }
 ]

@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a tidal wave approaching with destructive force blocking your path. Perhaps it's related to your quest to rescue a kidnapped noble from a group of pirates..",
+        "encounter": "",
         "history": []
     },
     {
@@ -107,7 +107,7 @@
         "chunk": 44,
         "pos": 13,
         "terrain": "O",
-        "features": "Windswept Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -147,15 +147,15 @@
         "chunk": 44,
         "pos": 18,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden gust brings with it scent of salted fish drying on racks. You spot selkies that seem to be trading secrets with a wandering hermit.",
+        "features": "Nautical Trench",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Seamount",
         "encounter": "",
         "history": []
     },
@@ -171,32 +171,32 @@
         "chunk": 44,
         "pos": 21,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Idyllic Delta",
+        "encounter": "The air is filled with the smell of pungent smell of seaweed drying in the sun. You feel a sense of fear.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 22,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Whistling Peak",
+        "encounter": "The dense, knee-high ferns rustles, revealing a clan of nomadic halflings traveling in hillside caravans that are crafting intricate jewelry and ornaments.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Enchanting Butte",
+        "encounter": "You uncover a shattered and ancient mountain mosaic floor that tell a story of a time when a tribe of reclusive druids living in the high forests pursued retrieve a lost explorer's equipment from a high-altitude cliff..",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 24,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Glacial Tor",
+        "encounter": "A sudden gust brings with it the earthy scent of animal fur in the mountain wild. You spot a tribe of friendly mountain elves skilled in archery that seem to be conducting trade with traveling merchants and caravans.",
         "history": []
     },
     {
@@ -244,55 +244,55 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is a sudden, violent storm with massive waves blocking your path. Perhaps it's related to your quest to uncover the truth behind a series of strange underwater disappearances..",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic Abyss",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 32,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Rocky Gorge",
+        "encounter": "Your journey leads you to a a band of marauding mountain bandits. As you approach, a clan of nomadic yetis roaming the peaks embarking on spiritual journeys to mountain peaks.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 33,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Desolate Volcano",
+        "encounter": "You come across a shattered and ancient mountain mosaic floor of an old campsite, the scent of the sweet scent of a bouquet of mountain wildflowers still lingering.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 34,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Enduring Notch",
+        "encounter": "You notice tall and slender mountain reeds moving subtly. Upon closer inspection, you see a pack of ferocious snow wolves that are practicing their magical abilities in secluded groves.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 35,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Resilient Pass",
+        "encounter": "A trail of a toppled and shattered mountain stone monolith suggests that a tribe of centaurs skilled in herbalism have passed through here on a quest to retrieve a stolen mountain clan artifact from a rival tribe..",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 36,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A mysterious scent of coconut oil and sunscreen envelops you, drawing you towards a hidden cave filled with glowing sea crystals where floating market traders are taming and riding sea turtles.",
+        "terrain": "M",
+        "features": "Granite Valley",
+        "encounter": "Your path is illuminated by the glint of a stack of hand-drawn maps and parchment. However, a tribe of friendly mountain elves skilled in archery stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -300,7 +300,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "With retrieve a powerful, magical artifact from a sunken shipwreck. On your mind, the sudden appearance of a giant clam snapping shut on unsuspecting ships accompanied by splintering of wood as a shipwreck breaks apart becomes a challenging diversion.",
+        "encounter": "Navigating through a ship-eating whirlpool known as the 'ship swallower', you're surprised to find a concealed treasure chest buried in the sand filled with a rusted, half-buried cutlass.As you journey forward, you come across a seafarer's compass that points to hidden treasure, with traces of scent of damp treasure maps around them.",
         "history": []
     },
     {
@@ -315,7 +315,7 @@
         "chunk": 44,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Drop-off",
         "encounter": "",
         "history": []
     },
@@ -347,32 +347,32 @@
         "chunk": 44,
         "pos": 43,
         "terrain": "O",
-        "features": "Turbulent Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 44,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Foreboding Cliff",
+        "encounter": "You feel an overwhelming sense of fascination as you tread upon a set of decaying mountain fence posts, hinting at a tale of a clan of mountain trolls lurking in dark caves.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 45,
-        "terrain": "O",
-        "features": "",
-        "encounter": "The presence of an eerie, ghostly ship blocking the path makes it difficult to proceed. Perhaps the sirens nearby can help.",
+        "terrain": "M",
+        "features": "Unyielding Ar\u00eate",
+        "encounter": "You find a hint leading you to discover the source of a strange illness affecting mountain wildlife.. But be wary, for a tribe of gnomish inventors with curious contraptions lurk nearby.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 46,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Snowy Canyon",
+        "encounter": "You come across a tumbledown and forgotten mountain barn of an old campsite, the scent of the earthy smell of petrichor after a mountain storm still lingering.",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 44,
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Edifice",
         "encounter": "",
         "history": []
     },
@@ -442,17 +442,17 @@
     {
         "chunk": 44,
         "pos": 55,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Rounded Cirque",
+        "encounter": "Your journey leads you to a a patch of quicksand hidden beneath the mountain surface. As you approach, a solitary hermit living in a mountain cave constructing sturdy mountain homes and fortifications.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 56,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Elevated Cirque",
+        "encounter": "Among the dense golden wheat fields in the mountain valleys, you discover a carved wooden totem adorned with feathers. You can't shake the feeling of peace of mind.",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and sizzling of saltwater on hot volcanic rocks grow louder. It seems sea anemone sorcerers are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is a dense minefield of explosive devices blocking your path. Perhaps it's related to your quest to explore an underwater cave system to find a valuable artifact..",
         "history": []
     },
     {
@@ -514,17 +514,17 @@
     {
         "chunk": 44,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Rough Gully",
+        "encounter": "A mysterious the clean, fresh scent of a mountain breeze envelops you, drawing you towards a concealed opening in a thicket of mountain herbs where a family of noble mountain lions are defending against natural disasters like avalanches.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "You feel an overwhelming sense of nostalgia as you tread upon a waterlogged chest with its lid ajar, hinting at a tale of sirens.",
+        "terrain": "M",
+        "features": "Glacial Volcano",
+        "encounter": "With escort a diplomatic envoy through perilous mountain passes. On your mind, the sudden appearance of a colony of territorial, burrowing mountain rodents accompanied by the distant roll of thunder echoing through valleys becomes a challenging diversion.",
         "history": []
     },
     {
@@ -540,15 +540,15 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across a torn and faded pirate's treasure map of an old campsite, the scent of scent of coconut oil and sunscreen still lingering.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 68,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Grand Upwelling",
+        "encounter": "Surrounded by seaweed-covered rocks, a series of a secret mermaid library hidden in a deep trench reveal traces of the remnants of an ancient ship's cargo hold, and the distant booming of waves in a hidden sea cave hint at more to discover.",
         "history": []
     },
     {
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a hint leading you to recover a stolen, enchanted pearl necklace for a heartbroken mermaid.. But be wary, for crystal reef dwellers lurk nearby.",
         "history": []
     },
     {
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a partially buried, broken spyglass lie scattered, painting a tale of cursed mermaids that hunting for treasure on a deserted island.",
+        "encounter": "",
         "history": []
     },
     {
@@ -586,17 +586,17 @@
     {
         "chunk": 44,
         "pos": 73,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Limestone Apex",
+        "encounter": "You stumble upon an ancient and crumbling mountain temple indicating past battles.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 74,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Jagged Saddle",
+        "encounter": "You hear the soft splashing of water along a high-altitude river coming from a rocky crevice hidden by overhanging mountain ferns.",
         "history": []
     },
     {
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by empathy as you uncover a ship's sextant for celestial navigation hidden within gorgonian sea fans.",
+        "encounter": "",
         "history": []
     },
     {
@@ -635,7 +635,7 @@
         "chunk": 44,
         "pos": 79,
         "terrain": "O",
-        "features": "Unfathomable Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -658,17 +658,17 @@
     {
         "chunk": 44,
         "pos": 82,
-        "terrain": "O",
-        "features": "Nautical Bay",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Massive Gorge",
+        "encounter": "You come across a fallen and forgotten mountain wind chime of an old campsite, the scent of the musty smell of old and weathered mountain books still lingering.",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 83,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Steep Pinnacle",
+        "encounter": "From the shadows of the a concealed entrance to an underground dwarven city, you sense the presence of a majestic dragon nesting high in the peaks.",
         "history": []
     },
     {
@@ -691,7 +691,7 @@
         "chunk": 44,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Depression",
         "encounter": "",
         "history": []
     },
@@ -747,7 +747,7 @@
         "chunk": 44,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Sound",
         "encounter": "",
         "history": []
     },
@@ -763,7 +763,7 @@
         "chunk": 44,
         "pos": 95,
         "terrain": "O",
-        "features": "Limitless Inlet",
+        "features": "Spectacular Main",
         "encounter": "",
         "history": []
     },
@@ -772,14 +772,14 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by empathy as you uncover a mysterious, glowing underwater crystal hidden within red grape algae.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 44,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical Harbor",
         "encounter": "",
         "history": []
     },
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a treasure cache buried in the sand on a deserted island, you sense the presence of sea anemone sorcerers.",
+        "encounter": "",
         "history": []
     }
 ]

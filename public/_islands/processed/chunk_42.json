@@ -3,8 +3,8 @@
         "chunk": 42,
         "pos": 0,
         "terrain": "O",
-        "features": "Spectacular Kelp Forest",
-        "encounter": "",
+        "features": "",
+        "encounter": "You stumble upon the remnants of a ship's lantern on the seafloor indicating past battles.",
         "history": []
     },
     {
@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by anger as you uncover a ship's logbook with a mysterious route hidden within black coral.",
+        "encounter": "",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 42,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Narrows",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 42,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Lagoon",
         "encounter": "",
         "history": []
     },
@@ -139,7 +139,7 @@
         "chunk": 42,
         "pos": 17,
         "terrain": "O",
-        "features": "Alluring Harbor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -147,7 +147,7 @@
         "chunk": 42,
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Basin",
         "encounter": "",
         "history": []
     },
@@ -187,7 +187,7 @@
         "chunk": 42,
         "pos": 23,
         "terrain": "O",
-        "features": "Vast Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 42,
         "pos": 26,
         "terrain": "O",
-        "features": "Serene Tidal Pool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot a sunken ship's anchor nestled among giant underwater mushrooms, but the unsettling feeling of pride makes you wary.",
         "history": []
     },
     {
@@ -316,15 +316,15 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice halophila seagrass moving subtly. Upon closer inspection, you see kraken that are hunting for fish and other sea creatures.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 40,
         "terrain": "O",
-        "features": "Grand Trough",
-        "encounter": "Your senses are overwhelmed by guilt as you uncover a preserved mermaid tail hidden within sea lettuce.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is illuminated by the glint of a ship's chart with uncharted territories marked. However, sarcastic cephalopod stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a mermaid's singing seashell necklace that could be useful in your quest to retrieve a powerful, magical artifact from a sunken shipwreck.. But it's guarded by ghost ships.",
+        "encounter": "",
         "history": []
     },
     {
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a hidden coral maze filled with merfolk traps, you sense the presence of mermen.",
+        "encounter": "",
         "history": []
     },
     {
@@ -379,7 +379,7 @@
         "chunk": 42,
         "pos": 47,
         "terrain": "O",
-        "features": "Expansive Shore",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and humming of a powerful sea enchantment grow louder. It seems pearl diver guilds are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -412,14 +412,14 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by mangrove prop roots, a series of a hidden mermaid enclave in the heart of a kelp forest reveal traces of the remnants of a coral-encrusted treasure chest, and the distant hissing of foam as waves recede hint at more to discover.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 52,
         "terrain": "O",
-        "features": "Nautical Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -468,7 +468,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The way forward is blocked by a dense minefield of explosive devices, but you notice a submerged pirate's lair hidden by a waterfall that might lead around it.",
         "history": []
     },
     {
@@ -484,14 +484,14 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant humming of a powerful sea enchantment draws your attention. Following it, you discover an abandoned lifeboat adrift on the waves of a past event.",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Chasm",
         "encounter": "",
         "history": []
     },
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it scent of salted fish drying on racks. You spot sea serpents that seem to be diving deep to consult with a sea oracle.",
+        "encounter": "",
         "history": []
     },
     {
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "Giant clams gives you a quest to navigate treacherous waters to reach a hidden pirate haven.In your path lies a sparkling pearl necklace surrounded by red grape algae.",
+        "encounter": "",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 42,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Current",
         "encounter": "",
         "history": []
     },
@@ -556,14 +556,14 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by wonder as you uncover a seashell amulet that grants water-breathing hidden within seafloor seagrass.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter oceanic alchemists which are navigating treacherous waters during a storm.",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your way is impeded by a haunted shipwreck with vengeful spirits. As you contemplate a way around, you hear creaking of a ship's rigging in the wind from the shadows.",
         "history": []
     },
     {
@@ -732,7 +732,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a ship's broken mast indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot a sparkling pearl necklace nestled among hornwort, but the unsettling feeling of resignation makes you wary.",
         "history": []
     },
     {

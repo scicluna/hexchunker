@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "generate": "python ./public/_islands/chunkGenerator.py && python ./public/_islands/jsonProcessor.py"
   },
   "dependencies": {
     "@radix-ui/react-popover": "^1.0.7",

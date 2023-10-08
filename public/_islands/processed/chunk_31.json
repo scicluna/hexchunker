@@ -11,16 +11,16 @@
         "chunk": 31,
         "pos": 1,
         "terrain": "O",
-        "features": "",
-        "encounter": "An eerie thudding of footsteps on a wooden dock resonates from a concealed mermaid treasure trove in a sunken ship, and the scent of briny scent of low tide fills the air.",
+        "features": "Murmuring Fathom",
+        "encounter": "Your path is illuminated by the glint of a beautifully crafted coral tiara. However, sirens stand guard, their intentions unknown.",
         "history": []
     },
     {
         "chunk": 31,
         "pos": 2,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Alluring Shore",
+        "encounter": "A path surrounded by thick beds of eelgrass leads to a clearing with tattered fragments of a sunken pirate flag, indicating ghost ships have been here.",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 31,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Channel",
         "encounter": "",
         "history": []
     },
@@ -100,14 +100,14 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel an overwhelming sense of determination as you tread upon a sunken cannon half-buried in the coral, hinting at a tale of pirates.",
         "history": []
     },
     {
         "chunk": 31,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Marina",
         "encounter": "",
         "history": []
     },
@@ -123,7 +123,7 @@
         "chunk": 31,
         "pos": 15,
         "terrain": "O",
-        "features": "Luminous Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -148,14 +148,14 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by seafloor seagrass, a series of a hidden cave behind a waterfall reveal traces of a sunken cannon half-buried in the coral, and the distant buzzing of underwater machinery in a sunken city hint at more to discover.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 31,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Deep",
         "encounter": "",
         "history": []
     },
@@ -164,14 +164,14 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it tangy scent of salt spray. You spot ship-eating barnacles that seem to be setting up an underwater market.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 31,
         "pos": 21,
         "terrain": "O",
-        "features": "Sapphire Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -179,7 +179,7 @@
         "chunk": 31,
         "pos": 22,
         "terrain": "O",
-        "features": "Spectacular Shore",
+        "features": "Sparkling Jetty",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a massive, drifting iceberg with hidden dangers makes it difficult to proceed. Perhaps the underwater nomads nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
@@ -212,14 +212,14 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by sea palm kelp leads to a clearing with the remnants of a mermaid's lost jewelry, indicating floating market traders have been here.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 31,
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Rise",
         "encounter": "",
         "history": []
     },
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense halophila seagrass, you catch sight of a bottle of rare and potent mermaid tears. But be cautious, hollow echoes in an underwater cavern suggest sea anemone sorcerers are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see a treasure chest full of cursed gold that could be useful in your quest to escort a valuable cargo of precious gems through pirate-infested waters.. But it's guarded by kraken.",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Hidden among zostera seagrass, you spot a ship's sextant for celestial navigation glinting in the sunlight.",
         "history": []
     },
     {
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a magical conch shell that can summon sea creatures that could be useful in your quest to help a shipwrecked sailor construct a signal fire to call for rescue.. But it's guarded by mermen.",
+        "encounter": "",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The way forward is blocked by a sunken city with buildings rising to the surface, but you notice a secret mermaid library hidden in a deep trench that might lead around it.",
         "history": []
     },
     {
@@ -363,7 +363,7 @@
         "chunk": 31,
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Upwelling",
         "encounter": "",
         "history": []
     },
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a hint leading you to retrieve a rare and magical seashell for a powerful sea witch.. But be wary, for tidal wave elementals lurk nearby.",
         "history": []
     },
     {
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of serenity as you tread upon the remnants of a merfolk's forgotten treasure, hinting at a tale of sunken treasure guardians.",
+        "encounter": "",
         "history": []
     },
     {
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Navigating through a sandbar hiding just below the water's surface, you're surprised to find a hollowed-out giant clam used as a merfolk's dwelling filled with the remnants of a merfolk's forgotten treasure.As you journey forward, you come across a chest of exotic spices from distant lands, with traces of musty odor of a hidden sea cave around them.",
         "history": []
     },
     {
@@ -412,14 +412,14 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Hidden among sea anemone gardens, you spot a ship's sextant for celestial navigation glinting in the sunlight.",
         "history": []
     },
     {
         "chunk": 31,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Fjord",
         "encounter": "",
         "history": []
     },
@@ -443,7 +443,7 @@
         "chunk": 31,
         "pos": 55,
         "terrain": "O",
-        "features": "Uncharted Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -452,7 +452,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense underwater mangrove roots, you catch sight of a ship's bell with a haunting chime. But be cautious, cracking of icebergs in frigid waters suggest pirates are near.",
         "history": []
     },
     {
@@ -475,7 +475,7 @@
         "chunk": 31,
         "pos": 59,
         "terrain": "O",
-        "features": "Shimmering Swirl",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -515,7 +515,7 @@
         "chunk": 31,
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Seabed",
         "encounter": "",
         "history": []
     },
@@ -523,7 +523,7 @@
         "chunk": 31,
         "pos": 65,
         "terrain": "O",
-        "features": "Expansive Plateau",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -540,14 +540,14 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a fishing net tangled in the coral suggests that water elementals have passed through here on a quest to escort a fragile, magical artifact through dangerous waters..",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 31,
         "pos": 68,
         "terrain": "O",
-        "features": "Salty Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of tattered fragments of a sunken pirate flag suggests that island hermit have passed through here on a quest to protect a colony of merfolk from an encroaching threat..",
+        "encounter": "",
         "history": []
     },
     {
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and rattling of pebbles in the surf grow louder. It seems sea witches are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -603,8 +603,8 @@
         "chunk": 31,
         "pos": 75,
         "terrain": "O",
-        "features": "",
-        "encounter": "You feel an overwhelming sense of dread as you tread upon a partially buried, broken spyglass, hinting at a tale of selkies.",
+        "features": "Silent Sound",
+        "encounter": "",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the remnants of a sunken pirate ship's flagpole indicating past battles.",
         "history": []
     },
     {
@@ -627,7 +627,7 @@
         "chunk": 31,
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Bight",
         "encounter": "",
         "history": []
     },
@@ -635,7 +635,7 @@
         "chunk": 31,
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Silent Billow",
         "encounter": "",
         "history": []
     },
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice underwater mangrove roots moving subtly. Upon closer inspection, you see kraken that are building a coral fortress.",
+        "encounter": "",
         "history": []
     },
     {
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The way forward is blocked by treacherous rocks just below the surface, but you notice a network of tunnels in the heart of a coral maze that might lead around it.",
         "history": []
     },
     {
@@ -692,15 +692,15 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "Water elementals gives you a quest to search for a hidden cove rumored to contain pirate treasure.In your path lies a merfolk's enchanted harp surrounded by sponge colonies.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 31,
         "pos": 87,
         "terrain": "O",
-        "features": "Dense Abyss",
-        "encounter": "The presence of a coral reef with sharp, hidden edges makes it difficult to proceed. Perhaps the lighthouse guardians nearby can help.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -731,7 +731,7 @@
         "chunk": 31,
         "pos": 91,
         "terrain": "O",
-        "features": "Tumultuous Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -739,7 +739,7 @@
         "chunk": 31,
         "pos": 92,
         "terrain": "O",
-        "features": "Tidal Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -747,7 +747,7 @@
         "chunk": 31,
         "pos": 93,
         "terrain": "O",
-        "features": "Alluring Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel relief as rattling of pebbles in the surf echo in the distance. Perhaps it's a sign of what's to come.",
         "history": []
     },
     {
@@ -779,7 +779,7 @@
         "chunk": 31,
         "pos": 97,
         "terrain": "O",
-        "features": "Beckoning Drop-off",
+        "features": "",
         "encounter": "",
         "history": []
     },

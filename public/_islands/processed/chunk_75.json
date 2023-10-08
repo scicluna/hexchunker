@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden rustling of seaweed swaying in the current breaks the silence, making the nearby floating seaweed rafts quiver.",
+        "encounter": "The ground is littered with a torn and waterlogged book of sea legends. It appears underwater nomads were here recently.",
         "history": []
     },
     {
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a whirlpool leading to a mysterious underwater realm blocking your path. Perhaps it's related to your quest to search for a hidden cove rumored to contain pirate treasure..",
+        "encounter": "",
         "history": []
     },
     {
@@ -99,8 +99,8 @@
         "chunk": 75,
         "pos": 12,
         "terrain": "O",
-        "features": "Boundless Bay",
-        "encounter": "",
+        "features": "",
+        "encounter": "You encounter mermen which are exploring a mysterious underwater cave.",
         "history": []
     },
     {
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden buzzing of underwater machinery in a sunken city breaks the silence, making the nearby tube worms near hydrothermal vents quiver.",
         "history": []
     },
     {
@@ -131,7 +131,7 @@
         "chunk": 75,
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Vortex",
         "encounter": "",
         "history": []
     },
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel dread as gentle lapping of waves against the shore echo in the distance. Perhaps it's a sign of what's to come.",
         "history": []
     },
     {
@@ -179,7 +179,7 @@
         "chunk": 75,
         "pos": 22,
         "terrain": "O",
-        "features": "Reflective Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -235,7 +235,7 @@
         "chunk": 75,
         "pos": 29,
         "terrain": "O",
-        "features": "Turbulent Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -252,7 +252,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the dense halophila seagrass, you discover a preserved mermaid tail. You can't shake the feeling of anticipation.",
         "history": []
     },
     {
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a rusted, half-buried cutlass indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -283,7 +283,7 @@
         "chunk": 75,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Bight",
         "encounter": "",
         "history": []
     },
@@ -307,7 +307,7 @@
         "chunk": 75,
         "pos": 38,
         "terrain": "O",
-        "features": "Tranquil Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your senses are overwhelmed by forgiveness as you uncover a mysterious, glowing underwater crystal hidden within seaweed-covered rocks.",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by sea lettuce leads to a clearing with a broken ship's mast jutting out of the water, indicating ghost ships have been here.",
+        "encounter": "The way forward is blocked by a dense minefield of explosive devices, but you notice a secret mermaid library hidden in a deep trench that might lead around it.",
         "history": []
     },
     {
@@ -467,7 +467,7 @@
         "chunk": 75,
         "pos": 58,
         "terrain": "O",
-        "features": "Tumultuous Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 75,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular Cove",
         "encounter": "",
         "history": []
     },
@@ -540,14 +540,14 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "With investigate a series of shipwrecks caused by a vengeful ghost ship. On your mind, the sudden appearance of a band of marauding pirates waiting to attack accompanied by gentle lapping of waves against the shore becomes a challenging diversion.",
         "history": []
     },
     {
         "chunk": 75,
         "pos": 68,
         "terrain": "O",
-        "features": "Idyllic Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a sunken treasure map from the lair of a giant octopus.. But be wary, for selkies lurk nearby.",
+        "encounter": "You notice sponge colonies moving subtly. Upon closer inspection, you see giant clams that are searching for a lost artifact on the ocean floor.",
         "history": []
     },
     {
@@ -619,7 +619,7 @@
         "chunk": 75,
         "pos": 77,
         "terrain": "O",
-        "features": "Untamed Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -635,8 +635,8 @@
         "chunk": 75,
         "pos": 79,
         "terrain": "O",
-        "features": "Sunlit Inlet",
-        "encounter": "",
+        "features": "Sunlit Billow",
+        "encounter": "Hidden among sponge colonies, you spot a chest of mystical sea herbs and remedies glinting in the sunlight.",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a broken ship's mast jutting out of the water indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice giant underwater mushrooms moving subtly. Upon closer inspection, you see cursed ship captains that are navigating a treacherous whirlpool.",
+        "encounter": "",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among underwater mangrove roots, you spot a ship's bell with a haunting chime glinting in the sunlight.",
+        "encounter": "Your path is illuminated by the glint of a sparkling pearl necklace. However, giant clams stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -715,8 +715,8 @@
         "chunk": 75,
         "pos": 89,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Choppy Spring",
+        "encounter": "Blocked by a swarm of aggressive, giant jellyfish, your attention is caught by sighing of the wind through sea caves. Upon investigating, you discover a sunken, ghostly ship hidden in a fog bank with a net filled with exotic and colorful fish inside.",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 75,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Untamed Shoal",
         "encounter": "",
         "history": []
     },
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a magical conch shell that can summon sea creatures. However, pirates stand guard, their intentions unknown.",
+        "encounter": "A mysterious rotten-egg odor of sulfur from underwater vents envelops you, drawing you towards a concealed chamber within a massive sponge where underwater nomads are singing haunting songs to lure sailors.",
         "history": []
     },
     {
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea anemone sorcerers emerge from the a concealed treasure chest buried in the sand, their intent focused on a ship's cannon with ornate engravings.",
+        "encounter": "You encounter sunken treasure guardians which are raiding a coastal village for supplies.",
         "history": []
     },
     {

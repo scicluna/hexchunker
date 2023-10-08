@@ -19,7 +19,7 @@
         "chunk": 86,
         "pos": 2,
         "terrain": "O",
-        "features": "Windswept Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -35,7 +35,7 @@
         "chunk": 86,
         "pos": 4,
         "terrain": "O",
-        "features": "Roaring Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 86,
         "pos": 8,
         "terrain": "O",
-        "features": "Mesmerizing Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 86,
         "pos": 9,
         "terrain": "O",
-        "features": "Uncharted Spring",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're guided by the soft chattering of crabs on a rocky shore. As you follow, you encounter sirens in the midst of hunting for treasure on a deserted island.",
         "history": []
     },
     {
@@ -123,7 +123,7 @@
         "chunk": 86,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Mangrove",
         "encounter": "",
         "history": []
     },
@@ -163,7 +163,7 @@
         "chunk": 86,
         "pos": 20,
         "terrain": "O",
-        "features": "Immeasurable Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -171,7 +171,7 @@
         "chunk": 86,
         "pos": 21,
         "terrain": "O",
-        "features": "Luminous Expanse",
+        "features": "Ethereal Main",
         "encounter": "",
         "history": []
     },
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Hidden among red algae beds, you spot a beautifully crafted coral tiara glinting in the sunlight.",
         "history": []
     },
     {
@@ -227,8 +227,8 @@
         "chunk": 86,
         "pos": 28,
         "terrain": "O",
-        "features": "Ethereal Strait",
-        "encounter": "",
+        "features": "Pristine Billow",
+        "encounter": "Hidden among coral reefs, you spot a weathered treasure map glinting in the sunlight.",
         "history": []
     },
     {
@@ -244,7 +244,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "The thick beds of eelgrass rustles, revealing sea anemone sorcerers that are trading with passing merchant ships.",
+        "encounter": "",
         "history": []
     },
     {
@@ -275,7 +275,7 @@
         "chunk": 86,
         "pos": 34,
         "terrain": "O",
-        "features": "Majestic Shore",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -291,7 +291,7 @@
         "chunk": 86,
         "pos": 36,
         "terrain": "O",
-        "features": "Sapphire Main",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -315,7 +315,7 @@
         "chunk": 86,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Wave",
         "encounter": "",
         "history": []
     },
@@ -339,7 +339,7 @@
         "chunk": 86,
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Fjord",
         "encounter": "",
         "history": []
     },
@@ -355,8 +355,8 @@
         "chunk": 86,
         "pos": 44,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Picturesque Gulf",
+        "encounter": "You stumble upon a scene where cursed ship captains are engaged in setting up an underwater market around a rare, ancient ship's figurehead, seemingly crucial for recover a stolen, enchanted pearl necklace for a heartbroken mermaid..",
         "history": []
     },
     {
@@ -371,7 +371,7 @@
         "chunk": 86,
         "pos": 46,
         "terrain": "O",
-        "features": "Harmonious Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -379,7 +379,7 @@
         "chunk": 86,
         "pos": 47,
         "terrain": "O",
-        "features": "Majestic Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter giant sea turtles which are battling a giant sea serpent.",
         "history": []
     },
     {
@@ -419,7 +419,7 @@
         "chunk": 86,
         "pos": 52,
         "terrain": "O",
-        "features": "Mysterious Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -443,15 +443,15 @@
         "chunk": 86,
         "pos": 55,
         "terrain": "O",
-        "features": "Tumultuous Inlet",
-        "encounter": "You see a mermaid's singing seashell necklace that could be useful in your quest to help a shipwrecked sailor construct a signal fire to call for rescue.. But it's guarded by whirlpool spirits.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Estuary",
         "encounter": "",
         "history": []
     },
@@ -467,7 +467,7 @@
         "chunk": 86,
         "pos": 58,
         "terrain": "O",
-        "features": "Immeasurable Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of confusion as you tread upon a partially buried, broken spyglass, hinting at a tale of merfolk.",
+        "encounter": "",
         "history": []
     },
     {
@@ -522,9 +522,9 @@
     {
         "chunk": 86,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Cloud-covered Bowl",
+        "encounter": "Your way is impeded by a towering and impassable mountain cliff wall. As you contemplate a way around, you hear the rustling of small mammals in the rocky terrain from the shadows.",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of an ancient ship's cannon of an old campsite, the scent of salty scent of a mermaid's hair still lingering.",
+        "encounter": "",
         "history": []
     },
     {
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground trembles slightly, and hissing of foam as waves recede grow louder. It seems turtle island shamans are on the move.",
         "history": []
     },
     {
@@ -571,7 +571,7 @@
         "chunk": 86,
         "pos": 71,
         "terrain": "O",
-        "features": "Nautical Plateau",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -579,7 +579,7 @@
         "chunk": 86,
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable Trough",
         "encounter": "",
         "history": []
     },
@@ -588,14 +588,14 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel an overwhelming sense of confidence as you tread upon the remnants of a sunken merchant ship's cargo, hinting at a tale of sunken treasure guardians.",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Inviting Drop-off",
         "encounter": "",
         "history": []
     },
@@ -619,8 +619,8 @@
         "chunk": 86,
         "pos": 77,
         "terrain": "O",
-        "features": "Abyssal Rift",
-        "encounter": "",
+        "features": "",
+        "encounter": "Blocked by a massive, drifting iceberg with hidden dangers, your attention is caught by rhythmic crashing of waves on rocky cliffs. Upon investigating, you discover a concealed treasure chest buried in the sand with a treasure chest full of cursed gold inside.",
         "history": []
     },
     {
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is an eerie, ghostly ship blocking the path blocking your path. Perhaps it's related to your quest to retrieve a stolen pearl from a cunning group of bandits..",
+        "encounter": "",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You hear sizzling of saltwater on hot volcanic rocks coming from a concealed chamber within a massive sponge.",
         "history": []
     },
     {
@@ -676,7 +676,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among floating mats of sargassum seaweed, you spot a captured sea serpent's egg glinting in the sunlight.",
+        "encounter": "",
         "history": []
     },
     {
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Blocked by a powerful, magical barrier blocking passage, your attention is caught by sighing of the wind through sea caves. Upon investigating, you discover a concealed mermaid treasure trove in a sunken ship with a bottle of enchanted ink for writing underwater inside.",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 86,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Trough",
         "encounter": "",
         "history": []
     },
@@ -787,7 +787,7 @@
         "chunk": 86,
         "pos": 98,
         "terrain": "O",
-        "features": "Unspoiled Sandbank",
+        "features": "",
         "encounter": "",
         "history": []
     },

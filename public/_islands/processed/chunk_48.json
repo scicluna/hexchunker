@@ -11,7 +11,7 @@
         "chunk": 48,
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Pinnacle",
         "encounter": "",
         "history": []
     },
@@ -19,7 +19,7 @@
         "chunk": 48,
         "pos": 2,
         "terrain": "O",
-        "features": "Majestic Haven",
+        "features": "Tranquil Depression",
         "encounter": "",
         "history": []
     },
@@ -35,15 +35,15 @@
         "chunk": 48,
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": "Deep in thought about rescue a stranded mermaid from a treacherous reef., you're startled by hissing of foam as waves recede. It seems storm giants are near.",
+        "features": "Moonlit Seamount",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 5,
         "terrain": "O",
-        "features": "Tranquil Edifice",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -115,7 +115,7 @@
         "chunk": 48,
         "pos": 14,
         "terrain": "O",
-        "features": "Grand Swirl",
+        "features": "Majestic Wave",
         "encounter": "",
         "history": []
     },
@@ -139,7 +139,7 @@
         "chunk": 48,
         "pos": 17,
         "terrain": "O",
-        "features": "Limitless Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is a submerged forest of gnarled, petrified trees blocking your path. Perhaps it's related to your quest to retrieve a powerful, magical artifact from a sunken shipwreck..",
         "history": []
     },
     {
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a sunken city with buildings rising to the surface blocking your path. Perhaps it's related to your quest to uncover the secrets of a mysterious, ship-swallowing whirlpool..",
+        "encounter": "",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 48,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely Tide",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 48,
         "pos": 26,
         "terrain": "O",
-        "features": "Sapphire Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -228,15 +228,15 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "An eerie buzzing of insects near a coastal marsh resonates from a concealed treasure chest buried in the sand, and the scent of smell of seaweed roasting in the sun fills the air.",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 29,
         "terrain": "O",
-        "features": "Peaceful Seamount",
-        "encounter": "",
+        "features": "Pristine Fathom",
+        "encounter": "The air is filled with the smell of aromatic spices from a seaside market. You feel a sense of contentment.",
         "history": []
     },
     {
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a massive, drifting iceberg with hidden dangers, but you notice an underwater cave network filled with glowing algae that might lead around it.",
+        "encounter": "",
         "history": []
     },
     {
@@ -291,7 +291,7 @@
         "chunk": 48,
         "pos": 36,
         "terrain": "O",
-        "features": "Limitless Undercurrent",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -307,7 +307,7 @@
         "chunk": 48,
         "pos": 38,
         "terrain": "O",
-        "features": "Surging Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -315,15 +315,15 @@
         "chunk": 48,
         "pos": 39,
         "terrain": "O",
-        "features": "",
-        "encounter": "You hear rattling of pebbles in the surf coming from a sunken shipwreck beneath a coral reef.",
+        "features": "Unfathomable Abyss",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 40,
         "terrain": "O",
-        "features": "",
+        "features": "Silent Shoal",
         "encounter": "",
         "history": []
     },
@@ -403,7 +403,7 @@
         "chunk": 48,
         "pos": 50,
         "terrain": "O",
-        "features": "Boundless Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -452,7 +452,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by pride as you uncover a ship's sextant for celestial navigation hidden within giant underwater mushrooms.",
+        "encounter": "",
         "history": []
     },
     {
@@ -467,8 +467,8 @@
         "chunk": 48,
         "pos": 58,
         "terrain": "O",
-        "features": "",
-        "encounter": "You feel bewilderment as clanging of bells on a buoy in choppy waters echo in the distance. Perhaps it's a sign of what's to come.",
+        "features": "Majestic Billow",
+        "encounter": "",
         "history": []
     },
     {
@@ -484,14 +484,14 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a whirlpool leading to a mysterious underwater realm, your attention is caught by humming of a powerful sea enchantment. Upon investigating, you discover a treasure cache buried in the sand on a deserted island with a bottle of rare and potent mermaid tears inside.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 61,
         "terrain": "O",
-        "features": "Bubbling Undercurrent",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear pounding of heavy rain during a monsoon coming from a secret mermaid library hidden in a deep trench.",
+        "encounter": "",
         "history": []
     },
     {
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie pounding of heavy rain during a monsoon resonates from a submerged ship graveyard where ghost ships rest, and the scent of mildewy scent of an old ship's cabin fills the air.",
+        "encounter": "",
         "history": []
     },
     {
@@ -587,7 +587,7 @@
         "chunk": 48,
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Gulf",
         "encounter": "",
         "history": []
     },
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the remnants of a sunken sea monster's scale indicating past battles.",
         "history": []
     },
     {
@@ -659,7 +659,7 @@
         "chunk": 48,
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Trough",
         "encounter": "",
         "history": []
     },
@@ -667,7 +667,7 @@
         "chunk": 48,
         "pos": 83,
         "terrain": "O",
-        "features": "Crystal-clear Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "Pirates gives you a quest to rescue a kidnapped noble from a group of pirates.In your path lies a collection of seashells with hidden messages surrounded by floating mats of sargassum seaweed.",
+        "encounter": "",
         "history": []
     },
     {
@@ -779,7 +779,7 @@
         "chunk": 48,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque Ridge",
         "encounter": "",
         "history": []
     },

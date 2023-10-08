@@ -3,7 +3,7 @@
         "chunk": 28,
         "pos": 0,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Narrows",
         "encounter": "",
         "history": []
     },
@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a rusted, half-buried cutlass of an old campsite, the scent of fresh, salty scent of oysters on the shore still lingering.",
+        "encounter": "",
         "history": []
     },
     {
@@ -35,7 +35,7 @@
         "chunk": 28,
         "pos": 4,
         "terrain": "O",
-        "features": "Majestic Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of a ship's figurehead washed ashore suggests that cursed mermaids have passed through here on a quest to escort a fragile, magical artifact through dangerous waters..",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 28,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Passage",
         "encounter": "",
         "history": []
     },
@@ -124,14 +124,14 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot a bottle of enchanted ink for writing underwater nestled among mangrove prop roots, but the unsettling feeling of amusement makes you wary.",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular Bight",
         "encounter": "",
         "history": []
     },
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant chattering of crabs on a rocky shore draws your attention. Following it, you discover the remnants of a sunken sea monster's scale of a past event.",
         "history": []
     },
     {
@@ -195,7 +195,7 @@
         "chunk": 28,
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Epic Depression",
         "encounter": "",
         "history": []
     },
@@ -203,7 +203,7 @@
         "chunk": 28,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Soothing Marina",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 28,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious Bay",
         "encounter": "",
         "history": []
     },
@@ -235,7 +235,7 @@
         "chunk": 28,
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Unspoiled Depression",
         "encounter": "",
         "history": []
     },
@@ -283,7 +283,7 @@
         "chunk": 28,
         "pos": 35,
         "terrain": "O",
-        "features": "Bubbling Rift",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -307,7 +307,7 @@
         "chunk": 28,
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Trough",
         "encounter": "",
         "history": []
     },
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Every step forward is met with the increasing intensity of mildewy scent of an old ship's cabin, suggesting the presence of whirlpool spirits.",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense halophila seagrass, you discover a sea serpent scale. You can't shake the feeling of curiosity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter shipwreck goblins which are battling a giant sea serpent.",
+        "encounter": "",
         "history": []
     },
     {
@@ -444,7 +444,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is a school of aggressive and territorial sharks blocking your path. Perhaps it's related to your quest to protect a colony of merfolk from an encroaching threat..",
         "history": []
     },
     {
@@ -556,14 +556,14 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The red grape algae rustles, revealing giant clams that are performing a ritual to calm a storm.",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous Isle",
         "encounter": "",
         "history": []
     },
@@ -579,7 +579,7 @@
         "chunk": 28,
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Swirl",
         "encounter": "",
         "history": []
     },
@@ -691,7 +691,7 @@
         "chunk": 28,
         "pos": 86,
         "terrain": "O",
-        "features": "Tidal Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -707,16 +707,16 @@
         "chunk": 28,
         "pos": 88,
         "terrain": "O",
-        "features": "Infinite Expanse",
-        "encounter": "",
+        "features": "",
+        "encounter": "The seaweed-covered rocks rustles, revealing mermen that are collecting rare and magical seashells.",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 89,
         "terrain": "O",
-        "features": "Dense Isle",
-        "encounter": "You're guided by the soft seagulls cawing in the distance. As you follow, you encounter sea witches in the midst of forging alliances with other oceanic races.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a deadly, bioluminescent sea creature swarm. As you contemplate a way around, you hear splashing of dolphins playing nearby from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground is littered with the remnants of a ship's broken figurehead. It appears mermen were here recently.",
         "history": []
     },
     {
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by zostera seagrass leads to a clearing with the remnants of a ship's broken mast, indicating underwater miners have been here.",
+        "encounter": "",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "The bubblegum coral rustles, revealing cursed mermaids that are building a coral fortress.",
+        "encounter": "",
         "history": []
     }
 ]

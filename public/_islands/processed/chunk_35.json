@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden churning of water as a whirlpool forms breaks the silence, making the nearby floating mats of sargassum seaweed quiver.",
+        "encounter": "Among the dense rockweed, you discover a ship's cannon with ornate engravings. You can't shake the feeling of sadness.",
         "history": []
     },
     {
@@ -139,7 +139,7 @@
         "chunk": 35,
         "pos": 17,
         "terrain": "O",
-        "features": "Mesmerizing Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A path surrounded by giant kelp with air-filled bladders leads to a clearing with a ship's figurehead washed ashore, indicating kraken have been here.",
         "history": []
     },
     {
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense hornwort, you catch sight of a ship's cannon with ornate engravings. But be cautious, humming of a powerful sea enchantment suggest selkies are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -283,16 +283,16 @@
         "chunk": 35,
         "pos": 35,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Reflective Rift",
+        "encounter": "Surrounded by underwater mangrove roots, a series of a hidden cave behind a waterfall reveal traces of a sunken rowboat with a hole in its hull, and the distant rustling of parchment as a map is unfurled hint at more to discover.",
         "history": []
     },
     {
         "chunk": 35,
         "pos": 36,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Breathtaking Plateau",
+        "encounter": "Every step forward is met with the increasing intensity of rustic scent of a seaside tavern, suggesting the presence of sea witches.",
         "history": []
     },
     {
@@ -315,7 +315,7 @@
         "chunk": 35,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Isle",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 35,
         "pos": 41,
         "terrain": "O",
-        "features": "Murmuring Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a submerged forest of gnarled, petrified trees, your attention is caught by murmuring of merfolk singing in harmony. Upon investigating, you discover a sunken shipwreck beneath a coral reef with a weathered treasure map inside.",
+        "encounter": "",
         "history": []
     },
     {
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense coral reefs, you discover a giant clamshell turned into a luxurious bed. You can't shake the feeling of curiosity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -475,7 +475,7 @@
         "chunk": 35,
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring Ridge",
         "encounter": "",
         "history": []
     },
@@ -483,8 +483,8 @@
         "chunk": 35,
         "pos": 60,
         "terrain": "O",
-        "features": "",
-        "encounter": "You encounter storm giants which are creating elaborate maps of uncharted waters.",
+        "features": "Infinite Inlet",
+        "encounter": "",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 35,
         "pos": 66,
         "terrain": "O",
-        "features": "Tempestuous Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover a damaged sextant with a cracked lens that tell a story of a time when giant sea turtles pursued defend a coastal village from a relentless pirate invasion..",
+        "encounter": "",
         "history": []
     },
     {
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The air is filled with the smell of scent of freshly caught lobster and crab. You feel a sense of hope.",
         "history": []
     },
     {
@@ -572,14 +572,14 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a collection of seashells with hidden messages nestled among sea lettuce, but the unsettling feeling of joy makes you wary.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 35,
         "pos": 72,
         "terrain": "O",
-        "features": "Tranquil Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -611,7 +611,7 @@
         "chunk": 35,
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful Rift",
         "encounter": "",
         "history": []
     },
@@ -651,7 +651,7 @@
         "chunk": 35,
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Basin",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The way forward is blocked by a sunken city with buildings rising to the surface, but you notice a submerged sea cave filled with bioluminescent creatures that might lead around it.",
         "history": []
     },
     {
@@ -700,14 +700,14 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter coral golems which are negotiating with a powerful sea witch.",
         "history": []
     },
     {
         "chunk": 35,
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Ridge",
         "encounter": "",
         "history": []
     },
@@ -723,7 +723,7 @@
         "chunk": 35,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Iridescent Harbor",
         "encounter": "",
         "history": []
     },
@@ -731,8 +731,8 @@
         "chunk": 35,
         "pos": 91,
         "terrain": "O",
-        "features": "Rippling Shoal",
-        "encounter": "A path surrounded by underwater mangrove roots leads to a clearing with a torn and waterlogged book of sea legends, indicating sarcastic cephalopod have been here.",
+        "features": "Shimmering Seamount",
+        "encounter": "A sudden gust brings with it saltwater in the air. You spot lighthouse guardians that seem to be exploring a mysterious underwater cave.",
         "history": []
     },
     {

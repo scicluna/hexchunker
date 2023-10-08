@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel wonder as gentle lapping of waves against the shore echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
@@ -43,7 +43,7 @@
         "chunk": 57,
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque Tidal Pool",
         "encounter": "",
         "history": []
     },
@@ -51,7 +51,7 @@
         "chunk": 57,
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Trough",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 57,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Gulf",
         "encounter": "",
         "history": []
     },
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel grief as chattering of crabs on a rocky shore echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
@@ -91,8 +91,8 @@
         "chunk": 57,
         "pos": 11,
         "terrain": "O",
-        "features": "",
-        "encounter": "A distant whispering of the sea breeze through palm trees draws your attention. Following it, you discover barnacle-covered remnants of a wooden chest of a past event.",
+        "features": "Alluring Flats",
+        "encounter": "",
         "history": []
     },
     {
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see a sea serpent scale that could be useful in your quest to protect a colony of merfolk from an encroaching threat.. But it's guarded by pirates.",
         "history": []
     },
     {
@@ -131,7 +131,7 @@
         "chunk": 57,
         "pos": 16,
         "terrain": "O",
-        "features": "Limitless Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -179,7 +179,7 @@
         "chunk": 57,
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Bight",
         "encounter": "",
         "history": []
     },
@@ -195,7 +195,7 @@
         "chunk": 57,
         "pos": 24,
         "terrain": "O",
-        "features": "Daunting Pinnacle",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -203,7 +203,7 @@
         "chunk": 57,
         "pos": 25,
         "terrain": "O",
-        "features": "Soothing Flats",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 57,
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Isle",
         "encounter": "",
         "history": []
     },
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The way forward is blocked by a school of aggressive and territorial sharks, but you notice a hollowed-out giant clam used as a merfolk's dwelling that might lead around it.",
         "history": []
     },
     {
@@ -291,7 +291,7 @@
         "chunk": 57,
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Inlet",
         "encounter": "",
         "history": []
     },
@@ -299,7 +299,7 @@
         "chunk": 57,
         "pos": 37,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Reef",
         "encounter": "",
         "history": []
     },
@@ -371,7 +371,7 @@
         "chunk": 57,
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Undercurrent",
         "encounter": "",
         "history": []
     },
@@ -387,7 +387,7 @@
         "chunk": 57,
         "pos": 48,
         "terrain": "O",
-        "features": "Harmonious Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -403,8 +403,8 @@
         "chunk": 57,
         "pos": 50,
         "terrain": "O",
-        "features": "Salty Trough",
-        "encounter": "",
+        "features": "",
+        "encounter": "Deep in thought about investigate reports of disappearing ships in a cursed sea., you're startled by cracking of icebergs in frigid waters. It seems pirates are near.",
         "history": []
     },
     {
@@ -436,15 +436,15 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Deep in thought about investigate the disappearance of a famous sea captain and their crew., you're startled by buzzing of bioluminescent creatures in the depths. It seems floating market traders are near.",
         "history": []
     },
     {
         "chunk": 57,
         "pos": 55,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Foggy Bowl",
+        "encounter": "The clusters of mushrooms in damp mountain forests rustles, revealing a tribe of centaurs skilled in herbalism that are flying gracefully through mountain valleys.",
         "history": []
     },
     {
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The air is filled with the smell of mildewed scent of an old shipwreck. You feel a sense of hope.",
         "history": []
     },
     {
@@ -483,7 +483,7 @@
         "chunk": 57,
         "pos": 60,
         "terrain": "O",
-        "features": "Bubbling Swirl",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 57,
         "pos": 62,
         "terrain": "O",
-        "features": "Vibrant Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -522,9 +522,9 @@
     {
         "chunk": 57,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Isolated Face",
+        "encounter": "A distant the rhythmic thumping of a woodpecker's beak on trees draws your attention. Following it, you discover a moss-covered and ancient mountain altar of a past event.",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 57,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Haven",
         "encounter": "",
         "history": []
     },
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel anticipation as rustling of seaweed in the currents echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,14 +604,14 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon a scene where jellyfish navigators are engaged in raising a sunken ship from the depths around a pirate's cutlass with an ornate hilt, seemingly crucial for guide a group of scholars on a research expedition to the deep ocean..",
         "history": []
     },
     {
         "chunk": 57,
         "pos": 76,
         "terrain": "O",
-        "features": "Choppy Harbor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -659,7 +659,7 @@
         "chunk": 57,
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Gulf",
         "encounter": "",
         "history": []
     },
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "From the shadows of the a hidden pirate's tunnel behind a cascading waterfall, you sense the presence of cursed ship captains.",
         "history": []
     },
     {

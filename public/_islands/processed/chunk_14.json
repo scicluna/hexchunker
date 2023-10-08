@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a treasure chest full of cursed gold nestled among floating seaweed rafts, but the unsettling feeling of empathy makes you wary.",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,8 +67,8 @@
         "chunk": 14,
         "pos": 8,
         "terrain": "O",
-        "features": "Calm Flats",
-        "encounter": "Deep in thought about escort a valuable cargo of precious gems through pirate-infested waters., you're startled by clattering of seashells in the tide. It seems whirlpool spirits are near.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -83,7 +83,7 @@
         "chunk": 14,
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable Edifice",
         "encounter": "",
         "history": []
     },
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is illuminated by the glint of a bottle of rare and potent mermaid tears. However, coral golems stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -156,15 +156,15 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a sunken city with buildings rising to the surface. As you contemplate a way around, you hear humming of a powerful sea enchantment from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 20,
         "terrain": "O",
-        "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of salty scent of a mermaid's hair, suggesting the presence of island hermit.",
+        "features": "Beckoning Main",
+        "encounter": "",
         "history": []
     },
     {
@@ -179,7 +179,7 @@
         "chunk": 14,
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable Inlet",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious smoky aroma of a beachside bonfire envelops you, drawing you towards a hidden cave filled with glowing sea crystals where sarcastic cephalopod are protecting a ship from ghostly apparitions.",
+        "encounter": "",
         "history": []
     },
     {
@@ -275,7 +275,7 @@
         "chunk": 14,
         "pos": 34,
         "terrain": "O",
-        "features": "Epic Harbor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -299,8 +299,8 @@
         "chunk": 14,
         "pos": 37,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Vast Marina",
+        "encounter": "The way forward is blocked by a tidal wave approaching with destructive force, but you notice a concealed treasure chest within a submerged statue that might lead around it.",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The presence of a giant maelstrom that sucks everything in makes it difficult to proceed. Perhaps the merfolk nearby can help.",
         "history": []
     },
     {
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a ship's figurehead washed ashore indicating past battles.",
+        "encounter": "You feel an overwhelming sense of fear as you tread upon an abandoned lifeboat adrift on the waves, hinting at a tale of giant sea turtles.",
         "history": []
     },
     {
@@ -380,14 +380,14 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a sunken pirate ship's flagpole lie scattered, painting a tale of storm giants that collecting rare and magical seashells.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 48,
         "terrain": "O",
-        "features": "Sapphire Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -395,7 +395,7 @@
         "chunk": 14,
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Flats",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Every step forward is met with the increasing intensity of fishy odor of the ocean depths, suggesting the presence of sirens.",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by excitement as you uncover a kraken's tentacle as a gruesome trophy hidden within floating mats of sargassum seaweed.",
+        "encounter": "",
         "history": []
     },
     {
@@ -459,7 +459,7 @@
         "chunk": 14,
         "pos": 57,
         "terrain": "O",
-        "features": "Ageless Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -476,7 +476,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sea grape kelp, you catch sight of a mermaid's singing seashell necklace. But be cautious, churning of water as a whirlpool forms suggest sea serpents are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by sponge colonies, a series of a hidden coral maze filled with merfolk traps reveal traces of a ship's figurehead washed ashore, and the distant gentle lapping of waves against the shore hint at more to discover.",
+        "encounter": "",
         "history": []
     },
     {
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "Coral golems gives you a quest to explore an underwater cave system to find a valuable artifact.In your path lies a preserved mermaid tail surrounded by sea grape kelp.",
+        "encounter": "",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where sea anemone sorcerers are engaged in training sea creatures for battle around a seafarer's compass that points to hidden treasure, seemingly crucial for search for a hidden cove rumored to contain pirate treasure..",
+        "encounter": "",
         "history": []
     },
     {
@@ -563,7 +563,7 @@
         "chunk": 14,
         "pos": 70,
         "terrain": "O",
-        "features": "Shimmering Rise",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -571,7 +571,7 @@
         "chunk": 14,
         "pos": 71,
         "terrain": "O",
-        "features": "Beckoning Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -579,7 +579,7 @@
         "chunk": 14,
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Surging Plateau",
         "encounter": "",
         "history": []
     },
@@ -595,7 +595,7 @@
         "chunk": 14,
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Wave",
         "encounter": "",
         "history": []
     },
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The presence of a powerful, magical barrier blocking passage makes it difficult to proceed. Perhaps the oceanic alchemists nearby can help.",
         "history": []
     },
     {
@@ -644,22 +644,22 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Surrounded by gorgonian sea fans, a series of a hidden cave behind a waterfall reveal traces of the remnants of a ship's broken figurehead, and the distant echoing calls of whales in the distance hint at more to discover.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 81,
         "terrain": "O",
-        "features": "Crystal-clear Current",
-        "encounter": "You encounter sea serpents which are building a coral fortress.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Mesmerizing Sandbank",
         "encounter": "",
         "history": []
     },
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The air is filled with the smell of aromatic blooms of coastal flowers. You feel a sense of desperation.",
         "history": []
     },
     {
@@ -739,7 +739,7 @@
         "chunk": 14,
         "pos": 92,
         "terrain": "O",
-        "features": "Mesmerizing Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -747,15 +747,15 @@
         "chunk": 14,
         "pos": 93,
         "terrain": "O",
-        "features": "Beckoning Maelstrom",
-        "encounter": "Pearl diver guilds gives you a quest to rescue a group of trapped sailors from a sinking ship.In your path lies a ship's logbook with a mysterious route surrounded by underwater mangrove roots.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Shoal",
         "encounter": "",
         "history": []
     },
@@ -787,7 +787,7 @@
         "chunk": 14,
         "pos": 98,
         "terrain": "O",
-        "features": "Surging Flats",
+        "features": "",
         "encounter": "",
         "history": []
     },

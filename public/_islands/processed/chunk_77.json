@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and whispering of the sea breeze through palm trees grow louder. It seems ghost ships are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -35,7 +35,7 @@
         "chunk": 77,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Swirl",
         "encounter": "",
         "history": []
     },
@@ -43,7 +43,7 @@
         "chunk": 77,
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Haven",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 77,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous Fjord",
         "encounter": "",
         "history": []
     },
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft gurgling of a freshwater stream meeting the ocean. As you follow, you encounter sunken treasure guardians in the midst of negotiating with a powerful sea witch.",
+        "encounter": "",
         "history": []
     },
     {
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your senses are overwhelmed by hope as you uncover a ship's chart with uncharted territories marked hidden within caulerpa seaweed.",
         "history": []
     },
     {
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant hissing of foam as waves recede draws your attention. Following it, you discover the remnants of a ship's wheel half-buried in the sand of a past event.",
+        "encounter": "",
         "history": []
     },
     {
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a rare, ancient ship's figurehead nestled among rockweed, but the unsettling feeling of desperation makes you wary.",
+        "encounter": "",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 77,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable Abyss",
         "encounter": "",
         "history": []
     },
@@ -171,8 +171,8 @@
         "chunk": 77,
         "pos": 21,
         "terrain": "O",
-        "features": "Tidal Chasm",
-        "encounter": "A sudden low growling of a distant thunderstorm breaks the silence, making the nearby giant clam gardens quiver.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -180,7 +180,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "Seafaring druids emerge from the an underwater lagoon hidden by dense seaweed, their intent focused on a rare, ancient ship's figurehead.",
+        "encounter": "Your way is impeded by a giant clam snapping shut on unsuspecting ships. As you contemplate a way around, you hear clanging of bells on a buoy in choppy waters from the shadows.",
         "history": []
     },
     {
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "From the shadows of the a hidden cave filled with glowing sea crystals, you sense the presence of mermen.",
         "history": []
     },
     {
@@ -196,14 +196,14 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You uncover a rusted anchor half-buried in the sand that tell a story of a time when giant clams pursued discover the source of a mysterious bioluminescent phenomenon..",
         "history": []
     },
     {
         "chunk": 77,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Mangrove",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 77,
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Mangrove",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 77,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Edifice",
         "encounter": "",
         "history": []
     },
@@ -291,7 +291,7 @@
         "chunk": 77,
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Mangrove",
         "encounter": "",
         "history": []
     },
@@ -331,8 +331,8 @@
         "chunk": 77,
         "pos": 41,
         "terrain": "O",
-        "features": "Boundless Seabed",
-        "encounter": "",
+        "features": "",
+        "encounter": "You encounter sirens which are solving a riddle from an ancient sea scroll.",
         "history": []
     },
     {
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a ghostly lantern that wards off spirits. However, whirlpool spirits stand guard, their intentions unknown.",
+        "encounter": "",
         "history": []
     },
     {
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Strange barnacle-covered remnants of a wooden chest lie scattered, painting a tale of underwater miners that exploring a mysterious underwater cave.",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel grief as gentle lapping of waves against the shore echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Seafaring druids gives you a quest to rescue a stranded mermaid from a treacherous reef.In your path lies a piece of driftwood with an ancient carving surrounded by seafloor seagrass.",
+        "encounter": "",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground trembles slightly, and murmuring of merfolk singing in harmony grow louder. It seems cursed mermaids are on the move.",
         "history": []
     },
     {
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is illuminated by the glint of a ghostly lantern that wards off spirits. However, underwater nomads stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -499,8 +499,8 @@
         "chunk": 77,
         "pos": 62,
         "terrain": "O",
-        "features": "",
-        "encounter": "With explore an underwater cave system to find a valuable artifact. On your mind, the sudden appearance of a dense, toxic algae bloom poisoning the water accompanied by echoing calls of whales in the distance becomes a challenging diversion.",
+        "features": "Azure Ridge",
+        "encounter": "",
         "history": []
     },
     {
@@ -516,15 +516,15 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The red grape algae rustles, revealing seafaring druids that are negotiating with a powerful sea witch.",
         "history": []
     },
     {
         "chunk": 77,
         "pos": 65,
         "terrain": "O",
-        "features": "Immeasurable Mangrove",
-        "encounter": "",
+        "features": "",
+        "encounter": "You stumble upon a scene where merfolk are engaged in taming and riding sea turtles around a weathered treasure map, seemingly crucial for navigate a treacherous coral maze to reach a hidden oasis..",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 77,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque Edifice",
         "encounter": "",
         "history": []
     },
@@ -548,14 +548,14 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel serenity as clattering of seashells in the tide echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 77,
         "pos": 69,
         "terrain": "O",
-        "features": "Turbulent Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -635,7 +635,7 @@
         "chunk": 77,
         "pos": 79,
         "terrain": "O",
-        "features": "Surging Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're guided by the soft gentle lapping of waves against the shore. As you follow, you encounter sea witches in the midst of taming and riding sea turtles.",
         "history": []
     },
     {
@@ -652,14 +652,14 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a giant clam snapping shut on unsuspecting ships makes it difficult to proceed. Perhaps the sarcastic cephalopod nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 77,
         "pos": 82,
         "terrain": "O",
-        "features": "Breathtaking Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -668,14 +668,14 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your senses are overwhelmed by fear as you uncover a message in a bottle hidden within seafloor seagrass.",
         "history": []
     },
     {
         "chunk": 77,
         "pos": 84,
         "terrain": "O",
-        "features": "Unspoiled Bay",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot a sunken ship's anchor nestled among giant kelp with air-filled bladders, but the unsettling feeling of amusement makes you wary.",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by anger as you uncover a beautifully crafted coral tiara hidden within underwater mangrove roots.",
+        "encounter": "",
         "history": []
     },
     {
@@ -724,14 +724,14 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sea anemone sorcerers emerge from the a sunken garden of rare and magical sea plants, their intent focused on a seashell amulet that grants water-breathing.",
         "history": []
     },
     {
         "chunk": 77,
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious Harbor",
         "encounter": "",
         "history": []
     },
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a ship's anchor chain lie scattered, painting a tale of cursed mermaids that hunting for treasure on a deserted island.",
+        "encounter": "",
         "history": []
     },
     {

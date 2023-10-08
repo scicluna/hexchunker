@@ -27,7 +27,7 @@
         "chunk": 20,
         "pos": 3,
         "terrain": "O",
-        "features": "Silent Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -35,15 +35,15 @@
         "chunk": 20,
         "pos": 4,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Immeasurable Jetty",
+        "encounter": "You uncover the remnants of a ship's broken mast that tell a story of a time when sea anemone sorcerers pursued escort a valuable cargo of precious gems through pirate-infested waters..",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 5,
         "terrain": "O",
-        "features": "Dense Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -68,15 +68,15 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a treacherous, labyrinthine underwater cave system, you're surprised to find a hollowed-out giant clam used as a merfolk's dwelling filled with a rusted ship's bell on the ocean floor.As you journey forward, you come across a ship's bell with a haunting chime, with traces of saltwater in the air around them.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 9,
         "terrain": "O",
-        "features": "Secluded Harbor",
-        "encounter": "You encounter crystal reef dwellers which are hunting for fish and other sea creatures.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey leads you to a a whirlpool leading to a mysterious underwater realm. As you approach, sirens creating elaborate maps of uncharted waters.",
         "history": []
     },
     {
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You uncover the remnants of a pirate's skeleton on a sunken ship that tell a story of a time when giant sea turtles pursued uncover the secrets of a mysterious, ship-swallowing whirlpool..",
         "history": []
     },
     {
@@ -124,15 +124,15 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter merfolk which are exploring the depths in search of a sunken city.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 16,
         "terrain": "O",
-        "features": "Crystal-clear Wave",
-        "encounter": "",
+        "features": "Pristine Main",
+        "encounter": "The air is filled with the smell of rustic scent of a seaside tavern. You feel a sense of trepidation.",
         "history": []
     },
     {
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and splintering of wood as a shipwreck breaks apart grow louder. It seems sea anemone sorcerers are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a lost, enchanted trident from a sunken temple.. But be wary, for sea dragons lurk nearby.",
+        "encounter": "You notice floating bladderwort plants moving subtly. Upon closer inspection, you see sea anemone sorcerers that are protecting their underwater city from intruders.",
         "history": []
     },
     {
@@ -170,9 +170,9 @@
     {
         "chunk": 20,
         "pos": 21,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Tree-covered Knoll",
+        "encounter": "Ahead, there is a sudden and intense thunderstorm blocking your path. Perhaps it's related to your quest to retrieve a stolen tribal totem from a rival clan..",
         "history": []
     },
     {
@@ -180,7 +180,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "You uncover the remnants of a shattered glass bottle that tell a story of a time when underwater miners pursued solve the mystery of a cursed shipwreck and its crew's fate..",
+        "encounter": "",
         "history": []
     },
     {
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter cursed ship captains which are performing a ritual to calm a storm.",
+        "encounter": "",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 20,
         "pos": 25,
         "terrain": "O",
-        "features": "Epic Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 20,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Trough",
         "encounter": "",
         "history": []
     },
@@ -244,23 +244,23 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden gust brings with it smoky scent of grilled seafood. You spot shipwreck goblins that seem to be taming and riding sea turtles.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 31,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Lonely Embankment",
+        "encounter": "Among the dense moss-covered rocks, you discover a bundle of rare and magical scrolls. You can't shake the feeling of gratitude.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 32,
-        "terrain": "O",
-        "features": "",
-        "encounter": "Your senses are overwhelmed by joy as you uncover a pirate's cutlass with an ornate hilt hidden within hornwort.",
+        "terrain": "M",
+        "features": "Plateaued Saddle",
+        "encounter": "You spot a set of enchanted crystals nestled among bushy sagebrush in the highlands, but the unsettling feeling of satisfaction makes you wary.",
         "history": []
     },
     {
@@ -284,7 +284,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sea palm kelp, you catch sight of a treasure chest full of cursed gold. But be cautious, churning of water as a whirlpool forms suggest sirens are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -315,7 +315,7 @@
         "chunk": 20,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Abyss",
         "encounter": "",
         "history": []
     },
@@ -330,17 +330,17 @@
     {
         "chunk": 20,
         "pos": 41,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Isolated Slope",
+        "encounter": "A path surrounded by a stand of tall pine trees leads to a clearing with a crumbling and overgrown temple entrance, indicating a herd of surefooted mountain goats have been here.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 42,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A distant creaking of a ship's rigging in the wind draws your attention. Following it, you discover the remnants of a ship's broken figurehead of a past event.",
+        "terrain": "H",
+        "features": "Isolated Incline",
+        "encounter": "Your path is illuminated by the glint of a set of intricate musical instruments. However, a flock of colorful and exotic birds with vibrant plumage stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -387,7 +387,7 @@
         "chunk": 20,
         "pos": 48,
         "terrain": "O",
-        "features": "Dense Rift",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -395,7 +395,7 @@
         "chunk": 20,
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Idyllic Undercurrent",
         "encounter": "",
         "history": []
     },
@@ -403,7 +403,7 @@
         "chunk": 20,
         "pos": 50,
         "terrain": "O",
-        "features": "Salty Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -418,17 +418,17 @@
     {
         "chunk": 20,
         "pos": 52,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Jagged Dune",
+        "encounter": "Among the dense low-lying groundcover, you discover a piece of rare and valuable meteorite. You can't shake the feeling of excitement.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 53,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Secluded Volcano",
+        "encounter": "A path surrounded by a field of lavender in bloom at high altitudes leads to a clearing with a shattered and toppled mountain watchtower, indicating a flock of giant condors soaring high above have been here.",
         "history": []
     },
     {
@@ -459,7 +459,7 @@
         "chunk": 20,
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Sound",
         "encounter": "",
         "history": []
     },
@@ -467,7 +467,7 @@
         "chunk": 20,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Harbor",
         "encounter": "",
         "history": []
     },
@@ -476,39 +476,39 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your senses are overwhelmed by awe as you uncover a seafarer's journal filled with tales of adventure hidden within codium seaweed.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 60,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your journey leads you to a a dense fog reducing visibility. As you approach, giant sea turtles protecting their underwater city from intruders.",
+        "features": "Sapphire Ocean",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Maelstrom",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 62,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Secluded Saddle",
+        "encounter": "The air is filled with the smell of the sweet scent of fresh mountain honey in the highlands. You feel a sense of whimsy.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 63,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Wild Gully",
+        "encounter": "Strange a fallen and shattered mountain totem pole lie scattered, painting a tale of a pack of elusive snow foxes blending into the snowy landscape that singing traditional songs and sharing stories around a campfire.",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon a scene where lighthouse guardians are engaged in singing haunting songs to lure sailors around a seafarer's journal filled with tales of adventure, seemingly crucial for rescue a stranded mermaid from a treacherous reef..",
         "history": []
     },
     {
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a treacherous, labyrinthine underwater cave system, you're surprised to find a submerged ship graveyard where ghost ships rest filled with the remnants of a mermaid's lost jewelry.As you journey forward, you come across a bottle of rare and potent mermaid tears, with traces of salty seaweed and kelp around them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "From the shadows of the a concealed treasure chest within a submerged statue, you sense the presence of mermen.",
         "history": []
     },
     {
@@ -555,7 +555,7 @@
         "chunk": 20,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Abyss",
         "encounter": "",
         "history": []
     },
@@ -580,14 +580,14 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a ghostly lantern that wards off spirits. However, sea witches stand guard, their intentions unknown.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable Sandbank",
         "encounter": "",
         "history": []
     },
@@ -603,8 +603,8 @@
         "chunk": 20,
         "pos": 75,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Vast Wave",
+        "encounter": "From the shadows of the a hidden cave behind a waterfall, you sense the presence of ship-eating barnacles.",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by an eerie, ghostly ship blocking the path. As you contemplate a way around, you hear low growling of a distant thunderstorm from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
@@ -635,7 +635,7 @@
         "chunk": 20,
         "pos": 79,
         "terrain": "O",
-        "features": "Unfathomable Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense bubbling hot seawater vents, you discover a ship's logbook with a mysterious route. You can't shake the feeling of excitement.",
+        "encounter": "",
         "history": []
     },
     {
@@ -667,7 +667,7 @@
         "chunk": 20,
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Delta",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft chattering of crabs on a rocky shore. As you follow, you encounter ghost ships in the midst of convincing a shipwrecked sailor to join their crew.",
+        "encounter": "",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden buzzing of underwater machinery in a sunken city breaks the silence, making the nearby floating seaweed rafts quiver.",
+        "encounter": "The whisper of churning of water as a whirlpool forms is accompanied by the distinct aroma of mildewed scent of an old shipwreck. It seems kraken are involved in navigating treacherous waters during a storm.",
         "history": []
     },
     {
@@ -764,15 +764,15 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel an overwhelming sense of fear as you tread upon a shattered, waterlogged compass, hinting at a tale of oceanic alchemists.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 96,
         "terrain": "O",
-        "features": "Harmonious Trench",
-        "encounter": "The red calcareous algae rustles, revealing tidal wave elementals that are protecting their underwater city from intruders.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {

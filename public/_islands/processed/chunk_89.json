@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter pirates which are harvesting pearls from giant clams.",
         "history": []
     },
     {
@@ -28,14 +28,14 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're guided by the soft sizzling of saltwater on hot volcanic rocks. As you follow, you encounter sea dragons in the midst of creating storms to deter sailors.",
         "history": []
     },
     {
         "chunk": 89,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Mangrove",
         "encounter": "",
         "history": []
     },
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by forgiveness as you uncover a ship's sextant for celestial navigation hidden within seagrass meadows.",
+        "encounter": "",
         "history": []
     },
     {
@@ -83,7 +83,7 @@
         "chunk": 89,
         "pos": 10,
         "terrain": "O",
-        "features": "Azure Mangrove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a rare coral sample for an eccentric scientist.. But be wary, for sea serpents lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -107,7 +107,7 @@
         "chunk": 89,
         "pos": 13,
         "terrain": "O",
-        "features": "Roaring Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a sandbar hiding just below the water's surface makes it difficult to proceed. Perhaps the island hermit nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a submerged forest of gnarled, petrified trees blocking your path. Perhaps it's related to your quest to help a shipwrecked sailor construct a signal fire to call for rescue..",
+        "encounter": "",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 89,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Plateau",
         "encounter": "",
         "history": []
     },
@@ -171,7 +171,7 @@
         "chunk": 89,
         "pos": 21,
         "terrain": "O",
-        "features": "Iridescent Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -220,7 +220,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense bubblegum coral, you catch sight of a net filled with exotic and colorful fish. But be cautious, seagulls cawing in the distance suggest sea dragons are near.",
         "history": []
     },
     {
@@ -243,7 +243,7 @@
         "chunk": 89,
         "pos": 30,
         "terrain": "O",
-        "features": "Idyllic Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -251,8 +251,8 @@
         "chunk": 89,
         "pos": 31,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Secluded Ridge",
+        "encounter": "The ground trembles slightly, and booming of waves in a hidden sea cave grow louder. It seems sirens are on the move.",
         "history": []
     },
     {
@@ -267,15 +267,15 @@
         "chunk": 89,
         "pos": 33,
         "terrain": "O",
-        "features": "Raging Isle",
-        "encounter": "",
+        "features": "",
+        "encounter": "Every step forward is met with the increasing intensity of fresh sea breeze, suggesting the presence of underwater nomads.",
         "history": []
     },
     {
         "chunk": 89,
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping Ridge",
         "encounter": "",
         "history": []
     },
@@ -284,15 +284,15 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it crisp, ocean-scented laundry on a line. You spot giant sea turtles that seem to be battling a giant sea serpent.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 89,
         "pos": 36,
         "terrain": "O",
-        "features": "Infinite Ridge",
-        "encounter": "",
+        "features": "",
+        "encounter": "An eerie hollow echoes in an underwater cavern resonates from a concealed treasure vault within an ancient shipwreck, and the scent of scent of salted fish drying on racks fills the air.",
         "history": []
     },
     {
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a broken ship's mast jutting out of the water indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -347,7 +347,7 @@
         "chunk": 89,
         "pos": 43,
         "terrain": "O",
-        "features": "Ageless Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Strange a rusted ship's bell on the ocean floor lie scattered, painting a tale of turtle island shamans that healing wounded sea creatures.",
         "history": []
     },
     {
@@ -371,7 +371,7 @@
         "chunk": 89,
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Beckoning Fjord",
         "encounter": "",
         "history": []
     },
@@ -387,7 +387,7 @@
         "chunk": 89,
         "pos": 48,
         "terrain": "O",
-        "features": "Glistening Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by mangrove prop roots leads to a clearing with the remnants of an ancient ship's cannon, indicating seafaring druids have been here.",
+        "encounter": "",
         "history": []
     },
     {
@@ -419,7 +419,7 @@
         "chunk": 89,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Picturesque Seabed",
         "encounter": "",
         "history": []
     },
@@ -459,7 +459,7 @@
         "chunk": 89,
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Expanse",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 89,
         "pos": 62,
         "terrain": "O",
-        "features": "Soothing Drop-off",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -507,7 +507,7 @@
         "chunk": 89,
         "pos": 63,
         "terrain": "O",
-        "features": "Crystal-clear Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of the remnants of a coral-encrusted treasure chest suggests that pearl diver guilds have passed through here on a quest to track down a legendary sea monster for a wealthy collector..",
         "history": []
     },
     {
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon a scene where underwater miners are engaged in building a coral fortress around a ghostly lantern that wards off spirits, seemingly crucial for deliver a mysterious message to a reclusive island hermit..",
         "history": []
     },
     {
@@ -563,8 +563,8 @@
         "chunk": 89,
         "pos": 70,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Raging Upwelling",
+        "encounter": "You feel an overwhelming sense of amusement as you tread upon the remnants of a ship's broken mast, hinting at a tale of sirens.",
         "history": []
     },
     {
@@ -587,7 +587,7 @@
         "chunk": 89,
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Rise",
         "encounter": "",
         "history": []
     },
@@ -603,7 +603,7 @@
         "chunk": 89,
         "pos": 75,
         "terrain": "O",
-        "features": "Secluded Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -620,7 +620,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear rhythmic crashing of waves on rocky cliffs coming from a concealed treasure vault within an ancient shipwreck.",
+        "encounter": "",
         "history": []
     },
     {
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter sarcastic cephalopod which are creating storms to deter sailors.",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a weathered treasure map. However, octopus oracles stand guard, their intentions unknown.",
+        "encounter": "",
         "history": []
     },
     {
@@ -676,7 +676,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of empathy as you tread upon the remnants of a pirate's skeleton on a sunken ship, hinting at a tale of giant clams.",
+        "encounter": "",
         "history": []
     },
     {
@@ -699,7 +699,7 @@
         "chunk": 89,
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant Spring",
         "encounter": "",
         "history": []
     },
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a mysterious, enchanted mist causing disorientation, your attention is caught by hissing of foam as waves recede. Upon investigating, you discover a hidden pirate's tunnel behind a cascading waterfall with a shipwrecked chest filled with gold coins inside.",
+        "encounter": "",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a massive, ancient sea turtle that won't move. As you contemplate a way around, you hear clanging of bells on a buoy in choppy waters from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea dragons emerge from the a concealed cavern within a towering underwater cliff, their intent focused on a pirate flag bearing a fearsome symbol.",
+        "encounter": "",
         "history": []
     },
     {

@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by loneliness as you uncover a ship's cannon with ornate engravings hidden within black coral.",
+        "encounter": "",
         "history": []
     },
     {
@@ -60,7 +60,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by treacherous rocks just below the surface, but you notice a hidden cave behind a waterfall that might lead around it.",
+        "encounter": "",
         "history": []
     },
     {
@@ -99,7 +99,7 @@
         "chunk": 98,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Rift",
         "encounter": "",
         "history": []
     },
@@ -140,14 +140,14 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of thudding of footsteps on a wooden dock is accompanied by the distinct aroma of scent of freshly caught lobster and crab. It seems giant clams are involved in diving deep to consult with a sea oracle.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 98,
         "pos": 18,
         "terrain": "O",
-        "features": "Dense Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden gust brings with it pungent smell of seaweed drying in the sun. You spot cursed ship captains that seem to be raising a sunken ship from the depths.",
         "history": []
     },
     {
@@ -179,7 +179,7 @@
         "chunk": 98,
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Mangrove",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 98,
         "pos": 28,
         "terrain": "O",
-        "features": "Glistening Isle",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -275,7 +275,7 @@
         "chunk": 98,
         "pos": 34,
         "terrain": "O",
-        "features": "Serene Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -283,8 +283,8 @@
         "chunk": 98,
         "pos": 35,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground is littered with the remnants of a sunken pirate ship's flagpole. It appears jellyfish navigators were here recently.",
+        "features": "Ethereal Whirlpool",
+        "encounter": "",
         "history": []
     },
     {
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You hear murmuring of merfolk singing in harmony coming from an underwater cave network filled with glowing algae.",
         "history": []
     },
     {
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon an abandoned lifeboat adrift on the waves indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -372,14 +372,14 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a sunken treasure map from the lair of a giant octopus.. But be wary, for whirlpool spirits lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 98,
         "pos": 47,
         "terrain": "O",
-        "features": "Tumultuous Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -395,7 +395,7 @@
         "chunk": 98,
         "pos": 49,
         "terrain": "O",
-        "features": "Inviting Kelp Forest",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -403,7 +403,7 @@
         "chunk": 98,
         "pos": 50,
         "terrain": "O",
-        "features": "Picturesque Flats",
+        "features": "Luminous Tidal Pool",
         "encounter": "",
         "history": []
     },
@@ -411,8 +411,8 @@
         "chunk": 98,
         "pos": 51,
         "terrain": "O",
-        "features": "",
-        "encounter": "From the shadows of the a submerged ship graveyard where ghost ships rest, you sense the presence of floating market traders.",
+        "features": "Dazzling Sound",
+        "encounter": "",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a submerged pirate's lair hidden by a waterfall, you sense the presence of sea dragons.",
+        "encounter": "",
         "history": []
     },
     {
@@ -444,7 +444,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about recover a stolen, enchanted pearl necklace for a heartbroken mermaid., you're startled by seagulls cawing in the distance. It seems cursed ship captains are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -467,7 +467,7 @@
         "chunk": 98,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Depression",
         "encounter": "",
         "history": []
     },
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a giant clamshell turned into a luxurious bed nestled among giant clam gardens, but the unsettling feeling of love makes you wary.",
+        "encounter": "",
         "history": []
     },
     {
@@ -515,7 +515,7 @@
         "chunk": 98,
         "pos": 64,
         "terrain": "O",
-        "features": "Tranquil Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -531,8 +531,8 @@
         "chunk": 98,
         "pos": 66,
         "terrain": "O",
-        "features": "Windswept Pinnacle",
-        "encounter": "From the shadows of the a forgotten pirate hideout in a remote cove, you sense the presence of dolphin companions.",
+        "features": "Calm Delta",
+        "encounter": "",
         "history": []
     },
     {
@@ -547,15 +547,15 @@
         "chunk": 98,
         "pos": 68,
         "terrain": "O",
-        "features": "Sapphire Reef",
-        "encounter": "Blocked by a monstrous sea serpent lurking beneath the surface, your attention is caught by rattling of pebbles in the surf. Upon investigating, you discover a sunken, ghostly ship hidden in a fog bank with a chest of mystical sea herbs and remedies inside.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 98,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Expanse",
         "encounter": "",
         "history": []
     },
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense seafloor seagrass, you catch sight of a magical conch shell that can summon sea creatures. But be cautious, echoing calls of whales in the distance suggest coral golems are near.",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter island hermit which are protecting their underwater city from intruders.",
+        "encounter": "",
         "history": []
     },
     {
@@ -659,7 +659,7 @@
         "chunk": 98,
         "pos": 82,
         "terrain": "O",
-        "features": "Untamed Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -699,7 +699,7 @@
         "chunk": 98,
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Tidal Seabed",
         "encounter": "",
         "history": []
     },
@@ -707,7 +707,7 @@
         "chunk": 98,
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Breathtaking Edifice",
         "encounter": "",
         "history": []
     },
@@ -747,7 +747,7 @@
         "chunk": 98,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted Surf",
         "encounter": "",
         "history": []
     },
@@ -755,7 +755,7 @@
         "chunk": 98,
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping Rise",
         "encounter": "",
         "history": []
     },
@@ -763,7 +763,7 @@
         "chunk": 98,
         "pos": 95,
         "terrain": "O",
-        "features": "Dazzling Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel an overwhelming sense of trepidation as you tread upon a partially buried, broken spyglass, hinting at a tale of pearl diver guilds.",
         "history": []
     },
     {

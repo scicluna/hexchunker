@@ -20,14 +20,14 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense kelp forests, you catch sight of a magical conch shell that can summon sea creatures. But be cautious, chattering of crabs on a rocky shore suggest storm giants are near.",
         "history": []
     },
     {
         "chunk": 69,
         "pos": 3,
         "terrain": "O",
-        "features": "Vast Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -51,8 +51,8 @@
         "chunk": 69,
         "pos": 6,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon a scene where storm giants are engaged in hunting for fish and other sea creatures around a mysterious, glowing underwater crystal, seemingly crucial for rescue a kidnapped noble from a group of pirates..",
+        "features": "Sweeping Shore",
+        "encounter": "",
         "history": []
     },
     {
@@ -75,7 +75,7 @@
         "chunk": 69,
         "pos": 9,
         "terrain": "O",
-        "features": "Idyllic Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Navigating through a floating, abandoned shipwreck, you're surprised to find a concealed treasure chest buried in the sand filled with the remnants of a coral-encrusted treasure chest.As you journey forward, you come across a ghostly lantern that wards off spirits, with traces of briny smell of a fishing pier around them.",
         "history": []
     },
     {
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Blocked by a sudden, violent storm with massive waves, your attention is caught by splashing of dolphins playing nearby. Upon investigating, you discover a hidden pirate's tunnel behind a cascading waterfall with a mermaid's singing seashell necklace inside.",
         "history": []
     },
     {
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of the remnants of a ship's lantern on the seafloor suggests that water elementals have passed through here on a quest to rescue a stranded mermaid from a treacherous reef..",
         "history": []
     },
     {
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey leads you to a a floating, abandoned shipwreck. As you approach, seafaring druids repairing their damaged ship.",
         "history": []
     },
     {
@@ -283,7 +283,7 @@
         "chunk": 69,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Channel",
         "encounter": "",
         "history": []
     },
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious damp, earthy smell of a rocky shore envelops you, drawing you towards a secret pirate's den inside a massive, hollowed-out rock where water elementals are exploring the depths in search of a sunken city.",
+        "encounter": "",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 69,
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Seamount",
         "encounter": "",
         "history": []
     },
@@ -339,7 +339,7 @@
         "chunk": 69,
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely Basin",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 69,
         "pos": 43,
         "terrain": "O",
-        "features": "Majestic Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -355,8 +355,8 @@
         "chunk": 69,
         "pos": 44,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Timeless Seabed",
+        "encounter": "You encounter floating market traders which are guarding a hidden cove filled with stolen treasure.",
         "history": []
     },
     {
@@ -387,7 +387,7 @@
         "chunk": 69,
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Silent Passage",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel an overwhelming sense of empathy as you tread upon a waterlogged chest with its lid ajar, hinting at a tale of underwater miners.",
         "history": []
     },
     {
@@ -419,7 +419,7 @@
         "chunk": 69,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -475,8 +475,8 @@
         "chunk": 69,
         "pos": 59,
         "terrain": "O",
-        "features": "Calm Tide",
-        "encounter": "Every step forward is met with the increasing intensity of fresh sea breeze, suggesting the presence of floating market traders.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 69,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Seamount",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 69,
         "pos": 67,
         "terrain": "O",
-        "features": "Bubbling Sound",
+        "features": "Majestic Reef",
         "encounter": "",
         "history": []
     },
@@ -564,14 +564,14 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a ship's lantern on the seafloor lie scattered, painting a tale of jellyfish navigators that trading with passing merchant ships.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 69,
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Alluring Rise",
         "encounter": "",
         "history": []
     },
@@ -587,7 +587,7 @@
         "chunk": 69,
         "pos": 73,
         "terrain": "O",
-        "features": "Glistening Spring",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -619,7 +619,7 @@
         "chunk": 69,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Edifice",
         "encounter": "",
         "history": []
     },
@@ -636,14 +636,14 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Deep in thought about navigate treacherous waters to find a legendary fishing spot., you're startled by humming of a powerful sea enchantment. It seems underwater nomads are near.",
         "history": []
     },
     {
         "chunk": 69,
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Passage",
         "encounter": "",
         "history": []
     },
@@ -659,7 +659,7 @@
         "chunk": 69,
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical Trench",
         "encounter": "",
         "history": []
     },
@@ -667,8 +667,8 @@
         "chunk": 69,
         "pos": 83,
         "terrain": "O",
-        "features": "",
-        "encounter": "A path surrounded by seaweed-covered rocks leads to a clearing with the remnants of a fishing net tangled in the coral, indicating coral golems have been here.",
+        "features": "Boundless Ridge",
+        "encounter": "",
         "history": []
     },
     {
@@ -748,14 +748,14 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it salty scent of a mermaid's hair. You spot underwater nomads that seem to be protecting their underwater city from intruders.",
+        "encounter": "Navigating through a band of marauding pirates waiting to attack, you're surprised to find a concealed mermaid treasure trove in a sunken ship filled with a damaged sextant with a cracked lens.As you journey forward, you come across a sea serpent scale, with traces of pungent aroma of a hidden pirate's stash around them.",
         "history": []
     },
     {
         "chunk": 69,
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable Surf",
         "encounter": "",
         "history": []
     },
@@ -772,14 +772,14 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see a barnacle-covered ship's wheel that could be useful in your quest to deliver a mysterious message to a reclusive island hermit.. But it's guarded by coral golems.",
         "history": []
     },
     {
         "chunk": 69,
         "pos": 97,
         "terrain": "O",
-        "features": "Peaceful Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -795,7 +795,7 @@
         "chunk": 69,
         "pos": 99,
         "terrain": "O",
-        "features": "Bubbling Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     }

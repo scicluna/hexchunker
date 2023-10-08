@@ -3,8 +3,8 @@
         "chunk": 71,
         "pos": 0,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon the remnants of a shipwrecked sailor's journal indicating past battles.",
+        "features": "Murmuring Seamount",
+        "encounter": "",
         "history": []
     },
     {
@@ -51,7 +51,7 @@
         "chunk": 71,
         "pos": 6,
         "terrain": "O",
-        "features": "Glistening Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -60,7 +60,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft whistling of wind through the rigging of a ship. As you follow, you encounter cursed ship captains in the midst of collecting rare and magical seashells.",
+        "encounter": "",
         "history": []
     },
     {
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a skeleton clutching a rusted cutlass on the seabed wind through the bubbling hot seawater vents, revealing the past actions of sea witches.",
+        "encounter": "",
         "history": []
     },
     {
@@ -106,9 +106,9 @@
     {
         "chunk": 71,
         "pos": 13,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Green Summit",
+        "encounter": "Surrounded by low-lying groundcover, a series of a hidden hollow beneath a field of wildflowers reveal traces of a toppled and shattered stone monolith, and the distant the soft hush of falling snow in winter hint at more to discover.",
         "history": []
     },
     {
@@ -130,9 +130,9 @@
     {
         "chunk": 71,
         "pos": 16,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Elevated Escarpment",
+        "encounter": "The a field of sunflowers rustles, revealing a group of nomadic merchants trading rare goods that are taming and riding surefooted mountain goats.",
         "history": []
     },
     {
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a cursed lighthouse guiding ships to their doom. As you approach, pearl diver guilds battling a giant sea serpent.",
+        "encounter": "",
         "history": []
     },
     {
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a rusted anchor half-buried in the sand wind through the codium seaweed, revealing the past actions of whirlpool spirits.",
+        "encounter": "",
         "history": []
     },
     {
@@ -178,17 +178,17 @@
     {
         "chunk": 71,
         "pos": 22,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Dewy Terrace",
+        "encounter": "Trails of a tumbledown and forgotten barn wind through the clusters of yucca plants, revealing the past actions of a colony of territorial badgers digging elaborate burrows.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Panoramic Dell",
+        "encounter": "Your path is illuminated by the glint of a collection of rare and valuable gemstones. However, a group of friendly and nature-loving wood elves stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -196,31 +196,31 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a giant clam snapping shut on unsuspecting ships. As you approach, jellyfish navigators raising a sunken ship from the depths.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 25,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Stony Rise",
+        "encounter": "A path surrounded by clusters of pine cones on the ground leads to a clearing with a ruined and overgrown castle wall, indicating a family of wild boars foraging for food have been here.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 26,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Misty Plateau",
+        "encounter": "You stumble upon a scene where a clan of centaurs known for their archery skills are engaged in blessing the land with fertility and abundance around a collection of mysterious fossils, seemingly crucial for retrieve a lost family heirloom hidden in an ancient cave..",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 27,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Lonely Steppe",
+        "encounter": "You come across a shattered and overgrown statue of an old campsite, the scent of the clean, fresh scent of a mountain breeze still lingering.",
         "history": []
     },
     {
@@ -250,25 +250,25 @@
     {
         "chunk": 71,
         "pos": 31,
-        "terrain": "O",
-        "features": "",
-        "encounter": "You spot a weathered treasure map nestled among mermaid's hair algae, but the unsettling feeling of nostalgia makes you wary.",
+        "terrain": "H",
+        "features": "Inviting Elevation",
+        "encounter": "With rescue a group of children lost in a maze-like forest. On your mind, the sudden appearance of a sudden and unpredictable sinkhole accompanied by the gentle gurgling of a babbling brook becomes a challenging diversion.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 32,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Foggy Peak",
+        "encounter": "The air is filled with the smell of the earthy smell of petrichor after a storm. You feel a sense of unity.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 33,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Grassy Pinnacle",
+        "encounter": "Your way is impeded by a vast, unforgiving salt flat. As you contemplate a way around, you hear the gentle splashing of water in a hillside stream from the shadows.",
         "history": []
     },
     {
@@ -282,25 +282,25 @@
     {
         "chunk": 71,
         "pos": 35,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Enveloping Fern",
+        "encounter": "The way forward is blocked by a pack of cunning and stealthy forest cougars, but you notice a concealed entrance to a hidden forest glen that might lead around it.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 36,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Hazy Decline",
+        "encounter": "Peering through the dense tall, swaying grasses, you catch sight of a stack of ancient, leather-bound books. But be cautious, the gentle whistling of the wind through rocky terrain suggest a nomadic tribe of goat herders are near.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 37,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Parched Downs",
+        "encounter": "You feel comfort as the soft sigh of the wind through tall grasses echo in the distance. Perhaps it's a sign of what's to come.",
         "history": []
     },
     {
@@ -322,65 +322,65 @@
     {
         "chunk": 71,
         "pos": 40,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Foggy Crag",
+        "encounter": "The air is filled with the smell of the tangy scent of sun-warmed mountain stones. You feel a sense of gentleness.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 41,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Foggy Tor",
+        "encounter": "You stumble upon a scene where a group of nomadic merchants trading rare goods are engaged in scaling steep cliffs in search of food around a set of enchanted crystals, seemingly crucial for retrieve a stolen mountain clan artifact from a rival tribe..",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 42,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Radiant Apex",
+        "encounter": "You feel gratification as the soft purring of a contented mountain cat echo in the distance. Perhaps it's a sign of what's to come.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 43,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Pleasant Summit",
+        "encounter": "You stumble upon a fallen and shattered totem pole indicating past battles.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 44,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Harmonious Pampas",
+        "encounter": "The ground is littered with a shattered and overgrown statue. It appears a clan of nomadic halfling herbalists were here recently.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 45,
-        "terrain": "O",
-        "features": "",
-        "encounter": "Trails of the remnants of a ship's broken figurehead wind through the colorful coral polyps, revealing the past actions of oceanic alchemists.",
+        "terrain": "H",
+        "features": "Secluded Embankment",
+        "encounter": "A sudden the soft hush of falling snow in winter breaks the silence, making the nearby a grove of aspen trees quiver.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 46,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Remote Trench",
+        "encounter": "Navigating through a relentless, unrelenting mountain hailstorm, you're surprised to find a concealed cave entrance obscured by mountain vines filled with a crumbling and abandoned mountain bridge.As you journey forward, you come across a set of finely crafted weapons and armor, with traces of the sweet scent of fresh mountain honey in the highlands around them.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 47,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Stony Hillock",
+        "encounter": "You spot a piece of an ancient and powerful relic nestled among tall, swaying grasses, but the unsettling feeling of gratitude makes you wary.",
         "history": []
     },
     {
@@ -410,64 +410,64 @@
     {
         "chunk": 71,
         "pos": 51,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Echoing Elevation",
+        "encounter": "A band of traveling bards and minstrels gives you a quest to protect a sacred grove from being desecrated by loggers.In your path lies a bundle of aromatic and healing plants surrounded by tall, swaying grasses.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 52,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Bare Dale",
+        "encounter": "Surrounded by low-lying groundcover, a series of a concealed entrance to a hidden valley reveal traces of a crumbling and overgrown temple entrance, and the distant the distant call of a solitary hawk soaring above hint at more to discover.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 53,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Echoing Upland",
+        "encounter": "You notice a stand of tall pine trees moving subtly. Upon closer inspection, you see a wise and ancient treant guarding a sacred grove that are embarking on spiritual journeys to sacred peaks.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 54,
-        "terrain": "O",
-        "features": "Uncharted Sound",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Gnarled River",
+        "encounter": "Every step forward is met with the increasing intensity of the tangy scent of sun-warmed forest bark, suggesting the presence of a tribe of forest trolls lurking in the shadows.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 55,
-        "terrain": "O",
-        "features": "",
-        "encounter": "Deep in thought about search for a hidden cove rumored to contain pirate treasure., you're startled by crackling of a bonfire on the beach. It seems giant clams are near.",
+        "terrain": "H",
+        "features": "Idyllic Knoll",
+        "encounter": "Every step forward is met with the increasing intensity of the grassy aroma of freshly cut hay, suggesting the presence of a wise and ancient treant guarding a sacred grove.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 56,
-        "terrain": "O",
-        "features": "",
-        "encounter": "An eerie low growling of a distant thunderstorm resonates from a secret pirate tunnel leading to a hidden cove, and the scent of musk of a sea lion colony fills the air.",
+        "terrain": "H",
+        "features": "Foggy Mound",
+        "encounter": "You're guided by the soft the gentle splashing of water in a hillside stream. As you follow, you encounter a group of friendly and nature-loving wood elves in the midst of searching for hidden caves and treasure troves.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 57,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Peaceful Brae",
+        "encounter": "Deep in thought about explore a hidden underground cavern rumored to hold great treasure., you're startled by the distant yipping of coyotes under a full moon. It seems a colony of burrowing creatures building underground tunnels are near.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Shoal",
         "encounter": "",
         "history": []
     },
@@ -483,64 +483,64 @@
         "chunk": 71,
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Fathom",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 61,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Echoing Ascent",
+        "encounter": "A sudden gust brings with it the rich, earthy smell of a fertile meadow. You spot a herd of agile and horned antelopes that seem to be tending to their herds of goats and sheep.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 62,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A path surrounded by giant underwater mushrooms leads to a clearing with a damaged sextant with a cracked lens, indicating cursed ship captains have been here.",
+        "terrain": "H",
+        "features": "Hazy Elevation",
+        "encounter": "You're guided by the soft the soothing sound of a bubbling brook. As you follow, you encounter a nomadic band of skilled hunters and trappers in the midst of nurturing their young and teaching them survival skills.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 63,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Alluring Roll",
+        "encounter": "You notice dandelions scattered in the breeze moving subtly. Upon closer inspection, you see a family of owlbears making their home in the hills that are offering sacrifices to nature spirits.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Sandy Thicket",
+        "encounter": "A distant the soft hush of falling snow draws your attention. Following it, you discover a half-buried, forgotten wagon wheel of a past event.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Flourishing Hillock",
+        "encounter": "Strange a toppled and shattered stone monolith lie scattered, painting a tale of a pack of elusive timberwolves that scouting for signs of approaching storms or threats.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 66,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Rolling Ridge",
+        "encounter": "Trails of an ancient and crumbling stone circle wind through the thick patches of clover, revealing the past actions of a clan of nomadic halflings traveling in hillside caravans.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 67,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Crisp Fern",
+        "encounter": "Surrounded by clusters of acorns on the ground in wooded areas, a series of a hidden grotto behind a curtain of cascading forest water reveal traces of a forgotten and tumbledown forest windmill, and the distant the rhythmic croaking of forest frogs hint at more to discover.",
         "history": []
     },
     {
@@ -570,57 +570,57 @@
     {
         "chunk": 71,
         "pos": 71,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Remote Mound",
+        "encounter": "Your way is impeded by a massive, carnivorous plant lurking in the grass. As you contemplate a way around, you hear the bubbling of a natural spring from the shadows.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 72,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Low Ridge",
+        "encounter": "You stumble upon a set of worn and forgotten gravestones indicating past battles.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 73,
-        "terrain": "O",
-        "features": "",
-        "encounter": "You see a sunken ship's anchor that could be useful in your quest to track down a legendary sea monster for a wealthy collector.. But it's guarded by sea witches.",
+        "terrain": "H",
+        "features": "Dewy Bank",
+        "encounter": "The clusters of mushrooms on the forest floor rustles, revealing a family of giant hawks nesting in the cliffs that are exploring ancient ruins and archaeological sites.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 74,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Uninhabited Dell",
+        "encounter": "A path surrounded by dandelions scattered in the breeze leads to a clearing with a collapsed, long-abandoned homestead, indicating a pack of clever and stealthy coyotes have been here.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 75,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Vibrant Tumulus",
+        "encounter": "Trails of a moss-covered and toppled obelisk wind through the tall, swaying grasses, revealing the past actions of a clan of hardy dwarves mining deep in the hills.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 76,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Foggy Plateau",
+        "encounter": "You stumble upon a scene where a clan of wise and reclusive hermit wizards are engaged in participating in grand feasts and celebrations around a collection of mysterious fossils, seemingly crucial for defend a peaceful group of forest creatures from an encroaching threat..",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 77,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Tranquil Stretch",
+        "encounter": "Surrounded by golden wheat fields, a series of a hidden passage beneath a rocky plateau reveal traces of a partially buried, cracked sundial, and the distant the distant barking of a watchdog hint at more to discover.",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot a bottle of potent seawater from a mythical spring nestled among tube worms near hydrothermal vents, but the unsettling feeling of relief makes you wary.",
         "history": []
     },
     {
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Surrounded by caulerpa seaweed, a series of a treasure cache buried in the sand on a deserted island reveal traces of the remnants of an ancient ship's cargo hold, and the distant hissing of foam as waves recede hint at more to discover.",
         "history": []
     },
     {
@@ -650,25 +650,25 @@
     {
         "chunk": 71,
         "pos": 81,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Rounded Cirque",
+        "encounter": "Strange a decaying and moss-covered mountain treasure map lie scattered, painting a tale of a group of reclusive cloud giants in their mountain fortress that searching for hidden caves and treasure troves.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 82,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Flourishing Climb",
+        "encounter": "With track down a legendary and elusive beast in the highlands. On your mind, the sudden appearance of a herd of territorial and aggressive bison accompanied by the soft purring of a contented cat becomes a challenging diversion.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 83,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Lush Dune",
+        "encounter": "Your journey leads you to a a treacherous, rushing waterfall. As you approach, a colony of rock gnomes with intricate underground tunnels harvesting rare minerals from the hills.",
         "history": []
     },
     {
@@ -676,23 +676,23 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The presence of a rogue wave threatening to capsize the ship makes it difficult to proceed. Perhaps the seafaring druids nearby can help.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 85,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Craggy Pinnacle",
+        "encounter": "You stumble upon a toppled and shattered stone monolith indicating past battles.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 86,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "T",
+        "features": "Witch's Cove",
+        "encounter": "A mischievous town prankster causing laughter emerge from the a concealed tunnel leading to an abandoned mine, their intent focused on a journal filled with town secrets.",
         "history": []
     },
     {
@@ -707,7 +707,7 @@
         "chunk": 71,
         "pos": 88,
         "terrain": "O",
-        "features": "Sunlit Undercurrent",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 71,
         "pos": 89,
         "terrain": "O",
-        "features": "Spectacular Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -724,14 +724,14 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot a ship's sextant for celestial navigation nestled among giant underwater mushrooms, but the unsettling feeling of pride makes you wary.",
         "history": []
     },
     {
         "chunk": 71,
         "pos": 91,
         "terrain": "O",
-        "features": "Uncharted Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -779,7 +779,7 @@
         "chunk": 71,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Trench",
         "encounter": "",
         "history": []
     },
@@ -787,7 +787,7 @@
         "chunk": 71,
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Isle",
         "encounter": "",
         "history": []
     },

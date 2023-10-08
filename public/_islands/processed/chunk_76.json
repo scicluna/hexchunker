@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Deep in thought about escort a fragile, magical artifact through dangerous waters., you're startled by hissing of foam as waves recede. It seems sea serpents are near.",
         "history": []
     },
     {
@@ -68,7 +68,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You uncover the remnants of a merfolk's forgotten treasure that tell a story of a time when water elementals pursued discover a lost civilization by deciphering cryptic underwater runes..",
         "history": []
     },
     {
@@ -115,7 +115,7 @@
         "chunk": 76,
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant Expanse",
         "encounter": "",
         "history": []
     },
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of tangy scent of salt spray, suggesting the presence of crystal reef dwellers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -155,7 +155,7 @@
         "chunk": 76,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Immeasurable Deep",
         "encounter": "",
         "history": []
     },
@@ -180,7 +180,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Surrounded by kelp forests, a series of an underwater lagoon hidden by dense seaweed reveal traces of a broken ship's mast jutting out of the water, and the distant whistling of wind through the rigging of a ship hint at more to discover.",
         "history": []
     },
     {
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and rhythmic crashing of waves on rocky cliffs grow louder. It seems pearl diver guilds are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is treacherous rocks just below the surface blocking your path. Perhaps it's related to your quest to help a shipwrecked sailor construct a signal fire to call for rescue..",
         "history": []
     },
     {
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter floating market traders which are raising a sunken ship from the depths.",
         "history": []
     },
     {
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a hint leading you to rescue a stranded mermaid from a treacherous reef.. But be wary, for whirlpool spirits lurk nearby.",
         "history": []
     },
     {
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by seagrass meadows leads to a clearing with the remnants of a ship's broken figurehead, indicating selkies have been here.",
+        "encounter": "",
         "history": []
     },
     {
@@ -291,7 +291,7 @@
         "chunk": 76,
         "pos": 36,
         "terrain": "O",
-        "features": "Tumultuous Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey leads you to a a colony of hostile merfolk guarding their territory. As you approach, sea anemone sorcerers protecting their underwater city from intruders.",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 76,
         "pos": 41,
         "terrain": "O",
-        "features": "Secluded Haven",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -387,7 +387,7 @@
         "chunk": 76,
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Ridge",
         "encounter": "",
         "history": []
     },
@@ -395,7 +395,7 @@
         "chunk": 76,
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant Cove",
         "encounter": "",
         "history": []
     },
@@ -412,7 +412,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a pirate's skeleton on a sunken ship of an old campsite, the scent of freshly caught fish on a fishing boat still lingering.",
+        "encounter": "",
         "history": []
     },
     {
@@ -426,9 +426,9 @@
     {
         "chunk": 76,
         "pos": 53,
-        "terrain": "M",
-        "features": "Peaked Bowl",
-        "encounter": "You feel an overwhelming sense of comfort as you tread upon a weathered and toppled mountain stone statue, hinting at a tale of a colony of rock hyraxes sunning themselves on cliffs.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -451,7 +451,7 @@
         "chunk": 76,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Shore",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 76,
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Epic Swirl",
         "encounter": "",
         "history": []
     },
@@ -491,7 +491,7 @@
         "chunk": 76,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Wave",
         "encounter": "",
         "history": []
     },
@@ -499,28 +499,24 @@
         "chunk": 76,
         "pos": 62,
         "terrain": "O",
-        "features": "Secluded Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 76,
         "pos": 63,
-        "terrain": "M",
-        "features": "Spiritual Sierra",
-        "encounter": "Your path is illuminated by the glint of a well-preserved set of mammoth bones. However, a family of wild yaks foraging for food stand guard, their intentions unknown.",
-        "history": [
-            "As you traverse through the Spiritual Sierra, the mountainous terrain under your feet is rough and challenging. The air is thin, and the wind carries whispers of ancient spirits, a constant reminder of the sacred nature of this place. \n\nSuddenly, your path is illuminated by an eerie, yet mesmerizing glint. As you approach, you realize it's a well-preserved set of mammoth bones, their size and grandeur a testament to the creature's might in life. The bones are arranged in a peculiar pattern, almost as if they were deliberately placed in a ritualistic manner, adding to the spiritual aura of the Sierra.\n\nHowever, your curiosity is interrupted by the sight of a family of wild yaks nearby. They are foraging for food, their thick coats blending with the rocky terrain. They seem to stand guard over the mammoth bones, their eyes watchful and alert. Their intentions are unknown, adding an element of suspense to your journey.\n\nYou wonder if they are the guardians of this sacred place, or merely innocent bystanders. You could approach them, or try to find another way around. The choice is yours, traveler. What will you do?",
-            "Greetings, traveler. I see you've found yourself in the heart of the Spiritual Sierra. This place is steeped in ancient lore and mystery, as the wind whispers tales of spirits long past. The terrain is treacherous, with jagged rocks underfoot and thin air making each breath a challenge. \n\nYour path is lit by an eerie glow, a glint that leads you to a magnificent sight - a well-preserved set of mammoth bones. The sheer size of these bones speaks volumes of the mammoth's might when it roamed these lands. They are arranged in a peculiar pattern, almost as if carefully placed in a ritualistic manner, adding to the spiritual aura of this place.\n\nHowever, your awe is interrupted by the sight of a family of wild yaks. They forage nearby, their thick coats blending seamlessly with the rocky terrain. They seem to stand guard over the mammoth bones, their watchful eyes adding an element of suspense to your journey. Their intentions are unknown - are they guardians of this sacred place, or merely innocent bystanders?\n\nThe choice is yours, traveler. Will you approach these wild yaks, or will you seek another path around this sacred site?",
-            "As the DM, I can't reveal the yak's intentions directly, as it's part of the unfolding narrative and your interaction with them. However, I can tell you that their behavior seems protective. Whether they are guarding the mammoth bones, their food source, or something else entirely, is unclear. You could try to communicate, observe from a distance, or find another way around. The choice is yours."
-        ]
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
+        "history": []
     },
     {
         "chunk": 76,
         "pos": 64,
-        "terrain": "M",
-        "features": "Mighty Vista",
-        "encounter": "The dandelions scattered on mountain slopes rustles, revealing a colony of cave-dwelling fire beetles that are organizing athletic competitions and races.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -528,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a seafarer's compass that points to hidden treasure that could be useful in your quest to defend a coastal village from a relentless pirate invasion.. But it's guarded by floating market traders.",
+        "encounter": "",
         "history": []
     },
     {
@@ -559,7 +555,7 @@
         "chunk": 76,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Peaceful Undercurrent",
         "encounter": "",
         "history": []
     },
@@ -567,7 +563,7 @@
         "chunk": 76,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Murmuring Gulf",
         "encounter": "",
         "history": []
     },
@@ -575,7 +571,7 @@
         "chunk": 76,
         "pos": 71,
         "terrain": "O",
-        "features": "Deep Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -590,9 +586,9 @@
     {
         "chunk": 76,
         "pos": 73,
-        "terrain": "M",
-        "features": "Snow-capped Apex",
-        "encounter": "Your way is impeded by a maze-like network of burrows created by mountain creatures. As you contemplate a way around, you hear the soft cooing of doves in the distance from the shadows.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -616,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a rusted, half-buried cutlass lie scattered, painting a tale of sarcastic cephalopod that taming and riding sea turtles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -647,7 +643,7 @@
         "chunk": 76,
         "pos": 80,
         "terrain": "O",
-        "features": "Teeming Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -671,7 +667,7 @@
         "chunk": 76,
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Radiant Chasm",
         "encounter": "",
         "history": []
     },
@@ -720,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among floating mats of sargassum seaweed, you spot a weathered treasure map glinting in the sunlight.",
+        "encounter": "",
         "history": []
     },
     {
@@ -736,7 +732,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice red calcareous algae moving subtly. Upon closer inspection, you see pearl diver guilds that are hunting for treasure on a deserted island.",
         "history": []
     },
     {
@@ -751,7 +747,7 @@
         "chunk": 76,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant Fathom",
         "encounter": "",
         "history": []
     },
@@ -760,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense brown algae forests, you catch sight of a mermaid's singing seashell necklace. But be cautious, creaking of a ship's rigging in the wind suggest jellyfish navigators are near.",
         "history": []
     },
     {
@@ -792,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden gust brings with it rustic aroma of a wooden fishing boat. You spot sea dragons that seem to be harvesting pearls from giant clams.",
+        "encounter": "",
         "history": []
     },
     {

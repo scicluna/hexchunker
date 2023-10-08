@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a tattered, waterlogged map of uncharted waters indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -19,7 +19,7 @@
         "chunk": 58,
         "pos": 2,
         "terrain": "O",
-        "features": "Turbulent Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -51,8 +51,8 @@
         "chunk": 58,
         "pos": 6,
         "terrain": "O",
-        "features": "",
-        "encounter": "Peering through the dense seagrass meadows, you catch sight of a weathered treasure map. But be cautious, roaring of a powerful waterfall cascading into the sea suggest pearl diver guilds are near.",
+        "features": "Peaceful Seabed",
+        "encounter": "The way forward is blocked by a dense, toxic algae bloom poisoning the water, but you notice an underwater lagoon hidden by dense seaweed that might lead around it.",
         "history": []
     },
     {
@@ -60,14 +60,14 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by jealousy as you uncover a chest of mystical sea herbs and remedies hidden within halophila seagrass.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 58,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Wave",
         "encounter": "",
         "history": []
     },
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a barnacle-covered ship's wheel that could be useful in your quest to explore an underwater cave system to find a valuable artifact.. But it's guarded by sunken treasure guardians.",
+        "encounter": "",
         "history": []
     },
     {
@@ -92,14 +92,14 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is a sunken city with buildings rising to the surface blocking your path. Perhaps it's related to your quest to help a stranded sailor repair their ship and return home..",
         "history": []
     },
     {
         "chunk": 58,
         "pos": 12,
         "terrain": "O",
-        "features": "Epic Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a sunken chest with its lock rusted shut of an old campsite, the scent of salty scent of a mermaid's hair still lingering.",
+        "encounter": "",
         "history": []
     },
     {
@@ -116,14 +116,14 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rattling of pebbles in the surf is accompanied by the distinct aroma of smell of seaweed roasting in the sun. It seems whirlpool spirits are involved in diving deep to consult with a sea oracle.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 58,
         "pos": 15,
         "terrain": "O",
-        "features": "Calm Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see a seafarer's compass that points to hidden treasure that could be useful in your quest to retrieve a sunken treasure map from the lair of a giant octopus.. But it's guarded by lighthouse guardians.",
         "history": []
     },
     {
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a dense, toxic algae bloom poisoning the water. As you approach, tidal wave elementals exploring a mysterious underwater cave.",
+        "encounter": "",
         "history": []
     },
     {
@@ -244,7 +244,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey leads you to a a band of marauding pirates waiting to attack. As you approach, kelpie protecting their underwater city from intruders.",
         "history": []
     },
     {
@@ -259,7 +259,7 @@
         "chunk": 58,
         "pos": 32,
         "terrain": "O",
-        "features": "Murmuring Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -339,8 +339,8 @@
         "chunk": 58,
         "pos": 42,
         "terrain": "O",
-        "features": "Picturesque Chasm",
-        "encounter": "You're guided by the soft gentle lapping of waves against the shore. As you follow, you encounter sirens in the midst of navigating treacherous waters during a storm.",
+        "features": "Deep Deep",
+        "encounter": "",
         "history": []
     },
     {
@@ -483,7 +483,7 @@
         "chunk": 58,
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Trough",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 58,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Inlet",
         "encounter": "",
         "history": []
     },
@@ -507,8 +507,8 @@
         "chunk": 58,
         "pos": 63,
         "terrain": "O",
-        "features": "Idyllic Rift",
-        "encounter": "A mysterious musty odor of a hidden sea cave envelops you, drawing you towards a secret pirate's den inside a massive, hollowed-out rock where giant sea turtles are singing haunting songs to lure sailors.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Hidden among feather boa kelp, you spot a ship's logbook with a mysterious route glinting in the sunlight.",
         "history": []
     },
     {
@@ -555,7 +555,7 @@
         "chunk": 58,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Dense Shoal",
         "encounter": "",
         "history": []
     },
@@ -595,7 +595,7 @@
         "chunk": 58,
         "pos": 74,
         "terrain": "O",
-        "features": "Lonely Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -603,7 +603,7 @@
         "chunk": 58,
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Limitless Fathom",
         "encounter": "",
         "history": []
     },
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear thudding of footsteps on a wooden dock coming from a camouflaged underwater camouflage net used by merfolk.",
+        "encounter": "",
         "history": []
     },
     {
@@ -683,7 +683,7 @@
         "chunk": 58,
         "pos": 85,
         "terrain": "O",
-        "features": "Boundless Drop-off",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of the remnants of a ship's wheel half-buried in the sand suggests that sunken treasure guardians have passed through here on a quest to explore an underwater cave system to find a valuable artifact..",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 58,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Haven",
         "encounter": "",
         "history": []
     },

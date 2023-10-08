@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot a magical conch shell that can summon sea creatures nestled among giant underwater mushrooms, but the unsettling feeling of anger makes you wary.",
         "history": []
     },
     {
@@ -35,7 +35,7 @@
         "chunk": 12,
         "pos": 4,
         "terrain": "O",
-        "features": "Alluring Spring",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -60,14 +60,14 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice sponge colonies moving subtly. Upon closer inspection, you see kelpie that are rescuing shipwreck survivors.",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 8,
         "terrain": "O",
-        "features": "Tumultuous Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -91,7 +91,7 @@
         "chunk": 12,
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Dense Bight",
         "encounter": "",
         "history": []
     },
@@ -100,15 +100,15 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The sponge colonies rustles, revealing sirens that are conducting a mystical sea ritual.",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 13,
         "terrain": "O",
-        "features": "",
-        "encounter": "Ahead, there is a giant clam snapping shut on unsuspecting ships blocking your path. Perhaps it's related to your quest to navigate treacherous waters to reach a hidden pirate haven..",
+        "features": "Untamed Sound",
+        "encounter": "",
         "history": []
     },
     {
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense hornwort, you catch sight of a ship's chart with uncharted territories marked. But be cautious, pounding of heavy rain during a monsoon suggest jellyfish navigators are near.",
         "history": []
     },
     {
@@ -148,14 +148,14 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice brown algae forests moving subtly. Upon closer inspection, you see merfolk that are performing a ritual to calm a storm.",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 19,
         "terrain": "O",
-        "features": "Ethereal Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -211,16 +211,16 @@
         "chunk": 12,
         "pos": 26,
         "terrain": "O",
-        "features": "Teeming Plateau",
-        "encounter": "",
+        "features": "",
+        "encounter": "With retrieve a sunken treasure map from the lair of a giant octopus. On your mind, the sudden appearance of a treacherous, narrow strait with strong currents accompanied by churning of water as a whirlpool forms becomes a challenging diversion.",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 27,
         "terrain": "O",
-        "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of rustic aroma of a wooden fishing boat, suggesting the presence of cursed ship captains.",
+        "features": "Sunlit Delta",
+        "encounter": "A sudden gust brings with it smell of seaweed roasting in the sun. You spot crystal reef dwellers that seem to be wreaking havoc on passing ships.",
         "history": []
     },
     {
@@ -235,7 +235,7 @@
         "chunk": 12,
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 12,
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Abyss",
         "encounter": "",
         "history": []
     },
@@ -267,7 +267,7 @@
         "chunk": 12,
         "pos": 33,
         "terrain": "O",
-        "features": "Idyllic Expanse",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A mysterious clean, crisp scent of the open sea envelops you, drawing you towards an underwater whirlpool leading to a hidden realm where water elementals are navigating treacherous waters during a storm.",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 12,
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Haven",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 12,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Windswept Narrows",
         "encounter": "",
         "history": []
     },
@@ -355,7 +355,7 @@
         "chunk": 12,
         "pos": 44,
         "terrain": "O",
-        "features": "Majestic Kelp Forest",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're guided by the soft rustling of parchment as a map is unfurled. As you follow, you encounter coral golems in the midst of raiding a coastal village for supplies.",
         "history": []
     },
     {
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious crisp, ocean-scented laundry on a line envelops you, drawing you towards a network of tunnels in the heart of a coral maze where sea anemone sorcerers are protecting their underwater city from intruders.",
+        "encounter": "",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 12,
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Trench",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense colorful coral polyps, you catch sight of a chest of exotic spices from distant lands. But be cautious, hissing of foam as waves recede suggest shipwreck goblins are near.",
         "history": []
     },
     {
@@ -452,7 +452,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is a treacherous, labyrinthine underwater cave system blocking your path. Perhaps it's related to your quest to retrieve a sunken treasure from a ghost ship guarded by vengeful spirits..",
         "history": []
     },
     {
@@ -460,14 +460,14 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear rustling of seaweed in the currents coming from a secret mermaid library hidden in a deep trench.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 58,
         "terrain": "O",
-        "features": "Daunting Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -475,15 +475,15 @@
         "chunk": 12,
         "pos": 59,
         "terrain": "O",
-        "features": "",
-        "encounter": "Deep in thought about retrieve a powerful, magical artifact from a sunken shipwreck., you're startled by whispering of the sea breeze through palm trees. It seems storm giants are near.",
+        "features": "Sunlit Seamount",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Lonely Jetty",
         "encounter": "",
         "history": []
     },
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "From the shadows of the a sunken garden of rare and magical sea plants, you sense the presence of underwater miners.",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 12,
         "pos": 66,
         "terrain": "O",
-        "features": "Crystal-clear Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden hissing of foam as waves recede breaks the silence, making the nearby red grape algae quiver.",
         "history": []
     },
     {
@@ -555,7 +555,7 @@
         "chunk": 12,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Gulf",
         "encounter": "",
         "history": []
     },
@@ -572,14 +572,14 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a lost, enchanted trident from a sunken temple.. But be wary, for sarcastic cephalopod lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 72,
         "terrain": "O",
-        "features": "Breathtaking Depression",
+        "features": "Shimmering Main",
         "encounter": "",
         "history": []
     },
@@ -628,14 +628,14 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a swarm of aggressive, giant jellyfish. As you contemplate a way around, you hear sighing of the wind through sea caves from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 79,
         "terrain": "O",
-        "features": "Teeming Rise",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -660,14 +660,14 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a giant, tentacled kraken blocking the way. As you contemplate a way around, you hear pounding of heavy rain during a monsoon from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 83,
         "terrain": "O",
-        "features": "Iridescent Flats",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a colony of territorial sea lions blocking passage, your attention is caught by sloshing of water in a mermaid's bathtub. Upon investigating, you discover a secret mermaid library hidden in a deep trench with a ship's chart with uncharted territories marked inside.",
+        "encounter": "",
         "history": []
     },
     {
@@ -723,7 +723,7 @@
         "chunk": 12,
         "pos": 90,
         "terrain": "O",
-        "features": "Dense Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -731,8 +731,8 @@
         "chunk": 12,
         "pos": 91,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden gust brings with it scent of damp driftwood. You spot lighthouse guardians that seem to be training sea creatures for battle.",
+        "features": "Spectacular Gulf",
+        "encounter": "",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 12,
         "pos": 93,
         "terrain": "O",
-        "features": "Epic Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The whisper of buzzing of underwater machinery in a sunken city is accompanied by the distinct aroma of saltwater in the air. It seems giant sea turtles are involved in battling a giant sea serpent.",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a mermaid's lost jewelry lie scattered, painting a tale of kelpie that raising a sunken ship from the depths.",
+        "encounter": "",
         "history": []
     },
     {
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the dense caulerpa seaweed, you discover a beautifully crafted coral tiara. You can't shake the feeling of dread.",
         "history": []
     },
     {

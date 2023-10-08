@@ -3,7 +3,7 @@
         "chunk": 83,
         "pos": 0,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Upwelling",
         "encounter": "",
         "history": []
     },
@@ -19,8 +19,8 @@
         "chunk": 83,
         "pos": 2,
         "terrain": "O",
-        "features": "Tumultuous Drop-off",
-        "encounter": "",
+        "features": "",
+        "encounter": "A path surrounded by giant kelp with air-filled bladders leads to a clearing with the remnants of an ancient ship's cannon, indicating ghost ships have been here.",
         "history": []
     },
     {
@@ -43,7 +43,7 @@
         "chunk": 83,
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Mangrove",
         "encounter": "",
         "history": []
     },
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a piece of driftwood with an ancient carving. However, underwater miners stand guard, their intentions unknown.",
+        "encounter": "",
         "history": []
     },
     {
@@ -60,7 +60,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see a giant clamshell turned into a luxurious bed that could be useful in your quest to guide a group of scholars on a research expedition to the deep ocean.. But it's guarded by sarcastic cephalopod.",
         "history": []
     },
     {
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of whistling of wind through the rigging of a ship is accompanied by the distinct aroma of smoky scent of grilled seafood. It seems lighthouse guardians are involved in escaping from the clutches of a kraken.",
+        "encounter": "",
         "history": []
     },
     {
@@ -108,14 +108,14 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by giant underwater mushrooms leads to a clearing with the remnants of a coral-encrusted treasure chest, indicating jellyfish navigators have been here.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 83,
         "pos": 14,
         "terrain": "O",
-        "features": "Choppy Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -155,8 +155,8 @@
         "chunk": 83,
         "pos": 19,
         "terrain": "O",
-        "features": "Alluring Strait",
-        "encounter": "From the shadows of the a hidden treasure map etched into a ship's hull, you sense the presence of selkies.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You uncover a beached rowboat with a broken oar that tell a story of a time when water elementals pursued navigate a treacherous coral maze to reach a hidden oasis..",
         "history": []
     },
     {
@@ -195,7 +195,7 @@
         "chunk": 83,
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Flats",
         "encounter": "",
         "history": []
     },
@@ -218,20 +218,17 @@
     {
         "chunk": 83,
         "pos": 27,
-        "terrain": "M",
-        "features": "Resilient Arête",
-        "encounter": "You spot a collection of sparkling gemstones nestled among a stand of tall, ancient alpine redwoods, but the unsettling feeling of fascination makes you wary.",
-        "history": [
-            "As you traverse through the mountainous terrain of chunk 83, you find yourself at position 27, standing before a resilient arête. This sharp ridge, carved by centuries of wind and weather, stands as a testament to the enduring power of nature. Its jagged edges and steep sides are a daunting sight, yet there's a certain beauty in its ruggedness.\n\nAs you continue your journey, your eyes are drawn to a stand of tall, ancient alpine redwoods. These towering trees, with their thick, red bark and lush, green needles, are a stark contrast to the harsh, rocky landscape around them. They stand as silent sentinels, their roots digging deep into the rocky soil, their branches reaching high into the clear, blue sky.\n\nAmong these majestic trees, you spot a collection of sparkling gemstones. They are nestled in the crevices of the tree trunks, their facets catching the sunlight and casting a rainbow of colors onto the surrounding bark and leaves. The sight is mesmerizing, the gems twinkling like stars in a forest sky.\n\nBut as you approach, a feeling of unease washes over you. The beauty of the gemstones is captivating, but there's something unsettling about them. It's as if they're calling to you, drawing you in with their hypnotic sparkle. You can't shake the feeling that there's more to these gems than meets the eye.\n\nYou take a moment to gather your thoughts, your hand instinctively reaching for the hilt of your sword. The forest is silent, save for the rustling of leaves in the gentle breeze. You can't shake the feeling of fascination, but you're wary. Something about this place, these gemstones, doesn't feel right.\n\nYou decide to proceed with caution, your senses on high alert. You don't know what lies ahead, but you're prepared for anything. After all, this is the life of an adventurer. You live for the thrill of the unknown, the promise of treasure, and the danger that comes with it.",
-            "As you traverse through the mountainous terrain of hex 83, you find yourself at position 27, standing before a striking geological feature known as the Resilient Arête. This sharp ridge of rock, carved by centuries of relentless wind and rain, stands as a testament to the enduring power of nature. Its jagged, rocky surface is a stark contrast to the lush greenery that surrounds it, creating a breathtaking panorama that leaves you in awe.\n\nAs you continue your journey, your eyes are drawn to a peculiar sight. Nestled among a stand of tall, ancient alpine redwoods, you spot a collection of sparkling gemstones. Their vibrant hues glisten in the sunlight, creating a dazzling display that is almost hypnotic in its beauty. The gemstones are a stark contrast to the rugged, raw beauty of the Resilient Arête, and yet, they complement each other in a way that is strangely harmonious.\n\nHowever, as you approach the gemstones, you are overcome with an unsettling feeling of fascination. It's as if the gemstones are calling out to you, beckoning you to come closer. But there's something about this fascination that makes you wary. It's too intense, too overpowering. It feels as if the gemstones hold a power that you do not fully understand.\n\nYou take a step back, deciding to keep a safe distance from the gemstones. You can't shake off the feeling that there's more to these gemstones than meets the eye. Perhaps they are a part of the hex's history, a history that is yet to be uncovered. Or perhaps they are a warning, a sign of danger that is yet to come.\n\nWhatever the case may be, you decide to tread carefully. The beauty of the Resilient Arête and the gemstones may be captivating, but you know better than to let your guard down. After all, in the world of Dungeons and Dragons, nothing is ever as simple as it seems."
-        ]
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
+        "history": []
     },
     {
         "chunk": 83,
         "pos": 28,
-        "terrain": "H",
-        "features": "Rugged Mound",
-        "encounter": "You feel peace of mind as the chirping of crickets on a warm summer night echo in the distance. Perhaps it's a sign of what's to come.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -246,7 +243,7 @@
         "chunk": 83,
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Spectacular Tidal Pool",
         "encounter": "",
         "history": []
     },
@@ -271,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Crystal reef dwellers gives you a quest to slay a marauding sea monster terrorizing coastal villages.In your path lies a pirate's cutlass with an ornate hilt surrounded by bubbling hot seawater vents.",
         "history": []
     },
     {
@@ -279,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Deep in thought about retrieve a powerful, magical artifact from a sunken shipwreck., you're startled by rustling of palm fronds in a gentle breeze. It seems sunken treasure guardians are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -293,33 +290,33 @@
     {
         "chunk": 83,
         "pos": 36,
-        "terrain": "M",
-        "features": "Rounded Gully",
-        "encounter": "Surrounded by clusters of ferns in the shade of mountain forests, a series of a concealed entrance to a nomadic tribe's camp reveal traces of a decaying and moss-covered mountain treasure map, and the distant the echoing howl of the wind through mountain passes hint at more to discover.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 83,
         "pos": 37,
-        "terrain": "M",
-        "features": "Foreboding Ravine",
-        "encounter": "You stumble upon a partially buried and cracked mountain sundial indicating past battles.",
+        "terrain": "O",
+        "features": "Secluded Expanse",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 83,
         "pos": 38,
-        "terrain": "H",
-        "features": "Imposing Pinnacle",
-        "encounter": "You feel reverence as the rustling of small mammals in the underbrush echo in the distance. Perhaps it's a sign of what's to come.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 83,
         "pos": 39,
         "terrain": "O",
-        "features": "Pristine Reef",
-        "encounter": "",
+        "features": "",
+        "encounter": "From the shadows of the a concealed chamber within a massive sponge, you sense the presence of kelpie.",
         "history": []
     },
     {
@@ -342,7 +339,7 @@
         "chunk": 83,
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Secluded Mangrove",
         "encounter": "",
         "history": []
     },
@@ -350,7 +347,7 @@
         "chunk": 83,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted Undercurrent",
         "encounter": "",
         "history": []
     },
@@ -358,7 +355,7 @@
         "chunk": 83,
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Jetty",
         "encounter": "",
         "history": []
     },
@@ -366,8 +363,8 @@
         "chunk": 83,
         "pos": 45,
         "terrain": "O",
-        "features": "Spectacular Fathom",
-        "encounter": "A path surrounded by mermaid's hair algae leads to a clearing with the remnants of a sunken sea monster's scale, indicating ship-eating barnacles have been here.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -382,7 +379,7 @@
         "chunk": 83,
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Ocean",
         "encounter": "",
         "history": []
     },
@@ -423,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across the remnants of an ancient ship's cannon of an old campsite, the scent of scent of damp, ancient sea scrolls still lingering.",
         "history": []
     },
     {
@@ -438,7 +435,7 @@
         "chunk": 83,
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Tidal Pool",
         "encounter": "",
         "history": []
     },
@@ -446,7 +443,7 @@
         "chunk": 83,
         "pos": 55,
         "terrain": "O",
-        "features": "Salty Tidal Pool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -478,7 +475,7 @@
         "chunk": 83,
         "pos": 59,
         "terrain": "O",
-        "features": "Reflective Flats",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -486,7 +483,7 @@
         "chunk": 83,
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Abyss",
         "encounter": "",
         "history": []
     },
@@ -534,7 +531,7 @@
         "chunk": 83,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Unfathomable Plateau",
         "encounter": "",
         "history": []
     },
@@ -574,7 +571,7 @@
         "chunk": 83,
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Lagoon",
         "encounter": "",
         "history": []
     },
@@ -582,7 +579,7 @@
         "chunk": 83,
         "pos": 72,
         "terrain": "O",
-        "features": "Endless Edifice",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -598,7 +595,7 @@
         "chunk": 83,
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Epic Seamount",
         "encounter": "",
         "history": []
     },
@@ -606,7 +603,7 @@
         "chunk": 83,
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Jetty",
         "encounter": "",
         "history": []
     },
@@ -638,7 +635,7 @@
         "chunk": 83,
         "pos": 79,
         "terrain": "O",
-        "features": "Inviting Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -702,7 +699,7 @@
         "chunk": 83,
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Dense Channel",
         "encounter": "",
         "history": []
     },
@@ -711,14 +708,14 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Peering through the dense giant underwater mushrooms, you catch sight of a chest of exotic spices from distant lands. But be cautious, clanging of bells on a buoy in choppy waters suggest ghost ships are near.",
         "history": []
     },
     {
         "chunk": 83,
         "pos": 89,
         "terrain": "O",
-        "features": "Tidal Bay",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -727,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear whispering of the sea breeze through palm trees coming from a secret mermaid library hidden in a deep trench.",
+        "encounter": "",
         "history": []
     },
     {
@@ -758,7 +755,7 @@
         "chunk": 83,
         "pos": 94,
         "terrain": "O",
-        "features": "Ageless Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -774,7 +771,7 @@
         "chunk": 83,
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Strait",
         "encounter": "",
         "history": []
     },

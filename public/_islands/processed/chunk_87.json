@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a monstrous sea serpent lurking beneath the surface makes it difficult to proceed. Perhaps the pirates nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "Coral golems gives you a quest to search for a hidden cove rumored to contain pirate treasure.In your path lies a treasure chest full of cursed gold surrounded by giant underwater mushrooms.",
+        "encounter": "",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 87,
         "pos": 7,
         "terrain": "O",
-        "features": "Unspoiled Harbor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 87,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Daunting Bight",
         "encounter": "",
         "history": []
     },
@@ -107,7 +107,7 @@
         "chunk": 87,
         "pos": 13,
         "terrain": "O",
-        "features": "Alluring Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -140,14 +140,14 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across the remnants of an ancient ship's cannon of an old campsite, the scent of scent of damp, ancient sea scrolls still lingering.",
         "history": []
     },
     {
         "chunk": 87,
         "pos": 18,
         "terrain": "O",
-        "features": "Azure Isle",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -164,14 +164,14 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "The mermaid's hair algae rustles, revealing water elementals that are solving a riddle from an ancient sea scroll.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 87,
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Jetty",
         "encounter": "",
         "history": []
     },
@@ -187,8 +187,8 @@
         "chunk": 87,
         "pos": 23,
         "terrain": "O",
-        "features": "Surging Wave",
-        "encounter": "",
+        "features": "",
+        "encounter": "You're guided by the soft whispering of the sea breeze through palm trees. As you follow, you encounter sea anemone sorcerers in the midst of taming and riding sea turtles.",
         "history": []
     },
     {
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by awe as you uncover a collection of seashells with hidden messages hidden within codium seaweed.",
+        "encounter": "",
         "history": []
     },
     {
@@ -259,8 +259,8 @@
         "chunk": 87,
         "pos": 32,
         "terrain": "O",
-        "features": "Raging Swirl",
-        "encounter": "",
+        "features": "",
+        "encounter": "You notice floating mats of sargassum seaweed moving subtly. Upon closer inspection, you see tidal wave elementals that are trading secrets with a wandering hermit.",
         "history": []
     },
     {
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Blocked by a colony of hostile merfolk guarding their territory, your attention is caught by booming of waves in a hidden sea cave. Upon investigating, you discover a submerged sea cave filled with bioluminescent creatures with a sea serpent scale inside.",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Blocked by a massive, drifting iceberg with hidden dangers, your attention is caught by rumbling of a distant underwater volcano. Upon investigating, you discover a sunken garden of rare and magical sea plants with a ship's bell with a haunting chime inside.",
         "history": []
     },
     {
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden gust brings with it tangy scent of salt spray. You spot sea serpents that seem to be guarding a hidden cove filled with stolen treasure.",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a shattered glass bottle lie scattered, painting a tale of mermen that forging alliances with other oceanic races.",
+        "encounter": "The ground is littered with a damaged, half-buried treasure map scroll. It appears island hermit were here recently.",
         "history": []
     },
     {
@@ -403,8 +403,8 @@
         "chunk": 87,
         "pos": 50,
         "terrain": "O",
-        "features": "",
-        "encounter": "You spot a seafarer's journal filled with tales of adventure nestled among caulerpa seaweed, but the unsettling feeling of awe makes you wary.",
+        "features": "Grand Gulf",
+        "encounter": "",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense floating seaweed rafts, you discover a giant clamshell turned into a luxurious bed. You can't shake the feeling of panic.",
+        "encounter": "Peering through the dense red grape algae, you catch sight of a bejeweled trident. But be cautious, crackling of a bonfire on the beach suggest kelpie are near.",
         "history": []
     },
     {
@@ -468,7 +468,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the remnants of a ship's wheel half-buried in the sand indicating past battles.",
         "history": []
     },
     {
@@ -508,14 +508,14 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The presence of a massive, ancient sea turtle that won't move makes it difficult to proceed. Perhaps the selkies nearby can help.",
         "history": []
     },
     {
         "chunk": 87,
         "pos": 64,
         "terrain": "O",
-        "features": "Surging Bay",
+        "features": "Uncharted Seamount",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 87,
         "pos": 67,
         "terrain": "O",
-        "features": "Grand Rise",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -564,15 +564,15 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your way is impeded by a giant maelstrom that sucks everything in. As you contemplate a way around, you hear chattering of crabs on a rocky shore from the shadows.",
         "history": []
     },
     {
         "chunk": 87,
         "pos": 71,
         "terrain": "O",
-        "features": "Inviting Fjord",
-        "encounter": "",
+        "features": "",
+        "encounter": "A mysterious mildewy scent of an old ship's cabin envelops you, drawing you towards a hollowed-out giant clam used as a merfolk's dwelling where jellyfish navigators are conducting a mystical sea ritual.",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The presence of an eerie, ghostly ship blocking the path makes it difficult to proceed. Perhaps the sea anemone sorcerers nearby can help.",
         "history": []
     },
     {
@@ -611,8 +611,8 @@
         "chunk": 87,
         "pos": 76,
         "terrain": "O",
-        "features": "",
-        "encounter": "Navigating through an eerie, ghostly ship blocking the path, you're surprised to find a submerged sea cave filled with bioluminescent creatures filled with the remnants of a pirate's skeleton on a sunken ship.As you journey forward, you come across a barnacle-covered ship's wheel, with traces of rotten-egg odor of sulfur from underwater vents around them.",
+        "features": "Mysterious Isle",
+        "encounter": "",
         "history": []
     },
     {
@@ -620,7 +620,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with a skeleton clutching a rusted cutlass on the seabed. It appears sea dragons were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Deep in thought about search for a hidden cove rumored to contain pirate treasure., you're startled by humming of a powerful sea enchantment. It seems sunken treasure guardians are near.",
         "history": []
     },
     {
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of an ancient ship's cannon suggests that tidal wave elementals have passed through here on a quest to retrieve a sunken treasure map from the lair of a giant octopus..",
+        "encounter": "The whisper of crackling of underwater lava flows is accompanied by the distinct aroma of salty seaweed and kelp. It seems octopus oracles are involved in hunting for treasure on a deserted island.",
         "history": []
     },
     {
@@ -771,7 +771,7 @@
         "chunk": 87,
         "pos": 96,
         "terrain": "O",
-        "features": "Sapphire Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -787,8 +787,8 @@
         "chunk": 87,
         "pos": 98,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Teeming Gulf",
+        "encounter": "The air is filled with the smell of warm, sun-kissed aroma of a sandy beach. You feel a sense of sadness.",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the dense seagrass meadows, you discover a barnacle-covered ship's wheel. You can't shake the feeling of dread.",
         "history": []
     }
 ]

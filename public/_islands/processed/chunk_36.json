@@ -11,8 +11,8 @@
         "chunk": 36,
         "pos": 1,
         "terrain": "O",
-        "features": "",
-        "encounter": "You spot a barnacle-covered ship's wheel nestled among giant kelp with air-filled bladders, but the unsettling feeling of bewilderment makes you wary.",
+        "features": "Lonely Isle",
+        "encounter": "",
         "history": []
     },
     {
@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "The floating mats of sargassum seaweed rustles, revealing sirens that are searching for a lost artifact on the ocean floor.",
+        "encounter": "",
         "history": []
     },
     {
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of the remnants of a fishing net tangled in the coral wind through the green string lettuce, revealing the past actions of kelpie.",
+        "encounter": "",
         "history": []
     },
     {
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a deadly, bioluminescent sea creature swarm. As you contemplate a way around, you hear rumbling of a distant underwater volcano from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
@@ -100,14 +100,14 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear crackling of a bonfire on the beach coming from a secret pirate tunnel leading to a hidden cove.",
+        "encounter": "Peering through the dense black coral, you catch sight of a seafarer's journal filled with tales of adventure. But be cautious, buzzing of insects near a coastal marsh suggest ghost ships are near.",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 13,
         "terrain": "O",
-        "features": "Endless Undercurrent",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -123,7 +123,7 @@
         "chunk": 36,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Isle",
         "encounter": "",
         "history": []
     },
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a thick forest of kelp that entangles ships makes it difficult to proceed. Perhaps the kelpie nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
@@ -155,7 +155,7 @@
         "chunk": 36,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Harmonious Expanse",
         "encounter": "",
         "history": []
     },
@@ -195,7 +195,7 @@
         "chunk": 36,
         "pos": 24,
         "terrain": "O",
-        "features": "Radiant Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your way is impeded by a sandbar hiding just below the water's surface. As you contemplate a way around, you hear distant rumble of thunder during a storm from the shadows.",
         "history": []
     },
     {
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden rustling of seaweed in the currents breaks the silence, making the nearby red grape algae quiver.",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft gurgling of a freshwater stream meeting the ocean. As you follow, you encounter turtle island shamans in the midst of battling a giant sea serpent.",
+        "encounter": "",
         "history": []
     },
     {
@@ -339,7 +339,7 @@
         "chunk": 36,
         "pos": 42,
         "terrain": "O",
-        "features": "Nautical Expanse",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -379,7 +379,7 @@
         "chunk": 36,
         "pos": 47,
         "terrain": "O",
-        "features": "Timeless Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -388,15 +388,15 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The presence of a sunken city with buildings rising to the surface makes it difficult to proceed. Perhaps the water elementals nearby can help.",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 49,
         "terrain": "O",
-        "features": "Tumultuous Harbor",
-        "encounter": "You uncover the remnants of a merfolk's forgotten treasure that tell a story of a time when sunken treasure guardians pursued navigate treacherous waters to reach a hidden pirate haven..",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by disbelief as you uncover a preserved mermaid tail hidden within tube worms near hydrothermal vents.",
+        "encounter": "",
         "history": []
     },
     {
@@ -475,7 +475,7 @@
         "chunk": 36,
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Reef",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 36,
         "pos": 67,
         "terrain": "O",
-        "features": "Mesmerizing Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 36,
         "pos": 69,
         "terrain": "O",
-        "features": "Bubbling Rise",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 36,
         "pos": 70,
         "terrain": "O",
-        "features": "Surging Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -644,14 +644,14 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by giant kelp with air-filled bladders leads to a clearing with the remnants of a ship's lantern on the seafloor, indicating sea serpents have been here.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Rise",
         "encounter": "",
         "history": []
     },
@@ -724,14 +724,14 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're guided by the soft buzzing of bioluminescent creatures in the depths. As you follow, you encounter selkies in the midst of performing a ritual to calm a storm.",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 91,
         "terrain": "O",
-        "features": "Crystal-clear Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -747,7 +747,7 @@
         "chunk": 36,
         "pos": 93,
         "terrain": "O",
-        "features": "Beckoning Abyss",
+        "features": "Windswept Deep",
         "encounter": "",
         "history": []
     },
@@ -772,15 +772,15 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The air is filled with the smell of pungent smell of seaweed drying in the sun. You feel a sense of anger.",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 97,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your senses are overwhelmed by bewilderment as you uncover a barnacle-covered ship's wheel hidden within codium seaweed.",
+        "features": "Sunlit Depression",
+        "encounter": "",
         "history": []
     },
     {

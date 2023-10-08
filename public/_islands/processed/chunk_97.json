@@ -91,7 +91,7 @@
         "chunk": 97,
         "pos": 11,
         "terrain": "O",
-        "features": "Sparkling Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -99,15 +99,15 @@
         "chunk": 97,
         "pos": 12,
         "terrain": "O",
-        "features": "Ageless Harbor",
-        "encounter": "",
+        "features": "",
+        "encounter": "From the shadows of the a concealed treasure chest buried in the sand, you sense the presence of sea witches.",
         "history": []
     },
     {
         "chunk": 97,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Ageless Upwelling",
         "encounter": "",
         "history": []
     },
@@ -147,8 +147,8 @@
         "chunk": 97,
         "pos": 18,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Majestic Plateau",
+        "encounter": "You feel an overwhelming sense of bewilderment as you tread upon a ship's figurehead washed ashore, hinting at a tale of pearl diver guilds.",
         "history": []
     },
     {
@@ -156,14 +156,14 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Hidden among brown algae forests, you spot a seafarer's journal filled with tales of adventure glinting in the sunlight.",
         "history": []
     },
     {
         "chunk": 97,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Estuary",
         "encounter": "",
         "history": []
     },
@@ -171,8 +171,8 @@
         "chunk": 97,
         "pos": 21,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your journey leads you to a a whirlpool leading to a mysterious underwater realm. As you approach, island hermit training sea creatures for battle.",
+        "features": "Turbulent Surf",
+        "encounter": "",
         "history": []
     },
     {
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter giant sea turtles which are repairing their damaged ship.",
         "history": []
     },
     {
@@ -251,7 +251,7 @@
         "chunk": 97,
         "pos": 31,
         "terrain": "O",
-        "features": "Abyssal Swirl",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of scent of damp, ancient sea scrolls, suggesting the presence of lighthouse guardians.",
+        "encounter": "",
         "history": []
     },
     {
@@ -291,7 +291,7 @@
         "chunk": 97,
         "pos": 36,
         "terrain": "O",
-        "features": "Boundless Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -315,7 +315,7 @@
         "chunk": 97,
         "pos": 39,
         "terrain": "O",
-        "features": "Daunting Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -332,14 +332,14 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You uncover tattered fragments of a sunken pirate flag that tell a story of a time when giant sea turtles pursued guide a group of scholars on a research expedition to the deep ocean..",
         "history": []
     },
     {
         "chunk": 97,
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Ocean",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden gust brings with it pungent aroma of a hidden pirate's stash. You spot selkies that seem to be singing haunting songs to lure sailors.",
         "history": []
     },
     {
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and rumbling of a distant underwater volcano grow louder. It seems sarcastic cephalopod are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Every step forward is met with the increasing intensity of musty odor of a hidden sea cave, suggesting the presence of jellyfish navigators.",
         "history": []
     },
     {
@@ -468,15 +468,15 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of a damaged sextant with a cracked lens suggests that sarcastic cephalopod have passed through here on a quest to help a stranded sea serpent find its way back to the open sea..",
         "history": []
     },
     {
         "chunk": 97,
         "pos": 59,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Uncharted Rift",
+        "encounter": "With navigate a treacherous coral maze to reach a hidden oasis. On your mind, the sudden appearance of a sandbar hiding just below the water's surface accompanied by whistling of wind through the rigging of a ship becomes a challenging diversion.",
         "history": []
     },
     {
@@ -507,7 +507,7 @@
         "chunk": 97,
         "pos": 63,
         "terrain": "O",
-        "features": "Peaceful Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Deep in thought about navigate treacherous waters to find a legendary fishing spot., you're startled by clattering of seashells in the tide. It seems crystal reef dwellers are near.",
         "history": []
     },
     {
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is illuminated by the glint of a rare, ancient ship's figurehead. However, crystal reef dwellers stand guard, their intentions unknown.",
         "history": []
     },
     {
@@ -595,7 +595,7 @@
         "chunk": 97,
         "pos": 74,
         "terrain": "O",
-        "features": "Abyssal Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -611,7 +611,7 @@
         "chunk": 97,
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Deep",
         "encounter": "",
         "history": []
     },
@@ -620,7 +620,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter storm giants which are trading secrets with a wandering hermit.",
+        "encounter": "",
         "history": []
     },
     {
@@ -643,7 +643,7 @@
         "chunk": 97,
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Uncharted Kelp Forest",
         "encounter": "",
         "history": []
     },
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense brown algae forests, you catch sight of a beautifully crafted coral tiara. But be cautious, hollow echoes in an underwater cavern suggest mermen are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -691,7 +691,7 @@
         "chunk": 97,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Atoll",
         "encounter": "",
         "history": []
     },
@@ -708,14 +708,14 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft churning of water as a whirlpool forms. As you follow, you encounter dolphin companions in the midst of collecting rare and magical seashells.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 97,
         "pos": 89,
         "terrain": "O",
-        "features": "Endless Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ahead, there is a coral reef with sharp, hidden edges blocking your path. Perhaps it's related to your quest to navigate treacherous waters to find a legendary fishing spot..",
         "history": []
     },
     {
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Hidden among black coral, you spot a bottle of potent seawater from a mythical spring glinting in the sunlight.",
         "history": []
     },
     {
@@ -787,7 +787,7 @@
         "chunk": 97,
         "pos": 98,
         "terrain": "O",
-        "features": "Turbulent Channel",
+        "features": "",
         "encounter": "",
         "history": []
     },
