@@ -31,3 +31,23 @@
         background: slategray;
     }
 }
+
+@keyframes shimmer {
+    0% {
+        background-position: -200% 0;
+    }
+
+    100% {
+        background-position: 200% 0;
+    }
+}
+
+.shimmer-animation {
+    background: linear-gradient(90deg,
+            transparent,
+            #ffffff40,
+            /* Some light color to act as a shimmer */
+            transparent);
+    background-size: 200% 100%;
+    animation: shimmer 5s infinite;
+}

@@ -14,8 +14,7 @@ export default function HexSkeleton({ pos, size, chunkSize }: HexSkeletonProp) {
             marginLeft: `${Math.floor(pos / chunkSize) % 2 === 0 ? size * (1.732 / 2 / 2) : 0}rem`,
             marginRight: `${Math.floor(pos / chunkSize) % 2 === 0 ? -size * (1.732 / 2 / 2) : 0}rem`
         } as React.CSSProperties}
-            className={`relative ${style.hexagon}`} >
-            <div />
+            className={`relative ${style.hexagon} -translate-x-48 -translate-y-48 shimmer-animation`} >
         </div>
     )
 }
