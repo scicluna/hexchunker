@@ -13,6 +13,9 @@ const TEMPLATE = `
 Rules:
 {rules}
 
+Adjacent Hexes:
+{adjacent}
+
 Hex Details:
 {details}
 
@@ -24,8 +27,8 @@ AI:`;
 
 export async function POST(req: NextRequest) {
     const body = await req.json();
-    console.log(body)
     const details = body.details
+    const adjacent = body.adjacent
     const messages = body.messages ?? [];
     const formattedPreviousMessages = messages.slice(0, -1).map(formatMessage);
     const currentMessageContent = messages[messages.length - 1].content;
@@ -40,10 +43,13 @@ export async function POST(req: NextRequest) {
     const outputParser = new BytesOutputParser();
     const chain = prompt.pipe(model).pipe(outputParser);
 
-    let ruleSet = "As a creative DM's assistant who loves to roll with nonsensicle scenarios, please try your best to weave an interesting narrative based on what you know about the hex information provided in order to assist a DM in explaining the hexes"
+    let ruleSet = `As a creative DM's assistant who loves to roll with strange scenarios, 
+    please try your best to weave an interesting narrative based on the current Hex's information combined 
+    with the adjacent Hexes' information (hexes have pointy end on top). Be descriptive and assertive.`
 
     const stream = await chain.stream({
         rules: ruleSet,
+        adjacent: adjacent,
         details: details,
         chat_history: formattedPreviousMessages.join('\n'),
         input: currentMessageContent,

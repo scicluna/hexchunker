@@ -8,10 +8,11 @@ type HexProps = {
     chunkno: number
     size: number
     chunkSize: number
+    adjHexes: Island[]
     image: StaticImageData
 }
 
-export default function Hex({ tile, chunkno, size, chunkSize, image }: HexProps) {
+export default function Hex({ tile, chunkno, size, chunkSize, adjHexes, image }: HexProps) {
     return (
         <div style={{
             "--hex-size": `${size}rem`, marginBottom: `${-size * .25}rem`,
@@ -21,7 +22,7 @@ export default function Hex({ tile, chunkno, size, chunkSize, image }: HexProps)
             className={`relative ${style.hexagon}`} >
             <div className='relative h-full w-full point cursor-pointer hover:scale-105 hover:animate-pulse transition-all'>
                 <Image src={image} alt={'map tile'} fill className='aspect-square cursor-pointer pointer-events-none' unoptimized />
-                <HexPop tile={tile} hexImage={image} chunkno={chunkno} size={size} />
+                <HexPop tile={tile} adjHexes={adjHexes} hexImage={image} chunkno={chunkno} size={size} />
             </div>
         </div>
     )

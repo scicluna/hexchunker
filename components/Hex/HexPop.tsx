@@ -10,12 +10,13 @@ import HexWindow from "./HexWindow"
 
 type HexPopProps = {
     tile: Island
+    adjHexes: Island[]
     chunkno: number
     size: number
     hexImage: StaticImageData
 }
 
-export default function HexPop({ tile, chunkno, size, hexImage }: HexPopProps) {
+export default function HexPop({ tile, adjHexes, chunkno, size, hexImage }: HexPopProps) {
 
     const terrainDict = {
         O: "Ocean",
@@ -38,7 +39,7 @@ export default function HexPop({ tile, chunkno, size, hexImage }: HexPopProps) {
                     <p>Terrain: {`${terrainDict[tile.terrain]}`}</p>
                     <p>{tile.terrain === "T" ? `Name: ${tile.features}` : `Feature: ${tile.features || "None"}`}</p>
                     <p>Encounter: {tile.encounter || "None"}</p>
-                    <HexWindow tile={tile} />
+                    <HexWindow tile={tile} adjHexes={adjHexes} />
                 </div>
             </PopoverContent>
         </Popover>

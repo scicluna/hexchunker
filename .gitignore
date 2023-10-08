@@ -12,6 +12,10 @@
 /.next/
 /out/
 
+#islands
+/public/_islands/processed/*.json
+/public/_islands/raw/*.txt
+
 # production
 /build
 

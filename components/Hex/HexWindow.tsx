@@ -6,9 +6,10 @@ import React, { useEffect, useRef, useState } from "react";
 
 type HexWindowProps = {
     tile: Island
+    adjHexes: Island[]
 }
 
-export default function HexWindow({ tile }: HexWindowProps) {
+export default function HexWindow({ tile, adjHexes }: HexWindowProps) {
     const { messages, input, handleInputChange, handleSubmit, isLoading, } = useChat({
         onFinish: (async (message: Message) => {
             try {
@@ -57,7 +58,7 @@ export default function HexWindow({ tile }: HexWindowProps) {
             <form onSubmit={(e) => {
                 handleSubmit(e, {
                     options: {
-                        body: { details: JSON.stringify(tile) }
+                        body: { details: JSON.stringify(tile), adjacent: JSON.stringify(adjHexes) }
                     }
                 })
             }}
