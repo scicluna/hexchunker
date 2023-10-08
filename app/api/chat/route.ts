@@ -40,7 +40,7 @@ export async function POST(req: NextRequest) {
     const outputParser = new BytesOutputParser();
     const chain = prompt.pipe(model).pipe(outputParser);
 
-    let ruleSet = "As a creative DM who loves to roll with nonsensicle scenarios, please try your best to weave an interesting narrative based on what you know about the hex information provided."
+    let ruleSet = "As a creative DM's assistant who loves to roll with nonsensicle scenarios, please try your best to weave an interesting narrative based on what you know about the hex information provided in order to assist a DM in explaining the hexes"
 
     const stream = await chain.stream({
         rules: ruleSet,
