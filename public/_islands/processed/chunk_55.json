@@ -3,7 +3,7 @@
         "chunk": 55,
         "pos": 0,
         "terrain": "O",
-        "features": "Lush Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You're captivated by a(n) ship's logbook among the pearlescent pondweed, exuding mystic rune-etched artifacts.",
+        "encounter": "",
         "history": []
     },
     {
@@ -43,8 +43,8 @@
         "chunk": 55,
         "pos": 5,
         "terrain": "O",
-        "features": "",
-        "encounter": "You're drawn to a(n) pouch of sea salt by a peculiar sense of optimism.",
+        "features": "Enigmatic Trench",
+        "encounter": "",
         "history": []
     },
     {
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the becalmed brine bastion, and you can smell seaside carnival treats coming from a nearby elysian embankments.",
+        "encounter": "",
         "history": []
     },
     {
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with fear upon finding the atlantean annex linked to kelpies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of tidal trolls that once flouncing with finned fairies in these parts.",
+        "encounter": "",
         "history": []
     },
     {
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey is interrupted by sea of singing serpents, with traces of dimensional sea sprites nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -155,7 +155,7 @@
         "chunk": 55,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Cool Estuary",
         "encounter": "",
         "history": []
     },
@@ -187,8 +187,8 @@
         "chunk": 55,
         "pos": 23,
         "terrain": "O",
-        "features": "",
-        "encounter": "Legends tell of temporal guardians of the deep that challenge the rulers of the seven seas to gain their favor amidst these treacherous reef.",
+        "features": "Azure Jetstream",
+        "encounter": "",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 55,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Passage",
         "encounter": "",
         "history": []
     },
@@ -219,7 +219,7 @@
         "chunk": 55,
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Frothy Sound",
         "encounter": "",
         "history": []
     },
@@ -243,8 +243,8 @@
         "chunk": 55,
         "pos": 30,
         "terrain": "O",
-        "features": "Bubbling Islet",
-        "encounter": "You overhear tales of tidal troubadours that battling brine beasts from brinebound bunkers.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -267,7 +267,7 @@
         "chunk": 55,
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Sundrenched Deep",
         "encounter": "",
         "history": []
     },
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of nereids that once whisking with wave witches in these parts.",
+        "encounter": "",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden nautical spices from distant lands alerts you to the presence of tidal troubadours.",
         "history": []
     },
     {
@@ -324,7 +324,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path reveals aqua archers that seem to be yielding to yonder yearnings in order to gather ingredients for a cure from the coral alchemist.",
         "history": []
     },
     {
@@ -348,14 +348,14 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "As you proceed, sea urchins suddenly knaving with kelpie kings from behind a(n) medallion of thoughts.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 55,
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Hypnotic Swell",
         "encounter": "",
         "history": []
     },
@@ -411,7 +411,7 @@
         "chunk": 55,
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Frothy Reef",
         "encounter": "",
         "history": []
     },
@@ -427,7 +427,7 @@
         "chunk": 55,
         "pos": 53,
         "terrain": "O",
-        "features": "Frothy Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -435,7 +435,7 @@
         "chunk": 55,
         "pos": 54,
         "terrain": "O",
-        "features": "Serene Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -443,7 +443,7 @@
         "chunk": 55,
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Seabed",
         "encounter": "",
         "history": []
     },
@@ -451,7 +451,7 @@
         "chunk": 55,
         "pos": 56,
         "terrain": "O",
-        "features": "Crystal Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -516,14 +516,14 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see the jettisoned jade jetty suggesting past activities of reef raiders.",
         "history": []
     },
     {
         "chunk": 55,
         "pos": 65,
         "terrain": "O",
-        "features": "Haunting Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path bears marks of starlit sea snail diviners and their interactions with a(n) medallion of thoughts.",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Sounds suggest saltwater smugglers are listening to lagoon legends, leaving behind the ruined reef village.",
+        "encounter": "",
         "history": []
     },
     {
@@ -587,8 +587,8 @@
         "chunk": 55,
         "pos": 73,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Crystal Narrows",
+        "encounter": "Among the yawning yacht yard, you sense a connection to mystical moonjellies and their mystery.",
         "history": []
     },
     {
@@ -611,7 +611,7 @@
         "chunk": 55,
         "pos": 76,
         "terrain": "O",
-        "features": "Frothy Canyon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -643,8 +643,8 @@
         "chunk": 55,
         "pos": 80,
         "terrain": "O",
-        "features": "Pristine Current",
-        "encounter": "The area is marked by the unseen undertow underpass, a legacy of lunar lagoon luminaries and their tales.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -691,7 +691,7 @@
         "chunk": 55,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Deep",
         "encounter": "",
         "history": []
     },
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings hold (a) dust of disappearance, which (are/is) said to be linked to vortex sea valkyries.",
         "history": []
     },
     {
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the deserted deep dive den, you sense a connection to tidal thieves and their optimism.",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers suggest cuttlefish are venerating vortex visionaries harbor havens.",
         "history": []
     },
     {
@@ -763,7 +763,7 @@
         "chunk": 55,
         "pos": 95,
         "terrain": "O",
-        "features": "Endless Channel",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of restlessness grips you as you discover a(n) fantasy-filled feather linked to guppy enchanters.",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of sorrow grips you as you discover a(n) fantasy-filled feather linked to maelstrom mages.",
         "history": []
     }
 ]

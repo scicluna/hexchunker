@@ -28,14 +28,14 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is blocked by mystical mermaid mosaic, guarded by wave whisperers.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Coastal Abyss",
         "encounter": "",
         "history": []
     },
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by beach ball plastic, leading to traces of sea sprites.",
+        "encounter": "",
         "history": []
     },
     {
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "A local offers you a quest to locate a missing cargo shipment involving mermaids.",
+        "encounter": "Tales suggest vortex viperfish seers once emanating ethereal elegance in this vicinity.",
         "history": []
     },
     {
@@ -131,7 +131,7 @@
         "chunk": 65,
         "pos": 16,
         "terrain": "O",
-        "features": "Majestic Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -171,7 +171,7 @@
         "chunk": 65,
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Deep",
         "encounter": "",
         "history": []
     },
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Nymph's nooks, you hear ethereal whirlpool spirits hailing harborbound heroes, accompanied by luminous plankton.",
+        "encounter": "",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 65,
         "pos": 28,
         "terrain": "O",
-        "features": "Stormy Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -243,7 +243,7 @@
         "chunk": 65,
         "pos": 30,
         "terrain": "O",
-        "features": "Sparkling Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 65,
         "pos": 31,
         "terrain": "O",
-        "features": "Luminous Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -283,7 +283,7 @@
         "chunk": 65,
         "pos": 35,
         "terrain": "O",
-        "features": "Aquamarine Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -299,8 +299,8 @@
         "chunk": 65,
         "pos": 37,
         "terrain": "O",
-        "features": "Clear Maelstrom",
-        "encounter": "The area is marked by a(n) ring of the mariner, hinting at the tales of sunken scribes.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -347,7 +347,7 @@
         "chunk": 65,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Gentle Wave",
         "encounter": "",
         "history": []
     },
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden resilience grips you as marine memory makers basking in brine brilliance sunken citadels.",
+        "encounter": "",
         "history": []
     },
     {
@@ -435,7 +435,7 @@
         "chunk": 65,
         "pos": 54,
         "terrain": "O",
-        "features": "Deep Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -451,8 +451,8 @@
         "chunk": 65,
         "pos": 56,
         "terrain": "O",
-        "features": "Jeweled Billow",
-        "encounter": "",
+        "features": "",
+        "encounter": "You overhear tales of coral magicians that nurturing nautical nymphs in this region.",
         "history": []
     },
     {
@@ -499,7 +499,7 @@
         "chunk": 65,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Jetstream",
         "encounter": "",
         "history": []
     },
@@ -523,7 +523,7 @@
         "chunk": 65,
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Current",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 65,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Cerulean Islet",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "Your heart humility when you see shoals of mackerel near a(n) voyager's velvet vest.",
+        "encounter": "",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "Stories tell of sunken specters that uncover the secret of the vanishing ships in the bermuda triangle amidst these surroundings.",
+        "encounter": "",
         "history": []
     },
     {
@@ -651,8 +651,8 @@
         "chunk": 65,
         "pos": 81,
         "terrain": "O",
-        "features": "Rippling Jetstream",
-        "encounter": "",
+        "features": "",
+        "encounter": "Stories tell of abyssal alchemists that investigate reports of fresh water springs in the ocean amidst these surroundings.",
         "history": []
     },
     {
@@ -683,7 +683,7 @@
         "chunk": 65,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Tide-kissed Chasm",
         "encounter": "",
         "history": []
     },
@@ -707,7 +707,7 @@
         "chunk": 65,
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Passage",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 65,
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Breezy Jetstream",
         "encounter": "",
         "history": []
     },
@@ -739,7 +739,7 @@
         "chunk": 65,
         "pos": 92,
         "terrain": "O",
-        "features": "Stormy Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -747,8 +747,8 @@
         "chunk": 65,
         "pos": 93,
         "terrain": "O",
-        "features": "Sapphire Undertow",
-        "encounter": "The path is littered with triton's trickster trap, a testament to manatees that once diving into deep-sea dreams.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -771,7 +771,7 @@
         "chunk": 65,
         "pos": 96,
         "terrain": "O",
-        "features": "Sprawling Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },

@@ -3,7 +3,7 @@
         "chunk": 25,
         "pos": 0,
         "terrain": "O",
-        "features": "Tropical Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -19,8 +19,8 @@
         "chunk": 25,
         "pos": 2,
         "terrain": "O",
-        "features": "Sapphire Atoll",
-        "encounter": "",
+        "features": "",
+        "encounter": "Reefbound retreats echo with tales of abyssal alchemists and their curiosity.",
         "history": []
     },
     {
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is marked by kraken's kitchen, a testament to anglerfish that once larking with lagoon leviathans.",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 25,
         "pos": 7,
         "terrain": "O",
-        "features": "Tempestuous Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,8 +75,8 @@
         "chunk": 25,
         "pos": 9,
         "terrain": "O",
-        "features": "Coastal Tide",
-        "encounter": "Abyssal alcoves, you hear pirate phantoms questing for quixotic quagmires, accompanied by freshly caught fish.",
+        "features": "Boundless Estuary",
+        "encounter": "The surroundings bear the mark of nautical nebula druids. They are nurturing nautical nymphs.",
         "history": []
     },
     {
@@ -98,17 +98,17 @@
     {
         "chunk": 25,
         "pos": 12,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Flourishing Embankment",
+        "encounter": "Among the old stone dais, you sense a connection to stone golems and their resilience.",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 13,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Amber Expanse",
+        "encounter": "Stories tell of ridgeback rams that retrieve the gauntlet of giants from a hill's hidden vault amidst these surroundings.",
         "history": []
     },
     {
@@ -116,14 +116,14 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter wave whisperers which are taming tidal tempests.",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 15,
         "terrain": "O",
-        "features": "Glistening Riptide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -132,14 +132,14 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) pirate's spyglass hidden among the whirlpool willow, which seems to be lost by pelagic privateers.",
+        "encounter": "You stumble upon the ghostly gulf garrison that hint at eldritch water wraiths and their quest to assist a marine ecologist in studying coral health.",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 17,
         "terrain": "O",
-        "features": "Tumultuous Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "You're intrigued by reverberating reef residence that speak of stellar sea sprite alchemists and their investigate the sudden appearance of red tides.",
+        "encounter": "",
         "history": []
     },
     {
@@ -220,7 +220,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The coral castle maze bear marks of coral centaurs that are soothing sea sprite sorrows.",
         "history": []
     },
     {
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot abyssal leviathans yearning for yawning yonders, casting shadows on a(n) cerulean chalice.",
+        "encounter": "",
         "history": []
     },
     {
@@ -267,8 +267,8 @@
         "chunk": 25,
         "pos": 33,
         "terrain": "O",
-        "features": "Sparkling Maelstrom",
-        "encounter": "A trail of blooming marine flowers leads you to believe grotto gnomes were here recently.",
+        "features": "Hypnotic Narrows",
+        "encounter": "",
         "history": []
     },
     {
@@ -284,7 +284,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with neptune's nettle, providing cover for abyssal alchemists.",
+        "encounter": "",
         "history": []
     },
     {
@@ -292,14 +292,14 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with mystery upon spotting a(n) oracle's opulent obelisk.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 37,
         "terrain": "O",
-        "features": "Enigmatic Brine",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 25,
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping Bight",
         "encounter": "",
         "history": []
     },
@@ -340,14 +340,14 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground bears moonlit mermaid meadow from past encounters with temporal tidepool golems.",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical Bight",
         "encounter": "",
         "history": []
     },
@@ -355,7 +355,7 @@
         "chunk": 25,
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Ocean",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 25,
         "pos": 45,
         "terrain": "O",
-        "features": "Dazzling Narrows",
+        "features": "Restless Fjord",
         "encounter": "",
         "history": []
     },
@@ -371,7 +371,7 @@
         "chunk": 25,
         "pos": 46,
         "terrain": "O",
-        "features": "Salty Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -380,14 +380,14 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings hold (a) pearlescent potion, which (are/is) said to be linked to stardust stingray mystics.",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 48,
         "terrain": "O",
-        "features": "Emerald Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -412,7 +412,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Rumors speak of whirlpool witches that train with local sailors to improve navigation skills in this vicinity.",
         "history": []
     },
     {
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the brinebound bastion.",
+        "encounter": "",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground bears whirlpool's whispering well from past encounters with kelp krakens.",
         "history": []
     },
     {
@@ -444,14 +444,14 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) kelpie's key that seem out of place, exuding a sense of humility.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Billow",
         "encounter": "",
         "history": []
     },
@@ -467,7 +467,7 @@
         "chunk": 25,
         "pos": 58,
         "terrain": "O",
-        "features": "Silvery Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 25,
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Marine Trough",
         "encounter": "",
         "history": []
     },
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Mystical mangroves echo with tales of nautical necromancers and their vulnerability.",
         "history": []
     },
     {
@@ -515,7 +515,7 @@
         "chunk": 25,
         "pos": 64,
         "terrain": "O",
-        "features": "Muted Salinity",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -523,8 +523,8 @@
         "chunk": 25,
         "pos": 65,
         "terrain": "O",
-        "features": "Teeming Channel",
-        "encounter": "You're guided by whale's breath, leading to traces of reefbound rescuers.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -555,7 +555,7 @@
         "chunk": 25,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping Seamount",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 25,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Vortex",
         "encounter": "",
         "history": []
     },
@@ -571,7 +571,7 @@
         "chunk": 25,
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Lagoon",
         "encounter": "",
         "history": []
     },
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Mystic maelstroms echo with tales of abyssal artists and their peacefulness.",
         "history": []
     },
     {
@@ -588,14 +588,14 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Eldritch estuary elves patrolling pelagic perimeters are hidden tidal trenches.",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Billowing Seafloor",
         "encounter": "",
         "history": []
     },
@@ -651,7 +651,7 @@
         "chunk": 25,
         "pos": 81,
         "terrain": "O",
-        "features": "Pristine Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -667,7 +667,7 @@
         "chunk": 25,
         "pos": 83,
         "terrain": "O",
-        "features": "Murky Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear eldritch ice caverns, suggesting tales of starfish clusters.",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by the lost lighthouse landing, a legacy of marine memory makers and their tales.",
+        "encounter": "",
         "history": []
     },
     {
@@ -779,7 +779,7 @@
         "chunk": 25,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Twinkling Passage",
         "encounter": "",
         "history": []
     },
@@ -795,7 +795,7 @@
         "chunk": 25,
         "pos": 99,
         "terrain": "O",
-        "features": "Swirling Bight",
+        "features": "",
         "encounter": "",
         "history": []
     }

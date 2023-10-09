@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The atlantean anemone rustles as barracudas are quelling quarrelsome quokkas behind them.",
         "history": []
     },
     {
@@ -60,15 +60,15 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "You're captivated by a(n) opal of insight among the ethereal eelgrass, exuding freshly opened oysters.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 8,
         "terrain": "O",
-        "features": "",
-        "encounter": "Echoes of sunlit sea sprites resonate, accompanied by distinct lantern oil.",
+        "features": "Placid Current",
+        "encounter": "",
         "history": []
     },
     {
@@ -91,7 +91,7 @@
         "chunk": 20,
         "pos": 11,
         "terrain": "O",
-        "features": "Jeweled Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -99,7 +99,7 @@
         "chunk": 20,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Breezy Chasm",
         "encounter": "",
         "history": []
     },
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "Vortex vandal valkyries reveling in reefbound rhapsodies are hidden seaweed shrouds.",
+        "encounter": "",
         "history": []
     },
     {
@@ -260,14 +260,14 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by a(n) urchin's umbrella, hinting at the tales of sea sprites' syndicate.",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Chasm",
         "encounter": "",
         "history": []
     },
@@ -307,8 +307,8 @@
         "chunk": 20,
         "pos": 38,
         "terrain": "O",
-        "features": "Sultry Chasm",
-        "encounter": "",
+        "features": "",
+        "encounter": "Shoals of mackerel exploring eerie abysses are hidden seashell shelters.",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "You discover a(n) kraken's knucklebone concealed by reef rose, hinting at sharks.",
+        "encounter": "",
         "history": []
     },
     {
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) saltwater staff nestled within the saltwater sunrose, surrounded by deep-sea mysteries.",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Nearby, dimensional driftwood dryads are exulting in xebec xanadus around a(n) exalted exocet easel.",
         "history": []
     },
     {
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by iridescent isle inn, a legacy of mystical maritime menders and their desire to help a group of sirens find their lost voices.",
+        "encounter": "",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) glowing grimoire that seem to resonate with tales of barnacle behemoths.",
         "history": []
     },
     {
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path is littered with atlantean force field, a testament to tritons listening to lagoon legends.",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 20,
         "pos": 51,
         "terrain": "O",
-        "features": "Sundrenched Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers suggest tuna shoals are flaunting finned finery kelpie keeps.",
         "history": []
     },
     {
@@ -484,14 +484,14 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "The local tales speak of sunlit seekers that imbibing in inky inlets near isolated inlet illusion.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 20,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Seething Atoll",
         "encounter": "",
         "history": []
     },
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) bracers of defense that seem to resonate with tales of whirlpool witches.",
+        "encounter": "",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) feather token that seem to resonate with tales of nautical nomads.",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) vexing voodoo doll among the saltwater sunrose, exuding roasting seafood on a grill.",
         "history": []
     },
     {
@@ -611,7 +611,7 @@
         "chunk": 20,
         "pos": 76,
         "terrain": "O",
-        "features": "Glassy Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -659,8 +659,8 @@
         "chunk": 20,
         "pos": 82,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sunkissed Islet",
+        "encounter": "A strong scent of fishermen's bait suggests recent activity by pirates.",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of anxiety grips you as you discover a(n) cursed captain's cloak linked to sunken swindlers.",
+        "encounter": "A distant sound suggests galaxy gorgonian protectors are heralding hypnotic harmonies near the eclipsed eel enclave.",
         "history": []
     },
     {
@@ -771,8 +771,8 @@
         "chunk": 20,
         "pos": 96,
         "terrain": "O",
-        "features": "Endless Deep",
-        "encounter": "",
+        "features": "",
+        "encounter": "Stories tell of dimensional driftwood dryads that investigate reports of strange footprints on the beach amidst these surroundings.",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "You're warned of eldritch eel enclave ahead, where seashell seekers often are knaving with kelpie kings.",
+        "encounter": "",
         "history": []
     }
 ]

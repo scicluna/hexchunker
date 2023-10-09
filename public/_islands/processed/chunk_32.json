@@ -3,7 +3,7 @@
         "chunk": 32,
         "pos": 0,
         "terrain": "O",
-        "features": "Gentle Wave",
+        "features": "Turbulent Current",
         "encounter": "",
         "history": []
     },
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel majesty as you spot a(n) flask of endless rum associated with abyssal adventurers.",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 32,
         "pos": 7,
         "terrain": "O",
-        "features": "Sunlit Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -67,8 +67,8 @@
         "chunk": 32,
         "pos": 8,
         "terrain": "O",
-        "features": "Endless Chasm",
-        "encounter": "Starfish sanctums, you sense the presence of vortex vandal valkyries.",
+        "features": "Reflective Riptide",
+        "encounter": "The pearlescent pondweed here seems to have been affected by a(n) abyssal almanac.",
         "history": []
     },
     {
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the oracle's ocean outpost that speak(s) of cuttlefish and their tales.",
+        "encounter": "",
         "history": []
     },
     {
@@ -99,8 +99,8 @@
         "chunk": 32,
         "pos": 12,
         "terrain": "O",
-        "features": "Misty Shoal",
-        "encounter": "Sounds suggest vortex sea valkyries are outwitting oceanic ogres, leaving behind the hidden hull haven.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 32,
         "pos": 18,
         "terrain": "O",
-        "features": "Windy Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Vortex viperfish seers whistling with whirlpool wraiths are hidden saltwater sanctuaries.",
         "history": []
     },
     {
@@ -172,14 +172,14 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "The path reveals seafaring sorceresses that seem to be lilting to lagoon lullabies in order to help a group of naiads restore their spring.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 22,
         "terrain": "O",
-        "features": "Ethereal Seafloor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -196,15 +196,15 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across the forgotten fjord fort that speak(s) of lunar lagoon looters and their tales.",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 25,
         "terrain": "O",
-        "features": "Muted Billow",
-        "encounter": "",
+        "features": "",
+        "encounter": "A trail of pirate's parchment letters leads you to believe krakens were here recently.",
         "history": []
     },
     {
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Marine mystics have left mystical maelstrom elemental eyries.",
         "history": []
     },
     {
@@ -258,16 +258,16 @@
     {
         "chunk": 32,
         "pos": 32,
-        "terrain": "M",
-        "features": "Towering Boulder",
-        "encounter": "You find a(n) cave entrance hidden among the mountain sagebrush, which seems to be lost by blacksmiths.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 33,
         "terrain": "O",
-        "features": "Tumultuous Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -300,14 +300,14 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Beneath behemoth bones, you sense the presence of maritime mystics.",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 38,
         "terrain": "O",
-        "features": "Turbulent Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot aqua acrobats swaying to siren serenades, casting shadows on a(n) orb of time.",
         "history": []
     },
     {
@@ -338,24 +338,24 @@
     {
         "chunk": 32,
         "pos": 42,
-        "terrain": "M",
-        "features": "Dramatic Bluff",
-        "encounter": "Navigating the lakes that reflect one's deepest desires becomes challenging due to sorcerers conversing with the spirits of the snow.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 43,
-        "terrain": "M",
-        "features": "Thrusting Hillside",
-        "encounter": "A sudden wonder grips you as spectral sphinxes brewing a herbal tea buried in the snow.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 44,
         "terrain": "O",
-        "features": "Sunlit Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 32,
         "pos": 45,
         "terrain": "O",
-        "features": "Expansive Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -395,8 +395,8 @@
         "chunk": 32,
         "pos": 49,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Billowing Bight",
+        "encounter": "Ancient stories speak of current cyclopes that once were help a local potter gather clay from the seabed here.",
         "history": []
     },
     {
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "The fantasy fountain vortex bear marks of cavern centaurs that are voyaging with velvet vipers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -412,39 +412,39 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of tritons that once prancing on pirate pontoons in these parts.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 52,
-        "terrain": "M",
-        "features": "Impressive Knoll",
-        "encounter": "Whispers suggest dimensional driftstone dryad druids are crafting mountain jewelry within a grove of ancient trees.",
+        "terrain": "O",
+        "features": "Languid Ridge",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 53,
-        "terrain": "M",
-        "features": "Breathtaking Gorge",
-        "encounter": "The rivers of molten gold ahead are said to be the work of magma sprites that are crafting arrows.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 54,
-        "terrain": "M",
-        "features": "Windswept Apex",
-        "encounter": "You're cautioned about altitude-induced headaches ahead, where crystal-feathered harbingers are known to be dancing atop a floating boulder.",
+        "terrain": "O",
+        "features": "Reflective Seabed",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 55,
-        "terrain": "M",
-        "features": "Snow-capped Summit",
-        "encounter": "The path reveals lunar lava luminous lich lords that seem to be basking in the sun in order to help the mountain that's become a portal to the past.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -500,23 +500,23 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel homesickness as temporal tsunami titans are larking with lagoon leviathans near a(n) potion of giant strength.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 63,
-        "terrain": "M",
-        "features": "Stalwart Arete",
-        "encounter": "Ancient stories speak of heralds that once were discover why the mountains are slowly turning to glass here.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 64,
-        "terrain": "M",
-        "features": "Snow-capped Divide",
-        "encounter": "The dense phoenix feather grass seems to whisper tales of granite gargoyles and their recover a lost painting depicting a mountain scene.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 32,
         "pos": 67,
         "terrain": "O",
-        "features": "Azure Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -564,14 +564,14 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden dread grips you as brine banshees tranquilizing tidal tricksters triton tunnels.",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 71,
         "terrain": "O",
-        "features": "Mysterious Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -586,14 +586,6 @@
     {
         "chunk": 32,
         "pos": 73,
-        "terrain": "M",
-        "features": "Xenolithic Spire",
-        "encounter": "The area is marked by old logging camp, a legacy of symbiotes and their desire to assist in setting up a new base camp.",
-        "history": []
-    },
-    {
-        "chunk": 32,
-        "pos": 74,
         "terrain": "O",
         "features": "",
         "encounter": "",
@@ -601,9 +593,17 @@
     },
     {
         "chunk": 32,
+        "pos": 74,
+        "terrain": "O",
+        "features": "Turbulent Billow",
+        "encounter": "",
+        "history": []
+    },
+    {
+        "chunk": 32,
         "pos": 75,
         "terrain": "O",
-        "features": "Misty Gulf",
+        "features": "Wavy Billow",
         "encounter": "",
         "history": []
     },
@@ -636,14 +636,14 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "The path bears marks of deep-sea dreamers and their interactions with a(n) oracle's ornate ointment.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 80,
         "terrain": "O",
-        "features": "Tide-kissed Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -659,15 +659,15 @@
         "chunk": 32,
         "pos": 82,
         "terrain": "O",
-        "features": "Sunkissed Lagoon",
-        "encounter": "You find a(n) exalted exocet extractor nestled within the jubilant jackfruit seaweed, surrounded by volcanic steam from islets.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 83,
         "terrain": "O",
-        "features": "Calm Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -675,8 +675,8 @@
         "chunk": 32,
         "pos": 84,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Moonlit Brine",
+        "encounter": "A strong scent of mystic rune-etched artifacts leads you towards mystical moonjellies.",
         "history": []
     },
     {
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "The triton's truffle rustles as eldritch water wraiths are chasing celestial currents behind them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You sense wonder as you discover a(n) opal of the iceshaper linked to moray eels.",
         "history": []
     },
     {
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "You see the gilded gorges' gateway suggesting past activities of stellar sea sprite alchemists.",
+        "encounter": "",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "You're warned of magnetic storm ahead, where oceanic orators often are commiserating with coral conjurers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is marked by merfolk's abandoned temple, a testament to brine basilisks that once rescuing reefbound revenants.",
+        "encounter": "",
         "history": []
     },
     {
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant sound suggests marine medusas are luring leviathan lords near the whirlpool's whispering well.",
+        "encounter": "",
         "history": []
     },
     {
@@ -772,14 +772,14 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of current cyclopes that challenging the churning chaos in this region.",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 97,
         "terrain": "O",
-        "features": "Dazzling Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },

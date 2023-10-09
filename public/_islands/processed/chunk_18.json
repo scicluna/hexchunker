@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You're captivated by a(n) siren's sundial among the kelpie's knotweed, exuding whale's breath.",
+        "encounter": "",
         "history": []
     },
     {
@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant sound suggests neptune's nymphs are befriending barnacle-bound beasts near the merfolk's abandoned temple.",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales suggest sea lions once heralding harbor hymns in this vicinity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -68,14 +68,14 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel reverence as current menders are gliding through glowing groves near a(n) poseidon's trident.",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Fjord",
         "encounter": "",
         "history": []
     },
@@ -83,8 +83,8 @@
         "chunk": 18,
         "pos": 10,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Silvery Vortex",
+        "encounter": "The area is filled with kelp forest, providing cover for triton's twilight envoys.",
         "history": []
     },
     {
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Barnacle bastions echo with tales of pearl protectors and their mystery.",
         "history": []
     },
     {
@@ -220,14 +220,14 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by rocky cliff moss, leading to a site with dilapidated dockyard of starlit selkies.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Cerulean Inlet",
         "encounter": "",
         "history": []
     },
@@ -252,14 +252,14 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is blocked by harmonic haunted hollow, guarded by oceanic outcasts.",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Seamount",
         "encounter": "",
         "history": []
     },
@@ -283,7 +283,7 @@
         "chunk": 18,
         "pos": 35,
         "terrain": "O",
-        "features": "Pacific Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -324,7 +324,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "You overhear tales of seafloor scholars that traversing treacherous tides in this region.",
+        "encounter": "",
         "history": []
     },
     {
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "You overhear tales of abyssal artists that rescuing reefbound revenants from oceanic obelisks.",
+        "encounter": "",
         "history": []
     },
     {
@@ -347,7 +347,7 @@
         "chunk": 18,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Coastal Trench",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 18,
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Dark Seamount",
         "encounter": "",
         "history": []
     },
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel anxiety as you spot a(n) saltwater staff associated with deep-sea djinns.",
+        "encounter": "",
         "history": []
     },
     {
@@ -411,8 +411,8 @@
         "chunk": 18,
         "pos": 51,
         "terrain": "O",
-        "features": "Tempestuous Cove",
-        "encounter": "You discover a(n) kite shield of reflection concealed by kraken kudzu, hinting at abyssal leviathans.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales suggest wave walkers once quixotically questing in quays in this vicinity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -452,7 +452,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) pirate's pocket watch, which seem(s) to have ties with vortex viperfish seers.",
         "history": []
     },
     {
@@ -468,7 +468,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about deep-sea diamond dazzle ahead, where sea shadows are known to be kneeling in kelpie kingdoms.",
         "history": []
     },
     {
@@ -476,7 +476,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "You're cautioned about narwhals that are known to kissing kelpie kin near sudden water spout.",
+        "encounter": "You're drawn to a(n) voyager's velvet veil, which seem to have a connection with quantum quillback sentinels.",
         "history": []
     },
     {
@@ -499,7 +499,7 @@
         "chunk": 18,
         "pos": 62,
         "terrain": "O",
-        "features": "Serene Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -507,7 +507,7 @@
         "chunk": 18,
         "pos": 63,
         "terrain": "O",
-        "features": "Hushed Wave",
+        "features": "Salty Cove",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 18,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Golden Trough",
         "encounter": "",
         "history": []
     },
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant sound suggests brinebound beholders are illuminating inky inlets near the yawning yacht yard.",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by a(n) lagoon's loom, hinting at the tales of galaxy gorgonian protectors.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the concealed coral cove, a legacy of mermaids and their tales.",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Rumors speak of astral ocean assassins that investigate reports of strange footprints on the beach in this vicinity.",
         "history": []
     },
     {
@@ -707,7 +707,7 @@
         "chunk": 18,
         "pos": 88,
         "terrain": "O",
-        "features": "Vibrant Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -716,14 +716,14 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) abyssal amulet by a peculiar sense of anxiety.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 18,
         "pos": 90,
         "terrain": "O",
-        "features": "Deep Canyon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -732,7 +732,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) quill of the scribe hidden among the coral clover, which seems to be lost by coral colonies.",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 18,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Sunkissed Islet",
         "encounter": "",
         "history": []
     },
@@ -763,7 +763,7 @@
         "chunk": 18,
         "pos": 95,
         "terrain": "O",
-        "features": "Sunkissed Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -795,7 +795,7 @@
         "chunk": 18,
         "pos": 99,
         "terrain": "O",
-        "features": "Serene Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     }

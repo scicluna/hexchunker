@@ -12,14 +12,14 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers of tidal timekeepers parleying with pelagic pixies can be heard mystical mangroves.",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 2,
         "terrain": "O",
-        "features": "Boundless Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -35,7 +35,7 @@
         "chunk": 86,
         "pos": 4,
         "terrain": "O",
-        "features": "Endless Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -43,8 +43,8 @@
         "chunk": 86,
         "pos": 5,
         "terrain": "O",
-        "features": "",
-        "encounter": "You sense loneliness as you discover a(n) seaglass amulet linked to starlit sea snail diviners.",
+        "features": "Dazzling Wave",
+        "encounter": "",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 86,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Hushed Inlet",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 86,
         "pos": 9,
         "terrain": "O",
-        "features": "Sprawling Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -98,9 +98,9 @@
     {
         "chunk": 86,
         "pos": 12,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Inviting Declivity",
+        "encounter": "The surroundings bear crumbled leviathan's skeleton, suggesting tales of treant guardians.",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 86,
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Channel",
         "encounter": "",
         "history": []
     },
@@ -178,17 +178,17 @@
     {
         "chunk": 86,
         "pos": 22,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Enchanted Declivity",
+        "encounter": "Legends tell of hillcrest archers that help a village find the hill of whispers, where the wind shares secrets amidst these landslides.",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Mystical Slope",
+        "encounter": "The alpine forget-me-not rustles as mountain goats are studying the weather patterns behind them.",
         "history": []
     },
     {
@@ -211,8 +211,8 @@
         "chunk": 86,
         "pos": 26,
         "terrain": "O",
-        "features": "Blue Estuary",
-        "encounter": "You find a(n) pirate's pipe that seem to resonate with tales of sunfish.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 86,
         "pos": 28,
         "terrain": "O",
-        "features": "Misty Ripple",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -266,9 +266,9 @@
     {
         "chunk": 86,
         "pos": 33,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Grand Bluff",
+        "encounter": "A trail of dusty trails suggests that hermits were here recently.",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales suggest barnacle behemoths once wrestling with wave wraiths in this vicinity.",
         "history": []
     },
     {
@@ -356,15 +356,15 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant sound suggests maelstrom mages are whirling with wave-woven wisps near the eldritch ice caverns.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 45,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Deep-sea Thermocline",
+        "encounter": "You're drawn to a(n) orb of storm control by an overwhelming sense of contentment.",
         "history": []
     },
     {
@@ -380,14 +380,14 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "You're warned of dolphin's playful whirlpool ahead, where stellar seagrass specters often are outfoxing oceanic oracles.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 48,
         "terrain": "O",
-        "features": "Windy Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -412,14 +412,14 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Your surroundings become dense with quartz-encrusted quillwort, perfect for coral colonies whisking with wave witches.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Clear Ocean",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the dolphin's daisy, a(n) nereid's napkin catch(es) your eye, exuding a sense of gratitude.",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of driftwood suggests that aqua elementals were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -499,7 +499,7 @@
         "chunk": 86,
         "pos": 62,
         "terrain": "O",
-        "features": "Expansive Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -507,7 +507,7 @@
         "chunk": 86,
         "pos": 63,
         "terrain": "O",
-        "features": "Sundrenched Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -515,23 +515,23 @@
         "chunk": 86,
         "pos": 64,
         "terrain": "O",
-        "features": "Calm Reef",
-        "encounter": "",
+        "features": "",
+        "encounter": "You feel tranquility as you spot a(n) mystic mariner's mace associated with barnacle behemoths.",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Kaleidoscopic Outcrop",
+        "encounter": "Legends tell of lynxes that assist a village in setting up a new quarry amidst these rivers that flow with melodies.",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Crashing Brine",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 86,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Twinkling Basin",
         "encounter": "",
         "history": []
     },
@@ -547,7 +547,7 @@
         "chunk": 86,
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Hypnotic Tide",
         "encounter": "",
         "history": []
     },
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of abyssal chasm left by sea shadows after they had recover a stolen map leading to a hidden oceanic realm.",
         "history": []
     },
     {
@@ -595,7 +595,7 @@
         "chunk": 86,
         "pos": 74,
         "terrain": "O",
-        "features": "Murky Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -603,7 +603,7 @@
         "chunk": 86,
         "pos": 75,
         "terrain": "O",
-        "features": "Mysterious Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey is interrupted by obscured ocean opening, with traces of luminous lanternfish lords nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -675,8 +675,8 @@
         "chunk": 86,
         "pos": 84,
         "terrain": "O",
-        "features": "Pristine Riptide",
-        "encounter": "",
+        "features": "",
+        "encounter": "The luminous algae hides a(n) abyssal abacus, which are said to be linked to temporal guardians of the deep and their wanderlust.You notice temporal guardians of the deep that seem to be twirling in tidal twisters.",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ocean oracle oratories, you hear sea turtles kindling kelpie kinships, accompanied by beach bonfire.",
         "history": []
     },
     {
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant sound suggests oceanic oathkeepers are quixotically questing for quahogs near the seashell citadel.",
         "history": []
     },
     {
@@ -771,8 +771,8 @@
         "chunk": 86,
         "pos": 96,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon the vanished voyager's villa that hint at pufferfish and their quest to help a local beachcomber find rare items.",
+        "features": "Tranquil Swell",
+        "encounter": "",
         "history": []
     },
     {
@@ -787,7 +787,7 @@
         "chunk": 86,
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Deep-sea Passage",
         "encounter": "",
         "history": []
     },

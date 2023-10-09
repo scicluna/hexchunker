@@ -14,7 +14,6 @@ encounter_templates = [
     "The ground is littered with the [remnants], and you can smell [smells] coming from a nearby [hidingplaces].",
     "As you proceed, [entities] suddenly [actions] from behind a(n) [objects].",
     "You hear the distant sound of [entities] [actions].",
-    "The [vegetation] here seems to have been affected by a(n) [objects].",
     "[entities] have left [remnants] [hidingplaces].",
     "A strong scent of [smells] leads you towards [entities].",
     "You feel [feelings] as [entities] are [actions] near a(n) [objects].",
@@ -26,7 +25,7 @@ encounter_templates = [
     "You spot [entities] [actions], casting shadows on a(n) [objects].",
     "The [vegetation] rustles as [entities] are [actions] behind them.",
     "A sudden [smells] alerts you to the presence of [entities].",
-    "Your heart [feelings] when you see [entities] near a(n) [objects].",
+    "Your feel [feelings] when you see [entities] near a(n) [objects].",
     "Ancient stories speak of [entities] that once were [quests] here.",
     "Navigating the [obstacles] becomes challenging due to [entities] [actions].",
     "You discover a(n) [objects] concealed by [vegetation], hinting at [entities].",
@@ -55,7 +54,7 @@ encounter_templates = [
     "You find a(n) [objects] nestled within the [vegetation], surrounded by [smells].",
     "[hidingplaces] echo with tales of [entities] and their [feelings].",
     "You're intrigued by [remnants] that speak of [entities] and their [quests].",
-    "The path is littered with [obstacles], a testament to [entities] that once [actions].",
+    "The path is littered with [obstacles], a testament to [entities] [actions].",
     "Among the [vegetation], a(n) [objects] catch(es) your eye, exuding a sense of [feelings].",
     "You overhear tales of [entities] that [actions] from [hidingplaces].",
     "The area is marked by [remnants], a legacy of [entities] and their desire to [quests].",
@@ -86,7 +85,7 @@ encounter_templates = [
     "[hidingplaces], you sense the presence of [entities].",
     "You stumble upon the [remnants] that hints at the tales of [entities].",
     "The path bears marks of [entities] and their interactions with a(n) [objects].",
-    "You find a(n) [objects] that seem out of place, exuding a sense of [feelings].",
+    "You find a(n) [objects] that seems out of place, exuding a sense of [feelings].",
     "Echoes of [entities] resonate, accompanied by distinct [smells].",
     "You come across the [remnants] that speak(s) of [entities] and their tales.",
     "The surroundings bear the mark of [entities]. They are [actions].",
@@ -97,7 +96,7 @@ encounter_templates = [
     "The surroundings hold (a) [objects], which (are/is) said to be linked to [entities].",
     "You overhear tales of [entities] that [actions] in this region.",
     "The area is marked by a(n) [objects], hinting at the tales of [entities].",
-    "You're intrigued by [remnants] that bear the mark of [entities].",
+    "You're intrigued by the [remnants] that bear the mark of [entities].",
     "The path is littered with signs of [entities] and their interactions with a(n) [objects].",
     "You sense [feelings] as you discover a(n) [objects] linked to [entities].",
     "Echoes suggest [entities] are [actions] [hidingplaces].",
@@ -106,7 +105,6 @@ encounter_templates = [
     "Tales suggest [entities] once [actions] in this vicinity.",
     "The area is marked by [remnants], a testament to [entities] and their tales.",
     "You're filled with [feelings] upon discovering a(n) [objects] linked to [entities].",
-    "[hidingplaces], tales of [entities] seem to resonate.",
     "You come across a(n) [objects] that bear the mark of [entities].",
 ]
 
@@ -6528,11 +6526,10 @@ m_vegetation = [
     "Glowing Alpine Clover",
     "Whispering Pine",
     "Frozen Fire Flower",
-    "Celestial Snowdrop"
 ]
 
 m_obstacles = [
-       "Steep incline",
+    "Steep incline",
     "Rockslide",
     "Avalanche",
     "Thin air (altitude sickness)",

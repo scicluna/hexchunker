@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear the distant sound of eldritch eel summoners harmonizing in haunted harbors.",
+        "encounter": "",
         "history": []
     },
     {
@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "Nearby, baleen whales are quixotically questing for quahogs around a(n) periapt of wound closure.",
+        "encounter": "",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "The kelpie's knotweed rustles as deep-sea dreamers are negotiating with nautical necromancers behind them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 75,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Sound",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 75,
         "pos": 9,
         "terrain": "O",
-        "features": "Endless Canyon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "The path is littered with fantasy fountain vortex, a testament to seagrass storytellers that once uplifting underwater urchins.",
+        "encounter": "",
         "history": []
     },
     {
@@ -131,8 +131,8 @@
         "chunk": 75,
         "pos": 16,
         "terrain": "O",
-        "features": "Misty Surf",
-        "encounter": "",
+        "features": "",
+        "encounter": "A trail of coral reef bloom leads you to believe void drifters were here recently.",
         "history": []
     },
     {
@@ -155,7 +155,7 @@
         "chunk": 75,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Trench",
         "encounter": "",
         "history": []
     },
@@ -196,14 +196,14 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "As you proceed, walruses suddenly dazzling deep-sea dancers from behind a(n) quartz quadrant.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 75,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Fathomless Ripple",
         "encounter": "",
         "history": []
     },
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey is interrupted by sudden water spout, with traces of grotto gorgons nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -220,14 +220,14 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The atlantean anemone here seems to have been affected by a(n) island incense burner.",
         "history": []
     },
     {
         "chunk": 75,
         "pos": 28,
         "terrain": "O",
-        "features": "Calm Riptide",
+        "features": "Vast Strait",
         "encounter": "",
         "history": []
     },
@@ -235,7 +235,7 @@
         "chunk": 75,
         "pos": 29,
         "terrain": "O",
-        "features": "Tempestuous Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -243,7 +243,7 @@
         "chunk": 75,
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Vortex",
         "encounter": "",
         "history": []
     },
@@ -252,7 +252,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by sea sprite spiral, with signs of barracudas nearby.",
         "history": []
     },
     {
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of temporal guardians of the deep that once seek out the lost ship of the deserters in this region.",
         "history": []
     },
     {
@@ -291,7 +291,7 @@
         "chunk": 75,
         "pos": 36,
         "terrain": "O",
-        "features": "Calm Undertow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -299,8 +299,8 @@
         "chunk": 75,
         "pos": 37,
         "terrain": "O",
-        "features": "Boundless Gulf",
-        "encounter": "Among the zephyr's zinnia, a(n) jug of alchemy catch(es) your eye, exuding a sense of inspiration.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel serenity as nautical necromancers are exploring eerie abysses near a(n) ivory spyglass.",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 75,
         "pos": 41,
         "terrain": "O",
-        "features": "Deep-sea Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -340,15 +340,15 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales suggest sea sprites' syndicate once rescuing reefbound revenants in this vicinity.",
         "history": []
     },
     {
         "chunk": 75,
         "pos": 43,
         "terrain": "O",
-        "features": "",
-        "encounter": "A sudden palm leaf's greenness alerts you to the presence of seahorses.",
+        "features": "Twinkling Current",
+        "encounter": "",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by a(n) kelpie's kettlebell, hinting at the tales of cursed captains.",
         "history": []
     },
     {
@@ -507,7 +507,7 @@
         "chunk": 75,
         "pos": 63,
         "terrain": "O",
-        "features": "Shadowy Shoal",
+        "features": "Vast Islet",
         "encounter": "",
         "history": []
     },
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is marked by barnacle bastion bridge, a testament to brine banshees that once harmonizing in haunted harbors.",
         "history": []
     },
     {
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground bears harmonic hollow harbor from past encounters with kelpies.",
+        "encounter": "You stumble upon the tumbledown tidal tower that hints at the tales of mystic mollusk monks.",
         "history": []
     },
     {
@@ -580,14 +580,14 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "Celestial seahorse guardians have left oceanic obelisk triton tunnels.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 75,
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Fjord",
         "encounter": "",
         "history": []
     },
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "The path bears marks of sapphire sylphs and their interactions with a(n) leviathan's locket.",
+        "encounter": "",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You discover a(n) ethereal eyepiece that seems out of place, hinting at deep-sea djinns.",
         "history": []
     },
     {
@@ -651,7 +651,7 @@
         "chunk": 75,
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Crashing Tide",
         "encounter": "",
         "history": []
     },
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot oceanic griffins embracing eldritch epiphanies, casting shadows on a(n) quartz quadrant.",
         "history": []
     },
     {
@@ -691,8 +691,8 @@
         "chunk": 75,
         "pos": 86,
         "terrain": "O",
-        "features": "Tempestuous Undertow",
-        "encounter": "Wave whisperers mimicking marine muses are hidden seashell shelters.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -707,7 +707,7 @@
         "chunk": 75,
         "pos": 88,
         "terrain": "O",
-        "features": "Sparkling Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -723,7 +723,7 @@
         "chunk": 75,
         "pos": 90,
         "terrain": "O",
-        "features": "Vibrant Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -748,14 +748,14 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey is interrupted by tidal moon pull, with signs of nebulous nautilus nomads nearby.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 75,
         "pos": 94,
         "terrain": "O",
-        "features": "Vast Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "The path is littered with signs of coral carvers and their interactions with a(n) questing quill.",
+        "encounter": "",
         "history": []
     },
     {

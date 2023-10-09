@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by iridescent ice patch, with traces of temporal guardians of the deep nearby.",
         "history": []
     },
     {
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) knot of binding nestled within the ethereal eelgrass, surrounded by reef's mineral mosaic.",
+        "encounter": "",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "Glowing grottoes, tales of dolphins seem to resonate.",
+        "encounter": "",
         "history": []
     },
     {
@@ -99,7 +99,7 @@
         "chunk": 11,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Clear Vortex",
         "encounter": "",
         "history": []
     },
@@ -107,7 +107,7 @@
         "chunk": 11,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Restless Vortex",
         "encounter": "",
         "history": []
     },
@@ -139,7 +139,7 @@
         "chunk": 11,
         "pos": 17,
         "terrain": "O",
-        "features": "Lush Eddy",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -163,7 +163,7 @@
         "chunk": 11,
         "pos": 20,
         "terrain": "O",
-        "features": "Fathomless Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -172,15 +172,15 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "There's a legend about brine buccaneers that solve the riddle of the singing seashells in this area.",
         "history": []
     },
     {
         "chunk": 11,
         "pos": 22,
         "terrain": "O",
-        "features": "",
-        "encounter": "You come across a(n) yarn of storytelling that bear the mark of sea dragons.",
+        "features": "Pearlescent Canyon",
+        "encounter": "",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 11,
         "pos": 25,
         "terrain": "O",
-        "features": "Silvery Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -275,7 +275,7 @@
         "chunk": 11,
         "pos": 34,
         "terrain": "O",
-        "features": "Moonlit Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -300,14 +300,14 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "As you proceed, sea urchins suddenly nurturing nautical nymphs from behind a(n) periapt of wound closure.",
         "history": []
     },
     {
         "chunk": 11,
         "pos": 38,
         "terrain": "O",
-        "features": "Billowing Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -315,7 +315,7 @@
         "chunk": 11,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -331,16 +331,16 @@
         "chunk": 11,
         "pos": 41,
         "terrain": "O",
-        "features": "Golden Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 11,
         "pos": 42,
-        "terrain": "M",
-        "features": "Kingly Ridge",
-        "encounter": "Temporal tectonic titans have left decaying mountain archway atop a secluded peak.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the mystical maelstrom that hint at geyser spirits and their quest to investigate the sudden change in sea currents.",
         "history": []
     },
     {
@@ -363,8 +363,8 @@
         "chunk": 11,
         "pos": 45,
         "terrain": "O",
-        "features": "",
-        "encounter": "The surroundings bear the mark of seafloor scholars. They are mimicking marine muses.",
+        "features": "Bubbling Riptide",
+        "encounter": "Sounds of benevolent brine beasts yearning for yawning yonders emerge from jellyfish jungles.",
         "history": []
     },
     {
@@ -387,7 +387,7 @@
         "chunk": 11,
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Delta",
         "encounter": "",
         "history": []
     },
@@ -395,7 +395,7 @@
         "chunk": 11,
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Seething Fathom",
         "encounter": "",
         "history": []
     },
@@ -418,25 +418,25 @@
     {
         "chunk": 11,
         "pos": 52,
-        "terrain": "M",
-        "features": "Whispering Col",
-        "encounter": "A sudden scent of mountain parsley alerts you to the presence of solar stone sirens.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "You come across the overgrown ocean observatory that speak(s) of nebulous nighttide enchanters and their tales.",
         "history": []
     },
     {
         "chunk": 11,
         "pos": 53,
-        "terrain": "M",
-        "features": "Picturesque Range",
-        "encounter": "The celestial snowdrop hides a(n) quartz of elemental resistance, which are said to be linked to magma golems and their caution.You notice magma golems that seem to be making mountain art.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 11,
         "pos": 54,
-        "terrain": "M",
-        "features": "Stalwart Summit",
-        "encounter": "You come across a(n) talisman of timeless terrain that bear the mark of spectral salamanders.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -444,7 +444,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) pearl of power by an overwhelming sense of connectedness.",
         "history": []
     },
     {
@@ -467,8 +467,8 @@
         "chunk": 11,
         "pos": 58,
         "terrain": "O",
-        "features": "Vibrant Channel",
-        "encounter": "",
+        "features": "",
+        "encounter": "You're cautioned about guarded ghostly grotto ahead, where eldritch estuary elves are known to be kindling kraken kinships.",
         "history": []
     },
     {
@@ -491,7 +491,7 @@
         "chunk": 11,
         "pos": 61,
         "terrain": "O",
-        "features": "Aquamarine Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -500,23 +500,23 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) harbor's helm by an overwhelming sense of desire to explore.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 11,
         "pos": 63,
-        "terrain": "M",
-        "features": "Steep Dell",
-        "encounter": "You overhear tales of mourners that training a mountain dog in this region.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 11,
         "pos": 64,
-        "terrain": "M",
-        "features": "Zealous Cirque",
-        "encounter": "Whispers suggest granite gryphons are gathering the sighs of the universe inside a bear's den.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel calmness as you spot a(n) tidal talisman associated with water elementals.",
+        "encounter": "",
         "history": []
     },
     {
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of marine maelstrom mages that whisking with wave witches from elysian estuaries.",
         "history": []
     },
     {
@@ -564,15 +564,15 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes suggest kelp krakens are heralding harbor hymns glistening groves.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 11,
         "pos": 71,
         "terrain": "O",
-        "features": "",
-        "encounter": "You're captivated by a(n) pelagic pocketbook among the yawning yarrow, exuding deep-sea mysteries.",
+        "features": "Aquamarine Billow",
+        "encounter": "",
         "history": []
     },
     {
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is marked by hidden harbor hideaway, a testament to lagoon lorekeepers that once yearning for yonder yachts.",
+        "encounter": "",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The glowing gorgonian here seems to have been affected by a(n) siren's silk scarf.",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of mystical mermaid perfumes leads you to believe eldritch water wraiths were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -659,8 +659,8 @@
         "chunk": 11,
         "pos": 82,
         "terrain": "O",
-        "features": "Teeming Current",
-        "encounter": "You find a(n) staff of the magi that seem to resonate with tales of mystical maritime menders.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground bears forgotten fjord fort from past encounters with temporal tsunami titans.",
+        "encounter": "",
         "history": []
     },
     {
@@ -699,7 +699,7 @@
         "chunk": 11,
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Frothy Channel",
         "encounter": "",
         "history": []
     },
@@ -707,7 +707,7 @@
         "chunk": 11,
         "pos": 88,
         "terrain": "O",
-        "features": "Marine Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 11,
         "pos": 89,
         "terrain": "O",
-        "features": "Reflective Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -739,8 +739,8 @@
         "chunk": 11,
         "pos": 92,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Turbid Strait",
+        "encounter": "Tidal troubadours wrestling with wave wraiths are hidden mystic maelstroms.",
         "history": []
     },
     {
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "The submerged ruins ahead are said to be the work of ocean oracles that are harmonizing in haunted harbors.",
+        "encounter": "You find a(n) elixir of health that seem to resonate with tales of deep-sea dryads.",
         "history": []
     },
     {
@@ -763,7 +763,7 @@
         "chunk": 11,
         "pos": 95,
         "terrain": "O",
-        "features": "Sunkissed Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -771,7 +771,7 @@
         "chunk": 11,
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Pacific Tide",
         "encounter": "",
         "history": []
     },
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Isle of illusions echo with tales of brine basilisks and their desolation.",
+        "encounter": "",
         "history": []
     },
     {
