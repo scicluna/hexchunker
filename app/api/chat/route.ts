@@ -13,6 +13,9 @@ const TEMPLATE = `
 Rules:
 {rules}
 
+Meta Narrative:
+{meta_narrative}
+
 Adjacent Hexes:
 {adjacent}
 
@@ -47,8 +50,11 @@ export async function POST(req: NextRequest) {
     please try your best to weave an interesting narrative based on the current Hex's information combined 
     with the adjacent Hexes' information (hexes have pointy end on top). Be descriptive and assertive.`
 
+    let metaNarrative = 'This chain of islands was once a continent of magical power and splendor, rendered apart by a grand catastrophy.'
+
     const stream = await chain.stream({
         rules: ruleSet,
+        meta_narrative: metaNarrative,
         adjacent: adjacent,
         details: details,
         chat_history: formattedPreviousMessages.join('\n'),
