@@ -11,8 +11,8 @@
         "chunk": 64,
         "pos": 1,
         "terrain": "O",
-        "features": "",
-        "encounter": "Pirates gives you a quest to deliver a mysterious message to a reclusive island hermit.In your path lies a beautifully crafted coral tiara surrounded by thick beds of eelgrass.",
+        "features": "Teeming Swell",
+        "encounter": "",
         "history": []
     },
     {
@@ -28,14 +28,14 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the harbor of the haunted, a legacy of luminous lurkers and their tales.",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Undertow",
         "encounter": "",
         "history": []
     },
@@ -60,7 +60,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of saltwater taffy from boardwalks leads you to believe astral ocean assassins were here recently.",
         "history": []
     },
     {
@@ -75,8 +75,8 @@
         "chunk": 64,
         "pos": 9,
         "terrain": "O",
-        "features": "Soothing Delta",
-        "encounter": "Every step forward is met with the increasing intensity of scent of damp, ancient sea scrolls, suggesting the presence of sunken treasure guardians.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -107,7 +107,7 @@
         "chunk": 64,
         "pos": 13,
         "terrain": "O",
-        "features": "Tempestuous Spring",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -115,7 +115,7 @@
         "chunk": 64,
         "pos": 14,
         "terrain": "O",
-        "features": "Untamed Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -139,7 +139,7 @@
         "chunk": 64,
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Narrows",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft rhythmic crashing of waves on rocky cliffs. As you follow, you encounter sunken treasure guardians in the midst of engaging in a sea battle with rival pirates.",
+        "encounter": "",
         "history": []
     },
     {
@@ -180,7 +180,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with ethereal eelgrass, providing cover for seafaring sorceresses.",
         "history": []
     },
     {
@@ -195,7 +195,7 @@
         "chunk": 64,
         "pos": 24,
         "terrain": "O",
-        "features": "Moonlit Haven",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) orb of storm control that seem out of place, exuding a sense of anxiety.",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 64,
         "pos": 28,
         "terrain": "O",
-        "features": "Alluring Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -259,7 +259,7 @@
         "chunk": 64,
         "pos": 32,
         "terrain": "O",
-        "features": "Reflective Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -267,7 +267,7 @@
         "chunk": 64,
         "pos": 33,
         "terrain": "O",
-        "features": "Murmuring Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -315,7 +315,7 @@
         "chunk": 64,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Shadowy Eddy",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 64,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Estuary",
         "encounter": "",
         "history": []
     },
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The zephyr's zinnia here seems to have been affected by a(n) quixotic quiver.",
         "history": []
     },
     {
@@ -427,7 +427,7 @@
         "chunk": 64,
         "pos": 53,
         "terrain": "O",
-        "features": "Expansive Edifice",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -451,7 +451,7 @@
         "chunk": 64,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Enigmatic Seafloor",
         "encounter": "",
         "history": []
     },
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a ship's sextant for celestial navigation that could be useful in your quest to retrieve a rare and magical seashell for a powerful sea witch.. But it's guarded by mermen.",
+        "encounter": "You're filled with serenity upon discovering a(n) moonlit medallion linked to star-soaked sandbar warlocks.",
         "history": []
     },
     {
@@ -515,7 +515,7 @@
         "chunk": 64,
         "pos": 64,
         "terrain": "O",
-        "features": "Abyssal Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers of grotto gorgons quixotically questing for quahogs can be heard kelpie's kitchens.",
         "history": []
     },
     {
@@ -556,14 +556,14 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange a sunken rowboat with a hole in its hull lie scattered, painting a tale of octopus oracles that solving a riddle from an ancient sea scroll.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Ominous Seamount",
         "encounter": "",
         "history": []
     },
@@ -587,8 +587,8 @@
         "chunk": 64,
         "pos": 73,
         "terrain": "O",
-        "features": "Timeless Upwelling",
-        "encounter": "The rockweed rustles, revealing underwater nomads that are trading with passing merchant ships.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -611,7 +611,7 @@
         "chunk": 64,
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Dark Current",
         "encounter": "",
         "history": []
     },
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Island hermit gives you a quest to solve the mystery of a cursed shipwreck and its crew's fate.In your path lies a collection of seashells with hidden messages surrounded by gorgonian sea fans.",
+        "encounter": "You come across the overgrown ocean observatory that speak(s) of dimensional dolphin prophets and their tales.",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of scent of damp driftwood. You feel a sense of bewilderment.",
+        "encounter": "",
         "history": []
     },
     {
@@ -707,7 +707,7 @@
         "chunk": 64,
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Frothy Tide",
         "encounter": "",
         "history": []
     },
@@ -756,14 +756,14 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) wave-washed wax seal among the underwater umber fern, exuding shipwreck moss.",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Ocean",
         "encounter": "",
         "history": []
     },
@@ -771,7 +771,7 @@
         "chunk": 64,
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Wave",
         "encounter": "",
         "history": []
     },
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange tattered fragments of a sunken pirate flag lie scattered, painting a tale of turtle island shamans that summoning a tidal wave to defend their territory.",
+        "encounter": "",
         "history": []
     },
     {

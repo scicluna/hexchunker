@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear coral castle's courtyard, suggesting tales of coral magicians.",
         "history": []
     },
     {
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense crinoids on the seafloor, you discover a bottle of rare and potent mermaid tears. You can't shake the feeling of hope.",
+        "encounter": "",
         "history": []
     },
     {
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Pearl protectors wrestling with wave wraiths are hidden seaweed shrouds.",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 45,
         "pos": 7,
         "terrain": "O",
-        "features": "Inviting Fjord",
+        "features": "Twinkling Fathom",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 45,
         "pos": 9,
         "terrain": "O",
-        "features": "Untamed Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -83,7 +83,7 @@
         "chunk": 45,
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Estuary",
         "encounter": "",
         "history": []
     },
@@ -107,7 +107,7 @@
         "chunk": 45,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Vents",
         "encounter": "",
         "history": []
     },
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of hissing of foam as waves recede is accompanied by the distinct aroma of musk of a sea lion colony. It seems sea anemone sorcerers are involved in exploring the depths in search of a sunken city.",
+        "encounter": "",
         "history": []
     },
     {
@@ -139,7 +139,7 @@
         "chunk": 45,
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Shadowy Wave",
         "encounter": "",
         "history": []
     },
@@ -163,7 +163,7 @@
         "chunk": 45,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Wavy Billow",
         "encounter": "",
         "history": []
     },
@@ -171,7 +171,7 @@
         "chunk": 45,
         "pos": 21,
         "terrain": "O",
-        "features": "Murmuring Haven",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -187,8 +187,8 @@
         "chunk": 45,
         "pos": 23,
         "terrain": "O",
-        "features": "",
-        "encounter": "With help a shipwrecked sailor construct a signal fire to call for rescue. On your mind, the sudden appearance of a dense fog reducing visibility accompanied by crackling of underwater lava flows becomes a challenging diversion.",
+        "features": "Tropical Canyon",
+        "encounter": "",
         "history": []
     },
     {
@@ -227,8 +227,8 @@
         "chunk": 45,
         "pos": 28,
         "terrain": "O",
-        "features": "",
-        "encounter": "A trail of a sunken chest with its lock rusted shut suggests that shipwreck goblins have passed through here on a quest to uncover the secrets of a mysterious, ship-swallowing whirlpool..",
+        "features": "Timeless Riptide",
+        "encounter": "",
         "history": []
     },
     {
@@ -250,17 +250,17 @@
     {
         "chunk": 45,
         "pos": 31,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Nurtured Pinnacle",
+        "encounter": "A local offers you a quest to help a mountain community with farming techniques involving ash wraiths.",
         "history": []
     },
     {
         "chunk": 45,
         "pos": 32,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Silent Arete",
+        "encounter": "You're guided by scent of mountain cranberries, leading to a site with decaying mountain of eternal spring of stone spirits.",
         "history": []
     },
     {
@@ -283,7 +283,7 @@
         "chunk": 45,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Lush Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -307,7 +307,7 @@
         "chunk": 45,
         "pos": 38,
         "terrain": "O",
-        "features": "Secluded Mangrove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -323,7 +323,7 @@
         "chunk": 45,
         "pos": 40,
         "terrain": "O",
-        "features": "Breathtaking Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -338,16 +338,16 @@
     {
         "chunk": 45,
         "pos": 42,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Dominant Blade",
+        "encounter": "Rumors speak of archers that retrieve water from the fountain of eternal frost in this vicinity.",
         "history": []
     },
     {
         "chunk": 45,
         "pos": 43,
         "terrain": "O",
-        "features": "Rippling Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 45,
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Reef",
         "encounter": "",
         "history": []
     },
@@ -371,7 +371,7 @@
         "chunk": 45,
         "pos": 46,
         "terrain": "O",
-        "features": "Deep Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a treacherous, narrow strait with strong currents, your attention is caught by churning of water as a whirlpool forms. Upon investigating, you discover a sunken shipwreck beneath a coral reef with a bejeweled trident inside.",
+        "encounter": "",
         "history": []
     },
     {
@@ -426,17 +426,17 @@
     {
         "chunk": 45,
         "pos": 53,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Heavenly Range",
+        "encounter": "Tales speak of old quarry site left by minstrels after they had assist in the relocation of a mountain village.",
         "history": []
     },
     {
         "chunk": 45,
         "pos": 54,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Kingly Gorge",
+        "encounter": "The path bears marks of aboleths and their interactions with a(n) keoghtom's ointment.",
         "history": []
     },
     {
@@ -476,14 +476,14 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about exalted expanse entrapment ahead, where luminous lurkers are known to be flirting with fathomless faeries.",
         "history": []
     },
     {
         "chunk": 45,
         "pos": 60,
         "terrain": "O",
-        "features": "Peaceful Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by illuminated inlet inn, a legacy of sea dragons and their desire to protect an underwater harvest festival.",
         "history": []
     },
     {
@@ -514,17 +514,17 @@
     {
         "chunk": 45,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Mighty Ridge",
+        "encounter": "You stumble upon the abandoned lumber mill.",
         "history": []
     },
     {
         "chunk": 45,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Boundless Arete",
+        "encounter": "A sense of peace grips you as you discover a(n) cape of the mountebank linked to hilltop mystics.",
         "history": []
     },
     {
@@ -547,7 +547,7 @@
         "chunk": 45,
         "pos": 68,
         "terrain": "O",
-        "features": "Serene Flats",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -564,14 +564,14 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a haunted shipwreck with vengeful spirits, your attention is caught by humming of a powerful sea enchantment. Upon investigating, you discover a secret merfolk concert hall hidden in a cave with a mysterious, glowing underwater crystal inside.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 45,
         "pos": 71,
         "terrain": "O",
-        "features": "Harmonious Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -587,7 +587,7 @@
         "chunk": 45,
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Lagoon",
         "encounter": "",
         "history": []
     },
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a shipwrecked sailor's journal of an old campsite, the scent of pungent smell of seaweed drying in the sun still lingering.",
+        "encounter": "",
         "history": []
     },
     {
@@ -619,7 +619,7 @@
         "chunk": 45,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Glassy Horizon",
         "encounter": "",
         "history": []
     },
@@ -651,7 +651,7 @@
         "chunk": 45,
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Wild Ripple",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the nautical necropolis, a legacy of deep-sea dryads and their tales.",
         "history": []
     },
     {
@@ -699,7 +699,7 @@
         "chunk": 45,
         "pos": 87,
         "terrain": "O",
-        "features": "Idyllic Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -723,7 +723,7 @@
         "chunk": 45,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Foamy Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -731,7 +731,7 @@
         "chunk": 45,
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical Jetstream",
         "encounter": "",
         "history": []
     },
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of nostalgia washes over you as mermaids are invoking iridescent idols nearby.",
         "history": []
     },
     {

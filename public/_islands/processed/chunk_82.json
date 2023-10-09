@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with empowerment upon spotting a(n) shipwrecked statue.",
         "history": []
     },
     {
@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear murmuring of merfolk singing in harmony coming from a concealed treasure vault within an ancient shipwreck.",
+        "encounter": "",
         "history": []
     },
     {
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) fantastical fob watch, which seem to have a connection with tsunami titans.",
         "history": []
     },
     {
@@ -52,14 +52,14 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is blocked by ghostly galleon's gravity well, guarded by cavern centaurs.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 7,
         "terrain": "O",
-        "features": "Sparkling Isle",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -68,14 +68,14 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a submerged forest of gnarled, petrified trees makes it difficult to proceed. Perhaps the ghost ships nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 9,
         "terrain": "O",
-        "features": "Serene Depression",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a piece of driftwood with an ancient carving. However, selkies stand guard, their intentions unknown.",
+        "encounter": "",
         "history": []
     },
     {
@@ -100,15 +100,15 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where underwater nomads are engaged in protecting a ship from ghostly apparitions around a captured sea serpent's egg, seemingly crucial for defend a coastal village from a relentless pirate invasion..",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 13,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Green Rise",
+        "encounter": "The enchanted ivy here seems to have been affected by a(n) wand of earthly dominion.",
         "history": []
     },
     {
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious aromatic herbs from a coastal garden envelops you, drawing you towards a camouflaged underwater camouflage net used by merfolk where kelpie are setting up an underwater market.",
+        "encounter": "",
         "history": []
     },
     {
@@ -130,9 +130,9 @@
     {
         "chunk": 82,
         "pos": 16,
-        "terrain": "O",
-        "features": "Tumultuous Narrows",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Secluded Elevation",
+        "encounter": "You find a(n) worn trail marker hidden among the wild violets, which seems to be lost by hillcrest falconers.",
         "history": []
     },
     {
@@ -180,15 +180,15 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel empathy as cracking of icebergs in frigid waters echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Enchanted Knoll",
+        "encounter": "You hear the distant sound of stone sentinel rogues engaging in a riddle contest with gnomes.",
         "history": []
     },
     {
@@ -202,17 +202,17 @@
     {
         "chunk": 82,
         "pos": 25,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Rustic Foot",
+        "encounter": "You're intrigued by abandoned centaur's training ground that bear the mark of stone sentinel rogues.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 26,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Lofty Wold",
+        "encounter": "The gravity wells bear marks of rockspire enchantresses that are holding a parade of the arcane.",
         "history": []
     },
     {
@@ -258,57 +258,57 @@
     {
         "chunk": 82,
         "pos": 32,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Grazed Highland",
+        "encounter": "Whispers of ridgeback rocs hunting for prey can be heard burrow beneath a large boulder.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 33,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Secluded Escarpment",
+        "encounter": "A sense of anticipation washes over you as stone sentinels are laying traps for intruders nearby.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 34,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Sacrosanct Patch",
+        "encounter": "You're drawn to a(n) locket of illusion by a peculiar sense of optimism.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 35,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Grazed Decline",
+        "encounter": "You find a(n) rusty goblet nestled within the bramble bushes, surrounded by hilltop mint.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 36,
-        "terrain": "O",
-        "features": "Picturesque Trench",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Lofty Yawn",
+        "encounter": "The local tales speak of bouldershade falcons that taming wild magical beasts near zones where the world appears monochrome.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 37,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Waving Wetland",
+        "encounter": "The area is filled with switchgrass, providing cover for grassland goblins.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 38,
-        "terrain": "O",
-        "features": "Serene Surf",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Wild Root",
+        "encounter": "The hawthorn tree here seems to have been affected by a(n) dwarf-carved stone.",
         "history": []
     },
     {
@@ -338,65 +338,65 @@
     {
         "chunk": 82,
         "pos": 42,
-        "terrain": "O",
-        "features": "Reflective Tidal Pool",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Silent Bank",
+        "encounter": "You stumble upon the old naga's shrine that hint at hillfolk hunters and their quest to assist a local jeweler in finding a hillside gem mine.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 43,
-        "terrain": "O",
-        "features": "Ageless Chasm",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Distant Eminence",
+        "encounter": "You spot burrowed basilisks engaging in a game of illusions, casting shadows on a(n) bottle of rockbound essence.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 44,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Kinetic Yield",
+        "encounter": "The path is littered with a patch of land that feels spongy, a testament to luminous lynxes that once gathering for a tribal celebration.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 45,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Enchanted Crag",
+        "encounter": "Your path is blocked by areas of echoing laughter or cries, guarded by ridgeback warlocks.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 46,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Grazed Tor",
+        "encounter": "Whispers suggest ridge walker mages are engaging in dream walking underneath a stone bridge.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 47,
-        "terrain": "O",
-        "features": "Expansive Upwelling",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Canopied Paddock",
+        "encounter": "The surroundings bear decaying watchtower, suggesting tales of fauns.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 48,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Illuminated Wold",
+        "encounter": "A sense of introspection in the stillness washes over you as kicking kangaroos are challenging the horizon itself to a duel nearby.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 49,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Thicketed Pinnacle",
+        "encounter": "You're filled with appreciation upon spotting a(n) bead of force found in a hillfolk mage's pouch.",
         "history": []
     },
     {
@@ -418,64 +418,64 @@
     {
         "chunk": 82,
         "pos": 52,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Terraced Decline",
+        "encounter": "Rockbound minotaurs engaging in dream walking are hidden under a bridge made of stone.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 53,
-        "terrain": "O",
-        "features": "",
-        "encounter": "An eerie rustling of parchment as a map is unfurled resonates from a camouflaged underwater camouflage net used by merfolk, and the scent of damp, earthy smell of a rocky shore fills the air.",
+        "terrain": "H",
+        "features": "Sloping Eminence",
+        "encounter": "A sense of vitality washes over you as rockspire gnomes are studying the stars nearby.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 54,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Fertile Heath",
+        "encounter": "You see the pond where the water flows upwards suggesting past activities of coyote constellations.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 55,
-        "terrain": "O",
-        "features": "",
-        "encounter": "The whisper of gurgling of a freshwater stream meeting the ocean is accompanied by the distinct aroma of freshly baked bread from a seaside bakery. It seems ship-eating barnacles are involved in forging alliances with other oceanic races.",
+        "terrain": "H",
+        "features": "Rippling Slope",
+        "encounter": "Your heart freedom when you see boulderhide boars near a(n) rusty key.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 56,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Youthful Bank",
+        "encounter": "Among the sorcerer's sage, you find a(n) javelin of lightning struck on a hill's peak that resonate with joy.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 57,
-        "terrain": "O",
-        "features": "",
-        "encounter": "You encounter coral golems which are navigating treacherous waters during a storm.",
+        "terrain": "F",
+        "features": "Leafy Hollow",
+        "encounter": "You're warned of moss that induces visions ahead, where umbral unicorns often are gathering in flocks.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 58,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Lush Woodland",
+        "encounter": "Sounds suggest fleas are munching on leaves, leaving behind the overgrown pond.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Channel",
         "encounter": "",
         "history": []
     },
@@ -498,65 +498,65 @@
     {
         "chunk": 82,
         "pos": 62,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Jeweled Highland",
+        "encounter": "Legends tell of ridgeback warlocks that help a local artist find the perfect hillside view to paint amidst these fields of sudden gusts of wind.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 63,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Steep Ridge",
+        "encounter": "Abandoned shepherd's hut, you sense the presence of bouldershade panthers.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Serene Ridge",
+        "encounter": "The area is marked by ruins of a mage's tower, a testament to sun sprites and their tales.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Heathered Heath",
+        "encounter": "The dense dandelions seems to whisper tales of burrow goblin guardians and their defend a hilltop citadel from a dragon seeking the crown of kingdoms.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 66,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Nestled Ledge",
+        "encounter": "Among the crumbled giant's throne, you sense a connection to boulderhide golems and their gratitude.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 67,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Zenithal Pasture",
+        "encounter": "The path bears marks of joyful jaguars and their interactions with a(n) lost traveler's compass.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 68,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Flat Ravine",
+        "encounter": "The area is marked by rusted armor of a fallen knight, a testament to ancient ancestors' spirits and their tales.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 69,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Silent Bump",
+        "encounter": "The surroundings hold (a) necklace of fireballs from a hilltop ritual, which (are/is) said to be linked to boulderhide bulls.",
         "history": []
     },
     {
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "The sponge colonies rustles, revealing seafaring druids that are engaging in a sea battle with rival pirates.",
+        "encounter": "",
         "history": []
     },
     {
@@ -578,65 +578,65 @@
     {
         "chunk": 82,
         "pos": 72,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "T",
+        "features": "Azure Cove",
+        "encounter": "Whispers suggest treant gardeners are milling grain in the pocket of the coat in the cloakroom.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 73,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Secluded Wold",
+        "encounter": "Behind a veil of hanging vines, tales of hillfolk mystic warriors seem to resonate.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 74,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Green Wetland",
+        "encounter": "You're cautioned about a patch of land with shifting colors ahead, where jade jaguars of joy are known to be unraveling the enigmas of the ever-shifting plains.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 75,
-        "terrain": "O",
-        "features": "",
-        "encounter": "Among the dense sponge colonies, you discover a ship's sextant for celestial navigation. You can't shake the feeling of serenity.",
+        "terrain": "H",
+        "features": "Alive Valley",
+        "encounter": "A sense of humility grips you as you discover a(n) rusty bucket linked to boulder beasts.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 76,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Golden Yawn",
+        "encounter": "You encounter ridge runner enchanters which are telling stories around a fire.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 77,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Green Clearing",
+        "encounter": "The a sudden influx of aggressive birds ahead are said to be the work of prairie prowlers that are crafting potions from the dew of dawn.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 78,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Unending Tundra",
+        "encounter": "The area is marked by a(n) moonlit meadow mirror, hinting at the tales of prairie phantoms.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 79,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Grazed Slope",
+        "encounter": "Ancient stories speak of stone sentinel tinkerers that once were retrieve the harp of winds from a hill that controls the breezes here.",
         "history": []
     },
     {
@@ -660,39 +660,39 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Sunken treasure guardians gives you a quest to track down a legendary sea monster for a wealthy collector.In your path lies a merfolk's enchanted harp surrounded by sea lettuce.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 83,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Nestled Ledge",
+        "encounter": "A sense of satisfaction grips you as you discover a(n) instrument of the bards echoing hill songs linked to stone whisperer adepts.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 84,
         "terrain": "O",
-        "features": "Silent Plateau",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 85,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Tumultuous Fell",
+        "encounter": "You stumble upon the crumbled chimera's den that hints at the tales of phoenixes.",
         "history": []
     },
     {
         "chunk": 82,
         "pos": 86,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Towering Ravine",
+        "encounter": "You see the abandoned valkyrie's landing suggesting past activities of hillside harpists.",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by a(n) exalted exocet easel, hinting at the tales of lagoon lorekeepers.",
         "history": []
     },
     {
@@ -708,7 +708,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious pungent aroma of a hidden pirate's stash envelops you, drawing you towards a concealed merfolk palace hidden behind a waterfall where crystal reef dwellers are escaping from the clutches of a kraken.",
+        "encounter": "",
         "history": []
     },
     {
@@ -739,7 +739,7 @@
         "chunk": 82,
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Estuary",
         "encounter": "",
         "history": []
     },
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden hollow echoes in an underwater cavern breaks the silence, making the nearby floating bladderwort plants quiver.",
+        "encounter": "",
         "history": []
     },
     {

@@ -3,8 +3,8 @@
         "chunk": 4,
         "pos": 0,
         "terrain": "O",
-        "features": "Unspoiled Depression",
-        "encounter": "",
+        "features": "",
+        "encounter": "You're warned of luminous liquid labyrinth ahead, where abyssal adventurers often are illuminating inky infinities.",
         "history": []
     },
     {
@@ -19,7 +19,7 @@
         "chunk": 4,
         "pos": 2,
         "terrain": "O",
-        "features": "Tempestuous Edifice",
+        "features": "Whispering Shoal",
         "encounter": "",
         "history": []
     },
@@ -27,7 +27,7 @@
         "chunk": 4,
         "pos": 3,
         "terrain": "O",
-        "features": "Lonely Marina",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -35,7 +35,7 @@
         "chunk": 4,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Seething Wave",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 4,
         "pos": 9,
         "terrain": "O",
-        "features": "Raging Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -83,7 +83,7 @@
         "chunk": 4,
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Sunkissed Seafloor",
         "encounter": "",
         "history": []
     },
@@ -116,15 +116,15 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant rumbling of a distant underwater volcano draws your attention. Following it, you discover a broken ship's mast jutting out of the water of a past event.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 15,
         "terrain": "O",
-        "features": "Rippling Deep",
-        "encounter": "",
+        "features": "",
+        "encounter": "You're captivated by a(n) ukulele of the undersea bard among the pelagic peony, exuding lifeguard's zinc sunscreen.",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 4,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Tropical Surf",
         "encounter": "",
         "history": []
     },
@@ -203,15 +203,15 @@
         "chunk": 4,
         "pos": 25,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Foamy Vortex",
+        "encounter": "You're warned of magnetic anomaly ahead, where seaweed scholars often are orchestrating oceanic overtures.",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 26,
         "terrain": "O",
-        "features": "Daunting Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -219,7 +219,7 @@
         "chunk": 4,
         "pos": 27,
         "terrain": "O",
-        "features": "Deep Mangrove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -235,7 +235,7 @@
         "chunk": 4,
         "pos": 29,
         "terrain": "O",
-        "features": "Secluded Flats",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -267,7 +267,7 @@
         "chunk": 4,
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Passage",
         "encounter": "",
         "history": []
     },
@@ -284,7 +284,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a bottle of potent seawater from a mythical spring that could be useful in your quest to retrieve a sunken treasure map from the lair of a giant octopus.. But it's guarded by pearl diver guilds.",
+        "encounter": "",
         "history": []
     },
     {
@@ -307,7 +307,7 @@
         "chunk": 4,
         "pos": 38,
         "terrain": "O",
-        "features": "Glistening Edifice",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -323,7 +323,7 @@
         "chunk": 4,
         "pos": 40,
         "terrain": "O",
-        "features": "",
+        "features": "Enigmatic Vortex",
         "encounter": "",
         "history": []
     },
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by haunted hydrothermal hollow, with signs of sunken swindlers nearby.",
         "history": []
     },
     {
@@ -371,8 +371,8 @@
         "chunk": 4,
         "pos": 46,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Hushed Shoal",
+        "encounter": "Your journey is interrupted by becalmed banshee bay, with traces of wave wonders nearby.",
         "history": []
     },
     {
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear hollow echoes in an underwater cavern coming from a concealed merfolk palace hidden behind a waterfall.",
+        "encounter": "",
         "history": []
     },
     {
@@ -467,7 +467,7 @@
         "chunk": 4,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Fathomless Basin",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 4,
         "pos": 59,
         "terrain": "O",
-        "features": "Luminous Sandbank",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -515,15 +515,15 @@
         "chunk": 4,
         "pos": 64,
         "terrain": "O",
-        "features": "Epic Tidal Pool",
-        "encounter": "With protect a colony of merfolk from an encroaching threat. On your mind, the sudden appearance of a massive, floating tree trunk in the ship's path accompanied by low growling of a distant thunderstorm becomes a challenging diversion.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 65,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Trough",
         "encounter": "",
         "history": []
     },
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across a(n) vortex violin that bear the mark of pufferfish.",
         "history": []
     },
     {
@@ -563,7 +563,7 @@
         "chunk": 4,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Tide",
         "encounter": "",
         "history": []
     },
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a ship's chart with uncharted territories marked that could be useful in your quest to escort a valuable cargo of precious gems through pirate-infested waters.. But it's guarded by octopus oracles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -603,7 +603,7 @@
         "chunk": 4,
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Misty Current",
         "encounter": "",
         "history": []
     },
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious rotten-egg odor of sulfur from underwater vents envelops you, drawing you towards an underwater cave network filled with glowing algae where giant sea turtles are navigating a treacherous whirlpool.",
+        "encounter": "",
         "history": []
     },
     {
@@ -667,7 +667,7 @@
         "chunk": 4,
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Glassy Cove",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 4,
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Pacific Wave",
         "encounter": "",
         "history": []
     },
@@ -763,7 +763,7 @@
         "chunk": 4,
         "pos": 95,
         "terrain": "O",
-        "features": "Majestic Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -795,8 +795,8 @@
         "chunk": 4,
         "pos": 99,
         "terrain": "O",
-        "features": "Radiant Fjord",
-        "encounter": "With protect a colony of merfolk from an encroaching threat. On your mind, the sudden appearance of a giant maelstrom that sucks everything in accompanied by buzzing of bioluminescent creatures in the depths becomes a challenging diversion.",
+        "features": "",
+        "encounter": "Tales speak of submerged sapphire sanctum left by eldritch water wraiths after they had deliver supplies to a remote island.",
         "history": []
     }
 ]

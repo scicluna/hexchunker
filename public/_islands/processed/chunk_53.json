@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a massive, ancient sea turtle that won't move, you're surprised to find a labyrinthine coral labyrinth with hidden treasures filled with the remnants of an ancient ship's cargo hold.As you journey forward, you come across a beautifully crafted coral tiara, with traces of rotten-egg odor of sulfur from underwater vents around them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -35,7 +35,7 @@
         "chunk": 53,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Wave",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 53,
         "pos": 8,
         "terrain": "O",
-        "features": "Expansive Isle",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 53,
         "pos": 9,
         "terrain": "O",
-        "features": "Untamed Drop-off",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -171,7 +171,7 @@
         "chunk": 53,
         "pos": 21,
         "terrain": "O",
-        "features": "Roaring Sandbank",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -187,7 +187,7 @@
         "chunk": 53,
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Atoll",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 53,
         "pos": 26,
         "terrain": "O",
-        "features": "Moonlit Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 53,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Pearlescent Abyss",
         "encounter": "",
         "history": []
     },
@@ -259,8 +259,8 @@
         "chunk": 53,
         "pos": 32,
         "terrain": "O",
-        "features": "Ageless Plateau",
-        "encounter": "A sudden whistling of wind through the rigging of a ship breaks the silence, making the nearby feather boa kelp quiver.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with dread upon finding the atlantean annex linked to tuna shoals.",
         "history": []
     },
     {
@@ -300,7 +300,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're intrigued by zoned-out ziggurat zone that bear the mark of nautical nomads.",
         "history": []
     },
     {
@@ -315,8 +315,8 @@
         "chunk": 53,
         "pos": 39,
         "terrain": "O",
-        "features": "Beckoning Lagoon",
-        "encounter": "",
+        "features": "",
+        "encounter": "You find a(n) oracle's opulent oar that seem out of place, exuding a sense of pensiveness.",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The dolphin's daisy here seems to have been affected by a(n) kraken's kettle.",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Legends tell of star-soaked shoal shamans that investigate the disappearance of a local sailor amidst these vexing vortex veil.",
         "history": []
     },
     {
@@ -371,7 +371,7 @@
         "chunk": 53,
         "pos": 46,
         "terrain": "O",
-        "features": "Picturesque Drop-off",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a pirate's skeleton on a sunken ship lie scattered, painting a tale of whirlpool spirits that collecting rare and magical seashells.",
+        "encounter": "",
         "history": []
     },
     {
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) elixir of dragon's breath among the kraken kudzu, exuding atlantean amber.",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of coral centaurs that once challenge the champions of the merfolk in a race in this region.",
         "history": []
     },
     {
@@ -444,7 +444,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "Trails of a sunken chest with its lock rusted shut wind through the red calcareous algae, revealing the past actions of sea anemone sorcerers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -491,8 +491,8 @@
         "chunk": 53,
         "pos": 61,
         "terrain": "O",
-        "features": "Sweeping Ocean",
-        "encounter": "From the shadows of the a secret pirate's den inside a massive, hollowed-out rock, you sense the presence of shipwreck goblins.",
+        "features": "Coastal Thermocline",
+        "encounter": "",
         "history": []
     },
     {
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a collection of seashells with hidden messages that could be useful in your quest to investigate a series of shipwrecks caused by a vengeful ghost ship.. But it's guarded by merfolk.",
+        "encounter": "",
         "history": []
     },
     {
@@ -532,14 +532,14 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter whirlpool spirits which are navigating a treacherous whirlpool.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 53,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Vortex",
         "encounter": "",
         "history": []
     },
@@ -547,7 +547,7 @@
         "chunk": 53,
         "pos": 68,
         "terrain": "O",
-        "features": "Choppy Expanse",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with a ship's figurehead washed ashore. It appears sea witches were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice brown algae forests moving subtly. Upon closer inspection, you see lighthouse guardians that are setting up an underwater market.",
+        "encounter": "",
         "history": []
     },
     {
@@ -620,7 +620,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with calmness upon spotting a(n) nautical necklace.",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a an eerie, ghostly ship blocking the path. As you approach, dolphin companions forging alliances with other oceanic races.",
+        "encounter": "",
         "history": []
     },
     {
@@ -659,7 +659,7 @@
         "chunk": 53,
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Marine Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -675,7 +675,7 @@
         "chunk": 53,
         "pos": 84,
         "terrain": "O",
-        "features": "Breathtaking Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -691,7 +691,7 @@
         "chunk": 53,
         "pos": 86,
         "terrain": "O",
-        "features": "Windswept Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of dimensional sea sprites that once help a ship's crew prepare for a long voyage in this region.",
         "history": []
     },
     {
@@ -708,7 +708,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a message in a bottle that could be useful in your quest to retrieve a powerful, magical artifact from a sunken shipwreck.. But it's guarded by storm giants.",
+        "encounter": "",
         "history": []
     },
     {
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of scent of damp, ancient sea scrolls, suggesting the presence of seafaring druids.",
+        "encounter": "",
         "history": []
     },
     {
@@ -731,7 +731,7 @@
         "chunk": 53,
         "pos": 91,
         "terrain": "O",
-        "features": "Sweeping Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -739,7 +739,7 @@
         "chunk": 53,
         "pos": 92,
         "terrain": "O",
-        "features": "Tumultuous Swirl",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where giant sea turtles are engaged in creating elaborate maps of uncharted waters around a pirate flag bearing a fearsome symbol, seemingly crucial for solve the mystery of a cursed shipwreck and its crew's fate..",
+        "encounter": "You encounter sea shadows which are xenial xebecs crossing xanadus.",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your surroundings become dense with triton's truffle, perfect for cavern centaurs casting celestial currents.",
         "history": []
     },
     {
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A strong scent of seaside bakery leads you towards stellar salinity sylphs.",
         "history": []
     },
     {

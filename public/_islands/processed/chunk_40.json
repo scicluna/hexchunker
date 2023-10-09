@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant chattering of crabs on a rocky shore draws your attention. Following it, you discover tattered fragments of a sunken pirate flag of a past event.",
+        "encounter": "",
         "history": []
     },
     {
@@ -43,15 +43,15 @@
         "chunk": 40,
         "pos": 5,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Raging Eddy",
+        "encounter": "Ancient stories speak of seaweed scholars that once were recover the lost crown of the sea queen here.",
         "history": []
     },
     {
         "chunk": 40,
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Riptide",
         "encounter": "",
         "history": []
     },
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rustling of parchment as a map is unfurled is accompanied by the distinct aroma of aromatic herbs from a coastal garden. It seems cursed mermaids are involved in trading with passing merchant ships.",
+        "encounter": "",
         "history": []
     },
     {
@@ -155,7 +155,7 @@
         "chunk": 40,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Breezy Tide",
         "encounter": "",
         "history": []
     },
@@ -172,14 +172,14 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel pride as splintering of wood as a shipwreck breaks apart echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 40,
         "pos": 22,
         "terrain": "O",
-        "features": "Nautical Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -195,7 +195,7 @@
         "chunk": 40,
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Pearlescent Delta",
         "encounter": "",
         "history": []
     },
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of relaxation washes over you as seashell sorcerers are outfoxing oceanic oracles nearby.",
         "history": []
     },
     {
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by quartz quarry quicksand, with signs of eldritch water wraiths nearby.",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 40,
         "pos": 28,
         "terrain": "O",
-        "features": "Boundless Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -267,16 +267,16 @@
         "chunk": 40,
         "pos": 33,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sunlit Surf",
+        "encounter": "The path is littered with signs of maelstrom mages and their interactions with a(n) brinebound book.",
         "history": []
     },
     {
         "chunk": 40,
         "pos": 34,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Hypnotic Channel",
+        "encounter": "You're intrigued by unseen undercurrent undercroft that speak of triton knights and their assist a marine researcher in studying ocean salinity.",
         "history": []
     },
     {
@@ -324,7 +324,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a dense, toxic algae bloom poisoning the water. As you contemplate a way around, you hear rustling of parchment as a map is unfurled from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
@@ -348,14 +348,14 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a shattered glass bottle lie scattered, painting a tale of whirlpool spirits that repairing their damaged ship.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 40,
         "pos": 44,
         "terrain": "O",
-        "features": "Endless Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) harbor's headdress by an overwhelming sense of exhilaration.",
         "history": []
     },
     {
@@ -444,7 +444,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by gorgonian sea fans leads to a clearing with the remnants of a sunken sea monster's scale, indicating merfolk have been here.",
+        "encounter": "",
         "history": []
     },
     {
@@ -484,14 +484,14 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a partially buried, broken spyglass indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 40,
         "pos": 61,
         "terrain": "O",
-        "features": "Untamed Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 40,
         "pos": 62,
         "terrain": "O",
-        "features": "Surging Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -548,14 +548,14 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "There's a legend about coral curators that investigate reports of a ghostly ship appearance in this area.",
         "history": []
     },
     {
         "chunk": 40,
         "pos": 69,
         "terrain": "O",
-        "features": "Unspoiled Edifice",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -571,8 +571,8 @@
         "chunk": 40,
         "pos": 71,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Hypnotic Horizon",
+        "encounter": "Rumors speak of plankton clouds that recover a sunken treasure guarded by ghostly pirates in this vicinity.",
         "history": []
     },
     {
@@ -587,7 +587,7 @@
         "chunk": 40,
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Murky Wave",
         "encounter": "",
         "history": []
     },
@@ -612,14 +612,14 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a monstrous sea serpent lurking beneath the surface. As you contemplate a way around, you hear thudding of footsteps on a wooden dock from the shadows.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 40,
         "pos": 77,
         "terrain": "O",
-        "features": "Beckoning Expanse",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -643,7 +643,7 @@
         "chunk": 40,
         "pos": 80,
         "terrain": "O",
-        "features": "Murmuring Main",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by seafloor seagrass, a series of a sunken temple accessible only by solving a riddle reveal traces of a rusted, half-buried cutlass, and the distant echoing calls of whales in the distance hint at more to discover.",
+        "encounter": "",
         "history": []
     },
     {
@@ -731,8 +731,8 @@
         "chunk": 40,
         "pos": 91,
         "terrain": "O",
-        "features": "Nautical Fathom",
-        "encounter": "Deep in thought about recover a stolen, enchanted pearl necklace for a heartbroken mermaid., you're startled by distant rumble of thunder during a storm. It seems sea dragons are near.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -755,7 +755,7 @@
         "chunk": 40,
         "pos": 94,
         "terrain": "O",
-        "features": "Expansive Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -763,7 +763,7 @@
         "chunk": 40,
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Lush Thermocline",
         "encounter": "",
         "history": []
     },
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground trembles slightly, and splintering of wood as a shipwreck breaks apart grow louder. It seems sea witches are on the move.",
+        "encounter": "",
         "history": []
     },
     {
@@ -795,7 +795,7 @@
         "chunk": 40,
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Murky Thermocline",
         "encounter": "",
         "history": []
     }

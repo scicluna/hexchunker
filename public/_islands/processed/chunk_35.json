@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense rockweed, you discover a ship's cannon with ornate engravings. You can't shake the feeling of sadness.",
+        "encounter": "",
         "history": []
     },
     {
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by unearthed undersea urchin utopia, hinting at the presence of quantum quillback sentinels.",
         "history": []
     },
     {
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You sense mystery as you discover a(n) abyssal abacus linked to tidal thieves.",
         "history": []
     },
     {
@@ -139,7 +139,7 @@
         "chunk": 35,
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Ocean",
         "encounter": "",
         "history": []
     },
@@ -163,7 +163,7 @@
         "chunk": 35,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Breezy Seabed",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "A path surrounded by giant kelp with air-filled bladders leads to a clearing with a ship's figurehead washed ashore, indicating kraken have been here.",
+        "encounter": "",
         "history": []
     },
     {
@@ -244,7 +244,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The glowing gorgonian hides a(n) questing quiver's quill, which are said to be linked to sunfish and their loneliness.You notice sunfish that seem to be illuminating inky illusions.",
         "history": []
     },
     {
@@ -283,16 +283,16 @@
         "chunk": 35,
         "pos": 35,
         "terrain": "O",
-        "features": "Reflective Rift",
-        "encounter": "Surrounded by underwater mangrove roots, a series of a hidden cave behind a waterfall reveal traces of a sunken rowboat with a hole in its hull, and the distant rustling of parchment as a map is unfurled hint at more to discover.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 35,
         "pos": 36,
         "terrain": "O",
-        "features": "Breathtaking Plateau",
-        "encounter": "Every step forward is met with the increasing intensity of rustic scent of a seaside tavern, suggesting the presence of sea witches.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -315,7 +315,7 @@
         "chunk": 35,
         "pos": 39,
         "terrain": "O",
-        "features": "Choppy Isle",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -323,8 +323,8 @@
         "chunk": 35,
         "pos": 40,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Stormy Thermocline",
+        "encounter": "You're drawn to a(n) vortex violin, only to find signs of crabs casting celestial currents.",
         "history": []
     },
     {
@@ -427,7 +427,7 @@
         "chunk": 35,
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Undertow",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 35,
         "pos": 59,
         "terrain": "O",
-        "features": "Alluring Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -483,7 +483,7 @@
         "chunk": 35,
         "pos": 60,
         "terrain": "O",
-        "features": "Infinite Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -531,7 +531,7 @@
         "chunk": 35,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Sprawling Upwelling",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 35,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Silvery Gulf",
         "encounter": "",
         "history": []
     },
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of scent of freshly caught lobster and crab. You feel a sense of hope.",
+        "encounter": "",
         "history": []
     },
     {
@@ -611,15 +611,15 @@
         "chunk": 35,
         "pos": 76,
         "terrain": "O",
-        "features": "Peaceful Rift",
-        "encounter": "",
+        "features": "",
+        "encounter": "The whirlpool willow here seems to have been affected by a(n) lunar lantern.",
         "history": []
     },
     {
         "chunk": 35,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Briny Atoll",
         "encounter": "",
         "history": []
     },
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The sunken sunflower hides a(n) atlantean artifact, which are said to be linked to tidal chimera and their wonder.You notice tidal chimera that seem to be heralding harbor hymns.",
         "history": []
     },
     {
@@ -651,7 +651,7 @@
         "chunk": 35,
         "pos": 81,
         "terrain": "O",
-        "features": "Boundless Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a sunken city with buildings rising to the surface, but you notice a submerged sea cave filled with bioluminescent creatures that might lead around it.",
+        "encounter": "",
         "history": []
     },
     {
@@ -700,20 +700,12 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter coral golems which are negotiating with a powerful sea witch.",
-        "history": []
-    },
-    {
-        "chunk": 35,
-        "pos": 88,
-        "terrain": "O",
-        "features": "Boundless Ridge",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 35,
-        "pos": 89,
+        "pos": 88,
         "terrain": "O",
         "features": "",
         "encounter": "",
@@ -721,9 +713,17 @@
     },
     {
         "chunk": 35,
+        "pos": 89,
+        "terrain": "O",
+        "features": "Pacific Ocean",
+        "encounter": "",
+        "history": []
+    },
+    {
+        "chunk": 35,
         "pos": 90,
         "terrain": "O",
-        "features": "Iridescent Harbor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -731,8 +731,8 @@
         "chunk": 35,
         "pos": 91,
         "terrain": "O",
-        "features": "Shimmering Seamount",
-        "encounter": "A sudden gust brings with it saltwater in the air. You spot lighthouse guardians that seem to be exploring a mysterious underwater cave.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -779,7 +779,7 @@
         "chunk": 35,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Crashing Canyon",
         "encounter": "",
         "history": []
     },

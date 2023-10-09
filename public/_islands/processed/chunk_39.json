@@ -44,20 +44,12 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot lagoon lorekeepers emanating ethereal elegance, casting shadows on a(n) zodiac's zebrawood zampo\u00f1a.",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 6,
-        "terrain": "O",
-        "features": "Immeasurable Haven",
-        "encounter": "",
-        "history": []
-    },
-    {
-        "chunk": 39,
-        "pos": 7,
         "terrain": "O",
         "features": "",
         "encounter": "",
@@ -65,10 +57,18 @@
     },
     {
         "chunk": 39,
+        "pos": 7,
+        "terrain": "O",
+        "features": "Pacific Basin",
+        "encounter": "There's a legend about seashell sorcerers that decipher the runes on ancient underwater monoliths in this area.",
+        "history": []
+    },
+    {
+        "chunk": 39,
         "pos": 8,
         "terrain": "O",
-        "features": "Glistening Reef",
-        "encounter": "",
+        "features": "Silvery Riptide",
+        "encounter": "You're cautioned about triton knights that are known to dancing on dolphin backs near sudden water spout.",
         "history": []
     },
     {
@@ -91,8 +91,8 @@
         "chunk": 39,
         "pos": 11,
         "terrain": "O",
-        "features": "Lonely Main",
-        "encounter": "",
+        "features": "",
+        "encounter": "Among the glowing gorgonian, a(n) exalted exocet extractor catch(es) your eye, exuding a sense of anxiety.",
         "history": []
     },
     {
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the remnants of a coral-encrusted treasure chest. It appears underwater miners were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -147,15 +147,15 @@
         "chunk": 39,
         "pos": 18,
         "terrain": "O",
-        "features": "Immeasurable Billow",
-        "encounter": "",
+        "features": "",
+        "encounter": "A local speaks of wave wranglers that once investigate reports of a ghostly ship appearance in this region.",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Sundrenched Jetstream",
         "encounter": "",
         "history": []
     },
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The local tales speak of giant squids that xeroxing xenial xanadus near jettisoned jetstream.",
         "history": []
     },
     {
@@ -220,7 +220,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the moss-covered maritime mansion.",
         "history": []
     },
     {
@@ -244,15 +244,15 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local offers you a quest to retrieve the lost trident of poseidon involving reef rocs.",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 31,
         "terrain": "O",
-        "features": "Soothing Plateau",
-        "encounter": "A sudden gust brings with it clean, crisp scent of the open sea. You spot pearl diver guilds that seem to be diving deep to consult with a sea oracle.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -283,7 +283,7 @@
         "chunk": 39,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Pacific Undertow",
         "encounter": "",
         "history": []
     },
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a school of aggressive and territorial sharks, you're surprised to find a concealed mermaid treasure trove in a sunken ship filled with the remnants of a shipwrecked sailor's journal.As you journey forward, you come across a chest of exotic spices from distant lands, with traces of mildewed scent of an old shipwreck around them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear murmuring of merfolk singing in harmony coming from a concealed treasure chest buried under a giant pearl.",
+        "encounter": "",
         "history": []
     },
     {
@@ -323,8 +323,8 @@
         "chunk": 39,
         "pos": 40,
         "terrain": "O",
-        "features": "Moonlit Swirl",
-        "encounter": "Your path is illuminated by the glint of a bejeweled trident. However, seafaring druids stand guard, their intentions unknown.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You discover a(n) potion of water breathing that seems out of place, hinting at oceanic oathkeepers.",
         "history": []
     },
     {
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel melancholy as you spot a(n) rope of entanglement associated with coral centaurs.",
         "history": []
     },
     {
@@ -379,8 +379,8 @@
         "chunk": 39,
         "pos": 47,
         "terrain": "O",
-        "features": "",
-        "encounter": "You feel an overwhelming sense of jealousy as you tread upon a partially buried, broken spyglass, hinting at a tale of giant clams.",
+        "features": "Hushed Eddy",
+        "encounter": "",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 39,
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Thermocline",
         "encounter": "",
         "history": []
     },
@@ -419,7 +419,7 @@
         "chunk": 39,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Sprawling Salinity",
         "encounter": "",
         "history": []
     },
@@ -427,7 +427,7 @@
         "chunk": 39,
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Seabed",
         "encounter": "",
         "history": []
     },
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the isolated isle inlet, a legacy of moray eels and their tales.",
         "history": []
     },
     {
@@ -491,7 +491,7 @@
         "chunk": 39,
         "pos": 61,
         "terrain": "O",
-        "features": "Limitless Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) ethereal earring, which seem(s) to have ties with sunken scribes.",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 39,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Frothy Narrows",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 39,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Lush Horizon",
         "encounter": "",
         "history": []
     },
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "As you proceed, baleen whales suddenly mingling with marine minstrels from behind a(n) mirror of life trapping.",
         "history": []
     },
     {
@@ -564,14 +564,14 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense gorgonian sea fans, you discover a chest of exotic spices from distant lands. You can't shake the feeling of grief.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 71,
         "terrain": "O",
-        "features": "Choppy Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -605,16 +605,14 @@
         "terrain": "O",
         "features": "",
         "encounter": "",
-        "history": [
-            "As far as the eye can see, there's nothing but the open ocean. The water stretches out in all directions, a vast expanse of blue that merges with the sky at the horizon. The sun glimmers off the gentle waves, casting a dazzling light show on the surface. There's a sense of calm and tranquility, only broken by the occasional splash of leaping fish or the distant call of a seabird. The ocean's depth hides any features that might exist below the surface, leaving an endless canvas of water as your only view."
-        ]
+        "history": []
     },
     {
         "chunk": 39,
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by nautical nether nexus, with signs of nebulous nautilus nomads nearby.",
         "history": []
     },
     {
@@ -638,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path bears marks of aqua archers and their interactions with a(n) cursed captain's cloak.",
         "history": []
     },
     {
@@ -662,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with overwhelm upon finding the ethereal enclave linked to sapphire sylphs.",
         "history": []
     },
     {
@@ -678,7 +676,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The dense jellyfish jasmine seems to whisper tales of narwhals and their stop a rogue tidal wave summoned by a sea witch.",
         "history": []
     },
     {
@@ -702,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a powerful, magical artifact from a sunken shipwreck.. But be wary, for lighthouse guardians lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -718,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "With retrieve a sunken treasure from a ghost ship guarded by vengeful spirits. On your mind, the sudden appearance of a dense minefield of explosive devices accompanied by buzzing of insects near a coastal marsh becomes a challenging diversion.",
+        "encounter": "",
         "history": []
     },
     {
@@ -773,8 +771,8 @@
         "chunk": 39,
         "pos": 96,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground is littered with a tattered, waterlogged map of uncharted waters. It appears merfolk were here recently.",
+        "features": "Silvery Seafloor",
+        "encounter": "",
         "history": []
     },
     {

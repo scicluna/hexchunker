@@ -11,7 +11,7 @@
         "chunk": 48,
         "pos": 1,
         "terrain": "O",
-        "features": "Rippling Pinnacle",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -19,7 +19,7 @@
         "chunk": 48,
         "pos": 2,
         "terrain": "O",
-        "features": "Tranquil Depression",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -35,7 +35,7 @@
         "chunk": 48,
         "pos": 4,
         "terrain": "O",
-        "features": "Moonlit Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -99,7 +99,7 @@
         "chunk": 48,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Windy Billow",
         "encounter": "",
         "history": []
     },
@@ -115,7 +115,7 @@
         "chunk": 48,
         "pos": 14,
         "terrain": "O",
-        "features": "Majestic Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a submerged forest of gnarled, petrified trees blocking your path. Perhaps it's related to your quest to retrieve a powerful, magical artifact from a sunken shipwreck..",
+        "encounter": "",
         "history": []
     },
     {
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with kraken kudzu, providing cover for seagrass storytellers.",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 48,
         "pos": 25,
         "terrain": "O",
-        "features": "Lonely Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see the undersea urchin university suggesting past activities of deep-sea dryads.",
         "history": []
     },
     {
@@ -228,15 +228,15 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "An eerie buzzing of insects near a coastal marsh resonates from a concealed treasure chest buried in the sand, and the scent of smell of seaweed roasting in the sun fills the air.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 29,
         "terrain": "O",
-        "features": "Pristine Fathom",
-        "encounter": "The air is filled with the smell of aromatic spices from a seaside market. You feel a sense of contentment.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -259,7 +259,7 @@
         "chunk": 48,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Jeweled Brine",
         "encounter": "",
         "history": []
     },
@@ -315,7 +315,7 @@
         "chunk": 48,
         "pos": 39,
         "terrain": "O",
-        "features": "Unfathomable Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -323,8 +323,8 @@
         "chunk": 48,
         "pos": 40,
         "terrain": "O",
-        "features": "Silent Shoal",
-        "encounter": "",
+        "features": "Sunlit Sound",
+        "encounter": "You find a(n) coral choker hidden among the pearlescent pondweed, which seems to be lost by dancing dugongs.",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 48,
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Crashing Atoll",
         "encounter": "",
         "history": []
     },
@@ -467,8 +467,8 @@
         "chunk": 48,
         "pos": 58,
         "terrain": "O",
-        "features": "Majestic Billow",
-        "encounter": "",
+        "features": "",
+        "encounter": "A strong scent of picnic basket fruits leads you towards saltwater smugglers.",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Legends tell of benevolent brine spirits that break the siren's enchanting song spell amidst these triton's mirage.",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 48,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Seething Gulf",
         "encounter": "",
         "history": []
     },
@@ -587,7 +587,7 @@
         "chunk": 48,
         "pos": 73,
         "terrain": "O",
-        "features": "Dazzling Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a sunken sea monster's scale indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -659,7 +659,7 @@
         "chunk": 48,
         "pos": 82,
         "terrain": "O",
-        "features": "Reflective Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -667,8 +667,8 @@
         "chunk": 48,
         "pos": 83,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Reflective Riptide",
+        "encounter": "You're drawn to a(n) underwater ukulele, only to find signs of pearl protectors outwitting oceanic ogres.",
         "history": []
     },
     {
@@ -683,7 +683,7 @@
         "chunk": 48,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Dark Vents",
         "encounter": "",
         "history": []
     },
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the siren's silent grotto that hints at the tales of wavebound wanderers.",
         "history": []
     },
     {
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your heart overwhelm when you see marine medusas near a(n) lunar lantern.",
         "history": []
     },
     {
@@ -779,7 +779,7 @@
         "chunk": 48,
         "pos": 97,
         "terrain": "O",
-        "features": "Picturesque Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },

@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by love as you uncover a giant clamshell turned into a luxurious bed hidden within tube worms near hydrothermal vents.",
+        "encounter": "",
         "history": []
     },
     {
@@ -19,7 +19,7 @@
         "chunk": 99,
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Whispering Trench",
         "encounter": "",
         "history": []
     },
@@ -27,7 +27,7 @@
         "chunk": 99,
         "pos": 3,
         "terrain": "O",
-        "features": "Dazzling Whirlpool",
+        "features": "Mysterious Estuary",
         "encounter": "",
         "history": []
     },
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see the triton's tower suggesting past activities of whirlpool witches.",
         "history": []
     },
     {
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Echoes of kelp krakens resonate, accompanied by distinct beachcomber's collection.",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a school of aggressive and territorial sharks. As you contemplate a way around, you hear hissing of foam as waves recede from the shadows.",
+        "encounter": "Tales speak of nereid's neglected nest left by sunken scribes after they had challenge the champions of the merfolk in a race.",
         "history": []
     },
     {
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a school of aggressive and territorial sharks. As you approach, cursed ship captains harvesting pearls from giant clams.",
+        "encounter": "",
         "history": []
     },
     {
@@ -108,15 +108,15 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) whistle of the windcaller, only to find signs of deep-sea dryads charting churning channels.",
         "history": []
     },
     {
         "chunk": 99,
         "pos": 14,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Restless Surf",
+        "encounter": "A strong scent of palm trees and coconuts leads you towards barracudas.",
         "history": []
     },
     {
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with a sunken rowboat with a hole in its hull. It appears oceanic alchemists were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of melancholy grips you as you discover a(n) xebec's charm linked to swordfish.",
         "history": []
     },
     {
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "Blocked by a treacherous, labyrinthine underwater cave system, your attention is caught by humming of a powerful sea enchantment. Upon investigating, you discover a hidden coral maze filled with merfolk traps with a piece of driftwood with an ancient carving inside.",
+        "encounter": "",
         "history": []
     },
     {
@@ -291,8 +291,8 @@
         "chunk": 99,
         "pos": 36,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your path is illuminated by the glint of a preserved mermaid tail. However, cursed mermaids stand guard, their intentions unknown.",
+        "features": "Endless Sound",
+        "encounter": "",
         "history": []
     },
     {
@@ -451,7 +451,7 @@
         "chunk": 99,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Sundrenched Upwelling",
         "encounter": "",
         "history": []
     },
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a chest of mystical sea herbs and remedies. However, kelpie stand guard, their intentions unknown.",
+        "encounter": "",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a cursed lighthouse guiding ships to their doom blocking your path. Perhaps it's related to your quest to retrieve a rare coral sample for an eccentric scientist..",
+        "encounter": "Wave-woven warrens, you sense the presence of abyssal alchemists.",
         "history": []
     },
     {
@@ -531,8 +531,8 @@
         "chunk": 99,
         "pos": 66,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Pacific Ocean",
+        "encounter": "The path is littered with seaweed entanglement, a testament to stellar sea sprite alchemists that once flirting with fathomless faeries.",
         "history": []
     },
     {
@@ -547,7 +547,7 @@
         "chunk": 99,
         "pos": 68,
         "terrain": "O",
-        "features": "Iridescent Marina",
+        "features": "Glassy Horizon",
         "encounter": "",
         "history": []
     },
@@ -555,8 +555,8 @@
         "chunk": 99,
         "pos": 69,
         "terrain": "O",
-        "features": "",
-        "encounter": "Surrounded by coral reefs, a series of an overgrown shipwreck hidden beneath a dense kelp bed reveal traces of a ship's figurehead washed ashore, and the distant rattling of pebbles in the surf hint at more to discover.",
+        "features": "Pristine Ridge",
+        "encounter": "",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sounds of oceanic griffins flirting with fathomless fiends emerge from runic reefs.",
         "history": []
     },
     {
@@ -611,7 +611,7 @@
         "chunk": 99,
         "pos": 76,
         "terrain": "O",
-        "features": "Sunlit Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -620,7 +620,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with tranquility upon spotting a(n) nautical needlepoint.",
         "history": []
     },
     {
@@ -636,14 +636,14 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the remnants of a merfolk's forgotten treasure of an old campsite, the scent of briny scent of low tide still lingering.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 99,
         "pos": 80,
         "terrain": "O",
-        "features": "Limitless Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -652,14 +652,14 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel resilience as starfish clusters are challenging the churning chaos near a(n) cerulean chalice.",
         "history": []
     },
     {
         "chunk": 99,
         "pos": 82,
         "terrain": "O",
-        "features": "Tranquil Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) dolphin-carved dagger by an overwhelming sense of vulnerability.",
         "history": []
     },
     {
@@ -676,7 +676,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sounds suggest tidal thieves are heralding harmonic harmonies, leaving behind the pirate's petrified port.",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden fishermen's bait alerts you to the presence of starfish sages.",
         "history": []
     },
     {
@@ -715,7 +715,7 @@
         "chunk": 99,
         "pos": 89,
         "terrain": "O",
-        "features": "Nautical Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "Cursed mermaids gives you a quest to investigate reports of disappearing ships in a cursed sea.In your path lies a sparkling pearl necklace surrounded by brown algae forests.",
+        "encounter": "",
         "history": []
     },
     {
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) oracle's orb that seem to resonate with tales of eldritch eel summoners.",
         "history": []
     },
     {
@@ -795,7 +795,7 @@
         "chunk": 99,
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Ominous Channel",
         "encounter": "",
         "history": []
     }

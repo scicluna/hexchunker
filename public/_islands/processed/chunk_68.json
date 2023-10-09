@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice mangrove prop roots moving subtly. Upon closer inspection, you see sea serpents that are setting up an underwater market.",
+        "encounter": "",
         "history": []
     },
     {
@@ -68,7 +68,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "The coral reefs rustles, revealing island hermit that are engaging in a sea battle with rival pirates.",
+        "encounter": "You overhear tales of jellyfish swarms that anchoring in arcane atolls in this region.",
         "history": []
     },
     {
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground is littered with the triton's tower, and you can smell sapphire sea freshness coming from a nearby jade jetties.",
         "history": []
     },
     {
@@ -107,7 +107,7 @@
         "chunk": 68,
         "pos": 13,
         "terrain": "O",
-        "features": "Timeless Expanse",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -139,15 +139,15 @@
         "chunk": 68,
         "pos": 17,
         "terrain": "O",
-        "features": "Lonely Channel",
-        "encounter": "A mysterious musty odor of a hidden sea cave envelops you, drawing you towards an underwater volcanic vent leading to a hidden world where merfolk are searching for a lost artifact on the ocean floor.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 68,
         "pos": 18,
         "terrain": "O",
-        "features": "Tempestuous Channel",
+        "features": "Tranquil Islet",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter whirlpool spirits which are training sea creatures for battle.",
+        "encounter": "",
         "history": []
     },
     {
@@ -235,7 +235,7 @@
         "chunk": 68,
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Deep",
         "encounter": "",
         "history": []
     },
@@ -244,7 +244,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with loneliness upon finding the triton's forsaken palace linked to eldritch estuary elves.",
         "history": []
     },
     {
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path is littered with eldritch portal, a testament to coral curators that once gathering gleaming gemfish.",
         "history": []
     },
     {
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "In the distance, deep-sea dreamers are unraveling urchin umbrellas, surrounded by ethereal eelgrass.",
         "history": []
     },
     {
@@ -300,15 +300,15 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The quartz quarry quicksand bear marks of void drifters that are journeying to jeweled jungles.",
         "history": []
     },
     {
         "chunk": 68,
         "pos": 38,
         "terrain": "O",
-        "features": "",
-        "encounter": "Pirates emerge from the an overgrown shipwreck hidden beneath a dense kelp bed, their intent focused on a weathered treasure map.",
+        "features": "Deep Canyon",
+        "encounter": "",
         "history": []
     },
     {
@@ -347,7 +347,7 @@
         "chunk": 68,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant Current",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground is littered with the becalmed barnacle bay, and you can smell palm leaf's greenness coming from a nearby saltwater sanctuaries.",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a skeleton clutching a rusted cutlass on the seabed of an old campsite, the scent of musty odor of a hidden sea cave still lingering.",
+        "encounter": "",
         "history": []
     },
     {
@@ -499,7 +499,7 @@
         "chunk": 68,
         "pos": 62,
         "terrain": "O",
-        "features": "Choppy Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "Pearl diver guilds emerge from the a concealed chamber within a massive sponge, their intent focused on a ship's sextant for celestial navigation.",
+        "encounter": "",
         "history": []
     },
     {
@@ -516,14 +516,14 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your surroundings become dense with lagoon lily, perfect for kelp krakens pirouetting on pirate planks.",
         "history": []
     },
     {
         "chunk": 68,
         "pos": 65,
         "terrain": "O",
-        "features": "Harmonious Haven",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -539,8 +539,8 @@
         "chunk": 68,
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Deep-sea Abyss",
+        "encounter": "Pearlescent palaces, you sense the presence of maritime mystics.",
         "history": []
     },
     {
@@ -555,7 +555,7 @@
         "chunk": 68,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Seafloor",
         "encounter": "",
         "history": []
     },
@@ -627,8 +627,8 @@
         "chunk": 68,
         "pos": 78,
         "terrain": "O",
-        "features": "Alluring Shore",
-        "encounter": "Among the dense thick beds of eelgrass, you discover a ship's cannon with ornate engravings. You can't shake the feeling of bewilderment.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your heart connectedness when you see sea turtles near a(n) anchor of holding.",
         "history": []
     },
     {
@@ -691,7 +691,7 @@
         "chunk": 68,
         "pos": 86,
         "terrain": "O",
-        "features": "Breathtaking Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -699,7 +699,7 @@
         "chunk": 68,
         "pos": 87,
         "terrain": "O",
-        "features": "Abyssal Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant sound suggests marine muses are yodeling to yawning yales near the moss-covered maritime mansion.",
         "history": []
     },
     {
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where kraken are engaged in repairing their damaged ship around a ship's sextant for celestial navigation, seemingly crucial for solve the mystery of a cursed shipwreck and its crew's fate..",
+        "encounter": "",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path is littered with signs of schools of fish and their interactions with a(n) dagger of venom.",
         "history": []
     },
     {
@@ -771,7 +771,7 @@
         "chunk": 68,
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Cove",
         "encounter": "",
         "history": []
     },
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across a(n) harmonic harpoon that bear the mark of lagoon looters.",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is blocked by underwater unicorn's undertow, guarded by marine medusas.",
         "history": []
     }
 ]

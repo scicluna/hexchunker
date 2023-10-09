@@ -83,7 +83,7 @@
         "chunk": 14,
         "pos": 10,
         "terrain": "O",
-        "features": "Unfathomable Edifice",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -91,7 +91,7 @@
         "chunk": 14,
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Eerie Brine",
         "encounter": "",
         "history": []
     },
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of luminous lanternfish lords that venturing through vortex vales from siren's suites.",
         "history": []
     },
     {
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a bottle of rare and potent mermaid tears. However, coral golems stand guard, their intentions unknown.",
+        "encounter": "",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 14,
         "pos": 20,
         "terrain": "O",
-        "features": "Beckoning Main",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -172,14 +172,14 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The abyssal moss hides a(n) charm of the deep, which are said to be linked to abyssal leviathans and their homesickness.You notice abyssal leviathans that seem to be anchoring in arcane atolls.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 22,
         "terrain": "O",
-        "features": "Immeasurable Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -195,7 +195,7 @@
         "chunk": 14,
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Fathomless Jetstream",
         "encounter": "",
         "history": []
     },
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path bears marks of benevolent brine beasts and their interactions with a(n) jellyfish's journal.",
         "history": []
     },
     {
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the tumbledown tidal tower, a legacy of dimensional sea sprites and their tales.",
         "history": []
     },
     {
@@ -299,8 +299,8 @@
         "chunk": 14,
         "pos": 37,
         "terrain": "O",
-        "features": "Vast Marina",
-        "encounter": "The way forward is blocked by a tidal wave approaching with destructive force, but you notice a concealed treasure chest within a submerged statue that might lead around it.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -339,8 +339,8 @@
         "chunk": 14,
         "pos": 42,
         "terrain": "O",
-        "features": "",
-        "encounter": "The presence of a giant maelstrom that sucks everything in makes it difficult to proceed. Perhaps the merfolk nearby can help.",
+        "features": "Jeweled Channel",
+        "encounter": "",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about treacherous reef ahead, where mermaids are known to be illuminating inky infinities.",
         "history": []
     },
     {
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel an overwhelming sense of fear as you tread upon an abandoned lifeboat adrift on the waves, hinting at a tale of giant sea turtles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -395,7 +395,7 @@
         "chunk": 14,
         "pos": 49,
         "terrain": "O",
-        "features": "Timeless Flats",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -403,8 +403,8 @@
         "chunk": 14,
         "pos": 50,
         "terrain": "O",
-        "features": "",
-        "encounter": "Every step forward is met with the increasing intensity of fishy odor of the ocean depths, suggesting the presence of sirens.",
+        "features": "Teeming Vortex",
+        "encounter": "",
         "history": []
     },
     {
@@ -555,7 +555,7 @@
         "chunk": 14,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Pearlescent Jetstream",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 14,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Cerulean Undertow",
         "encounter": "",
         "history": []
     },
@@ -579,8 +579,8 @@
         "chunk": 14,
         "pos": 72,
         "terrain": "O",
-        "features": "Surging Plateau",
-        "encounter": "",
+        "features": "",
+        "encounter": "Whispers suggest seafaring sorceresses are basking in brine brilliance dreamy depths.",
         "history": []
     },
     {
@@ -595,7 +595,7 @@
         "chunk": 14,
         "pos": 74,
         "terrain": "O",
-        "features": "Breathtaking Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -619,8 +619,8 @@
         "chunk": 14,
         "pos": 77,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Wild Salinity",
+        "encounter": "You sense optimism as you discover a(n) jellyfish jar linked to sunken spirits.",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "The presence of a powerful, magical barrier blocking passage makes it difficult to proceed. Perhaps the oceanic alchemists nearby can help.",
+        "encounter": "",
         "history": []
     },
     {
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by gorgonian sea fans, a series of a hidden cave behind a waterfall reveal traces of the remnants of a ship's broken figurehead, and the distant echoing calls of whales in the distance hint at more to discover.",
+        "encounter": "",
         "history": []
     },
     {
@@ -659,7 +659,7 @@
         "chunk": 14,
         "pos": 82,
         "terrain": "O",
-        "features": "Mesmerizing Sandbank",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "The air is filled with the smell of aromatic blooms of coastal flowers. You feel a sense of desperation.",
+        "encounter": "",
         "history": []
     },
     {
@@ -755,7 +755,7 @@
         "chunk": 14,
         "pos": 94,
         "terrain": "O",
-        "features": "Sunlit Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -763,7 +763,7 @@
         "chunk": 14,
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping Trough",
         "encounter": "",
         "history": []
     },
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by a(n) medallion of thoughts, hinting at the tales of walruses.",
         "history": []
     },
     {

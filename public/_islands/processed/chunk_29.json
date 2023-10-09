@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange barnacle-covered remnants of a wooden chest lie scattered, painting a tale of cursed ship captains that convincing a shipwrecked sailor to join their crew.",
+        "encounter": "",
         "history": []
     },
     {
@@ -98,17 +98,17 @@
     {
         "chunk": 29,
         "pos": 12,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Crested Mound",
+        "encounter": "The ground bears ruined bridge from past encounters with terrace treant guardians.",
         "history": []
     },
     {
         "chunk": 29,
         "pos": 13,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Misty Dale",
+        "encounter": "Hillcrest druids dancing in a circle are hidden under the shade of a sentinel pine tree.",
         "history": []
     },
     {
@@ -123,7 +123,7 @@
         "chunk": 29,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Riptide",
         "encounter": "",
         "history": []
     },
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious scent of coconut oil and sunscreen envelops you, drawing you towards a concealed treasure vault within an ancient shipwreck where island hermit are exploring the depths in search of a sunken city.",
+        "encounter": "",
         "history": []
     },
     {
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by exalted exocet estate, a testament to tuna shoals and their tales.",
         "history": []
     },
     {
@@ -178,24 +178,24 @@
     {
         "chunk": 29,
         "pos": 22,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Misty Bank",
+        "encounter": "The path is littered with barren patches with no shelter, a testament to treant guardians that once crafting tools from stones.",
         "history": []
     },
     {
         "chunk": 29,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Lofty Spur",
+        "encounter": "You discover a(n) vial of the mists from a hill's morning fog that seems out of place, hinting at hillshade sprites.",
         "history": []
     },
     {
         "chunk": 29,
         "pos": 24,
         "terrain": "O",
-        "features": "Expansive Rift",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -235,7 +235,7 @@
         "chunk": 29,
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Gentle Reef",
         "encounter": "",
         "history": []
     },
@@ -244,7 +244,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to retrieve a lost, enchanted trident from a sunken temple.. But be wary, for underwater nomads lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -266,9 +266,9 @@
     {
         "chunk": 29,
         "pos": 33,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Quixotic Scarp",
+        "encounter": "A trail of burning campfire leads you to believe magma zombies were here recently.",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Navigating the mystical moonlit mirage becomes challenging due to current sylphs whistling with whirlpool wraiths.",
         "history": []
     },
     {
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Navigating the bewitched buoyancy bubble becomes challenging due to abyssal artists swooning in sea sprite symphonies.",
         "history": []
     },
     {
@@ -412,14 +412,14 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is marked by hidden harbor hideaway, a testament to deep-sea djinns that once unearthing underwater utopias.",
         "history": []
     },
     {
         "chunk": 29,
         "pos": 52,
         "terrain": "O",
-        "features": "Unspoiled Kelp Forest",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -443,7 +443,7 @@
         "chunk": 29,
         "pos": 55,
         "terrain": "O",
-        "features": "Choppy Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -452,7 +452,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "Your senses are overwhelmed by desperation as you uncover a bottle of rare and potent mermaid tears hidden within seafloor seagrass.",
+        "encounter": "The area is filled with zephyr's zinnia, providing cover for tidal chimera.",
         "history": []
     },
     {
@@ -467,8 +467,8 @@
         "chunk": 29,
         "pos": 58,
         "terrain": "O",
-        "features": "Tidal Atoll",
-        "encounter": "A sudden gust brings with it freshly baked bread from a seaside bakery. You spot selkies that seem to be taming and riding sea turtles.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -476,14 +476,14 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear sapphire springs stadium, suggesting tales of tidal chimera.",
         "history": []
     },
     {
         "chunk": 29,
         "pos": 60,
         "terrain": "O",
-        "features": "Silent Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -491,7 +491,7 @@
         "chunk": 29,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Deep",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 29,
         "pos": 69,
         "terrain": "O",
-        "features": "Choppy Gulf",
+        "features": "Haunting Thermocline",
         "encounter": "",
         "history": []
     },
@@ -571,7 +571,7 @@
         "chunk": 29,
         "pos": 71,
         "terrain": "O",
-        "features": "Raging Drop-off",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across a(n) atlantean artifact that bear the mark of abyssal shade anglers.",
         "history": []
     },
     {
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by underwater urchin utopia, a testament to stingrays and their tales.",
         "history": []
     },
     {
@@ -651,7 +651,7 @@
         "chunk": 29,
         "pos": 81,
         "terrain": "O",
-        "features": "Daunting Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -659,7 +659,7 @@
         "chunk": 29,
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Passage",
         "encounter": "",
         "history": []
     },
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) staff of the magi nestled within the siren's silkweed, surrounded by sail's canvas.",
         "history": []
     },
     {
@@ -676,7 +676,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with resilience upon finding the deserted dolphin domain linked to nebulous nighttide naiads.",
         "history": []
     },
     {
@@ -739,7 +739,7 @@
         "chunk": 29,
         "pos": 92,
         "terrain": "O",
-        "features": "Harmonious Tidal Pool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of barnacle bards that intriguing iridescent imps from island inlets.",
         "history": []
     },
     {
@@ -763,7 +763,7 @@
         "chunk": 29,
         "pos": 95,
         "terrain": "O",
-        "features": "Tranquil Undercurrent",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a haunted shipwreck with vengeful spirits. As you approach, underwater miners taming and riding sea turtles.",
+        "encounter": "",
         "history": []
     },
     {

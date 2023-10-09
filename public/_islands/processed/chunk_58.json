@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across the sunken sailor's sanctuary that speak(s) of mystical maritime menders and their tales.",
         "history": []
     },
     {
@@ -51,8 +51,8 @@
         "chunk": 58,
         "pos": 6,
         "terrain": "O",
-        "features": "Peaceful Seabed",
-        "encounter": "The way forward is blocked by a dense, toxic algae bloom poisoning the water, but you notice an underwater lagoon hidden by dense seaweed that might lead around it.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 58,
         "pos": 8,
         "terrain": "O",
-        "features": "Pristine Wave",
+        "features": "Vibrant Reef",
         "encounter": "",
         "history": []
     },
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a sunken city with buildings rising to the surface blocking your path. Perhaps it's related to your quest to help a stranded sailor repair their ship and return home..",
+        "encounter": "",
         "history": []
     },
     {
@@ -107,7 +107,7 @@
         "chunk": 58,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Tide",
         "encounter": "",
         "history": []
     },
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with reverence upon discovering a(n) nereid's notebook linked to sea spriggans.",
         "history": []
     },
     {
@@ -148,14 +148,14 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "You see a seafarer's compass that points to hidden treasure that could be useful in your quest to retrieve a sunken treasure map from the lair of a giant octopus.. But it's guarded by lighthouse guardians.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 58,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Hushed Deep",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 58,
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Passage",
         "encounter": "",
         "history": []
     },
@@ -244,15 +244,15 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey leads you to a a band of marauding pirates waiting to attack. As you approach, kelpie protecting their underwater city from intruders.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 58,
         "pos": 31,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Majestic Tide",
+        "encounter": "Reverberating rifts, tales of astral abyssal artisans seem to resonate.",
         "history": []
     },
     {
@@ -339,7 +339,7 @@
         "chunk": 58,
         "pos": 42,
         "terrain": "O",
-        "features": "Deep Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 58,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Sultry Estuary",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 58,
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Passage",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The whispering water whirl ahead are said to be the work of deep-sea dryads that are dallying with deep-sea divas.",
         "history": []
     },
     {
@@ -467,7 +467,7 @@
         "chunk": 58,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Stormy Ocean",
         "encounter": "",
         "history": []
     },
@@ -483,7 +483,7 @@
         "chunk": 58,
         "pos": 60,
         "terrain": "O",
-        "features": "Mysterious Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 58,
         "pos": 62,
         "terrain": "O",
-        "features": "Roaring Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -515,7 +515,7 @@
         "chunk": 58,
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Languid Current",
         "encounter": "",
         "history": []
     },
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among feather boa kelp, you spot a ship's logbook with a mysterious route glinting in the sunlight.",
+        "encounter": "",
         "history": []
     },
     {
@@ -555,8 +555,8 @@
         "chunk": 58,
         "pos": 69,
         "terrain": "O",
-        "features": "Dense Shoal",
-        "encounter": "",
+        "features": "",
+        "encounter": "A distant sound suggests lagoon lightweavers are questioning quokka quartermasters near the gilded gorges' gateway.",
         "history": []
     },
     {
@@ -603,7 +603,7 @@
         "chunk": 58,
         "pos": 75,
         "terrain": "O",
-        "features": "Limitless Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -636,14 +636,14 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of reef raiders that once negotiate trade routes with a nearby island tribe in this region.",
         "history": []
     },
     {
         "chunk": 58,
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Reflective Narrows",
         "encounter": "",
         "history": []
     },
@@ -699,7 +699,7 @@
         "chunk": 58,
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Wavy Upwelling",
         "encounter": "",
         "history": []
     },
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of the remnants of a ship's wheel half-buried in the sand suggests that sunken treasure guardians have passed through here on a quest to explore an underwater cave system to find a valuable artifact..",
+        "encounter": "",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 58,
         "pos": 93,
         "terrain": "O",
-        "features": "Ageless Haven",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -763,7 +763,7 @@
         "chunk": 58,
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Sultry Basin",
         "encounter": "",
         "history": []
     },

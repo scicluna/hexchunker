@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a magical conch shell that can summon sea creatures nestled among giant underwater mushrooms, but the unsettling feeling of anger makes you wary.",
+        "encounter": "",
         "history": []
     },
     {
@@ -51,7 +51,7 @@
         "chunk": 12,
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Deep",
         "encounter": "",
         "history": []
     },
@@ -60,7 +60,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice sponge colonies moving subtly. Upon closer inspection, you see kelpie that are rescuing shipwreck survivors.",
+        "encounter": "",
         "history": []
     },
     {
@@ -75,7 +75,7 @@
         "chunk": 12,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Golden Swell",
         "encounter": "",
         "history": []
     },
@@ -91,7 +91,7 @@
         "chunk": 12,
         "pos": 11,
         "terrain": "O",
-        "features": "Dense Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -100,14 +100,14 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "The sponge colonies rustles, revealing sirens that are conducting a mystical sea ritual.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 13,
         "terrain": "O",
-        "features": "Untamed Sound",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense hornwort, you catch sight of a ship's chart with uncharted territories marked. But be cautious, pounding of heavy rain during a monsoon suggest jellyfish navigators are near.",
+        "encounter": "",
         "history": []
     },
     {
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice brown algae forests moving subtly. Upon closer inspection, you see merfolk that are performing a ritual to calm a storm.",
+        "encounter": "You're captivated by a(n) siren's silk scarf among the sea sprite sprout, exuding starboard spices.",
         "history": []
     },
     {
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers of stellar seagrass specters murmuring maritime myths can be heard saltwater sanctuaries.",
         "history": []
     },
     {
@@ -212,15 +212,15 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "With retrieve a sunken treasure map from the lair of a giant octopus. On your mind, the sudden appearance of a treacherous, narrow strait with strong currents accompanied by churning of water as a whirlpool forms becomes a challenging diversion.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 27,
         "terrain": "O",
-        "features": "Sunlit Delta",
-        "encounter": "A sudden gust brings with it smell of seaweed roasting in the sun. You spot crystal reef dwellers that seem to be wreaking havoc on passing ships.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -235,8 +235,8 @@
         "chunk": 12,
         "pos": 29,
         "terrain": "O",
-        "features": "Sapphire Whirlpool",
-        "encounter": "",
+        "features": "Lush Shoal",
+        "encounter": "You're captivated by a(n) voyager's velvet veil, which seem(s) to have ties with narwhals.",
         "history": []
     },
     {
@@ -251,7 +251,7 @@
         "chunk": 12,
         "pos": 31,
         "terrain": "O",
-        "features": "Shimmering Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -259,7 +259,7 @@
         "chunk": 12,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Marine Narrows",
         "encounter": "",
         "history": []
     },
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) coral-covered casket by a peculiar sense of hopefulness.",
         "history": []
     },
     {
@@ -291,7 +291,7 @@
         "chunk": 12,
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Whispering Islet",
         "encounter": "",
         "history": []
     },
@@ -300,7 +300,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path is littered with triton's tidal trap, a testament to sea lions that once imbibing in inky inlets.",
         "history": []
     },
     {
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "A mysterious clean, crisp scent of the open sea envelops you, drawing you towards an underwater whirlpool leading to a hidden realm where water elementals are navigating treacherous waters during a storm.",
+        "encounter": "",
         "history": []
     },
     {
@@ -323,7 +323,7 @@
         "chunk": 12,
         "pos": 40,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Atoll",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 12,
         "pos": 41,
         "terrain": "O",
-        "features": "Reflective Haven",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 12,
         "pos": 43,
         "terrain": "O",
-        "features": "Windswept Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by the soft rustling of parchment as a map is unfurled. As you follow, you encounter coral golems in the midst of raiding a coastal village for supplies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 12,
         "pos": 51,
         "terrain": "O",
-        "features": "Reflective Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Stories tell of tidal troubadours that investigate reports of fresh water springs in the ocean amidst these surroundings.",
         "history": []
     },
     {
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense colorful coral polyps, you catch sight of a chest of exotic spices from distant lands. But be cautious, hissing of foam as waves recede suggest shipwreck goblins are near.",
+        "encounter": "A trail of starfish's subtle scent suggests that pelagic pixies were here recently.",
         "history": []
     },
     {
@@ -452,7 +452,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "Ahead, there is a treacherous, labyrinthine underwater cave system blocking your path. Perhaps it's related to your quest to retrieve a sunken treasure from a ghost ship guarded by vengeful spirits..",
+        "encounter": "",
         "history": []
     },
     {
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) anchor of holding that seem out of place, exuding a sense of yearning.",
         "history": []
     },
     {
@@ -475,15 +475,15 @@
         "chunk": 12,
         "pos": 59,
         "terrain": "O",
-        "features": "Sunlit Seamount",
-        "encounter": "",
+        "features": "",
+        "encounter": "The dense nautical nectar bush seems to whisper tales of lagoon looters and their challenge the champions of the merfolk in a race.",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 60,
         "terrain": "O",
-        "features": "Lonely Jetty",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "From the shadows of the a sunken garden of rare and magical sea plants, you sense the presence of underwater miners.",
+        "encounter": "",
         "history": []
     },
     {
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Beneath behemoth bones, you hear reefbound rescuers adorning abyssal alcoves, accompanied by freshly opened oysters.",
         "history": []
     },
     {
@@ -540,14 +540,14 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden hissing of foam as waves recede breaks the silence, making the nearby red grape algae quiver.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Strait",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 12,
         "pos": 69,
         "terrain": "O",
-        "features": "Tempestuous Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -572,14 +572,14 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Deep-sea djinns lamenting lost lagoon lore are hidden isle of illusions.",
         "history": []
     },
     {
         "chunk": 12,
         "pos": 72,
         "terrain": "O",
-        "features": "Shimmering Main",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -723,7 +723,7 @@
         "chunk": 12,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Abyss",
         "encounter": "",
         "history": []
     },
@@ -731,7 +731,7 @@
         "chunk": 12,
         "pos": 91,
         "terrain": "O",
-        "features": "Spectacular Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Stories tell of nebulous nautilus nomads that assist a marine scientist in studying ocean temperatures amidst these surroundings.",
         "history": []
     },
     {
@@ -755,8 +755,8 @@
         "chunk": 12,
         "pos": 94,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Stormy Trench",
+        "encounter": "A local offers you a quest to assist a historian in documenting ancient shipwrecks involving brinebound botanists.",
         "history": []
     },
     {
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of buzzing of underwater machinery in a sunken city is accompanied by the distinct aroma of saltwater in the air. It seems giant sea turtles are involved in battling a giant sea serpent.",
+        "encounter": "",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A strong scent of oceanic algae leads you towards tritons.",
         "history": []
     },
     {
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the dense caulerpa seaweed, you discover a beautifully crafted coral tiara. You can't shake the feeling of dread.",
+        "encounter": "",
         "history": []
     },
     {

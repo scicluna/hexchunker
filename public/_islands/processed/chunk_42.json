@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a ship's lantern on the seafloor indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -35,7 +35,7 @@
         "chunk": 42,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Sultry Narrows",
         "encounter": "",
         "history": []
     },
@@ -43,7 +43,7 @@
         "chunk": 42,
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Sprawling Deep",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 42,
         "pos": 7,
         "terrain": "O",
-        "features": "Turbulent Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -67,8 +67,8 @@
         "chunk": 42,
         "pos": 8,
         "terrain": "O",
-        "features": "Calm Lagoon",
-        "encounter": "",
+        "features": "",
+        "encounter": "You come across a(n) xebec's charm that bear the mark of tuna shoals.",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 42,
         "pos": 18,
         "terrain": "O",
-        "features": "Calm Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales suggest sunken swindlers once communing with crustacean clans in this vicinity.",
         "history": []
     },
     {
@@ -244,7 +244,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of merfolk markets suggests that tsunami titans were here recently.",
         "history": []
     },
     {
@@ -259,7 +259,7 @@
         "chunk": 42,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Placid Eddy",
         "encounter": "",
         "history": []
     },
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a sunken ship's anchor nestled among giant underwater mushrooms, but the unsettling feeling of pride makes you wary.",
+        "encounter": "",
         "history": []
     },
     {
@@ -284,7 +284,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path is littered with barnacle barrier, a testament to abyssal leviathans that once kindling kelpie kinships.",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is illuminated by the glint of a ship's chart with uncharted territories marked. However, sarcastic cephalopod stand guard, their intentions unknown.",
+        "encounter": "",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) quartz quill that seem to resonate with tales of vortex viperfish seers.",
         "history": []
     },
     {
@@ -387,7 +387,7 @@
         "chunk": 42,
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Windy Inlet",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Island inlets, tales of astral abyssal artisans seem to resonate.",
         "history": []
     },
     {
@@ -468,14 +468,14 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a dense minefield of explosive devices, but you notice a submerged pirate's lair hidden by a waterfall that might lead around it.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Canyon",
         "encounter": "",
         "history": []
     },
@@ -484,15 +484,15 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant humming of a powerful sea enchantment draws your attention. Following it, you discover an abandoned lifeboat adrift on the waves of a past event.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 61,
         "terrain": "O",
-        "features": "Infinite Chasm",
-        "encounter": "",
+        "features": "",
+        "encounter": "The reef rose hides a(n) nautical needlepoint, which are said to be linked to sunken spirits and their apprehension.You notice sunken spirits that seem to be vexing the vortex vikings.",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 42,
         "pos": 67,
         "terrain": "O",
-        "features": "Raging Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -555,15 +555,15 @@
         "chunk": 42,
         "pos": 69,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Pacific Undertow",
+        "encounter": "You overhear tales of kelpies that quixotically questing for quahogs from mermaid manors.",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 70,
         "terrain": "O",
-        "features": "Calm Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter oceanic alchemists which are navigating treacherous waters during a storm.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) hat of disguise by an overwhelming sense of meditation.",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Your way is impeded by a haunted shipwreck with vengeful spirits. As you contemplate a way around, you hear creaking of a ship's rigging in the wind from the shadows.",
+        "encounter": "The path bears marks of shoals of mackerel and their interactions with a(n) fantasy-filled feather.",
         "history": []
     },
     {
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You spot star-soaked sandbar warlocks jiving with jellyfish jesters, casting shadows on a(n) island ice pick.",
         "history": []
     },
     {
@@ -691,7 +691,7 @@
         "chunk": 42,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Sundrenched Upwelling",
         "encounter": "",
         "history": []
     },
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The glowing plankton bush rustles as oceanic griffins are trading trinkets with tritons behind them.",
         "history": []
     },
     {
@@ -756,14 +756,14 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot a sparkling pearl necklace nestled among hornwort, but the unsettling feeling of resignation makes you wary.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Enigmatic Bight",
         "encounter": "",
         "history": []
     },

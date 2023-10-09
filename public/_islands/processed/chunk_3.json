@@ -75,7 +75,7 @@
         "chunk": 3,
         "pos": 9,
         "terrain": "O",
-        "features": "Nautical Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -91,7 +91,7 @@
         "chunk": 3,
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Marine Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -115,7 +115,7 @@
         "chunk": 3,
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Cool Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -131,7 +131,7 @@
         "chunk": 3,
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Vents",
         "encounter": "",
         "history": []
     },
@@ -140,14 +140,14 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're warned of salt whirlwind ahead, where maritime mystics often are hailing harborbound heroes.",
         "history": []
     },
     {
         "chunk": 3,
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Tide",
         "encounter": "",
         "history": []
     },
@@ -155,7 +155,7 @@
         "chunk": 3,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Cool Undertow",
         "encounter": "",
         "history": []
     },
@@ -180,7 +180,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel determination as sighing of the wind through sea caves echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
@@ -244,15 +244,15 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "Strange the remnants of a fishing net tangled in the coral lie scattered, painting a tale of jellyfish navigators that exploring a mysterious underwater cave.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 3,
         "pos": 31,
         "terrain": "O",
-        "features": "Pristine Harbor",
-        "encounter": "",
+        "features": "",
+        "encounter": "You find a(n) stone of controlling water elementals that seem to resonate with tales of davy jones' diplomats.",
         "history": []
     },
     {
@@ -267,7 +267,7 @@
         "chunk": 3,
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Foamy Strait",
         "encounter": "",
         "history": []
     },
@@ -284,7 +284,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "The way forward is blocked by a haunted shipwreck with vengeful spirits, but you notice a treasure cache buried in the sand on a deserted island that might lead around it.",
+        "encounter": "Whispers suggest eels are reveling in reefbound radiance ocean oracle oratories.",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a hint leading you to uncover the secrets of a mysterious, ship-swallowing whirlpool.. But be wary, for storm giants lurk nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "The kelp forests rustles, revealing mermen that are collecting rare and magical seashells.",
+        "encounter": "",
         "history": []
     },
     {
@@ -347,7 +347,7 @@
         "chunk": 3,
         "pos": 43,
         "terrain": "O",
-        "features": "Glistening Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -412,7 +412,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Hidden among mermaid's hair algae, you spot a preserved mermaid tail glinting in the sunlight.",
+        "encounter": "",
         "history": []
     },
     {
@@ -451,7 +451,7 @@
         "chunk": 3,
         "pos": 56,
         "terrain": "O",
-        "features": "Sparkling Kelp Forest",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -467,7 +467,7 @@
         "chunk": 3,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Clear Ocean",
         "encounter": "",
         "history": []
     },
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel euphoria as chirping of crickets on a moonlit beach echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of mystic mollusk monks that kindling kelpie kinships in this region.",
         "history": []
     },
     {
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You discover a(n) nautical necklace concealed by kraken kudzu, hinting at strange fisherman.",
         "history": []
     },
     {
@@ -547,8 +547,8 @@
         "chunk": 3,
         "pos": 68,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sunlit Abyss",
+        "encounter": "The area is marked by a(n) kraken's kilt, hinting at the tales of reefbound rescuers.",
         "history": []
     },
     {
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of rustling of seaweed in the currents is accompanied by the distinct aroma of sun-warmed sand. It seems cursed mermaids are involved in convincing a shipwrecked sailor to join their crew.",
+        "encounter": "",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating through a massive, drifting iceberg with hidden dangers, you're surprised to find an overgrown shipwreck hidden beneath a dense kelp bed filled with the remnants of a sunken merchant ship's cargo.As you journey forward, you come across a ghostly lantern that wards off spirits, with traces of fresh, salty scent of oysters on the shore around them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about crabs that are known to yearning for yawning yonders near luminous leviathan labyrinth.",
         "history": []
     },
     {
@@ -603,7 +603,7 @@
         "chunk": 3,
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Estuary",
         "encounter": "",
         "history": []
     },
@@ -619,15 +619,15 @@
         "chunk": 3,
         "pos": 77,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Moonlit Ocean",
+        "encounter": "You're drawn to a(n) oceanic opal, only to find signs of ethereal whirlpool spirits entertaining ethereal entities.",
         "history": []
     },
     {
         "chunk": 3,
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Blue Undertow",
         "encounter": "",
         "history": []
     },
@@ -667,7 +667,7 @@
         "chunk": 3,
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Wild Riptide",
         "encounter": "",
         "history": []
     },
@@ -675,7 +675,7 @@
         "chunk": 3,
         "pos": 84,
         "terrain": "O",
-        "features": "Luminous Main",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of nautical nebula druids that xeroxing xenial xanadus from lustrous labyrinths.",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 3,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Tropical Salinity",
         "encounter": "",
         "history": []
     },
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "Surrounded by thick beds of eelgrass, a series of a hidden pirate's tunnel behind a cascading waterfall reveal traces of the remnants of a ship's broken figurehead, and the distant sighing of the wind through sea caves hint at more to discover.",
+        "encounter": "",
         "history": []
     }
 ]

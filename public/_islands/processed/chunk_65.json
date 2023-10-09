@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "Peering through the dense sea anemone gardens, you catch sight of a mysterious, glowing underwater crystal. But be cautious, booming of waves in a hidden sea cave suggest turtle island shamans are near.",
+        "encounter": "Your path is blocked by mystical mermaid mosaic, guarded by wave whisperers.",
         "history": []
     },
     {
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "The sea grape kelp rustles, revealing kraken that are navigating treacherous waters during a storm.",
+        "encounter": "You're guided by beach ball plastic, leading to traces of sea sprites.",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 65,
         "pos": 7,
         "terrain": "O",
-        "features": "Raging Rift",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local offers you a quest to locate a missing cargo shipment involving mermaids.",
         "history": []
     },
     {
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon a scene where tidal wave elementals are engaged in training sea creatures for battle around a ghostly lantern that wards off spirits, seemingly crucial for retrieve a powerful, magical artifact from a sunken shipwreck..",
+        "encounter": "",
         "history": []
     },
     {
@@ -116,14 +116,14 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel contentment as rustling of seaweed swaying in the current echo in the distance. Perhaps it's a sign of what's to come.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 15,
         "terrain": "O",
-        "features": "Ageless Sandbank",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -131,8 +131,8 @@
         "chunk": 65,
         "pos": 16,
         "terrain": "O",
-        "features": "",
-        "encounter": "You uncover a sunken cannon half-buried in the coral that tell a story of a time when island hermit pursued recover a stolen, enchanted pearl necklace for a heartbroken mermaid..",
+        "features": "Majestic Strait",
+        "encounter": "",
         "history": []
     },
     {
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the remnants of a ship's anchor chain indicating past battles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -187,7 +187,7 @@
         "chunk": 65,
         "pos": 23,
         "terrain": "O",
-        "features": "Surging Plateau",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Nymph's nooks, you hear ethereal whirlpool spirits hailing harborbound heroes, accompanied by luminous plankton.",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 65,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Stormy Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -243,7 +243,7 @@
         "chunk": 65,
         "pos": 30,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Fathom",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 65,
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous Deep",
         "encounter": "",
         "history": []
     },
@@ -283,7 +283,7 @@
         "chunk": 65,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Aquamarine Seamount",
         "encounter": "",
         "history": []
     },
@@ -299,8 +299,8 @@
         "chunk": 65,
         "pos": 37,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Clear Maelstrom",
+        "encounter": "The area is marked by a(n) ring of the mariner, hinting at the tales of sunken scribes.",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 65,
         "pos": 41,
         "terrain": "O",
-        "features": "Majestic Edifice",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -355,15 +355,15 @@
         "chunk": 65,
         "pos": 44,
         "terrain": "O",
-        "features": "Endless Seamount",
-        "encounter": "",
+        "features": "",
+        "encounter": "A sudden resilience grips you as marine memory makers basking in brine brilliance sunken citadels.",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 45,
         "terrain": "O",
-        "features": "Teeming Sandbank",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -379,7 +379,7 @@
         "chunk": 65,
         "pos": 47,
         "terrain": "O",
-        "features": "Unfathomable Edifice",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -427,7 +427,7 @@
         "chunk": 65,
         "pos": 53,
         "terrain": "O",
-        "features": "Ageless Drop-off",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -435,7 +435,7 @@
         "chunk": 65,
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Ridge",
         "encounter": "",
         "history": []
     },
@@ -451,7 +451,7 @@
         "chunk": 65,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Jeweled Billow",
         "encounter": "",
         "history": []
     },
@@ -459,15 +459,15 @@
         "chunk": 65,
         "pos": 57,
         "terrain": "O",
-        "features": "Peaceful Abyss",
-        "encounter": "Navigating through a cursed lighthouse guiding ships to their doom, you're surprised to find an overgrown shipwreck hidden beneath a dense kelp bed filled with the remnants of a pirate's skeleton on a sunken ship.As you journey forward, you come across a coral crown adorned with precious gems, with traces of aromatic spices from a seaside market around them.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 58,
         "terrain": "O",
-        "features": "Majestic Main",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -515,7 +515,7 @@
         "chunk": 65,
         "pos": 64,
         "terrain": "O",
-        "features": "Choppy Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "With rescue a stranded mermaid from a treacherous reef. On your mind, the sudden appearance of a cursed lighthouse guiding ships to their doom accompanied by distant rumble of thunder during a storm becomes a challenging diversion.",
+        "encounter": "",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 65,
         "pos": 67,
         "terrain": "O",
-        "features": "Ethereal Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -548,14 +548,14 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "The whisper of roaring of a powerful waterfall cascading into the sea is accompanied by the distinct aroma of crisp, ocean-scented laundry on a line. It seems ship-eating barnacles are involved in conducting a mystical sea ritual.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 69,
         "terrain": "O",
-        "features": "Uncharted Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your heart humility when you see shoals of mackerel near a(n) voyager's velvet vest.",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Stories tell of sunken specters that uncover the secret of the vanishing ships in the bermuda triangle amidst these surroundings.",
         "history": []
     },
     {
@@ -651,7 +651,7 @@
         "chunk": 65,
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Jetstream",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "Turtle island shamans emerge from the a concealed passage leading to an underwater city, their intent focused on a pirate's cutlass with an ornate hilt.",
+        "encounter": "",
         "history": []
     },
     {
@@ -739,7 +739,7 @@
         "chunk": 65,
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Stormy Current",
         "encounter": "",
         "history": []
     },
@@ -747,8 +747,8 @@
         "chunk": 65,
         "pos": 93,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sapphire Undertow",
+        "encounter": "The path is littered with triton's trickster trap, a testament to manatees that once diving into deep-sea dreams.",
         "history": []
     },
     {
@@ -771,8 +771,8 @@
         "chunk": 65,
         "pos": 96,
         "terrain": "O",
-        "features": "",
-        "encounter": "You spot a sunken ship's anchor nestled among floating seaweed rafts, but the unsettling feeling of resignation makes you wary.",
+        "features": "Sprawling Seamount",
+        "encounter": "",
         "history": []
     },
     {
