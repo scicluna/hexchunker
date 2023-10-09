@@ -1,9 +1,8 @@
 import { NextRequest } from "next/server";
 import fs from "fs/promises"
 import path from "path";
-import { NextApiResponse } from "next";
 
-export async function POST(req: NextRequest, res: NextApiResponse) {
+export async function POST(req: NextRequest) {
     const parsedreq = await req.json()
     let { newMessage, filename, pos } = parsedreq
 
