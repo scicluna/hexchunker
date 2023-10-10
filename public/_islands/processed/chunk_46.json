@@ -19,7 +19,7 @@
         "chunk": 46,
         "pos": 2,
         "terrain": "O",
-        "features": "Bubbling Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "The triton's truffle rustles as cerulean conservators are heralding hypnotic harmonies behind them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 46,
         "pos": 7,
         "terrain": "O",
-        "features": "Roaring Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is blocked by spectral sargasso spiral, guarded by sea anemones.",
+        "encounter": "The area is marked by lost island of nymphs, hinting at the presence of walruses.",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 46,
         "pos": 18,
         "terrain": "O",
-        "features": "Turbid Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -155,7 +155,7 @@
         "chunk": 46,
         "pos": 19,
         "terrain": "O",
-        "features": "Marine Islet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -178,40 +178,40 @@
     {
         "chunk": 46,
         "pos": 22,
-        "terrain": "M",
-        "features": "Dominant Range",
-        "encounter": "Old campsite echo with tales of foxes and their serenity.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 23,
-        "terrain": "H",
-        "features": "Mounded Crest",
-        "encounter": "Sounds suggest hillcrest falconers are engaging in a duel of wits with sprites, leaving behind the crumbled chimera's den.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 24,
-        "terrain": "H",
-        "features": "Rugged Ridge",
-        "encounter": "Hillfolk nomads practicing their calls and songs are hidden under a canopy of intertwined branches.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 25,
-        "terrain": "M",
-        "features": "Stark Peak",
-        "encounter": "Within a grove of birch trees, you hear aarakocra flocks telling tales that become reality, accompanied by scent of mountain cilantro.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Swirling Lagoon",
         "encounter": "",
         "history": []
     },
@@ -235,7 +235,7 @@
         "chunk": 46,
         "pos": 29,
         "terrain": "O",
-        "features": "Coastal Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -243,7 +243,7 @@
         "chunk": 46,
         "pos": 30,
         "terrain": "O",
-        "features": "Tempestuous Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -259,40 +259,40 @@
         "chunk": 46,
         "pos": 32,
         "terrain": "O",
-        "features": "Breezy Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 33,
-        "terrain": "M",
-        "features": "Impressive Trench",
-        "encounter": "Your journey is interrupted by exposure to sun, with signs of stone mephits nearby.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 34,
-        "terrain": "M",
-        "features": "Quaint Boulder",
-        "encounter": "You're filled with freedom upon spotting a(n) xanathar's spyglass.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 35,
-        "terrain": "H",
-        "features": "Serene Bank",
-        "encounter": "You're captivated by a(n) eversmoking bottle from a hillside camp among the rowan trees, exuding wild strawberries.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 36,
-        "terrain": "M",
-        "features": "Icy Pinnacle",
-        "encounter": "You notice a(n) celestial crag crown that is oddly placed amongst the silverleaf phacelia.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant sound suggests abyssal shade anglers are knaving with kelpie kings near the quiet quay quarry.",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with oceanic oregano, providing cover for seals.",
         "history": []
     },
     {
@@ -354,38 +354,6 @@
     {
         "chunk": 46,
         "pos": 44,
-        "terrain": "M",
-        "features": "Awed Plateau",
-        "encounter": "You stumble upon the abandoned mountain gallery.",
-        "history": []
-    },
-    {
-        "chunk": 46,
-        "pos": 45,
-        "terrain": "M",
-        "features": "Unyielding Summit",
-        "encounter": "Behind a trail of animal tracks, tales of crows seem to resonate.",
-        "history": []
-    },
-    {
-        "chunk": 46,
-        "pos": 46,
-        "terrain": "M",
-        "features": "Jagged Slope",
-        "encounter": "A local offers you a quest to recover stolen relics from a mountain temple involving hilltop hellfire sylphs.",
-        "history": []
-    },
-    {
-        "chunk": 46,
-        "pos": 47,
-        "terrain": "M",
-        "features": "Breathtaking Incline",
-        "encounter": "A sudden smell of mountain sage alerts you to the presence of rocky rust monsters.",
-        "history": []
-    },
-    {
-        "chunk": 46,
-        "pos": 48,
         "terrain": "O",
         "features": "",
         "encounter": "",
@@ -393,9 +361,41 @@
     },
     {
         "chunk": 46,
+        "pos": 45,
+        "terrain": "O",
+        "features": "",
+        "encounter": "The path reveals seashell sorcerers that seem to be noodling with nautical nymphs in order to assist a marine scientist in studying ocean temperatures.",
+        "history": []
+    },
+    {
+        "chunk": 46,
+        "pos": 46,
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
+        "history": []
+    },
+    {
+        "chunk": 46,
+        "pos": 47,
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
+        "history": []
+    },
+    {
+        "chunk": 46,
+        "pos": 48,
+        "terrain": "O",
+        "features": "Infinite Thermocline",
+        "encounter": "",
+        "history": []
+    },
+    {
+        "chunk": 46,
         "pos": 49,
         "terrain": "O",
-        "features": "Whispering Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "There's a legend about nebulous nighttide naiads that help a local artist paint a seaside mural in this area.",
+        "encounter": "",
         "history": []
     },
     {
@@ -419,7 +419,7 @@
         "chunk": 46,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Eddy",
         "encounter": "",
         "history": []
     },
@@ -434,25 +434,25 @@
     {
         "chunk": 46,
         "pos": 54,
-        "terrain": "M",
-        "features": "Breathtaking Divide",
-        "encounter": "A trail of scent of mountain raspberries suggests that wights were here recently.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 55,
-        "terrain": "M",
-        "features": "Dominant Pinnacle",
-        "encounter": "You're filled with peace upon finding the deserted alpine pasture linked to muses.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 56,
-        "terrain": "M",
-        "features": "Celestial Foothill",
-        "encounter": "You spot symbiotes singing a duet with an echo spirit, casting shadows on a(n) empty flask.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -514,17 +514,17 @@
     {
         "chunk": 46,
         "pos": 64,
-        "terrain": "M",
-        "features": "Breathtaking Yawn",
-        "encounter": "You're drawn to a(n) jeweled anklet of zephyrs, which seem to have a connection with lunar lava luminaries.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 46,
         "pos": 65,
-        "terrain": "M",
-        "features": "Impressive Yawn",
-        "encounter": "The surroundings hold (a) crystal shard of starlight, which (are/is) said to be linked to wights.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 46,
         "pos": 67,
         "terrain": "O",
-        "features": "Raging Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -579,7 +579,7 @@
         "chunk": 46,
         "pos": 72,
         "terrain": "O",
-        "features": "Sunkissed Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear the distant sound of seashell seekers quelling quarrelsome quokkas.",
+        "encounter": "",
         "history": []
     },
     {
@@ -619,8 +619,8 @@
         "chunk": 46,
         "pos": 77,
         "terrain": "O",
-        "features": "Turbulent Maelstrom",
-        "encounter": "You're cautioned about fantasy fish's force field ahead, where eldritch eel summoners are known to be swaying to siren serenades.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -635,7 +635,7 @@
         "chunk": 46,
         "pos": 79,
         "terrain": "O",
-        "features": "Vast Channel",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -643,7 +643,7 @@
         "chunk": 46,
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Marine Atoll",
         "encounter": "",
         "history": []
     },
@@ -651,7 +651,7 @@
         "chunk": 46,
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Surf",
         "encounter": "",
         "history": []
     },
@@ -659,8 +659,8 @@
         "chunk": 46,
         "pos": 82,
         "terrain": "O",
-        "features": "Expansive Inlet",
-        "encounter": "Kelpie keeps, tales of astral abyssal artisans seem to resonate.",
+        "features": "Lush Sound",
+        "encounter": "",
         "history": []
     },
     {
@@ -707,7 +707,7 @@
         "chunk": 46,
         "pos": 88,
         "terrain": "O",
-        "features": "Muted Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -755,7 +755,7 @@
         "chunk": 46,
         "pos": 94,
         "terrain": "O",
-        "features": "Billowing Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -779,8 +779,8 @@
         "chunk": 46,
         "pos": 97,
         "terrain": "O",
-        "features": "Vibrant Horizon",
-        "encounter": "",
+        "features": "",
+        "encounter": "You hear the distant sound of schools of fish harmonizing in haunted harbors.",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of jellyfish's gentle ozone leads you to believe lagoon lorekeepers were here recently.",
+        "encounter": "",
         "history": []
     }
 ]

@@ -16,7 +16,7 @@ def generate_random_chunks(chunkNo):
         
 
 def generate_random_chunk(chunkSize=10):
-    chunk_type = ['ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'island']
+    chunk_type = ['ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'island']
     selected_chunk = random.choice(chunk_type)
     if selected_chunk == 'ocean':
         return generate_ocean_with_island(chunkSize,chunkSize)

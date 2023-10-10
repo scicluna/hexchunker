@@ -16,10 +16,15 @@ Rules:
 Meta Narrative:
 {meta_narrative}
 
-Adjacent Hexes:
-{adjacent}
+Surrounding Hex Information:
+-Northwest Hex: {northwest}
+-Northeast Hex: {northeast}
+-East Hex: {east}
+-West Hex: {west}
+-Southwest Hex: {southwest}
+-Southeast Hex: {southeast}
 
-Hex Details:
+Current Hex Information:
 {details}
 
 Current conversation:
@@ -46,16 +51,19 @@ export async function POST(req: NextRequest) {
     const outputParser = new BytesOutputParser();
     const chain = prompt.pipe(model).pipe(outputParser);
 
-    let ruleSet = `As a creative DM's assistant who loves to roll with strange scenarios, 
-    please try your best to weave an interesting narrative based on the current Hex's information combined 
-    with the adjacent Hexes' information (hexes have pointy end on top). Be descriptive and assertive.`
+    let ruleSet = "Craft a narrative linking the current hex with its adjacent hexes (pointy end on top). Think like a creative DM's Assistant embracing the unusual and aiding the DM. Connect, describe, and surprise. Keep answers terse and formatted with bullet points."
 
     let metaNarrative = 'This chain of islands was once a continent of magical power and splendor, rendered apart by a grand catastrophy.'
 
     const stream = await chain.stream({
         rules: ruleSet,
         meta_narrative: metaNarrative,
-        adjacent: adjacent,
+        northeast: adjacent.northeast,
+        northwest: adjacent.northwest,
+        west: adjacent.west,
+        east: adjacent.east,
+        southwest: adjacent.southwest,
+        southeast: adjacent.southeast,
         details: details,
         chat_history: formattedPreviousMessages.join('\n'),
         input: currentMessageContent,

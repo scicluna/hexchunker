@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "You're intrigued by forgotten fjord fort that bear the mark of vortex sea specters.",
+        "encounter": "",
         "history": []
     },
     {
@@ -60,15 +60,15 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "Ancient stories speak of reefbound revelers that once were help a local craftsman gather driftwood here.",
+        "encounter": "Whispers of nautical nomads glowing with ghostly grace can be heard aquatic alcoves.",
         "history": []
     },
     {
         "chunk": 85,
         "pos": 8,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Emerald Seafloor",
+        "encounter": "You stumble upon the vexing vortex villa.",
         "history": []
     },
     {
@@ -76,14 +76,14 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel tranquility as you spot a(n) belt of barnacle binding associated with tritons.",
         "history": []
     },
     {
         "chunk": 85,
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Vents",
         "encounter": "",
         "history": []
     },
@@ -91,7 +91,7 @@
         "chunk": 85,
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Restless Seamount",
         "encounter": "",
         "history": []
     },
@@ -99,7 +99,7 @@
         "chunk": 85,
         "pos": 12,
         "terrain": "O",
-        "features": "Foamy Seamount",
+        "features": "Pearlescent Estuary",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales suggest reef runners once whisking with wave witches in this vicinity.",
+        "encounter": "You overhear tales of eldritch estuary elves that listening to lagoon legends in this region.",
         "history": []
     },
     {
@@ -164,15 +164,15 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is blocked by sea sprite spiral, guarded by lunar lagoon looters.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 85,
         "pos": 21,
         "terrain": "O",
-        "features": "Tempestuous Sound",
-        "encounter": "The underwater geyser bear marks of coral centaurs that are mending mermaid mantles.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -187,7 +187,7 @@
         "chunk": 85,
         "pos": 23,
         "terrain": "O",
-        "features": "Golden Canyon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -195,7 +195,7 @@
         "chunk": 85,
         "pos": 24,
         "terrain": "O",
-        "features": "Seething Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -259,7 +259,7 @@
         "chunk": 85,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Emerald Delta",
         "encounter": "",
         "history": []
     },
@@ -291,7 +291,7 @@
         "chunk": 85,
         "pos": 36,
         "terrain": "O",
-        "features": "Sprawling Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -300,7 +300,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Echoes of abyssal adventurers resonate, accompanied by distinct aged rum from a sailor's flask.",
         "history": []
     },
     {
@@ -371,7 +371,7 @@
         "chunk": 85,
         "pos": 46,
         "terrain": "O",
-        "features": "Placid Horizon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -427,7 +427,7 @@
         "chunk": 85,
         "pos": 53,
         "terrain": "O",
-        "features": "Cerulean Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -452,14 +452,14 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel curiosity as you spot a(n) girdle of giant strength associated with sunlit seekers.",
         "history": []
     },
     {
         "chunk": 85,
         "pos": 57,
         "terrain": "O",
-        "features": "Jeweled Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -491,7 +491,7 @@
         "chunk": 85,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Surf",
         "encounter": "",
         "history": []
     },
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with nostalgia upon finding the submerged stonehenge linked to temporal tsunami titans.",
+        "encounter": "",
         "history": []
     },
     {
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the island ivy, you find a(n) harmonic harpoon that resonate with inspiration.",
+        "encounter": "",
         "history": []
     },
     {
@@ -579,7 +579,7 @@
         "chunk": 85,
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Coastal Estuary",
         "encounter": "",
         "history": []
     },
@@ -611,7 +611,7 @@
         "chunk": 85,
         "pos": 76,
         "terrain": "O",
-        "features": "Tropical Salinity",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -636,14 +636,14 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the glowing plankton bush, a(n) starfish scepter catch(es) your eye, exuding a sense of contentment.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 85,
         "pos": 80,
         "terrain": "O",
-        "features": "Boundless Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -675,7 +675,7 @@
         "chunk": 85,
         "pos": 84,
         "terrain": "O",
-        "features": "Sunlit Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "Whispers of nebulous nighttide enchanters animating abyssal apparitions can be heard illuminated inlets.",
+        "encounter": "",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The local tales speak of wave wonders that gyrating with ghostly gorgons near lost lunar loop.",
         "history": []
     },
     {
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel awe as you spot a(n) jade jug associated with nautical nebula druids.",
+        "encounter": "",
         "history": []
     },
     {
@@ -731,7 +731,7 @@
         "chunk": 85,
         "pos": 91,
         "terrain": "O",
-        "features": "",
+        "features": "Hypnotic Fjord",
         "encounter": "",
         "history": []
     },
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "A local offers you a quest to assist a local storyteller in gathering sea legends involving guppy enchanters.",
+        "encounter": "",
         "history": []
     },
     {
@@ -779,7 +779,7 @@
         "chunk": 85,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Sound",
         "encounter": "",
         "history": []
     },

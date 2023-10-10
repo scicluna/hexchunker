@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating the zoned-out ziggurat zone becomes challenging due to reef raiders waltzing in whirlpool waltzes.",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 59,
         "pos": 8,
         "terrain": "O",
-        "features": "Serene Eddy",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,23 +75,23 @@
         "chunk": 59,
         "pos": 9,
         "terrain": "O",
-        "features": "Serene Fjord",
-        "encounter": "You come across a(n) kraken's kilt that bear the mark of mercurial merchants.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 59,
         "pos": 10,
         "terrain": "O",
-        "features": "Briny Strait",
-        "encounter": "The area is marked by a(n) lamp of genie summoning, hinting at the tales of temporal guardians of the deep.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 59,
         "pos": 11,
         "terrain": "O",
-        "features": "Tide-kissed Salinity",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -99,7 +99,7 @@
         "chunk": 59,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Blue Riptide",
         "encounter": "",
         "history": []
     },
@@ -107,8 +107,8 @@
         "chunk": 59,
         "pos": 13,
         "terrain": "O",
-        "features": "Pristine Bight",
-        "encounter": "A trail of beached kelp suggests that sea sprites were here recently.",
+        "features": "Sapphire Channel",
+        "encounter": "",
         "history": []
     },
     {
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A strong scent of voyager's vellum maps suggests recent activity by abyssal alchemists.",
         "history": []
     },
     {
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the reef's rhubarb, you find a(n) instrument of the bards that resonate with resilience.",
         "history": []
     },
     {
@@ -139,15 +139,15 @@
         "chunk": 59,
         "pos": 17,
         "terrain": "O",
-        "features": "Breezy Lagoon",
-        "encounter": "",
+        "features": "",
+        "encounter": "Tales speak of saltwater soothsayers that are dreaming in deep-sea domains in these parts.",
         "history": []
     },
     {
         "chunk": 59,
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Tropical Tide",
         "encounter": "",
         "history": []
     },
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes suggest saltwater wyrms are intriguing iridescent imps seaweed shrouds.",
+        "encounter": "",
         "history": []
     },
     {
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of isolation grips you as you discover a(n) marine mirror linked to whales.",
         "history": []
     },
     {
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings hold (a) iridescent icon, which (are/is) said to be linked to octopuses.",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 59,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Placid Seafloor",
         "encounter": "",
         "history": []
     },
@@ -235,7 +235,7 @@
         "chunk": 59,
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Gentle Trough",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 59,
         "pos": 31,
         "terrain": "O",
-        "features": "Foamy Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -315,7 +315,7 @@
         "chunk": 59,
         "pos": 39,
         "terrain": "O",
-        "features": "Calm Ripple",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 59,
         "pos": 41,
         "terrain": "O",
-        "features": "Sultry Vents",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating the becalmed blue spot becomes challenging due to water elementals mimicking manta ray melodies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -387,7 +387,7 @@
         "chunk": 59,
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Crashing Deep",
         "encounter": "",
         "history": []
     },
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground is littered with the exiled expanse excavation, and you can smell seaside bakery coming from a nearby elemental eyries.",
         "history": []
     },
     {
@@ -419,15 +419,15 @@
         "chunk": 59,
         "pos": 52,
         "terrain": "O",
-        "features": "Pearlescent Ripple",
-        "encounter": "A trail of tropical fruits from nearby islands leads you to believe sirens were here recently.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 59,
         "pos": 53,
         "terrain": "O",
-        "features": "",
+        "features": "Tropical Estuary",
         "encounter": "",
         "history": []
     },
@@ -444,14 +444,14 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) potion of water breathing, only to find signs of sea nymphs basking in brine-bound brilliance.",
         "history": []
     },
     {
         "chunk": 59,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical Undertow",
         "encounter": "",
         "history": []
     },
@@ -476,7 +476,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by harbor's hallowed hall, a legacy of mermaids and their desire to challenge the tide controllers to restore balance.",
+        "encounter": "",
         "history": []
     },
     {
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Echoes suggest saltwater soothsayers are patrolling pelagic perimeters lunar lagoons.",
         "history": []
     },
     {
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear the mark of kelpies. They are befriending barnacle-bound beasts.",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is marked by ethereal estuary estate, a testament to plankton clouds that once flirting with fathomless faeries.",
+        "encounter": "In the distance, sirens are imbuing isles with illusions, surrounded by reef rose.",
         "history": []
     },
     {
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) quartz quill nestled within the harbor hyacinth, surrounded by storm on the horizon.",
         "history": []
     },
     {
@@ -555,7 +555,7 @@
         "chunk": 59,
         "pos": 69,
         "terrain": "O",
-        "features": "Murky Ocean",
+        "features": "Teeming Wave",
         "encounter": "",
         "history": []
     },
@@ -595,7 +595,7 @@
         "chunk": 59,
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Clear Atoll",
         "encounter": "",
         "history": []
     },
@@ -635,7 +635,7 @@
         "chunk": 59,
         "pos": 79,
         "terrain": "O",
-        "features": "Calm Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "Starfish sanctums, you hear temporal tsunami titans taming tidal tempests, accompanied by lagoon lilies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -699,8 +699,8 @@
         "chunk": 59,
         "pos": 87,
         "terrain": "O",
-        "features": "Sunlit Horizon",
-        "encounter": "You overhear tales of seahorses that jubilating with jade jellies from brinebound bunkers.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -779,7 +779,7 @@
         "chunk": 59,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Hushed Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating the whimsical water warp becomes challenging due to mystic mollusk monks exulting in xebec xanadus.",
+        "encounter": "",
         "history": []
     }
 ]

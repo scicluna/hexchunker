@@ -19,7 +19,7 @@
         "chunk": 23,
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Cove",
         "encounter": "",
         "history": []
     },
@@ -51,8 +51,8 @@
         "chunk": 23,
         "pos": 6,
         "terrain": "O",
-        "features": "Haunting Salinity",
-        "encounter": "",
+        "features": "",
+        "encounter": "You find a(n) tome of tidal magic that seem to resonate with tales of cursed captains of the celestial sea.",
         "history": []
     },
     {
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) ink of the kraken by a peculiar sense of gratitude.",
         "history": []
     },
     {
@@ -131,7 +131,7 @@
         "chunk": 23,
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Restless Basin",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) siren's silk scarf, which seem to have a connection with vortex sea specters.",
         "history": []
     },
     {
@@ -163,8 +163,8 @@
         "chunk": 23,
         "pos": 20,
         "terrain": "O",
-        "features": "Fathomless Canyon",
-        "encounter": "",
+        "features": "",
+        "encounter": "Stories tell of stardust stingray mystics that assist a marine geologist in studying underwater rock formations amidst these surroundings.",
         "history": []
     },
     {
@@ -195,7 +195,7 @@
         "chunk": 23,
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Whispering Fjord",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 23,
         "pos": 28,
         "terrain": "O",
-        "features": "Majestic Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -284,7 +284,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) zircon-studded helm hidden among the ethereal eelgrass, which seems to be lost by temporal ocean oracles.",
         "history": []
     },
     {
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "A local speaks of saltwater smugglers that once recover the lost locket of the lagoon in this region.",
+        "encounter": "You're filled with connectedness upon spotting a(n) quixotic quiver.",
         "history": []
     },
     {
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Stories tell of aqua elementals that gather ingredients for a cure from the coral alchemist amidst these surroundings.",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ancient stories speak of hammerhead sharks that once were discover the truth behind the ocean's lullaby here.",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 23,
         "pos": 51,
         "terrain": "O",
-        "features": "Blue Ripple",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice a(n) lunar lantern that is oddly placed amongst the sea sprite sprout.",
         "history": []
     },
     {
@@ -436,14 +436,14 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with fulfillment upon finding the secluded surf sanctuary linked to sea turtles.",
         "history": []
     },
     {
         "chunk": 23,
         "pos": 55,
         "terrain": "O",
-        "features": "Restless Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -451,7 +451,7 @@
         "chunk": 23,
         "pos": 56,
         "terrain": "O",
-        "features": "Languid Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a(n) merfolk scale mail that bear the mark of grotto gnomes.",
+        "encounter": "You're drawn to a(n) saltwater staff by a peculiar sense of connectedness.",
         "history": []
     },
     {
@@ -507,7 +507,7 @@
         "chunk": 23,
         "pos": 63,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Estuary",
         "encounter": "",
         "history": []
     },
@@ -515,16 +515,16 @@
         "chunk": 23,
         "pos": 64,
         "terrain": "O",
-        "features": "Tropical Thermocline",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 23,
         "pos": 65,
-        "terrain": "M",
-        "features": "Glistening Summit",
-        "encounter": "The area is marked by old mountain vineyard, a legacy of banshees and their desire to retrieve the stolen mountain relic.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "A distant sound suggests sea sprites are evoking eldritch entities near the isolated inlet islet.",
+        "encounter": "",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about seaweed entanglement ahead, where guppy enchanters are known to be rhapsodizing with reef rangers.",
         "history": []
     },
     {
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear the distant sound of manatees dazzling deep-sea dancers.",
+        "encounter": "Your path is marked by jellyfish jungle ruins, a testament to void drifters that once were imbuing isles with illusions.",
         "history": []
     },
     {
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "Rumors speak of baleen whales that investigate the sudden change in sea currents in this vicinity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "Eldritch eddies, tales of tritons seem to resonate.",
+        "encounter": "",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sounds suggest sirens are intriguing iridescent imps, leaving behind the barnacle-bound barracks.",
         "history": []
     },
     {
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of desire to explore washes over you as maritime mystics are heralding hypnotic harmonies nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -699,8 +699,8 @@
         "chunk": 23,
         "pos": 87,
         "terrain": "O",
-        "features": "",
-        "encounter": "You overhear tales of crabs that preening with pirate parrots in this region.",
+        "features": "Undulating Seafloor",
+        "encounter": "",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Seaweed shrouds, you sense the presence of swordfish.",
         "history": []
     },
     {
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is marked by extinguished exocet expanse, a testament to vortex vandal valkyries that once flaunting finned finery.",
+        "encounter": "",
         "history": []
     },
     {

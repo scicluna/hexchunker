@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the leviathan's lair, you sense a connection to pufferfish and their homesickness.",
         "history": []
     },
     {
@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The local tales speak of triton's twilight envoys that illuminating inky illusions near nautical nether nexus.",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 66,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter lagoon lightweavers which are rhapsodizing with reef rangers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -115,8 +115,8 @@
         "chunk": 66,
         "pos": 14,
         "terrain": "O",
-        "features": "Eerie Wave",
-        "encounter": "You're drawn to a(n) kraken's inkwell, only to find signs of stellar salinity sylphs outwitting oceanic ogres.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is marked by quiet quay quarry, a testament to dimensional sea sprites that once were deciphering deep-sea dialects.",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 66,
         "pos": 18,
         "terrain": "O",
-        "features": "Crystal Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -195,7 +195,7 @@
         "chunk": 66,
         "pos": 24,
         "terrain": "O",
-        "features": "Thundering Channel",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -236,14 +236,14 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "The local tales speak of crabs that heralding harbor hymns near exalted expanse entrapment.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 66,
         "pos": 30,
         "terrain": "O",
-        "features": "Placid Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 66,
         "pos": 31,
         "terrain": "O",
-        "features": "Seething Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -267,7 +267,7 @@
         "chunk": 66,
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Ripple",
         "encounter": "",
         "history": []
     },
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with wanderlust upon spotting a(n) oceanic ocarina.",
+        "encounter": "",
         "history": []
     },
     {
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Echoes suggest sea witches are deciphering deep-sea dialects reverberating rifts.",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of desire to explore grips you as you discover a(n) whale's whistle linked to lagoon lightweavers.",
         "history": []
     },
     {
@@ -435,7 +435,7 @@
         "chunk": 66,
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant Abyss",
         "encounter": "",
         "history": []
     },
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice a(n) oceanic onyx that is oddly placed amongst the underwater umber fern.",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The local tales speak of mermaids that echoing eldritch elegies near harmonic haunted hollow.",
         "history": []
     },
     {
@@ -506,9 +506,9 @@
     {
         "chunk": 66,
         "pos": 63,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Imposing Hillside",
+        "encounter": "You're drawn to a(n) xanathar's spyglass, which seem to have a connection with petrified peak protectors.",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "You discover a(n) seaweed scroll that seems out of place, hinting at celestial seahorse guardians.",
+        "encounter": "",
         "history": []
     },
     {
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of starfish's subtle scent leads you to believe seafaring sorceresses were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -563,7 +563,7 @@
         "chunk": 66,
         "pos": 70,
         "terrain": "O",
-        "features": "Jeweled Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -578,17 +578,17 @@
     {
         "chunk": 66,
         "pos": 72,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Stony Knoll",
+        "encounter": "The ground is littered with the old stone dais, and you can smell pinecones coming from a nearby within a circle of ancient runes.",
         "history": []
     },
     {
         "chunk": 66,
         "pos": 73,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Harsh Pinnacle",
+        "encounter": "A sudden smell of mountain rainbows alerts you to the presence of mephits.",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local offers you a quest to challenge the abyssal lord for control of a sea trench involving oceanic owlbears.",
         "history": []
     },
     {
@@ -635,7 +635,7 @@
         "chunk": 66,
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Sultry Seabed",
         "encounter": "",
         "history": []
     },
@@ -652,23 +652,23 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers of wavebound wanderers outfoxing oceanic oracles can be heard vortex vaults.",
         "history": []
     },
     {
         "chunk": 66,
         "pos": 82,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Glistening Bank",
+        "encounter": "Rockspire necromancers have left forgotten dryad's grove ruined watchtower.",
         "history": []
     },
     {
         "chunk": 66,
         "pos": 83,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Elevated Ledge",
+        "encounter": "Among the ruined sylph's windmill, you sense a connection to ridgeback rams and their adventure.",
         "history": []
     },
     {
@@ -676,14 +676,14 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "Fantastical fjords echo with tales of barracudas and their curiosity.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 66,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Gentle Bight",
         "encounter": "",
         "history": []
     },
@@ -707,7 +707,7 @@
         "chunk": 66,
         "pos": 88,
         "terrain": "O",
-        "features": "Vibrant Salinity",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -723,7 +723,7 @@
         "chunk": 66,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Cerulean Salinity",
         "encounter": "",
         "history": []
     },
@@ -755,7 +755,7 @@
         "chunk": 66,
         "pos": 94,
         "terrain": "O",
-        "features": "Stormy Maelstrom",
+        "features": "Majestic Shoal",
         "encounter": "",
         "history": []
     },
@@ -780,14 +780,14 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "The dense glowing gorgonian seems to whisper tales of coral corsairs and their help a ghostly crew find peace and move on.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 66,
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Wild Ocean",
         "encounter": "",
         "history": []
     },
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of fisherman's net leads you to believe sunfish were here recently.",
+        "encounter": "Sounds of current cyclopes flirting with fathomless fiends emerge from jade jungles.",
         "history": []
     }
 ]

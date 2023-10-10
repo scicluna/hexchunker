@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "A strong scent of siren's enticing aroma leads you towards reef raiders.",
+        "encounter": "",
         "history": []
     },
     {
@@ -28,14 +28,14 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) deep-sea dagger by a peculiar sense of melancholy.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 4,
         "terrain": "O",
-        "features": "Vast Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -43,7 +43,7 @@
         "chunk": 16,
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Chasm",
         "encounter": "",
         "history": []
     },
@@ -59,8 +59,8 @@
         "chunk": 16,
         "pos": 7,
         "terrain": "O",
-        "features": "Cool Inlet",
-        "encounter": "",
+        "features": "Twinkling Maelstrom",
+        "encounter": "You find a(n) reverberating relic that seem to resonate with tales of sunlit sea sprites.",
         "history": []
     },
     {
@@ -68,14 +68,14 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sounds suggest whales are frolicking with fathomless fae, leaving behind the nereid's neglected nest.",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 9,
         "terrain": "O",
-        "features": "Tumultuous Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -107,7 +107,7 @@
         "chunk": 16,
         "pos": 13,
         "terrain": "O",
-        "features": "Crystal Brine",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by quartz quarry, a legacy of maritime mystics and their desire to help a ship's spirit find its final resting place.",
         "history": []
     },
     {
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the kept-away kraken keep that hints at the tales of coral golems.",
+        "encounter": "Tales speak of sunlit seekers that are knaving with kelpie kings in these parts.",
         "history": []
     },
     {
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is marked by withered wave-washed warren, a testament to strange fisherman that once were riding reef ripples.",
         "history": []
     },
     {
@@ -194,9 +194,9 @@
     {
         "chunk": 16,
         "pos": 24,
-        "terrain": "M",
-        "features": "Zenithal Crag",
-        "encounter": "Under a stone bridge echo with tales of mystic mountain maelstroms and their hope.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -211,7 +211,7 @@
         "chunk": 16,
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Deep",
         "encounter": "",
         "history": []
     },
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden restlessness grips you as nautical navigators imbibing in inky inlets kelpie's kitchens.",
+        "encounter": "",
         "history": []
     },
     {
@@ -236,22 +236,22 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of luminous plankton leads you to believe temporal guardians of the deep were here recently.",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 30,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Pearlescent Sound",
+        "encounter": "A local speaks of mystic merrow that once were help a local herbalist gather seaweed for medicines in this region.",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Lush Jetstream",
         "encounter": "",
         "history": []
     },
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "The yawning yarrow hides a(n) xebec's crossbow, which are said to be linked to whales and their resilience.You notice whales that seem to be evoking eldritch entities.",
+        "encounter": "",
         "history": []
     },
     {
@@ -274,25 +274,25 @@
     {
         "chunk": 16,
         "pos": 34,
-        "terrain": "M",
-        "features": "Serene Outcrop",
-        "encounter": "You find a(n) ivory goat figurine that seems out of place, exuding a sense of awe.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 35,
-        "terrain": "M",
-        "features": "Unassailable Arete",
-        "encounter": "You're filled with reflection upon spotting a(n) rusted knife.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "You stumble upon the petrified pelagic plaza that hint at baleen whales and their quest to help a local fisherman mend his nets.",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 36,
         "terrain": "O",
-        "features": "Billowing Abyss",
-        "encounter": "",
+        "features": "Eerie Canyon",
+        "encounter": "Siren sanctuaries echo with tales of cursed captains and their reverence.",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 16,
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Emerald Trench",
         "encounter": "",
         "history": []
     },
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden deep-sea mysteries alerts you to the presence of marine maelstrom mages.",
         "history": []
     },
     {
@@ -356,39 +356,39 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is blocked by isolated inlet illusion, guarded by reefbound rescuers.",
+        "encounter": "Tales speak of the barnacle-bound barracks left by benevolent brine spirits after they had train with local sailors to improve navigation skills.",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 45,
-        "terrain": "M",
-        "features": "Quixotic Alp",
-        "encounter": "The area is marked by a(n) mountain's melody mandolin, hinting at the tales of mind flayers.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 46,
-        "terrain": "M",
-        "features": "Snow-capped Pinnacle",
-        "encounter": "The mystical whirlwinds bear marks of starfallen celestials that are taming the spirits of wild storms.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "A sudden tropical storm's approach alerts you to the presence of reefbound rescuers.",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 47,
-        "terrain": "M",
-        "features": "Unassailable Crag",
-        "encounter": "You're guided by burning campfire, leading to a site with old mountain bathhouse of highlanders.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 48,
-        "terrain": "M",
-        "features": "Glorious Bluff",
-        "encounter": "The dense whispering pine seems to whisper tales of alchemists and their help a mountain community with energy solutions.",
+        "terrain": "O",
+        "features": "Briny Seabed",
+        "encounter": "",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 16,
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Frothy Narrows",
         "encounter": "",
         "history": []
     },
@@ -436,31 +436,31 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The sea sprite sprout hides a(n) javelin of lightning, which are said to be linked to lobsters and their dread.You notice lobsters that seem to be bargaining with brinebound beings.",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 55,
-        "terrain": "M",
-        "features": "Formidable Notch",
-        "encounter": "The dense twisted pine seems to whisper tales of ankhegs and their help a mountain spirit reclaim its stolen voice.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 56,
-        "terrain": "M",
-        "features": "Zealous Knoll",
-        "encounter": "A local offers you a quest to discover the mountain that's started to tell tales stop the tales from becoming reality involving minotaurs.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 57,
-        "terrain": "M",
-        "features": "Whispering Trench",
-        "encounter": "You sense peace as you discover a(n) mountain meadow linked to aristocrats.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -499,7 +499,7 @@
         "chunk": 16,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel peacefulness as barracudas are whistling with whirlpool wraiths near a(n) lagoon lantern.",
         "history": []
     },
     {
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the harbor hyacinth, a(n) underwater urn catch(es) your eye, exuding a sense of loneliness.",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 16,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Fjord",
         "encounter": "",
         "history": []
     },
@@ -571,7 +571,7 @@
         "chunk": 16,
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Sundrenched Swell",
         "encounter": "",
         "history": []
     },
@@ -684,14 +684,14 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "The local tales speak of tidal troubadours that observing orca operas near magic-induced doldrums.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 16,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Languid Atoll",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 16,
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Languid Shoal",
         "encounter": "",
         "history": []
     },
@@ -723,7 +723,7 @@
         "chunk": 16,
         "pos": 90,
         "terrain": "O",
-        "features": "Serene Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -739,7 +739,7 @@
         "chunk": 16,
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Ripple",
         "encounter": "",
         "history": []
     },
@@ -795,7 +795,7 @@
         "chunk": 16,
         "pos": 99,
         "terrain": "O",
-        "features": "Whispering Sound",
+        "features": "",
         "encounter": "",
         "history": []
     }

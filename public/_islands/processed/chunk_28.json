@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the fantasy frond, you find a(n) fantastical fishing net that resonate with introspection.",
         "history": []
     },
     {
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with kraken kudzu, providing cover for saltwater sphinxes.",
+        "encounter": "",
         "history": []
     },
     {
@@ -68,14 +68,14 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see the vanishing vortex vault suggesting past activities of coral corsairs.",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Sound",
         "encounter": "",
         "history": []
     },
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) benevolent buoy, only to find signs of pelagic peacekeepers dreaming in deep-sea domains.",
         "history": []
     },
     {
@@ -124,14 +124,14 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You discover a(n) harmonic harpoon concealed by mermaid's hair seaweed, hinting at sea anemones.",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 16,
         "terrain": "O",
-        "features": "Sparkling Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "The marine marjoram rustles as dolphins are dallying with deep-sea divas behind them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 28,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Channel",
         "encounter": "",
         "history": []
     },
@@ -219,7 +219,7 @@
         "chunk": 28,
         "pos": 27,
         "terrain": "O",
-        "features": "Thundering Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of tsunami titans that are entertaining ethereal entities in these parts.",
         "history": []
     },
     {
@@ -315,7 +315,7 @@
         "chunk": 28,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Eddy",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 28,
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous Islet",
         "encounter": "",
         "history": []
     },
@@ -395,8 +395,8 @@
         "chunk": 28,
         "pos": 49,
         "terrain": "O",
-        "features": "",
-        "encounter": "You discover a(n) rune-etched rudder concealed by luminous algae, hinting at nautical necromancers.",
+        "features": "Placid Vents",
+        "encounter": "",
         "history": []
     },
     {
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) flask of endless rum by a peculiar sense of reverence.",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of beachcomber's collection leads you to believe deep-sea dryads were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Nearby, tidal thieves are jiving with jellyfish jesters around a(n) deep-sea divination deck.",
         "history": []
     },
     {
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with siren's silkweed, providing cover for brinebound botanists.",
+        "encounter": "",
         "history": []
     },
     {
@@ -468,7 +468,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ancient stories speak of nereids that once were deliver supplies to a remote island here.",
         "history": []
     },
     {
@@ -499,16 +499,16 @@
         "chunk": 28,
         "pos": 62,
         "terrain": "O",
-        "features": "Frigid Swell",
-        "encounter": "A strong scent of warm sand suggests recent activity by wave walkers.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 63,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Zealous Pinnacle",
+        "encounter": "The area is marked by the ruined hall of illusions, a legacy of mages and their tales.",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "Whispers suggest temporal trench titans are whirling with wave-woven wisps harmonic hideaways.",
+        "encounter": "",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "There's a legend about neptune's nymphs that break the siren's enchanting song spell in this area.",
         "history": []
     },
     {
@@ -586,9 +586,9 @@
     {
         "chunk": 28,
         "pos": 73,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Silent Escarpment",
+        "encounter": "Rumors speak of cougars that deliver supplies to a remote mountain village in this vicinity.",
         "history": []
     },
     {
@@ -627,8 +627,8 @@
         "chunk": 28,
         "pos": 78,
         "terrain": "O",
-        "features": "",
-        "encounter": "You hear the distant sound of temporal trench titans mingling with marine minstrels.",
+        "features": "Tide-kissed Trough",
+        "encounter": "",
         "history": []
     },
     {
@@ -666,33 +666,33 @@
     {
         "chunk": 28,
         "pos": 83,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Scenic Pinnacle",
+        "encounter": "You encounter boulderhide bulls which are chasing the northern lights.",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 84,
         "terrain": "O",
-        "features": "Glassy Maelstrom",
-        "encounter": "",
+        "features": "",
+        "encounter": "You stumble upon the barnacle-bound barracks.",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 85,
         "terrain": "O",
-        "features": "",
-        "encounter": "You're filled with melancholy upon discovering a(n) kelpie's kite linked to mystical maritime menders.",
+        "features": "Dark Tide",
+        "encounter": "Your path is marked by extinguished exocet expanse, a testament to sapphire sylphs that once were dazzling deep-sea dancers.",
         "history": []
     },
     {
         "chunk": 28,
         "pos": 86,
         "terrain": "O",
-        "features": "Emerald Current",
-        "encounter": "",
+        "features": "",
+        "encounter": "The dense fantasy frond seems to whisper tales of brine buccaneers and their trade with the elusive underwater market.",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about tidal time tear ahead, where tsunami titans are known to be jubilating with jade jellies.",
         "history": []
     },
     {
@@ -739,7 +739,7 @@
         "chunk": 28,
         "pos": 92,
         "terrain": "O",
-        "features": "Reflective Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "The dense sapphire seagrass seems to whisper tales of pearlescent pegasi and their investigate the appearance of mysterious oceanic circles.",
+        "encounter": "Sounds of guppy enchanters anchoring in arcane atolls emerge from eldritch eddies.",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by sea sprite spiral, with signs of orca pods nearby.",
         "history": []
     },
     {

@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the muted mangrove manor that hints at the tales of cerulean caretakers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden peacefulness grips you as lunar lagoon luminaries embracing eldritch epiphanies pelagic pagodas.",
         "history": []
     },
     {
@@ -60,14 +60,14 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground bears iridescent isle inn from past encounters with eldritch estuary elves.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 8,
         "terrain": "O",
-        "features": "Turbid Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -91,15 +91,15 @@
         "chunk": 64,
         "pos": 11,
         "terrain": "O",
-        "features": "Sundrenched Wave",
-        "encounter": "",
+        "features": "",
+        "encounter": "You discover a(n) pendant of the siren concealed by luminous algae, hinting at wave wranglers.",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Passage",
         "encounter": "",
         "history": []
     },
@@ -115,23 +115,23 @@
         "chunk": 64,
         "pos": 14,
         "terrain": "O",
-        "features": "",
-        "encounter": "Sounds suggest maelstrom mages are illuminating inky inlets, leaving behind the gilded gorges' gateway.",
+        "features": "Shadowy Passage",
+        "encounter": "Your journey is interrupted by vortex of vanishing voices, with traces of saltwater sphinxes nearby.",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 15,
         "terrain": "O",
-        "features": "",
-        "encounter": "Among the harbor hyacinth, a(n) rope of entanglement catch(es) your eye, exuding a sense of respect.",
+        "features": "Sunkissed Jetstream",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 16,
         "terrain": "O",
-        "features": "Dark Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) pelagic pendant that seem to resonate with tales of temporal trench titans.",
+        "encounter": "",
         "history": []
     },
     {
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with jellyfish jasmine, providing cover for pelagic poets.",
+        "encounter": "",
         "history": []
     },
     {
@@ -172,23 +172,23 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is blocked by cursed current, guarded by cavern centaurs.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 22,
-        "terrain": "M",
-        "features": "Grand Yawn",
-        "encounter": "The path is littered with winds that change one's age, a testament to pulsating peak perytons sharing mountain legends.",
+        "terrain": "O",
+        "features": "Expansive Vents",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 23,
-        "terrain": "M",
-        "features": "Windswept Zigzag",
-        "encounter": "The path is littered with chasms that echo with lost souls, a testament to stone basilisks carving a wooden figurine.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of triton's twilight envoys that are cavorting with cerulean centurions from harbor havens.",
         "history": []
     },
     {
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of crabs that once were help a ghostly crew find peace and move on in this region.",
         "history": []
     },
     {
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "In the distance, octopuses are befriending barnacle-bound beasts, surrounded by fantasy frond.",
         "history": []
     },
     {
@@ -235,7 +235,7 @@
         "chunk": 64,
         "pos": 29,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Deep",
         "encounter": "",
         "history": []
     },
@@ -251,31 +251,31 @@
         "chunk": 64,
         "pos": 31,
         "terrain": "O",
+        "features": "Tempestuous Ripple",
+        "encounter": "Lagoon lodges, you hear sea witches swooning in sea sprite symphonies, accompanied by fishermen's bait.",
+        "history": []
+    },
+    {
+        "chunk": 64,
+        "pos": 32,
+        "terrain": "O",
         "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
-        "pos": 32,
-        "terrain": "M",
-        "features": "Unassailable Valley",
-        "encounter": "A local speaks of magnetic mountain manticores that once help a mountain witch find her lost cauldron in this region.",
-        "history": []
-    },
-    {
-        "chunk": 64,
         "pos": 33,
-        "terrain": "M",
-        "features": "Exalted Ascent",
-        "encounter": "A sudden discovery grips you as horse traders tending to a campsite inside a hidden mountain pool.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Basin",
         "encounter": "",
         "history": []
     },
@@ -332,31 +332,31 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "You sense tranquility as you discover a(n) siren's silk scarf linked to cuttlefish.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 42,
-        "terrain": "H",
-        "features": "Hazy Dale",
-        "encounter": "The area is marked by the weathered statue, a legacy of hillshade guardians and their tales.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 43,
-        "terrain": "M",
-        "features": "Impressive Massif",
-        "encounter": "You encounter dimensional driftstone dragon druids which are tending to a campsite.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 44,
-        "terrain": "M",
-        "features": "Pinnacle Slope",
-        "encounter": "The ground is littered with the old mountain vineyard, and you can smell melting glaciers coming from a nearby within a foggy gorge.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -379,7 +379,7 @@
         "chunk": 64,
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Undertow",
         "encounter": "",
         "history": []
     },
@@ -387,7 +387,7 @@
         "chunk": 64,
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Gulf",
         "encounter": "",
         "history": []
     },
@@ -418,32 +418,32 @@
     {
         "chunk": 64,
         "pos": 52,
-        "terrain": "H",
-        "features": "Breezy Dale",
-        "encounter": "The area is marked by dilapidated hut, a legacy of burrow goblin scouts and their desire to defend a hilltop palace from a manticore seeking the throne.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 53,
-        "terrain": "H",
-        "features": "Bare Brae",
-        "encounter": "Whispers of hillcrest guardians chasing after mirages can be heard behind a cluster of wild rose bushes.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 54,
-        "terrain": "M",
-        "features": "Vast Knoll",
-        "encounter": "Sounds of cougars playing a musical instrument emerge from within a labyrinth of canyons.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 55,
         "terrain": "O",
-        "features": "Cool Thermocline",
+        "features": "Frigid Delta",
         "encounter": "",
         "history": []
     },
@@ -467,7 +467,7 @@
         "chunk": 64,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Gulf",
         "encounter": "",
         "history": []
     },
@@ -483,8 +483,8 @@
         "chunk": 64,
         "pos": 60,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Pacific Undertow",
+        "encounter": "A strong scent of rocky cliff moss suggests recent activity by tidal timekeepers.",
         "history": []
     },
     {
@@ -498,25 +498,25 @@
     {
         "chunk": 64,
         "pos": 62,
-        "terrain": "H",
-        "features": "Grazed Brae",
-        "encounter": "Among the wild barley, you find a(n) elemental gem from a hill's heart that resonate with contemplation.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 63,
-        "terrain": "H",
-        "features": "Pastoral Vale",
-        "encounter": "You find a(n) old leather journal hidden among the enchanted ivy, which seems to be lost by phoenixes.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 64,
-        "terrain": "M",
-        "features": "Pristine Foothill",
-        "encounter": "A distant sound suggests mind flayers are telling stories to companions near the deserted nymph's waterfall sanctuary.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 64,
         "pos": 67,
         "terrain": "O",
-        "features": "Shadowy Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 64,
         "pos": 69,
         "terrain": "O",
-        "features": "Endless Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -578,17 +578,17 @@
     {
         "chunk": 64,
         "pos": 72,
-        "terrain": "M",
-        "features": "Jovian Slope",
-        "encounter": "You stumble upon the decaying mountain chapel that hint at stone sphinxes and their quest to retrieve the stolen sun fragment from the mountain's depths.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 64,
         "pos": 73,
-        "terrain": "M",
-        "features": "Soaring Canyon",
-        "encounter": "You see the abandoned elemental crossroads suggesting past activities of temporal tundra trolls.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Nereid nests echo with tales of temporal ocean oracles and their reverence.",
         "history": []
     },
     {
@@ -627,7 +627,7 @@
         "chunk": 64,
         "pos": 78,
         "terrain": "O",
-        "features": "Breezy Whirlpool",
+        "features": "Pristine Gulf",
         "encounter": "",
         "history": []
     },
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "You're cautioned about seaweed scholars that are known to mending mermaid mantles near waters of forgetfulness.",
+        "encounter": "",
         "history": []
     },
     {
@@ -651,8 +651,8 @@
         "chunk": 64,
         "pos": 81,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Shimmering Swell",
+        "encounter": "Your journey is interrupted by zoned-out ziggurat zone, with signs of marine memory makers nearby.",
         "history": []
     },
     {
@@ -683,7 +683,7 @@
         "chunk": 64,
         "pos": 85,
         "terrain": "O",
-        "features": "Vibrant Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with hopefulness upon finding the becalmed brine bastion linked to seagrass storytellers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of sargasso seaweed leads you to believe tidal timekeepers were here recently.",
         "history": []
     },
     {
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) pendant of the siren, which seem(s) to have ties with saltwater sphinxes.",
         "history": []
     },
     {
@@ -795,7 +795,7 @@
         "chunk": 64,
         "pos": 99,
         "terrain": "O",
-        "features": "Choppy Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     }

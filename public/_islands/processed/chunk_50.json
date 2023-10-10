@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "The surroundings bear the mark of pelagic poets. They are bewitching barnacle-bound banshees.",
+        "encounter": "",
         "history": []
     },
     {
@@ -51,7 +51,7 @@
         "chunk": 50,
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Gentle Wave",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 50,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Bight",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 50,
         "pos": 8,
         "terrain": "O",
-        "features": "Mysterious Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path is littered with becalmed blue spot, a testament to cuttlefish jesting with jellyfish jokers.",
         "history": []
     },
     {
@@ -107,7 +107,7 @@
         "chunk": 50,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal Canyon",
         "encounter": "",
         "history": []
     },
@@ -131,7 +131,7 @@
         "chunk": 50,
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Abyss",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "Stories tell of sapphire sylphs that help a local tribe with their annual fish festival amidst these surroundings.",
+        "encounter": "Your path is blocked by uncharted island, guarded by nebulous nautilus nomads.",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 50,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Languid Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -179,8 +179,8 @@
         "chunk": 50,
         "pos": 22,
         "terrain": "O",
-        "features": "Tempestuous Reef",
-        "encounter": "Your path is blocked by fantasy fish's force field, guarded by pufferfish.",
+        "features": "",
+        "encounter": "You're intrigued by the pirate's plaza that bear the mark of pelagic pixies.",
         "history": []
     },
     {
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of seashell's echo of the deep leads you to believe triton knights were here recently.",
+        "encounter": "You're guided by dune grasses, leading to traces of sea spriggans.",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 50,
         "pos": 25,
         "terrain": "O",
-        "features": "Shimmering Eddy",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 50,
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Reef",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 50,
         "pos": 31,
         "terrain": "O",
-        "features": "Marine Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -283,7 +283,7 @@
         "chunk": 50,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Foamy Salinity",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 50,
         "pos": 41,
         "terrain": "O",
-        "features": "Endless Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path bears marks of oceanic observers and their interactions with a(n) belt of barnacle binding.",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes of current cyclopes resonate, accompanied by distinct saltwater taffy from boardwalks.",
+        "encounter": "",
         "history": []
     },
     {
@@ -451,7 +451,7 @@
         "chunk": 50,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Teeming Passage",
         "encounter": "",
         "history": []
     },
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A strong scent of volcanic steam from islets leads you towards tidal chimera.",
         "history": []
     },
     {
@@ -476,7 +476,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear becalmed brine bastion, suggesting tales of luminous lurkers.",
         "history": []
     },
     {
@@ -539,8 +539,8 @@
         "chunk": 50,
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": "You're intrigued by deserted dolphin domain that speak of sirens and their protect a migrating species from a sea monster.",
+        "features": "Marine Seamount",
+        "encounter": "",
         "history": []
     },
     {
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The scent of moonlit marine dew fills the air, making you feel anxiety.",
         "history": []
     },
     {
@@ -587,7 +587,7 @@
         "chunk": 50,
         "pos": 73,
         "terrain": "O",
-        "features": "Gentle Salinity",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -611,7 +611,7 @@
         "chunk": 50,
         "pos": 76,
         "terrain": "O",
-        "features": "Majestic Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -636,14 +636,14 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of triton's twilight envoys that are lamenting lost lagoon lore in these parts.",
         "history": []
     },
     {
         "chunk": 50,
         "pos": 80,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -683,7 +683,7 @@
         "chunk": 50,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Atoll",
         "encounter": "",
         "history": []
     },
@@ -708,15 +708,15 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) triton's tape, only to find signs of lagoon lightweavers murmuring maritime myths.",
         "history": []
     },
     {
         "chunk": 50,
         "pos": 89,
         "terrain": "O",
-        "features": "Crystal Channel",
-        "encounter": "",
+        "features": "Salty Tide",
+        "encounter": "You're filled with vulnerability upon discovering a(n) xebec's xylophone linked to seagrass storytellers.",
         "history": []
     },
     {
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're guided by picnic basket fruits, leading to a site with secluded sea shrine of sea shadows.",
         "history": []
     },
     {
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "In the distance, tidal thieves are quelling quarrelsome quokkas, surrounded by whirlpool willow.",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of the wave-washed warren left by lagoon looters after they had help a village set up sea defenses.",
         "history": []
     },
     {

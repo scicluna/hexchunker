@@ -43,7 +43,7 @@
         "chunk": 96,
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Sapphire Delta",
         "encounter": "",
         "history": []
     },
@@ -51,15 +51,15 @@
         "chunk": 96,
         "pos": 6,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Hypnotic Islet",
+        "encounter": "The area is marked by the gilded gorges' gateway, a legacy of walruses and their tales.",
         "history": []
     },
     {
         "chunk": 96,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Delta",
         "encounter": "",
         "history": []
     },
@@ -91,8 +91,8 @@
         "chunk": 96,
         "pos": 11,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your heart awe when you see mystic merrow near a(n) knot of binding.",
+        "features": "Reflective Fjord",
+        "encounter": "Your feel wonder when you see saltwater wyrms near a(n) urn of the stormcaller.",
         "history": []
     },
     {
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of abyssal shade anglers that dreaming in deep-sea domains in this region.",
         "history": []
     },
     {
@@ -132,14 +132,14 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "In the distance, saltwater sphinxes are mystifying merfolk monarchs, surrounded by pelagic peony.",
         "history": []
     },
     {
         "chunk": 96,
         "pos": 17,
         "terrain": "O",
-        "features": "Silvery Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -148,15 +148,15 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "The local tales speak of sunfish that jesting with jellyfish jokers near sea of singing serpents.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 96,
         "pos": 19,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sundrenched Current",
+        "encounter": "The area is filled with glowing plankton bush, providing cover for kelp krakens.",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 96,
         "pos": 25,
         "terrain": "O",
-        "features": "Lush Thermocline",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 96,
         "pos": 26,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Bight",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 96,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Aquamarine Swell",
         "encounter": "",
         "history": []
     },
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a(n) pirate's pipe that bear the mark of starlit sea snail diviners.",
+        "encounter": "",
         "history": []
     },
     {
@@ -244,22 +244,22 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You sense inspiration as you discover a(n) moonlit medallion linked to deep-sea diplomats.",
         "history": []
     },
     {
         "chunk": 96,
         "pos": 31,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Serene Current",
+        "encounter": "You find a(n) yarn of the seer that seem to resonate with tales of abyssal adventurers.",
         "history": []
     },
     {
         "chunk": 96,
         "pos": 32,
         "terrain": "O",
-        "features": "Aquamarine Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -292,15 +292,15 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes suggest abyssal albatross are outwitting oceanic ogres seashell shelters.",
+        "encounter": "Aquatic atriums, you hear nautical necromancers adorning abyssal alcoves, accompanied by leviathan's deep scent.",
         "history": []
     },
     {
         "chunk": 96,
         "pos": 37,
         "terrain": "O",
-        "features": "Turbulent Whirlpool",
-        "encounter": "",
+        "features": "",
+        "encounter": "Your path is marked by undersea urchin university, a testament to krakens that once were invoking iridescent idols.",
         "history": []
     },
     {
@@ -315,7 +315,7 @@
         "chunk": 96,
         "pos": 39,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Billow",
         "encounter": "",
         "history": []
     },
@@ -371,7 +371,7 @@
         "chunk": 96,
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Vibrant Seamount",
         "encounter": "",
         "history": []
     },
@@ -379,7 +379,7 @@
         "chunk": 96,
         "pos": 47,
         "terrain": "O",
-        "features": "Sultry Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path bears marks of mystical maritime menders and their interactions with a(n) zircon-studded helm.",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 96,
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Fjord",
         "encounter": "",
         "history": []
     },
@@ -426,17 +426,17 @@
     {
         "chunk": 96,
         "pos": 53,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Towering Apex",
+        "encounter": "A strong scent of charred wood from old fires suggests recent activity by hobbits.",
         "history": []
     },
     {
         "chunk": 96,
         "pos": 54,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Whispering Vista",
+        "encounter": "Nearby, echoing memory shades are practicing survival skills around a(n) enchanted elevation earring.",
         "history": []
     },
     {
@@ -452,7 +452,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by tumbledown tidal tower, hinting at the presence of grotto gorgons.",
         "history": []
     },
     {
@@ -514,17 +514,17 @@
     {
         "chunk": 96,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Formidable Yawn",
+        "encounter": "The path reveals athletes that seem to be hunting for prey in order to retrieve the stolen dawn from the mountain's shadow.",
         "history": []
     },
     {
         "chunk": 96,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Rocky Bluff",
+        "encounter": "The path is littered with signs of temporal tectonic titans and their interactions with a(n) goggles of night.",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of contentment washes over you as sunlit sea sprites are emanating ethereal elegance nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes suggest sunlit seekers are flouncing with finned fairies hallowed hulls.",
+        "encounter": "",
         "history": []
     },
     {
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with isolation upon spotting a(n) gilded goblet.",
+        "encounter": "",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) xebec's charm by an overwhelming sense of restlessness.",
+        "encounter": "",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Legends tell of reefbound rescuers that assist in a shipwreck salvage operation amidst these harmonic haunted hollow.",
         "history": []
     },
     {
@@ -699,7 +699,7 @@
         "chunk": 96,
         "pos": 87,
         "terrain": "O",
-        "features": "Sultry Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 96,
         "pos": 89,
         "terrain": "O",
-        "features": "Clear Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by a(n) jellyfish's journal, hinting at the tales of maritime mystics.",
         "history": []
     },
     {
@@ -755,8 +755,8 @@
         "chunk": 96,
         "pos": 94,
         "terrain": "O",
-        "features": "Frothy Channel",
-        "encounter": "",
+        "features": "",
+        "encounter": "Echoes of astral ocean assassins resonate, accompanied by distinct suntan lotion from beachgoers.",
         "history": []
     },
     {

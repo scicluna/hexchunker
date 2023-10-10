@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the yawning abyss yurts that hint at tidal trolls and their quest to assist a local storyteller in gathering sea legends.",
+        "encounter": "A local speaks of lunar lagoon looters that once were assist a cartographer in updating sea charts in this region.",
         "history": []
     },
     {
@@ -28,14 +28,14 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "You sense fulfillment as you discover a(n) jeweled trident linked to sunken spirits.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Surf",
         "encounter": "",
         "history": []
     },
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by kelp-entwined keep, hinting at the presence of ocean oracles.",
+        "encounter": "The area is marked by a(n) ring of the mariner, hinting at the tales of cursed captains.",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ancient stories speak of nebulous nighttide enchanters that once were investigate reports of a sea monster in a local lagoon here.",
         "history": []
     },
     {
@@ -68,7 +68,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The local tales speak of cerulean conservators that drifting through dreamy doldrums near eldritch eel enclave.",
         "history": []
     },
     {
@@ -83,7 +83,7 @@
         "chunk": 48,
         "pos": 10,
         "terrain": "O",
-        "features": "Vast Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -91,7 +91,7 @@
         "chunk": 48,
         "pos": 11,
         "terrain": "O",
-        "features": "Ominous Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -115,7 +115,7 @@
         "chunk": 48,
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Nautical Horizon",
         "encounter": "",
         "history": []
     },
@@ -147,7 +147,7 @@
         "chunk": 48,
         "pos": 18,
         "terrain": "O",
-        "features": "Rippling Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of tuna shoals that once enchanting ethereal envoys in these parts.",
+        "encounter": "Stories tell of sapphire sylphs that map the newly discovered coral reefs amidst these surroundings.",
         "history": []
     },
     {
@@ -251,7 +251,7 @@
         "chunk": 48,
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Silvery Trough",
         "encounter": "",
         "history": []
     },
@@ -283,8 +283,8 @@
         "chunk": 48,
         "pos": 35,
         "terrain": "O",
-        "features": "Luminous Maelstrom",
-        "encounter": "",
+        "features": "Seething Ocean",
+        "encounter": "Among the dolphin's daisy, you find a(n) dolphin's diary that resonate with restlessness.",
         "history": []
     },
     {
@@ -347,8 +347,8 @@
         "chunk": 48,
         "pos": 43,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground bears atlantean annex from past encounters with sunken swindlers.",
+        "features": "Wild Surf",
+        "encounter": "",
         "history": []
     },
     {
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Legends tell of oceanic observers that help a local tribe with their annual fish festival amidst these exalted expanse entrapment.",
         "history": []
     },
     {
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel sorrow as dolphins are humming to harbor hymns near a(n) dagger of venom.",
         "history": []
     },
     {
@@ -380,14 +380,14 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whales have left muted mermaid market starfish sanctums.",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 48,
         "terrain": "O",
-        "features": "Turbid Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -426,9 +426,9 @@
     {
         "chunk": 48,
         "pos": 53,
-        "terrain": "M",
-        "features": "Legendary Plateau",
-        "encounter": "Sounds suggest dimensional driftstone dryads are taming a wild griffin, leaving behind the abandoned golem workshop.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -460,14 +460,14 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of astral ocean assassins that are illuminating inky inlets from ethereal enclaves.",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 58,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Islet",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 48,
         "pos": 59,
         "terrain": "O",
-        "features": "Billowing Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "You're intrigued by muted mangrove manor that bear the mark of nautical nomads.",
+        "encounter": "",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Legends tell of brine banshees that investigate the mysterious deaths of marine creatures amidst these mystical maritime mirage.",
         "history": []
     },
     {
@@ -508,14 +508,14 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) benevolent buoy, which seem to have a connection with moonlit manticores.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 64,
         "terrain": "O",
-        "features": "Choppy Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 48,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Coastal Undertow",
         "encounter": "",
         "history": []
     },
@@ -548,14 +548,14 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ancient stories speak of narwhal dreamweavers that once were capture the rogue sea serpent terrorizing trade routes here.",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Billowing Canyon",
         "encounter": "",
         "history": []
     },
@@ -564,15 +564,15 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of awe washes over you as reef rocs are hunting harbor horrors nearby.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 48,
         "pos": 71,
         "terrain": "O",
-        "features": "Silvery Ocean",
-        "encounter": "",
+        "features": "",
+        "encounter": "You're intrigued by the lighthouse swallowed by the sea that bear the mark of sea spriggans.",
         "history": []
     },
     {
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with underwater umber fern, providing cover for pelagic poets.",
         "history": []
     },
     {
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across the leviathan's lair that speak(s) of stellar sea sprite alchemists and their tales.",
         "history": []
     },
     {
@@ -635,7 +635,7 @@
         "chunk": 48,
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Stormy Delta",
         "encounter": "",
         "history": []
     },
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The scent of kraken's musky scent fills the air, making you feel apprehension.",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Jade jetties, you sense the presence of saltwater smugglers.",
         "history": []
     },
     {
@@ -682,9 +682,9 @@
     {
         "chunk": 48,
         "pos": 85,
-        "terrain": "M",
-        "features": "Heavenly Knoll",
-        "encounter": "You stumble upon the ruined sky temple.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear the distant sound of seashell sorcerers unraveling urchin umbrellas.",
+        "encounter": "",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating the oceanic oracle's illusion becomes challenging due to starlit selkies lingering in lunar lagoons.",
+        "encounter": "",
         "history": []
     },
     {
@@ -715,7 +715,7 @@
         "chunk": 48,
         "pos": 89,
         "terrain": "O",
-        "features": "Endless Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the secluded sea shrine that hint at stardust stingray mystics and their quest to assist a marine researcher in tagging sharks.",
         "history": []
     },
     {
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "There's a legend about dimensional dolphin prophets that help a lost sea spirit find its way home in this area.",
+        "encounter": "",
         "history": []
     },
     {
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "You're intrigued by triton's tower that bear the mark of pearlescent pegasi.",
+        "encounter": "",
         "history": []
     },
     {

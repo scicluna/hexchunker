@@ -59,8 +59,8 @@
         "chunk": 42,
         "pos": 7,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Rippling Narrows",
+        "encounter": "Legends tell of seals that help a stranded kraken find its family amidst these abyssal trench.",
         "history": []
     },
     {
@@ -99,7 +99,7 @@
         "chunk": 42,
         "pos": 12,
         "terrain": "O",
-        "features": "Foamy Trough",
+        "features": "Gentle Jetstream",
         "encounter": "",
         "history": []
     },
@@ -107,7 +107,7 @@
         "chunk": 42,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal Brine",
         "encounter": "",
         "history": []
     },
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Leviathan lairs echo with tales of lagoon lorekeepers and their resilience.",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 42,
         "pos": 18,
         "terrain": "O",
-        "features": "Crashing Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -179,7 +179,7 @@
         "chunk": 42,
         "pos": 22,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous Passage",
         "encounter": "",
         "history": []
     },
@@ -187,7 +187,7 @@
         "chunk": 42,
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Cool Reef",
         "encounter": "",
         "history": []
     },
@@ -212,14 +212,14 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) maritime map by an overwhelming sense of reverence.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 27,
         "terrain": "O",
-        "features": "Seething Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is marked by jellyfish jungle ruins, a testament to coral sirens that once venerating vortex visionaries.",
+        "encounter": "",
         "history": []
     },
     {
@@ -243,8 +243,8 @@
         "chunk": 42,
         "pos": 30,
         "terrain": "O",
-        "features": "Sapphire Channel",
-        "encounter": "",
+        "features": "Blue Chasm",
+        "encounter": "You notice a(n) coral-covered casket that is oddly placed amongst the yawning yarrow.",
         "history": []
     },
     {
@@ -259,7 +259,7 @@
         "chunk": 42,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Tropical Seamount",
         "encounter": "",
         "history": []
     },
@@ -291,7 +291,7 @@
         "chunk": 42,
         "pos": 36,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Upwelling",
         "encounter": "",
         "history": []
     },
@@ -308,14 +308,14 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of calmness grips you as you discover a(n) nautical astrolabe linked to sharks.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 39,
         "terrain": "O",
-        "features": "Pearlescent Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 42,
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Briny Current",
         "encounter": "",
         "history": []
     },
@@ -403,7 +403,7 @@
         "chunk": 42,
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Foamy Islet",
         "encounter": "",
         "history": []
     },
@@ -411,7 +411,7 @@
         "chunk": 42,
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Inlet",
         "encounter": "",
         "history": []
     },
@@ -459,7 +459,7 @@
         "chunk": 42,
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Windy Tide",
         "encounter": "",
         "history": []
     },
@@ -468,7 +468,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "The dense sea fern seems to whisper tales of narwhal dreamweavers and their gather ingredients for a cure from the coral alchemist.",
+        "encounter": "",
         "history": []
     },
     {
@@ -476,7 +476,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "You're intrigued by exiled expanse excavation that speak of nebulous nudibranch warlocks and their recover the lost locket of the lagoon.",
+        "encounter": "",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by a(n) yarn of storytelling, hinting at the tales of temporal guardians of the deep.",
+        "encounter": "",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The ground is littered with the withered wave-washed wharf, and you can smell seahorse's gentle currents coming from a nearby mystical meanders.",
         "history": []
     },
     {
@@ -563,7 +563,7 @@
         "chunk": 42,
         "pos": 70,
         "terrain": "O",
-        "features": "",
+        "features": "Silvery Wave",
         "encounter": "",
         "history": []
     },
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "Whirlpool witches commiserating with coral conjurers are hidden dolphin dens.",
+        "encounter": "",
         "history": []
     },
     {
@@ -596,14 +596,14 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with coral clover, providing cover for wave walkers.",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal Atoll",
         "encounter": "",
         "history": []
     },
@@ -612,14 +612,14 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by a(n) seaglass amulet, hinting at the tales of marine maelstrom mages.",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 77,
         "terrain": "O",
-        "features": "Coastal Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -627,7 +627,7 @@
         "chunk": 42,
         "pos": 78,
         "terrain": "O",
-        "features": "Jeweled Wave",
+        "features": "Coastal Upwelling",
         "encounter": "",
         "history": []
     },
@@ -651,7 +651,7 @@
         "chunk": 42,
         "pos": 81,
         "terrain": "O",
-        "features": "",
+        "features": "Tide-kissed Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is blocked by runic ripple rift, guarded by eldritch eel enchanters.",
+        "encounter": "",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "Elemental eyries, you sense the presence of crabs.",
+        "encounter": "",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "The tidal tulip rustles as starlit sea snail diviners are preening with pirate parrots behind them.",
+        "encounter": "",
         "history": []
     },
     {
@@ -708,7 +708,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "The path bears marks of sea serpents and their interactions with a(n) ewer of endless water.",
+        "encounter": "",
         "history": []
     },
     {
@@ -716,14 +716,14 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The scent of lifeguard's zinc sunscreen fills the air, making you feel isolation.",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Coastal Brine",
         "encounter": "",
         "history": []
     },

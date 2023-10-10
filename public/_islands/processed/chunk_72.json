@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "The scent of albatross's distant travels fills the air, making you feel freedom.",
+        "encounter": "",
         "history": []
     },
     {
@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "The local tales speak of tidal thieves that trading trinkets with tritons near bewitched buoyancy bubble.",
+        "encounter": "The area is marked by ocean oracle's observatory, a testament to oceanic owlbears and their tales.",
         "history": []
     },
     {
@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "Seafloor sanctums, you sense the presence of sunlit seekers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -51,7 +51,7 @@
         "chunk": 72,
         "pos": 6,
         "terrain": "O",
-        "features": "Cerulean Ocean",
+        "features": "Turbid Chasm",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 72,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Coastal Brine",
         "encounter": "",
         "history": []
     },
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden turtle's earthy shell alerts you to the presence of current sylphs.",
+        "encounter": "The area is marked by jellyfish jungle ruins, hinting at the presence of temporal ocean oracles.",
         "history": []
     },
     {
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of mystical maritime menders that once trading trinkets with tritons in these parts.",
+        "encounter": "",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 72,
         "pos": 18,
         "terrain": "O",
-        "features": "Shadowy Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice a(n) atlantean artifact that is oddly placed amongst the kelp forest.",
         "history": []
     },
     {
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden mystery grips you as lagoon lorekeepers flirting with fathomless fiends nautical nests.",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 72,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Dark Canyon",
         "encounter": "",
         "history": []
     },
@@ -220,14 +220,14 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with kelpie's knotweed, providing cover for kelp krakens.",
         "history": []
     },
     {
         "chunk": 72,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Sound",
         "encounter": "",
         "history": []
     },
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "Your path is blocked by whimsical whirlwind whirlpool, guarded by reefbound rescuers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) triton's tuning fork, which seem to have a connection with star-soaked sandbar warlocks.",
+        "encounter": "",
         "history": []
     },
     {
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "Whispers of sea anemones teasing the tidal titans can be heard sapphire sanctuaries.",
+        "encounter": "The area is marked by petrified pelagic plaza, a testament to seaweed scholars and their tales.",
         "history": []
     },
     {
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "Your surroundings become dense with barnacle bloom, perfect for strange fisherman spinning seashell stories.",
+        "encounter": "",
         "history": []
     },
     {
@@ -435,7 +435,7 @@
         "chunk": 72,
         "pos": 54,
         "terrain": "O",
-        "features": "Dark Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -443,7 +443,7 @@
         "chunk": 72,
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Briny Vents",
         "encounter": "",
         "history": []
     },
@@ -467,8 +467,8 @@
         "chunk": 72,
         "pos": 58,
         "terrain": "O",
-        "features": "Ominous Tide",
-        "encounter": "",
+        "features": "",
+        "encounter": "The area is marked by tumbledown tidal tower, hinting at the presence of tsunami titans.",
         "history": []
     },
     {
@@ -491,7 +491,7 @@
         "chunk": 72,
         "pos": 61,
         "terrain": "O",
-        "features": "Emerald Trench",
+        "features": "Haunting Gulf",
         "encounter": "",
         "history": []
     },
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden sunken city stones alerts you to the presence of abyssal alchemists.",
+        "encounter": "You hear the distant sound of marine muses exalting in exotic expanse.",
         "history": []
     },
     {
@@ -547,7 +547,7 @@
         "chunk": 72,
         "pos": 68,
         "terrain": "O",
-        "features": "Blue Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -571,7 +571,7 @@
         "chunk": 72,
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Crashing Abyss",
         "encounter": "",
         "history": []
     },
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Rumors speak of saltwater wyrms that investigate the disappearance of a local sailor in this vicinity.",
         "history": []
     },
     {
@@ -619,7 +619,7 @@
         "chunk": 72,
         "pos": 77,
         "terrain": "O",
-        "features": "Azure Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -635,7 +635,7 @@
         "chunk": 72,
         "pos": 79,
         "terrain": "O",
-        "features": "Turbid Thermocline",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice a(n) iridescent icon that is oddly placed amongst the abyssal moss.",
+        "encounter": "",
         "history": []
     },
     {
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the secluded sea shrine that hints at the tales of galaxy gorgonian protectors.",
+        "encounter": "",
         "history": []
     },
     {
@@ -732,7 +732,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sounds suggest octopuses are guiding ghostly galleons, leaving behind the hidden harbor hideaway.",
         "history": []
     },
     {
@@ -764,14 +764,14 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by palm leaf's greenness, leading to traces of sea witches.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 72,
         "pos": 96,
         "terrain": "O",
-        "features": "Rippling Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "You see the ethereal estuary estate suggesting past activities of starlit sea snail diviners.",
+        "encounter": "",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) saltwater scepter nestled within the reef's rhubarb, surrounded by palm trees and coconuts.",
         "history": []
     }
 ]

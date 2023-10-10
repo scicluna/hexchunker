@@ -67,7 +67,7 @@
         "chunk": 52,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous Thermocline",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 52,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Emerald Seafloor",
         "encounter": "",
         "history": []
     },
@@ -83,7 +83,7 @@
         "chunk": 52,
         "pos": 10,
         "terrain": "O",
-        "features": "Teeming Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -115,15 +115,15 @@
         "chunk": 52,
         "pos": 14,
         "terrain": "O",
-        "features": "",
-        "encounter": "There's a legend about sea shadows that challenge the rulers of the coral citadel in this area.",
+        "features": "Reflective Billow",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 52,
         "pos": 15,
         "terrain": "O",
-        "features": "Crashing Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -131,7 +131,7 @@
         "chunk": 52,
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Trough",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The scent of pelican's catch fills the air, making you feel apprehension.",
         "history": []
     },
     {
@@ -195,7 +195,7 @@
         "chunk": 52,
         "pos": 24,
         "terrain": "O",
-        "features": "",
+        "features": "Pristine Wave",
         "encounter": "",
         "history": []
     },
@@ -219,7 +219,7 @@
         "chunk": 52,
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Seething Sound",
         "encounter": "",
         "history": []
     },
@@ -243,23 +243,23 @@
         "chunk": 52,
         "pos": 30,
         "terrain": "O",
-        "features": "",
-        "encounter": "You stumble upon the vanished voyager's villa.",
+        "features": "Tropical Jetstream",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 52,
         "pos": 31,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Sloping Climb",
+        "encounter": "Tales speak of the abandoned leatherworker's workshop left by terrace chimeras after they had help a gnome find his lost magical tools in the hills.",
         "history": []
     },
     {
         "chunk": 52,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Swirling Ocean",
         "encounter": "",
         "history": []
     },
@@ -275,7 +275,7 @@
         "chunk": 52,
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Surf",
         "encounter": "",
         "history": []
     },
@@ -283,7 +283,7 @@
         "chunk": 52,
         "pos": 35,
         "terrain": "O",
-        "features": "Whispering Undertow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -307,8 +307,8 @@
         "chunk": 52,
         "pos": 38,
         "terrain": "O",
-        "features": "Sweeping Narrows",
-        "encounter": "The local tales speak of sunken swindlers that swooning in sea sprite symphonies near neptune's nightmare nebula.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) benevolent buoy by an overwhelming sense of wonder.",
         "history": []
     },
     {
@@ -347,7 +347,7 @@
         "chunk": 52,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Dark Surf",
         "encounter": "",
         "history": []
     },
@@ -364,14 +364,14 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) jewel of the deep nestled within the sea sprite sprout, surrounded by mangoes and pineapples from shore.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 52,
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Eerie Canyon",
         "encounter": "",
         "history": []
     },
@@ -379,7 +379,7 @@
         "chunk": 52,
         "pos": 47,
         "terrain": "O",
-        "features": "Eerie Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -387,7 +387,7 @@
         "chunk": 52,
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Frigid Eddy",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the kept-away kelp kingdom that hint at lagoon lorekeepers and their quest to help a local herbalist gather seaweed for medicines.",
+        "encounter": "",
         "history": []
     },
     {
@@ -435,7 +435,7 @@
         "chunk": 52,
         "pos": 54,
         "terrain": "O",
-        "features": "Frothy Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -467,8 +467,8 @@
         "chunk": 52,
         "pos": 58,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Enigmatic Trough",
+        "encounter": "Ethereal enclaves, you sense the presence of brine buccaneers.",
         "history": []
     },
     {
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the jettisoned jetstream junction that hints at the tales of mercurial merchants.",
         "history": []
     },
     {
@@ -499,7 +499,7 @@
         "chunk": 52,
         "pos": 62,
         "terrain": "O",
-        "features": "Crystal Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -523,7 +523,7 @@
         "chunk": 52,
         "pos": 65,
         "terrain": "O",
-        "features": "Tranquil Thermocline",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 52,
         "pos": 67,
         "terrain": "O",
-        "features": "Roaring Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -547,7 +547,7 @@
         "chunk": 52,
         "pos": 68,
         "terrain": "O",
-        "features": "Restless Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 52,
         "pos": 70,
         "terrain": "O",
-        "features": "Bubbling Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "A strong scent of sunken leather-bound books suggests recent activity by nebulous nautilus nomads.",
+        "encounter": "",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "The dense voyager's varech seems to whisper tales of reef runners and their help a local brewer gather saltwater for a new brew.",
+        "encounter": "",
         "history": []
     },
     {
@@ -612,14 +612,14 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating the tidal moon pull becomes challenging due to mercurial merchants prancing on pirate pontoons.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 52,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Gentle Jetstream",
         "encounter": "",
         "history": []
     },
@@ -627,7 +627,7 @@
         "chunk": 52,
         "pos": 78,
         "terrain": "O",
-        "features": "Crystal Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the iridescent isle inn that hints at the tales of flying fish.",
         "history": []
     },
     {
@@ -683,7 +683,7 @@
         "chunk": 52,
         "pos": 85,
         "terrain": "O",
-        "features": "Haunting Seamount",
+        "features": "Glassy Sound",
         "encounter": "",
         "history": []
     },
@@ -699,7 +699,7 @@
         "chunk": 52,
         "pos": 87,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Shoal",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 52,
         "pos": 89,
         "terrain": "O",
-        "features": "Bubbling Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -724,7 +724,7 @@
         "pos": 90,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path reveals tidal troubadours that seem to be jubilating with jade jugglers in order to help a musician compose a new sea shanty.",
         "history": []
     },
     {

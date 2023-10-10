@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear the distant sound of reef raiders pirouetting with pirate pixies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -43,7 +43,7 @@
         "chunk": 39,
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Gulf",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 39,
         "pos": 7,
         "terrain": "O",
-        "features": "Fathomless Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 39,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Glassy Estuary",
         "encounter": "",
         "history": []
     },
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the sapphire seagrass, you find a(n) rusty cutlass that resonate with loneliness.",
+        "encounter": "",
         "history": []
     },
     {
@@ -99,7 +99,7 @@
         "chunk": 39,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Wave",
         "encounter": "",
         "history": []
     },
@@ -172,15 +172,15 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "You're guided by coral reef bloom, leading to traces of void drifters.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 22,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Wild Vortex",
+        "encounter": "You come across the abandoned anchor atoll that speak(s) of temporal tsunami titans and their tales.",
         "history": []
     },
     {
@@ -235,7 +235,7 @@
         "chunk": 39,
         "pos": 29,
         "terrain": "O",
-        "features": "Restless Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -243,8 +243,8 @@
         "chunk": 39,
         "pos": 30,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Blue Chasm",
+        "encounter": "You're guided by blooming marine flowers, leading to a site with withered wave-washed warren of grotto gorgons.",
         "history": []
     },
     {
@@ -267,7 +267,7 @@
         "chunk": 39,
         "pos": 33,
         "terrain": "O",
-        "features": "",
+        "features": "Billowing Seafloor",
         "encounter": "",
         "history": []
     },
@@ -283,7 +283,7 @@
         "chunk": 39,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Pearlescent Shoal",
         "encounter": "",
         "history": []
     },
@@ -291,7 +291,7 @@
         "chunk": 39,
         "pos": 36,
         "terrain": "O",
-        "features": "Pearlescent Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 39,
         "pos": 43,
         "terrain": "O",
-        "features": "Turbid Fjord",
+        "features": "Vibrant Narrows",
         "encounter": "",
         "history": []
     },
@@ -363,7 +363,7 @@
         "chunk": 39,
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Whispering Tide",
         "encounter": "",
         "history": []
     },
@@ -403,7 +403,7 @@
         "chunk": 39,
         "pos": 50,
         "terrain": "O",
-        "features": "Marine Undertow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -411,7 +411,7 @@
         "chunk": 39,
         "pos": 51,
         "terrain": "O",
-        "features": "Roaring Horizon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the abandoned aqua altar that hint at seashell seekers and their quest to investigate the sudden appearance of red tides.",
+        "encounter": "",
         "history": []
     },
     {
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by ocean's draining sinkhole, with traces of water elementals nearby.",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) wave-washed wax seal hidden among the fantasy frond, which seems to be lost by mystical maritime menders.",
+        "encounter": "",
         "history": []
     },
     {
@@ -444,14 +444,14 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with yearning upon spotting a(n) nautical nautilus shell.",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Emerald Inlet",
         "encounter": "",
         "history": []
     },
@@ -467,7 +467,7 @@
         "chunk": 39,
         "pos": 58,
         "terrain": "O",
-        "features": "Sparkling Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -491,8 +491,8 @@
         "chunk": 39,
         "pos": 61,
         "terrain": "O",
-        "features": "Stormy Thermocline",
-        "encounter": "",
+        "features": "",
+        "encounter": "A trail of saltwater taffy from boardwalks leads you to believe barnacle bards were here recently.",
         "history": []
     },
     {
@@ -515,7 +515,7 @@
         "chunk": 39,
         "pos": 64,
         "terrain": "O",
-        "features": "Hypnotic Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your surroundings become dense with coral vine, perfect for wave wonders mystifying merfolk monarchs.",
         "history": []
     },
     {
@@ -547,7 +547,7 @@
         "chunk": 39,
         "pos": 68,
         "terrain": "O",
-        "features": "Golden Eddy",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 39,
         "pos": 70,
         "terrain": "O",
-        "features": "Deep-sea Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You discover a(n) jubilant jackalope jar concealed by voyager's varech, hinting at walruses.",
         "history": []
     },
     {
@@ -619,7 +619,7 @@
         "chunk": 39,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Breezy Vents",
         "encounter": "",
         "history": []
     },
@@ -628,14 +628,14 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey is interrupted by kraken's kaleidoscope, with signs of marine medusas nearby.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 79,
         "terrain": "O",
-        "features": "Sweeping Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -643,7 +643,7 @@
         "chunk": 39,
         "pos": 80,
         "terrain": "O",
-        "features": "Seething Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -667,15 +667,15 @@
         "chunk": 39,
         "pos": 83,
         "terrain": "O",
-        "features": "Tide-kissed Thermocline",
-        "encounter": "",
+        "features": "",
+        "encounter": "The ground is littered with the quartz quarry, and you can smell lifeguard's zinc sunscreen coming from a nearby whirlpool warrens.",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 84,
         "terrain": "O",
-        "features": "Sunlit Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -716,14 +716,14 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of calmness grips you as you discover a(n) zircon's protective amulet linked to deep-sea dryads.",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Hushed Horizon",
         "encounter": "",
         "history": []
     },
@@ -764,14 +764,14 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "The surroundings bear vanishing vortex venue, suggesting tales of oceanic owlbears.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 39,
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Silvery Fjord",
         "encounter": "",
         "history": []
     },
@@ -779,7 +779,7 @@
         "chunk": 39,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Briny Sound",
         "encounter": "",
         "history": []
     },
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across a(n) oracle's opulent obelisk that bear the mark of coral corsairs.",
         "history": []
     }
 ]

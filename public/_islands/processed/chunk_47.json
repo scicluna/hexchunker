@@ -11,7 +11,7 @@
         "chunk": 47,
         "pos": 1,
         "terrain": "O",
-        "features": "Murky Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -43,8 +43,8 @@
         "chunk": 47,
         "pos": 5,
         "terrain": "O",
-        "features": "Whispering Ocean",
-        "encounter": "The area is marked by the nereid's neglected nest, a legacy of manta protectors and their tales.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 47,
         "pos": 18,
         "terrain": "O",
-        "features": "Mysterious Shoal",
+        "features": "Fathomless Brine",
         "encounter": "",
         "history": []
     },
@@ -155,7 +155,7 @@
         "chunk": 47,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Clear Abyss",
         "encounter": "",
         "history": []
     },
@@ -179,7 +179,7 @@
         "chunk": 47,
         "pos": 22,
         "terrain": "O",
-        "features": "Majestic Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -203,7 +203,7 @@
         "chunk": 47,
         "pos": 25,
         "terrain": "O",
-        "features": "Raging Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about magnetic storm ahead, where moray eels are known to be exalting in exotic expanse.",
         "history": []
     },
     {
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of restlessness grips you as you discover a(n) pirate's puzzle box linked to oceanic outcasts.",
         "history": []
     },
     {
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) necklace of fireballs by an overwhelming sense of majesty.",
         "history": []
     },
     {
@@ -300,7 +300,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) underwater ukulele that seems out of place, exuding a sense of calmness.",
         "history": []
     },
     {
@@ -331,15 +331,15 @@
         "chunk": 47,
         "pos": 41,
         "terrain": "O",
-        "features": "Mysterious Cove",
-        "encounter": "You notice a(n) marine mirror that is oddly placed amongst the sea fern.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 47,
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Frothy Seamount",
         "encounter": "",
         "history": []
     },
@@ -347,7 +347,7 @@
         "chunk": 47,
         "pos": 43,
         "terrain": "O",
-        "features": "Marine Salinity",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of triton's forsaken palace left by triton's twilight envoys after they had investigate the cause of a sudden fish die-off.",
+        "encounter": "",
         "history": []
     },
     {
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) deep-sea divining rod that seems out of place, exuding a sense of empowerment.",
+        "encounter": "",
         "history": []
     },
     {
@@ -412,7 +412,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground bears oracle's ocean outpost from past encounters with coral sirens.",
+        "encounter": "",
         "history": []
     },
     {
@@ -443,7 +443,7 @@
         "chunk": 47,
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Dark Bight",
         "encounter": "",
         "history": []
     },
@@ -491,7 +491,7 @@
         "chunk": 47,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Jeweled Passage",
         "encounter": "",
         "history": []
     },
@@ -515,7 +515,7 @@
         "chunk": 47,
         "pos": 64,
         "terrain": "O",
-        "features": "",
+        "features": "Luminous Strait",
         "encounter": "",
         "history": []
     },
@@ -556,14 +556,14 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales suggest vortex sea specters once negotiating with nautical necromancers in this vicinity.",
         "history": []
     },
     {
         "chunk": 47,
         "pos": 70,
         "terrain": "O",
-        "features": "Haunting Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about coral golems that are known to be dancing on dolphin backs near tidal moon pull.",
         "history": []
     },
     {
@@ -595,7 +595,7 @@
         "chunk": 47,
         "pos": 74,
         "terrain": "O",
-        "features": "",
+        "features": "Shimmering Strait",
         "encounter": "",
         "history": []
     },
@@ -603,7 +603,7 @@
         "chunk": 47,
         "pos": 75,
         "terrain": "O",
-        "features": "Serene Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -635,8 +635,8 @@
         "chunk": 47,
         "pos": 79,
         "terrain": "O",
-        "features": "Infinite Channel",
-        "encounter": "",
+        "features": "",
+        "encounter": "You're cautioned about seafloor scholars that are known to be imbuing isles with illusions near seaweed entanglement.",
         "history": []
     },
     {
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "Legends tell of seahorses that help a fisherman repair his damaged boat amidst these mystical mermaid mosaic.",
+        "encounter": "",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across a(n) yarn of storytelling that bear the mark of reef raiders.",
+        "encounter": "",
         "history": []
     },
     {
@@ -683,7 +683,7 @@
         "chunk": 47,
         "pos": 85,
         "terrain": "O",
-        "features": "Emerald Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -691,7 +691,7 @@
         "chunk": 47,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Undertow",
         "encounter": "",
         "history": []
     },
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Atlantean annexes, you sense the presence of deep-sea traders.",
         "history": []
     },
     {
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The local tales speak of oceanic orators that illuminating inky infinities near nautical nether nexus.",
         "history": []
     },
     {
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "As you proceed, marine maelstrom mages suddenly nestling in nautical nooks from behind a(n) fantasy-filled flask.",
+        "encounter": "",
         "history": []
     },
     {
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "Sea lions outshining oceanic opulence are hidden hallowed hulls.",
+        "encounter": "The sea sprite spiral bear marks of tidal chimera that are harmonizing in haunted harbors.",
         "history": []
     },
     {

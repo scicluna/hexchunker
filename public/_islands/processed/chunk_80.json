@@ -4,14 +4,14 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot pufferfish orchestrating orca overtures, casting shadows on a(n) lagoon's loom.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 80,
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Stormy Shoal",
         "encounter": "",
         "history": []
     },
@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The jeweled junction here tell a tale of oceanic owlbears and their desire to challenge the rulers of the coral citadel.",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 80,
         "pos": 7,
         "terrain": "O",
-        "features": "Wild Eddy",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -68,7 +68,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A strong scent of seagull's coastal scent suggests recent activity by aqua acrobats.",
         "history": []
     },
     {
@@ -91,7 +91,7 @@
         "chunk": 80,
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Surf",
         "encounter": "",
         "history": []
     },
@@ -108,7 +108,7 @@
         "pos": 13,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is blocked by floating debris field, guarded by starfish sages.",
         "history": []
     },
     {
@@ -172,14 +172,14 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "In the distance, barnacle behemoths are gazing into glowing grottoes, surrounded by glowing gorgonian.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 80,
         "pos": 22,
         "terrain": "O",
-        "features": "Roaring Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers suggest cavern centaurs are venerating vortex visionaries gilded gorges.",
         "history": []
     },
     {
@@ -211,7 +211,7 @@
         "chunk": 80,
         "pos": 26,
         "terrain": "O",
-        "features": "Choppy Maelstrom",
+        "features": "Gentle Reef",
         "encounter": "",
         "history": []
     },
@@ -259,7 +259,7 @@
         "chunk": 80,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Lagoon",
         "encounter": "",
         "history": []
     },
@@ -372,14 +372,14 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "The path bears marks of astral ocean assassins and their interactions with a(n) mystic mariner's mace.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 80,
         "pos": 47,
         "terrain": "O",
-        "features": "",
+        "features": "Tide-kissed Swell",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of the jettisoned jade jetty left by wave wranglers after they had discover the entrance to the pelagic prison.",
         "history": []
     },
     {
@@ -412,7 +412,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the eroded estuary estate, and you can smell salty sea breeze coming from a nearby aquatic atriums.",
+        "encounter": "",
         "history": []
     },
     {
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) tidal teacup nestled within the whirlpool willow, surrounded by deep-sea mysteries.",
+        "encounter": "",
         "history": []
     },
     {
@@ -436,7 +436,7 @@
         "pos": 54,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of the saltwater springs sanctuary left by sea lions after they had investigate the sudden appearance of red tides.",
         "history": []
     },
     {
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of eldritch estuary elves that jiving with jellyfish jesters in this region.",
         "history": []
     },
     {
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with anxiety upon spotting a(n) poseidon's trident.",
         "history": []
     },
     {
@@ -579,7 +579,7 @@
         "chunk": 80,
         "pos": 72,
         "terrain": "O",
-        "features": "Sundrenched Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "Sounds suggest narwhal dreamweavers are unraveling underwater enigmas, leaving behind the tucked-away tidal temple.",
+        "encounter": "",
         "history": []
     },
     {
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter manatees which are nurturing nautical nymphs.",
         "history": []
     },
     {
@@ -683,7 +683,7 @@
         "chunk": 80,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Golden Riptide",
         "encounter": "",
         "history": []
     },
@@ -707,7 +707,7 @@
         "chunk": 80,
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Placid Vortex",
         "encounter": "",
         "history": []
     },
@@ -731,8 +731,8 @@
         "chunk": 80,
         "pos": 91,
         "terrain": "O",
-        "features": "Shimmering Cove",
-        "encounter": "The ground bears submerged sapphire sanctum from past encounters with pelagic peacekeepers.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -771,7 +771,7 @@
         "chunk": 80,
         "pos": 96,
         "terrain": "O",
-        "features": "Emerald Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },

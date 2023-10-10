@@ -4,7 +4,7 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "A local speaks of lunar lagoon looters that once gather ingredients for a cure from the coral alchemist in this region.",
+        "encounter": "",
         "history": []
     },
     {
@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You overhear tales of orca pods that whispering windward warnings in this region.",
+        "encounter": "",
         "history": []
     },
     {
@@ -35,7 +35,7 @@
         "chunk": 54,
         "pos": 4,
         "terrain": "O",
-        "features": "Emerald Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -43,7 +43,7 @@
         "chunk": 54,
         "pos": 5,
         "terrain": "O",
-        "features": "Foamy Brine",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 54,
         "pos": 8,
         "terrain": "O",
-        "features": "Lush Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -99,7 +99,7 @@
         "chunk": 54,
         "pos": 12,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Reef",
         "encounter": "",
         "history": []
     },
@@ -107,7 +107,7 @@
         "chunk": 54,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Gulf",
         "encounter": "",
         "history": []
     },
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about coral labyrinth ahead, where quantum quillback sentinels are known to be embracing eldritch epiphanies.",
         "history": []
     },
     {
@@ -171,7 +171,7 @@
         "chunk": 54,
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Shadowy Trough",
         "encounter": "",
         "history": []
     },
@@ -196,7 +196,7 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) abjuration anchor that seems out of place, exuding a sense of yearning.",
+        "encounter": "",
         "history": []
     },
     {
@@ -211,7 +211,7 @@
         "chunk": 54,
         "pos": 26,
         "terrain": "O",
-        "features": "Mysterious Islet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -243,7 +243,7 @@
         "chunk": 54,
         "pos": 30,
         "terrain": "O",
-        "features": "Blue Islet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 54,
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Tide-kissed Bight",
         "encounter": "",
         "history": []
     },
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the triton's truffle, you find a(n) icon of heroes that resonate with anticipation.",
+        "encounter": "A distant sound suggests barnacle behemoths are frolicking with fathomless fae near the eclipsed eel enclave.",
         "history": []
     },
     {
@@ -308,15 +308,15 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear the distant sound of cursed captains yearning for yawning yonders.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 54,
         "pos": 39,
         "terrain": "O",
-        "features": "Timeless Tide",
-        "encounter": "",
+        "features": "",
+        "encounter": "The area is marked by reef's ruined cathedral, a legacy of abyssal adventurers and their desire to help a local teacher educate children about the sea.",
         "history": []
     },
     {
@@ -355,7 +355,7 @@
         "chunk": 54,
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Bight",
         "encounter": "",
         "history": []
     },
@@ -380,14 +380,14 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "You're intrigued by vexing vortex villa that bear the mark of nautical necromancers.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 54,
         "pos": 48,
         "terrain": "O",
-        "features": "",
+        "features": "Billowing Ripple",
         "encounter": "",
         "history": []
     },
@@ -419,7 +419,7 @@
         "chunk": 54,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Mysterious Ridge",
         "encounter": "",
         "history": []
     },
@@ -460,7 +460,7 @@
         "pos": 57,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by davy jones' locker, a testament to pearlescent pegasi and their tales.",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) abyssal abacus that seem to resonate with tales of triton knights.",
         "history": []
     },
     {
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden exhilaration grips you as starlit selkies observing orca oracles oceanic oases.",
         "history": []
     },
     {
@@ -603,15 +603,15 @@
         "chunk": 54,
         "pos": 75,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Misty Lagoon",
+        "encounter": "Sounds of aqua archers xeroxing xenial xanadus emerge from seafloor sanctums.",
         "history": []
     },
     {
         "chunk": 54,
         "pos": 76,
         "terrain": "O",
-        "features": "Cerulean Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is marked by ethereal estuary estate, a testament to benevolent brine spirits that once were charting churning channels.",
         "history": []
     },
     {
@@ -643,7 +643,7 @@
         "chunk": 54,
         "pos": 80,
         "terrain": "O",
-        "features": "Tropical Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -652,7 +652,7 @@
         "pos": 81,
         "terrain": "O",
         "features": "",
-        "encounter": "Ancient stories speak of astral algae spirits that once were retrieve the lost trident of poseidon here.",
+        "encounter": "",
         "history": []
     },
     {
@@ -675,7 +675,7 @@
         "chunk": 54,
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Thundering Atoll",
         "encounter": "",
         "history": []
     },
@@ -683,7 +683,7 @@
         "chunk": 54,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Hypnotic Trench",
         "encounter": "",
         "history": []
     },
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) pirate's pocket watch by an overwhelming sense of majesty.",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the kept-away kraken keep that hint at eldritch eel enchanters and their quest to help a local chef catch a rare type of fish.",
         "history": []
     },
     {
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by magic-induced doldrums, with signs of sapphire sylphs nearby.",
         "history": []
     },
     {
@@ -787,7 +787,7 @@
         "chunk": 54,
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Restless Jetstream",
         "encounter": "",
         "history": []
     },
