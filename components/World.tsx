@@ -6,10 +6,11 @@ type MainStageProps = {
 }
 
 export default function World({ islandChain }: MainStageProps) {
+    const CHAINCOL = Math.floor(Math.sqrt(islandChain.length))
     return (
-        <main className="h-full w-fit grid grid-cols-[repeat(10,1fr)]">
+        <main className={`h-full w-fit grid`} style={{ gridTemplateColumns: `repeat(${CHAINCOL}, 1fr)` }}>
             {islandChain && islandChain.map((island, islandNumber) => (
-                <Chunk island={island} islandNumber={islandNumber} />
+                <Chunk key={islandNumber} island={island} islandNumber={islandNumber} />
             ))}
         </main>
     )

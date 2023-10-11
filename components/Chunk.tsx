@@ -11,14 +11,14 @@ type ChunkProps = {
 }
 
 export default function Chunk({ island, islandNumber }: ChunkProps) {
-    const chunkRef = useRef<Island[]>(island)
-    const HEXSIZE = 20
-    const CHUNKDIMENSIONS = 10 //MUST MATCH
+    const chunkRef = useRef<Island[]>(island) //allow for mutable adjacent hexes / live updates to adjacent hex histories
+    const HEXSIZE = 20 //rems
+    const CHUNKDIMENSIONS = Math.floor(Math.sqrt(island.length)) //size noted by generator
 
     return (
-        <div className={`grid grid-cols-[repeat(10,1fr)] h-[${HEXSIZE}rem] max-w-fit gap-x-[1px]`} key={islandNumber}>
+        <div className={`h-[${HEXSIZE}rem] max-w-fit gap-x-[1px] grid`} style={{ gridTemplateColumns: `repeat(${CHUNKDIMENSIONS}, 1fr)` }} key={islandNumber}>
             {chunkRef.current.map((tile, i) => (
-                <Hex tile={tile} chunkno={islandNumber} adjHexes={getAdjacentHexes(i, CHUNKDIMENSIONS, chunkRef.current)} image={imagePick(tile.terrain)} size={HEXSIZE} chunkSize={CHUNKDIMENSIONS} key={`${tile.chunk + '-' + tile.pos}`} />
+                <Hex tile={tile} chunkno={islandNumber} adjHexes={getAdjacentHexes(i, CHUNKDIMENSIONS, chunkRef.current)} image={imagePick(tile.terrain)} size={HEXSIZE} chunkSize={CHUNKDIMENSIONS} key={`${islandNumber + '-' + i}`} />
             ))}
         </div>
     )
