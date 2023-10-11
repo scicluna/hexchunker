@@ -2,13 +2,14 @@ import style from './Hex.module.css'
 import Image, { StaticImageData } from 'next/image'
 import { Island } from '@/types/islandTypes'
 import HexPop from './HexPop'
+import { AdjacentHexes } from '@/utils/getAdjacentHexes'
 
 type HexProps = {
     tile: Island
     chunkno: number
     size: number
     chunkSize: number
-    adjHexes: Island[]
+    adjHexes: AdjacentHexes
     image: StaticImageData
 }
 

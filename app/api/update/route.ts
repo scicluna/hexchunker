@@ -8,7 +8,7 @@ export async function POST(req: NextRequest) {
 
     const filePath = path.join(process.cwd(), "public", "_islands", "processed", filename);
 
-    console.log(filePath)
+    console.log(filePath, "updated!")
     try {
         const fileContentRaw = await fs.readFile(filePath, "utf8");
         const fileContent = JSON.parse(fileContentRaw);

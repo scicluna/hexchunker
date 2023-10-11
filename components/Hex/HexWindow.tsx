@@ -1,20 +1,22 @@
 "use client"
 import { Island } from "@/types/islandTypes"
+import { AdjacentHexes } from "@/utils/getAdjacentHexes";
 import { updateChunk } from "@/utils/updateChunk";
 import { Message, useChat } from "ai/react";
 import React, { useEffect, useRef, useState } from "react";
 
 type HexWindowProps = {
     tile: Island
-    adjHexes: Island[]
+    adjHexes: AdjacentHexes
 }
 
 export default function HexWindow({ tile, adjHexes }: HexWindowProps) {
     const { messages, input, handleInputChange, handleSubmit, isLoading, } = useChat({
         onFinish: (async (message: Message) => {
             try {
+                const newEntry = `User: ${input} \nAI: ${message.content}`
                 await updateChunk(tile, message.content)
-                tile.history = [...tile.history, message.content]
+                tile.history = [...tile.history, newEntry]
             }
             catch (err) {
                 console.log("something went wrong: ERROR")
@@ -38,7 +40,7 @@ export default function HexWindow({ tile, adjHexes }: HexWindowProps) {
     return (
         <div className="flex flex-col gap-2 h-full m-2 opacity-100">
             <div className="relative z-50 mini scrollbar w-full h-[15vh] overflow-y-scroll bg-slate-500 bg-opacity-20 gap-1 flex flex-col p-1" ref={chatContainer}>
-                <div className="flex flex-col gap-1">
+                <div className="flex flex-col gap-1 whitespace-pre-wrap">
                     <h3>History:</h3>
                     <hr />
                     {tile.history.map((history, x) => (
@@ -49,7 +51,7 @@ export default function HexWindow({ tile, adjHexes }: HexWindowProps) {
                     ))}
                 </div>
                 {messages.map((m, i) => (
-                    <div key={m.id} className='flex flex-col p-2'>
+                    <div key={m.id} className='flex flex-col p-2 whitespace-pre-wrap'>
                         <p className='font-extrabold'>{m.role === 'user' ? 'User: ' : 'AI: '}</p>
                         <p>{m.content}</p>
                     </div>

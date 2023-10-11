@@ -7,10 +7,11 @@ import {
 import style from './Hex.module.css'
 import Image, { StaticImageData } from "next/image"
 import HexWindow from "./HexWindow"
+import { AdjacentHexes } from "@/utils/getAdjacentHexes"
 
 type HexPopProps = {
     tile: Island
-    adjHexes: Island[]
+    adjHexes: AdjacentHexes
     chunkno: number
     size: number
     hexImage: StaticImageData

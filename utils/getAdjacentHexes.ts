@@ -1,36 +1,63 @@
 import { Island } from "@/types/islandTypes";
 
-export function getAdjacentHexes(i: number, CHUNKDIMENSIONS: number, currentChunk: Island[]): Island[] {
+export type AdjacentHexes = {
+    northwest: Island | undefined
+    northeast: Island | undefined
+    west: Island | undefined
+    east: Island | undefined
+    southwest: Island | undefined
+    southeast: Island | undefined
+}
+
+export function getAdjacentHexes(i: number, CHUNKDIMENSIONS: number, currentChunk: Island[]): AdjacentHexes {
     // Calculate the row and column of the hex with index i.
     let row = Math.floor(i / CHUNKDIMENSIONS);
     let col = i % CHUNKDIMENSIONS;
 
     // Calculate adjacent indices for a pointy-topped hex.
-    let adjacent: [number, number][];
+    let adjacent: { [key: string]: [number, number] } = {
+        northwest: [0, 0],
+        northeast: [0, 0],
+        west: [0, 0],
+        east: [0, 0],
+        southwest: [0, 0],
+        southeast: [0, 0]
+    };
+
     if (row % 2 === 0) { // even rows
-        adjacent = [
-            [row - 1, col],   // top left
-            [row - 1, col + 1], // top right
-            [row, col - 1],   // left
-            [row, col + 1],   // right
-            [row + 1, col],   // bottom left
-            [row + 1, col + 1]  // bottom right
-        ];
+        adjacent.northwest = [row - 1, col];
+        adjacent.northeast = [row - 1, col + 1];
+        adjacent.west = [row, col - 1];
+        adjacent.east = [row, col + 1];
+        adjacent.southwest = [row + 1, col];
+        adjacent.southeast = [row + 1, col + 1];
     } else { // odd rows
-        adjacent = [
-            [row - 1, col - 1], // top left
-            [row - 1, col],   // top right
-            [row, col - 1],   // left
-            [row, col + 1],   // right
-            [row + 1, col - 1], // bottom left
-            [row + 1, col]    // bottom right
-        ];
+        adjacent.northwest = [row - 1, col - 1];
+        adjacent.northeast = [row - 1, col];
+        adjacent.west = [row, col - 1];
+        adjacent.east = [row, col + 1];
+        adjacent.southwest = [row + 1, col - 1];
+        adjacent.southeast = [row + 1, col];
     }
 
     // Convert adjacent coordinates back to indices and filter out any that are off the grid.
-    return adjacent
-        .filter(([adjRow, adjCol]) =>
-            adjRow >= 0 && adjRow < CHUNKDIMENSIONS && adjCol >= 0 && adjCol < CHUNKDIMENSIONS)
-        .map(([adjRow, adjCol]) => currentChunk[adjRow * CHUNKDIMENSIONS + adjCol])
-        .filter(tile => tile !== undefined); // filter out any undefined tiles (just to be safe)
+    let result: AdjacentHexes = {
+        northwest: undefined,
+        northeast: undefined,
+        west: undefined,
+        east: undefined,
+        southwest: undefined,
+        southeast: undefined
+    };
+    for (let direction in adjacent) {
+        let [adjRow, adjCol] = adjacent[direction as keyof AdjacentHexes];
+        if (adjRow >= 0 && adjRow < CHUNKDIMENSIONS && adjCol >= 0 && adjCol < CHUNKDIMENSIONS) {
+            let tile = currentChunk[adjRow * CHUNKDIMENSIONS + adjCol];
+            if (tile !== undefined) {
+                result[direction as keyof AdjacentHexes] = tile;
+            }
+        }
+    }
+
+    return result;
 }
