@@ -19,7 +19,7 @@
         "chunk": 32,
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Thermocline",
         "encounter": "",
         "history": []
     },
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Echoes of oceanic observers resonate, accompanied by distinct rope and rigging.",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sounds suggest sunken spirits are preening with pirate parrots, leaving behind the zoned-out ziggurat zone.",
         "history": []
     },
     {
@@ -60,7 +60,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with reef rose, providing cover for coral colonies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -83,7 +83,7 @@
         "chunk": 32,
         "pos": 10,
         "terrain": "O",
-        "features": "Foamy Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -99,8 +99,8 @@
         "chunk": 32,
         "pos": 12,
         "terrain": "O",
-        "features": "Foamy Basin",
-        "encounter": "",
+        "features": "",
+        "encounter": "Sounds suggest shoal shamans are xeroxing xenial xanadus, leaving behind the yielded yacht yard.",
         "history": []
     },
     {
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "The path is littered with luminous liquid labyrinth, a testament to vortex vandal valkyries tranquilizing tidal tricksters.",
+        "encounter": "",
         "history": []
     },
     {
@@ -155,8 +155,8 @@
         "chunk": 32,
         "pos": 19,
         "terrain": "O",
-        "features": "",
-        "encounter": "The abyssal moss rustles as mystic merrow are quixotically questing in quays behind them.",
+        "features": "Sprawling Cove",
+        "encounter": "",
         "history": []
     },
     {
@@ -164,15 +164,15 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the quill-leafed quinoa, a(n) potion of water breathing catch(es) your eye, exuding a sense of desire to explore.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 21,
         "terrain": "O",
-        "features": "Luminous Brine",
-        "encounter": "The area is marked by lustrous labyrinths' lounge, a legacy of anglerfish and their desire to escort a merchant ship through pirate-infested waters.",
+        "features": "Swirling Current",
+        "encounter": "",
         "history": []
     },
     {
@@ -219,7 +219,7 @@
         "chunk": 32,
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Fathom",
         "encounter": "",
         "history": []
     },
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot sunfish yielding to yonder yearnings, casting shadows on a(n) helm of underwater action.",
+        "encounter": "",
         "history": []
     },
     {
@@ -283,15 +283,15 @@
         "chunk": 32,
         "pos": 35,
         "terrain": "O",
-        "features": "",
-        "encounter": "Your journey is interrupted by atlantean force field, with signs of orca pods nearby.",
+        "features": "Seething Shoal",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 36,
         "terrain": "O",
-        "features": "Roaring Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "You're intrigued by the barnacle-bound barracks that bear the mark of harmonic hammerheads.",
+        "encounter": "",
         "history": []
     },
     {
@@ -347,8 +347,8 @@
         "chunk": 32,
         "pos": 43,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sunkissed Whirlpool",
+        "encounter": "A strong scent of oceanfront meadow flowers leads you towards tidal timekeepers.",
         "history": []
     },
     {
@@ -363,7 +363,7 @@
         "chunk": 32,
         "pos": 45,
         "terrain": "O",
-        "features": "Teeming Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -412,7 +412,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes of luminous lurkers resonate, accompanied by distinct lagoon lilies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -435,8 +435,8 @@
         "chunk": 32,
         "pos": 54,
         "terrain": "O",
-        "features": "",
-        "encounter": "Echoes of sea turtles resonate, accompanied by distinct mystical mermaid perfumes.",
+        "features": "Gentle Riptide",
+        "encounter": "",
         "history": []
     },
     {
@@ -451,7 +451,7 @@
         "chunk": 32,
         "pos": 56,
         "terrain": "O",
-        "features": "Tropical Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -483,7 +483,7 @@
         "chunk": 32,
         "pos": 60,
         "terrain": "O",
-        "features": "Deep-sea Trench",
+        "features": "Haunting Undertow",
         "encounter": "",
         "history": []
     },
@@ -499,7 +499,7 @@
         "chunk": 32,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Gulf",
         "encounter": "",
         "history": []
     },
@@ -507,8 +507,8 @@
         "chunk": 32,
         "pos": 63,
         "terrain": "O",
-        "features": "",
-        "encounter": "Legends tell of oceanic oathkeepers that help a shipwright gather rare materials for a ship amidst these pirate's phantom trap.",
+        "features": "Tumultuous Channel",
+        "encounter": "",
         "history": []
     },
     {
@@ -523,8 +523,8 @@
         "chunk": 32,
         "pos": 65,
         "terrain": "O",
-        "features": "Shadowy Ridge",
-        "encounter": "A sudden jellyfish's gentle ozone alerts you to the presence of water sprites.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "You're cautioned about maritime mummies that are known to be swooning in sea sprite symphonies near iridescent ice inferno.",
+        "encounter": "",
         "history": []
     },
     {
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is blocked by sudden storm, guarded by nautical nurturers.",
         "history": []
     },
     {
@@ -580,14 +580,14 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) dust of disappearance that seems out of place, exuding a sense of pensiveness.",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Seabed",
         "encounter": "",
         "history": []
     },
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel respect as mystic merrow are kneeling in kelpie kingdoms near a(n) luminous lantern.",
         "history": []
     },
     {
@@ -700,7 +700,7 @@
         "pos": 87,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) kraken's kettle that seems out of place, exuding a sense of vulnerability.",
         "history": []
     },
     {
@@ -756,14 +756,14 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of sharks that venerating vortex visionaries in this region.",
         "history": []
     },
     {
         "chunk": 32,
         "pos": 95,
         "terrain": "O",
-        "features": "",
+        "features": "Muted Trough",
         "encounter": "",
         "history": []
     },
@@ -779,8 +779,8 @@
         "chunk": 32,
         "pos": 97,
         "terrain": "O",
-        "features": "",
-        "encounter": "The path is littered with signs of moray eels and their interactions with a(n) harbor horn.",
+        "features": "Rippling Fathom",
+        "encounter": "",
         "history": []
     },
     {
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear the distant sound of nereids twirling in tidal twisters.",
+        "encounter": "",
         "history": []
     },
     {

@@ -17,7 +17,6 @@ type HexPopProps = {
 }
 
 export default function HexPop({ tile, adjHexes, chunkno, size, hexImage }: HexPopProps) {
-
     const terrainDict = {
         O: "Ocean",
         P: "Plains",

@@ -11,7 +11,7 @@
         "chunk": 65,
         "pos": 1,
         "terrain": "O",
-        "features": "Stormy Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -27,7 +27,7 @@
         "chunk": 65,
         "pos": 3,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Lagoon",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 65,
         "pos": 8,
         "terrain": "O",
-        "features": "Timeless Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,8 +75,8 @@
         "chunk": 65,
         "pos": 9,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Deep Bight",
+        "encounter": "The path bears marks of seahorses and their interactions with a(n) rusty cutlass.",
         "history": []
     },
     {
@@ -99,15 +99,15 @@
         "chunk": 65,
         "pos": 12,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Crystal Delta",
+        "encounter": "You spot giant squids bargaining with brinebound beings, casting shadows on a(n) davy jones' dice.",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Sundrenched Narrows",
         "encounter": "",
         "history": []
     },
@@ -115,7 +115,7 @@
         "chunk": 65,
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Endless Swell",
         "encounter": "",
         "history": []
     },
@@ -147,7 +147,7 @@
         "chunk": 65,
         "pos": 18,
         "terrain": "O",
-        "features": "Boundless Riptide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -164,14 +164,14 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel peacefulness as crabs are journeying to jeweled jungles near a(n) kelpie's kite.",
+        "encounter": "Sounds of tsunami titans gyrating with ghostly gorgons emerge from ethereal expanses.",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 21,
         "terrain": "O",
-        "features": "Sprawling Ripple",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -244,7 +244,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the withered wave-washed warren that hint at shoals of mackerel and their quest to help a local blacksmith gather materials from a shipwreck.",
+        "encounter": "",
         "history": []
     },
     {
@@ -267,7 +267,7 @@
         "chunk": 65,
         "pos": 33,
         "terrain": "O",
-        "features": "Lush Horizon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice a(n) ewer of endless water that is oddly placed amongst the golden barnacle tree.",
         "history": []
     },
     {
@@ -298,17 +298,17 @@
     {
         "chunk": 65,
         "pos": 37,
-        "terrain": "M",
-        "features": "Nurtured Notch",
-        "encounter": "You're filled with tranquility upon finding the decaying mountain inn linked to phoenix protectors.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 38,
-        "terrain": "M",
-        "features": "Majestic Highland",
-        "encounter": "A local offers you a quest to investigate the appearance of the ghostly caravan involving spectral salamanders.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -323,7 +323,7 @@
         "chunk": 65,
         "pos": 40,
         "terrain": "O",
-        "features": "",
+        "features": "Deep-sea Current",
         "encounter": "",
         "history": []
     },
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Legends tell of tidal tricksters that seek blessings from the ancient sea oracle amidst these kelpie's knot trap.",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of deep abyssal brine leads you to believe manta protectors were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -355,8 +355,8 @@
         "chunk": 65,
         "pos": 44,
         "terrain": "O",
-        "features": "Misty Ripple",
-        "encounter": "You hear the distant sound of reef runners outwitting oceanic ogres.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -378,9 +378,9 @@
     {
         "chunk": 65,
         "pos": 47,
-        "terrain": "M",
-        "features": "Quixotic Watershed",
-        "encounter": "A trail of fermented mountain fruits leads you to believe hilltop hobgoblins were here recently.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 65,
         "pos": 51,
         "terrain": "O",
-        "features": "Pristine Salinity",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the pirate's petrified port, a legacy of coral golems and their tales.",
         "history": []
     },
     {
@@ -435,7 +435,7 @@
         "chunk": 65,
         "pos": 54,
         "terrain": "O",
-        "features": "",
+        "features": "Foamy Narrows",
         "encounter": "",
         "history": []
     },
@@ -443,7 +443,7 @@
         "chunk": 65,
         "pos": 55,
         "terrain": "O",
-        "features": "",
+        "features": "Frigid Shoal",
         "encounter": "",
         "history": []
     },
@@ -491,7 +491,7 @@
         "chunk": 65,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Sweeping Bight",
         "encounter": "",
         "history": []
     },
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of current menders that had sought to help a local family build a sandcastle in this region.",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 65,
         "pos": 67,
         "terrain": "O",
-        "features": "Dark Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "A local offers you a quest to help a local beachcomber find rare items involving wave wisps.",
+        "encounter": "",
         "history": []
     },
     {
@@ -563,7 +563,7 @@
         "chunk": 65,
         "pos": 70,
         "terrain": "O",
-        "features": "Nautical Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -612,14 +612,14 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Sounds suggest celestial seahorse guardians are gamboling with ghostly guardians, leaving behind the deserted deep-sea mine.",
         "history": []
     },
     {
         "chunk": 65,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Brine",
         "encounter": "",
         "history": []
     },
@@ -643,7 +643,7 @@
         "chunk": 65,
         "pos": 80,
         "terrain": "O",
-        "features": "Mysterious Deep",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -683,8 +683,8 @@
         "chunk": 65,
         "pos": 85,
         "terrain": "O",
-        "features": "Muted Channel",
-        "encounter": "You're drawn to a(n) vexing voodoo doll, only to find signs of sea anemones guiding ghostly galleons.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local offers you a quest to train with local sailors to improve navigation skills involving tsunami titans.",
         "history": []
     },
     {
@@ -739,7 +739,7 @@
         "chunk": 65,
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Seamount",
         "encounter": "",
         "history": []
     },
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "Your surroundings become dense with urchin's umbrella plant, perfect for aqua archers hailing harborbound heroes.",
+        "encounter": "",
         "history": []
     },
     {
@@ -779,7 +779,7 @@
         "chunk": 65,
         "pos": 97,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Passage",
         "encounter": "",
         "history": []
     },

@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey is interrupted by whirlwind of whispered wishes, with signs of cerulean conservators nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "Legends tell of astral abyssal artisans that challenge the champions of the merfolk in a race amidst these triton's mirage.",
+        "encounter": "",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of nostalgia washes over you as swordfish are taming tidal tempests nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 99,
         "pos": 8,
         "terrain": "O",
-        "features": "Luminous Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 99,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Tropical Ripple",
         "encounter": "",
         "history": []
     },
@@ -83,7 +83,7 @@
         "chunk": 99,
         "pos": 10,
         "terrain": "O",
-        "features": "Clear Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Cerulean chambers echo with tales of brinebound beholders and their exhilaration.",
         "history": []
     },
     {
@@ -132,15 +132,15 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) feather token, only to find signs of sea urchins admiring aqua auroras.",
         "history": []
     },
     {
         "chunk": 99,
         "pos": 17,
         "terrain": "O",
-        "features": "Vast Sound",
-        "encounter": "",
+        "features": "",
+        "encounter": "Your surroundings become dense with yawning yarrow, perfect for deep-sea diplomats unearthing underwater utopias.",
         "history": []
     },
     {
@@ -164,7 +164,7 @@
         "pos": 20,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings hold (a) underwater ukulele, which (are/is) said to be linked to maelstrom mages.",
         "history": []
     },
     {
@@ -187,7 +187,7 @@
         "chunk": 99,
         "pos": 23,
         "terrain": "O",
-        "features": "",
+        "features": "Clear Ocean",
         "encounter": "",
         "history": []
     },
@@ -203,8 +203,8 @@
         "chunk": 99,
         "pos": 25,
         "terrain": "O",
-        "features": "",
-        "encounter": "You're cautioned about nebulous nudibranch warlocks that are known to be delighting in deep-sea duets near moonstone meteor shower.",
+        "features": "Sweeping Lagoon",
+        "encounter": "You notice a(n) lustrous lyre that is oddly placed amongst the oceanic oregano.",
         "history": []
     },
     {
@@ -228,7 +228,7 @@
         "pos": 28,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice a(n) zephyr cloak that is oddly placed amongst the sunken sunflower.",
         "history": []
     },
     {
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The leviathan's sleeping spot bear marks of mermaids that are swooning in sea sprite symphonies.",
         "history": []
     },
     {
@@ -251,7 +251,7 @@
         "chunk": 99,
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Sultry Riptide",
         "encounter": "",
         "history": []
     },
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales suggest wavebound wanderers once weaving water spells in this vicinity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -307,7 +307,7 @@
         "chunk": 99,
         "pos": 38,
         "terrain": "O",
-        "features": "",
+        "features": "Cerulean Seamount",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 99,
         "pos": 41,
         "terrain": "O",
-        "features": "Tempestuous Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Lunar lagoon luminaries have left illuminated inlet inn gilded gorges.",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 99,
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Eddy",
         "encounter": "",
         "history": []
     },
@@ -451,7 +451,7 @@
         "chunk": 99,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Tide-kissed Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "Temporal trench behemoths reveling with reefbound rangers are hidden hallowed hulls.",
+        "encounter": "",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "The marine mausoleum here tell a tale of starlit selkies and their desire to assist a marine geologist in studying underwater rock formations.",
+        "encounter": "",
         "history": []
     },
     {
@@ -547,7 +547,7 @@
         "chunk": 99,
         "pos": 68,
         "terrain": "O",
-        "features": "Timeless Riptide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "You're captivated by a(n) tidal talisman, which seem(s) to have ties with luminous lurkers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "The surroundings hold (a) dolphin's drum, which (are/is) said to be linked to tidal treants.",
+        "encounter": "",
         "history": []
     },
     {
@@ -635,7 +635,7 @@
         "chunk": 99,
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Placid Upwelling",
         "encounter": "",
         "history": []
     },
@@ -651,8 +651,8 @@
         "chunk": 99,
         "pos": 81,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Golden Horizon",
+        "encounter": "Among the urchin's umbrella plant, a(n) anchor of reality catch(es) your eye, exuding a sense of humility.",
         "history": []
     },
     {
@@ -667,7 +667,7 @@
         "chunk": 99,
         "pos": 83,
         "terrain": "O",
-        "features": "",
+        "features": "Crystal Deep",
         "encounter": "",
         "history": []
     },
@@ -683,7 +683,7 @@
         "chunk": 99,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Thermocline",
         "encounter": "",
         "history": []
     },
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) oracle's opulent oar that seem to resonate with tales of maritime mystics.",
+        "encounter": "",
         "history": []
     },
     {
@@ -756,20 +756,12 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) reef's rosette that seem to resonate with tales of abyssal albatross.",
+        "encounter": "Echoes suggest geyser spirits are twirling in tidal twisters pirate's pocket dimensions.",
         "history": []
     },
     {
         "chunk": 99,
         "pos": 95,
-        "terrain": "O",
-        "features": "Undulating Fjord",
-        "encounter": "",
-        "history": []
-    },
-    {
-        "chunk": 99,
-        "pos": 96,
         "terrain": "O",
         "features": "",
         "encounter": "",
@@ -777,9 +769,17 @@
     },
     {
         "chunk": 99,
+        "pos": 96,
+        "terrain": "O",
+        "features": "Foamy Undertow",
+        "encounter": "",
+        "history": []
+    },
+    {
+        "chunk": 99,
         "pos": 97,
         "terrain": "O",
-        "features": "Coastal Ridge",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -795,7 +795,7 @@
         "chunk": 99,
         "pos": 99,
         "terrain": "O",
-        "features": "Raging Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     }

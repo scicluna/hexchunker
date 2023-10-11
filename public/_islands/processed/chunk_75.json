@@ -3,7 +3,7 @@
         "chunk": 75,
         "pos": 0,
         "terrain": "O",
-        "features": "",
+        "features": "Wavy Sound",
         "encounter": "",
         "history": []
     },
@@ -35,7 +35,7 @@
         "chunk": 75,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Golden Tide",
         "encounter": "",
         "history": []
     },
@@ -67,8 +67,8 @@
         "chunk": 75,
         "pos": 8,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sweeping Gulf",
+        "encounter": "The path reveals sunlit seekers that seem to be larking with lagoon leviathans in order to help a fisherman appease the spirits of the sea.",
         "history": []
     },
     {
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "The path is littered with ocean's draining sinkhole, a testament to deep-sea djinns flouncing with finned fairies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with barnacle bloom, providing cover for sea dragons.",
+        "encounter": "",
         "history": []
     },
     {
@@ -107,7 +107,7 @@
         "chunk": 75,
         "pos": 13,
         "terrain": "O",
-        "features": "Ominous Ripple",
+        "features": "Emerald Delta",
         "encounter": "",
         "history": []
     },
@@ -115,7 +115,7 @@
         "chunk": 75,
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Wavy Channel",
         "encounter": "",
         "history": []
     },
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Seagrass storytellers have left brinebound bastion siren sanctuaries.",
         "history": []
     },
     {
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter oceanic griffins which are patrolling pelagic perimeters.",
+        "encounter": "",
         "history": []
     },
     {
@@ -179,7 +179,7 @@
         "chunk": 75,
         "pos": 22,
         "terrain": "O",
-        "features": "Mysterious Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "A strong scent of rocky cliff moss suggests recent activity by pelagic pixies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -204,7 +204,7 @@
         "pos": 25,
         "terrain": "O",
         "features": "",
-        "encounter": "The kraken kudzu hides a(n) quiver of ehlonna, which are said to be linked to astral ocean assassins and their reverence.You notice astral ocean assassins that seem to be juggling jade jellyfish.",
+        "encounter": "",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 75,
         "pos": 28,
         "terrain": "O",
-        "features": "Lush Islet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -300,7 +300,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The lagoon lily rustles as gorgonian protectors are whistling with whirlpool wraiths behind them.",
         "history": []
     },
     {
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "The obscured ocean oracle ahead are said to be the work of star-soaked shoal shamans that are diving into deep-sea dreams.",
+        "encounter": "",
         "history": []
     },
     {
@@ -387,8 +387,8 @@
         "chunk": 75,
         "pos": 48,
         "terrain": "O",
-        "features": "Emerald Basin",
-        "encounter": "The area is marked by retired riptide ruins, a testament to sapphire sylphs and their tales.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -435,7 +435,7 @@
         "chunk": 75,
         "pos": 54,
         "terrain": "O",
-        "features": "Shimmering Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 75,
         "pos": 59,
         "terrain": "O",
-        "features": "Cerulean Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local offers you a quest to capture the essence of a moonlit wave for a sorcerer involving marine medusas.",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 75,
         "pos": 67,
         "terrain": "O",
-        "features": "Tranquil Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 75,
         "pos": 69,
         "terrain": "O",
-        "features": "",
+        "features": "Tempestuous Salinity",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 75,
         "pos": 70,
         "terrain": "O",
-        "features": "Cerulean Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by the nereid's neglected nest, a legacy of tuna shoals and their tales.",
+        "encounter": "The area is marked by zoned-out zenith zendo, a testament to aqua dragons and their tales.",
         "history": []
     },
     {
@@ -635,7 +635,7 @@
         "chunk": 75,
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -659,7 +659,7 @@
         "chunk": 75,
         "pos": 82,
         "terrain": "O",
-        "features": "",
+        "features": "Deep-sea Upwelling",
         "encounter": "",
         "history": []
     },
@@ -691,7 +691,7 @@
         "chunk": 75,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Wild Billow",
         "encounter": "",
         "history": []
     },
@@ -739,7 +739,7 @@
         "chunk": 75,
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Glistening Seabed",
         "encounter": "",
         "history": []
     },
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "Stories tell of oceanic owlbears that investigate the mysterious deaths of marine creatures amidst these surroundings.",
+        "encounter": "",
         "history": []
     },
     {

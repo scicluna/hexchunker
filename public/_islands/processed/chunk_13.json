@@ -12,14 +12,14 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Sounds suggest orca pods are invoking iridescent idols, leaving behind the overgrown ocean observatory.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 13,
         "pos": 2,
         "terrain": "O",
-        "features": "",
+        "features": "Murky Channel",
         "encounter": "",
         "history": []
     },
@@ -27,7 +27,7 @@
         "chunk": 13,
         "pos": 3,
         "terrain": "O",
-        "features": "Tempestuous Canyon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -35,7 +35,7 @@
         "chunk": 13,
         "pos": 4,
         "terrain": "O",
-        "features": "Raging Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -51,7 +51,7 @@
         "chunk": 13,
         "pos": 6,
         "terrain": "O",
-        "features": "Tropical Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 13,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Cove",
         "encounter": "",
         "history": []
     },
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "A trail of seahorse's gentle currents suggests that brinebound beholders were here recently.",
+        "encounter": "",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 13,
         "pos": 20,
         "terrain": "O",
-        "features": "Seething Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -171,7 +171,7 @@
         "chunk": 13,
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Pearlescent Estuary",
         "encounter": "",
         "history": []
     },
@@ -195,7 +195,7 @@
         "chunk": 13,
         "pos": 24,
         "terrain": "O",
-        "features": "Moonlit Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -203,7 +203,7 @@
         "chunk": 13,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Ridge",
         "encounter": "",
         "history": []
     },
@@ -259,7 +259,7 @@
         "chunk": 13,
         "pos": 32,
         "terrain": "O",
-        "features": "Ethereal Bight",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "You see the drowned forest suggesting past activities of sunken specters.",
+        "encounter": "",
         "history": []
     },
     {
@@ -315,7 +315,7 @@
         "chunk": 13,
         "pos": 39,
         "terrain": "O",
-        "features": "Reflective Undertow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -324,7 +324,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path is littered with signs of wave wonders and their interactions with a(n) stone of controlling water elementals.",
         "history": []
     },
     {
@@ -339,7 +339,7 @@
         "chunk": 13,
         "pos": 42,
         "terrain": "O",
-        "features": "Enigmatic Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -371,7 +371,7 @@
         "chunk": 13,
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Silvery Bight",
         "encounter": "",
         "history": []
     },
@@ -395,7 +395,7 @@
         "chunk": 13,
         "pos": 49,
         "terrain": "O",
-        "features": "Silvery Strait",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "You're captivated by a(n) starfish scepter, which seem(s) to have ties with galaxy gorgonian protectors.",
+        "encounter": "",
         "history": []
     },
     {
@@ -459,7 +459,7 @@
         "chunk": 13,
         "pos": 57,
         "terrain": "O",
-        "features": "Vast Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 13,
         "pos": 59,
         "terrain": "O",
-        "features": "Hypnotic Ripple",
+        "features": "Enigmatic Thermocline",
         "encounter": "",
         "history": []
     },
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) island incense burner, only to find signs of pelagic poets commiserating with coral conjurers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the yonder's yacht yard, you sense a connection to sapphire sylphs and their wonder.",
         "history": []
     },
     {
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the abyssal moss, you find a(n) oceanic origami that resonate with inspiration.",
+        "encounter": "",
         "history": []
     },
     {
@@ -547,7 +547,7 @@
         "chunk": 13,
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Seafloor",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 13,
         "pos": 70,
         "terrain": "O",
-        "features": "Sultry Ripple",
+        "features": "Roaring Seafloor",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're guided by leviathan's deep scent, leading to a site with vortex village of lagoon looters.",
         "history": []
     },
     {
@@ -587,7 +587,7 @@
         "chunk": 13,
         "pos": 73,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Fjord",
         "encounter": "",
         "history": []
     },
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) talisman of the sphere nestled within the pearlescent pondweed, surrounded by mystical mermaid perfumes.",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice a(n) mystical moonstone that is oddly placed amongst the saltwater sunrose.",
+        "encounter": "",
         "history": []
     },
     {
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of marine minotaurs that are outfoxing oceanic oracles in these parts.",
         "history": []
     },
     {
@@ -732,15 +732,15 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "The island ivy hides a(n) pouch of sea salt, which are said to be linked to aqua dragons and their mystery.You notice aqua dragons that seem to be uplifting underwater urchins.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 13,
         "pos": 92,
         "terrain": "O",
-        "features": "Restless Billow",
-        "encounter": "",
+        "features": "",
+        "encounter": "A sense of fear grips you as you discover a(n) reef's rosette linked to celestial seahorse guardians.",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) harbor's headdress by a peculiar sense of hopefulness.",
         "history": []
     },
     {
@@ -787,7 +787,7 @@
         "chunk": 13,
         "pos": 98,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Passage",
         "encounter": "",
         "history": []
     },

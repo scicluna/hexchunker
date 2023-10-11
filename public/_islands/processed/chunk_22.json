@@ -12,15 +12,15 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "You encounter seafloor scholars which are nurturing nautical nymphs.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 2,
         "terrain": "O",
-        "features": "Dark Fjord",
-        "encounter": "You're drawn to a(n) zephyr cloak, only to find signs of temporal trench titans preening with pirate parrots.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -51,8 +51,8 @@
         "chunk": 22,
         "pos": 6,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Misty Undertow",
+        "encounter": "The area is marked by a(n) mystic mariner's mace, hinting at the tales of oceanic owlbears.",
         "history": []
     },
     {
@@ -68,7 +68,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The neptune's nettle rustles as celestial seahorse guardians are quixotically questing in quays behind them.",
         "history": []
     },
     {
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your path is marked by yonder's yacht yard, a testament to sea serpents who aimed to intriguing iridescent imps.",
         "history": []
     },
     {
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Nautical niches echo with tales of cursed captains of the celestial sea and their reverence.",
         "history": []
     },
     {
@@ -267,8 +267,8 @@
         "chunk": 22,
         "pos": 33,
         "terrain": "O",
-        "features": "Azure Islet",
-        "encounter": "",
+        "features": "",
+        "encounter": "Kelpies have left silent shipyard mystic mirages.",
         "history": []
     },
     {
@@ -283,7 +283,7 @@
         "chunk": 22,
         "pos": 35,
         "terrain": "O",
-        "features": "",
+        "features": "Enigmatic Jetstream",
         "encounter": "",
         "history": []
     },
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Nearby, sharks are wrestling with wave wraiths around a(n) coral cube.",
         "history": []
     },
     {
@@ -324,7 +324,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your surroundings become dense with pelagic peony, perfect for water elementals unveiling underwater utopias.",
         "history": []
     },
     {
@@ -347,7 +347,7 @@
         "chunk": 22,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Briny Deep",
         "encounter": "",
         "history": []
     },
@@ -371,7 +371,7 @@
         "chunk": 22,
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Gentle Basin",
         "encounter": "",
         "history": []
     },
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "The mystical vortex bear marks of tsunami titans that are listening to lagoon legends.",
+        "encounter": "You stumble upon the exiled expanse excavation.",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "You overhear tales of eldritch eel enchanters that are whisking with wave witches from leviathan lairs.",
+        "encounter": "",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 22,
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Tide",
         "encounter": "",
         "history": []
     },
@@ -411,7 +411,7 @@
         "chunk": 22,
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Enigmatic Bight",
         "encounter": "",
         "history": []
     },
@@ -452,7 +452,7 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of joy grips you as you discover a(n) pirate's pocket watch linked to brinebound botanists.",
+        "encounter": "",
         "history": []
     },
     {
@@ -484,14 +484,14 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the sunken sunflower, you find a(n) vial of saltwater that resonate with serenity.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Canyon",
         "encounter": "",
         "history": []
     },
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path reveals sea lions that seem to be casting celestial currents in order to seek out the lost ship of the deserters.",
         "history": []
     },
     {
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Echoes suggest baleen whales are lilting to lagoon lullabies seaweed sanctuaries.",
         "history": []
     },
     {
@@ -579,7 +579,7 @@
         "chunk": 22,
         "pos": 72,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Inlet",
         "encounter": "",
         "history": []
     },
@@ -635,7 +635,7 @@
         "chunk": 22,
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Cool Fathom",
         "encounter": "",
         "history": []
     },
@@ -644,15 +644,15 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of seaside carnival treats suggests that maritime mummies were here recently.",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 81,
         "terrain": "O",
-        "features": "Endless Seamount",
-        "encounter": "Stories tell of seals that investigate the cause of a ship's rudder malfunction amidst these surroundings.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -675,7 +675,7 @@
         "chunk": 22,
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Breezy Shoal",
         "encounter": "",
         "history": []
     },
@@ -707,7 +707,7 @@
         "chunk": 22,
         "pos": 88,
         "terrain": "O",
-        "features": "Tide-kissed Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with hopefulness upon finding the vanishing vortex vault linked to coral curators.",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your surroundings become dense with island ivy, perfect for ocean oracles uplifting underwater urchins.",
         "history": []
     },
     {
@@ -787,7 +787,7 @@
         "chunk": 22,
         "pos": 98,
         "terrain": "O",
-        "features": "Sprawling Seabed",
+        "features": "Aquamarine Horizon",
         "encounter": "",
         "history": []
     },

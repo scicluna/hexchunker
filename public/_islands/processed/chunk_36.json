@@ -27,7 +27,7 @@
         "chunk": 36,
         "pos": 3,
         "terrain": "O",
-        "features": "Golden Undertow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) wave-woven whip, which seem to have a connection with tidal taleweavers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 36,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Undulating Salinity",
         "encounter": "",
         "history": []
     },
@@ -91,8 +91,8 @@
         "chunk": 36,
         "pos": 11,
         "terrain": "O",
-        "features": "Emerald Riptide",
-        "encounter": "",
+        "features": "",
+        "encounter": "Your path is blocked by eclipsed enclave, guarded by mystic mollusk monks.",
         "history": []
     },
     {
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) bracers of defense among the pelagic peony, exuding driftwood.",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 36,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Sunlit Billow",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 36,
         "pos": 26,
         "terrain": "O",
-        "features": "Deep-sea Vents",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 36,
         "pos": 31,
         "terrain": "O",
-        "features": "Timeless Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -259,7 +259,7 @@
         "chunk": 36,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Blue Passage",
         "encounter": "",
         "history": []
     },
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "The path is littered with signs of nebulous nudibranch warlocks and their interactions with a(n) orb of storm control.",
+        "encounter": "",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 36,
         "pos": 41,
         "terrain": "O",
-        "features": "Wavy Abyss",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -340,14 +340,14 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of salty sea breeze leads you to believe mystical moonjellies were here recently.",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Murky Fjord",
         "encounter": "",
         "history": []
     },
@@ -364,7 +364,7 @@
         "pos": 45,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see the harbor's hallowed hall suggesting past activities of whirlpool spirits.",
         "history": []
     },
     {
@@ -379,8 +379,8 @@
         "chunk": 36,
         "pos": 47,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Breezy Basin",
+        "encounter": "The area is marked by a(n) cursed compass, hinting at the tales of maelstrom mages.",
         "history": []
     },
     {
@@ -388,14 +388,14 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "A strong scent of beached kelp suggests recent activity by sunken specters.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Horizon",
         "encounter": "",
         "history": []
     },
@@ -411,7 +411,7 @@
         "chunk": 36,
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Briny Trench",
         "encounter": "",
         "history": []
     },
@@ -426,16 +426,16 @@
     {
         "chunk": 36,
         "pos": 53,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Valiant Col",
+        "encounter": "Echoes suggest harpy colonies are drawing power from ley lines within a cloud of snowflakes.",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 54,
         "terrain": "O",
-        "features": "Frigid Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "The deep-sea dandelion hides a(n) leviathan's locket, which are said to be linked to plankton clouds and their contentment.You notice plankton clouds that seem to be outshining oceanic opulence.",
+        "encounter": "",
         "history": []
     },
     {
@@ -506,9 +506,9 @@
     {
         "chunk": 36,
         "pos": 63,
-        "terrain": "O",
-        "features": "",
-        "encounter": "You're drawn to a(n) orb of time, only to find signs of whales nurturing nautical novelties.",
+        "terrain": "M",
+        "features": "Venerable Gorge",
+        "encounter": "You're drawn to a(n) mithral armor, only to find signs of horsemen gazing into a fire.",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 36,
         "pos": 66,
         "terrain": "O",
-        "features": "Shimmering Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -539,8 +539,8 @@
         "chunk": 36,
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": "Among the mystical maelstrom, you sense a connection to sunken scribes and their respect.",
+        "features": "Endless Current",
+        "encounter": "",
         "history": []
     },
     {
@@ -571,24 +571,24 @@
         "chunk": 36,
         "pos": 71,
         "terrain": "O",
-        "features": "Sprawling Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 72,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Majestic Pinnacle",
+        "encounter": "A distant sound suggests ash sprites are trekking with a heavy backpack near the deserted celestial observatory.",
         "history": []
     },
     {
         "chunk": 36,
         "pos": 73,
-        "terrain": "O",
-        "features": "",
-        "encounter": "Tales speak of the isolated inlet islet left by deep-sea djinns after they had seek out the lost ship of the deserters.",
+        "terrain": "M",
+        "features": "Jagged Canyon",
+        "encounter": "You're filled with wonder upon discovering a(n) stone-bound spellbook linked to astrologers.",
         "history": []
     },
     {
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Saltwater sanctuaries, you hear lunar lagoon luminaries sashaying with sea sprites, accompanied by sargasso seaweed.",
         "history": []
     },
     {
@@ -620,7 +620,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You hear the distant sound of sunlit sea sprites voyaging through vortex valleys.",
         "history": []
     },
     {
@@ -675,7 +675,7 @@
         "chunk": 36,
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Sunkissed Upwelling",
         "encounter": "",
         "history": []
     },
@@ -683,7 +683,7 @@
         "chunk": 36,
         "pos": 85,
         "terrain": "O",
-        "features": "Shadowy Riptide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -699,7 +699,7 @@
         "chunk": 36,
         "pos": 87,
         "terrain": "O",
-        "features": "Sultry Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -707,7 +707,7 @@
         "chunk": 36,
         "pos": 88,
         "terrain": "O",
-        "features": "",
+        "features": "Boundless Ocean",
         "encounter": "",
         "history": []
     },
@@ -723,8 +723,8 @@
         "chunk": 36,
         "pos": 90,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Turbid Canyon",
+        "encounter": "The area is marked by quiet quasar quarters, a testament to pirates and their tales.",
         "history": []
     },
     {
@@ -795,7 +795,7 @@
         "chunk": 36,
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Frigid Swell",
         "encounter": "",
         "history": []
     }

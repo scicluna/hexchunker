@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The mystical mermaid mosaic bear marks of sea serpents that are patrolling pelagic perimeters.",
         "history": []
     },
     {
@@ -91,7 +91,7 @@
         "chunk": 6,
         "pos": 11,
         "terrain": "O",
-        "features": "Pearlescent Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -100,12 +100,20 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the eclipsed estuary edifice that hints at the tales of deep-sea diplomats.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 13,
+        "terrain": "O",
+        "features": "Vibrant Chasm",
+        "encounter": "You overhear tales of sunken swindlers that anchoring in arcane atolls in this region.",
+        "history": []
+    },
+    {
+        "chunk": 6,
+        "pos": 14,
         "terrain": "O",
         "features": "",
         "encounter": "",
@@ -113,18 +121,10 @@
     },
     {
         "chunk": 6,
-        "pos": 14,
-        "terrain": "H",
-        "features": "Rolling Knoll",
-        "encounter": "You're intrigued by old stone altar that speak of bouldershade sorcerers and their assist a sun god in chasing away eternal night from a cursed hill.",
-        "history": []
-    },
-    {
-        "chunk": 6,
         "pos": 15,
-        "terrain": "H",
-        "features": "Lofty Declivity",
-        "encounter": "You find a(n) goggles of night from a hillshade creature that seem to resonate with tales of harpies.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "A sudden coral reef bloom alerts you to the presence of harmonic hammerheads.",
+        "encounter": "",
         "history": []
     },
     {
@@ -179,7 +179,7 @@
         "chunk": 6,
         "pos": 22,
         "terrain": "O",
-        "features": "Windy Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -194,9 +194,9 @@
     {
         "chunk": 6,
         "pos": 24,
-        "terrain": "P",
-        "features": "Yearning Vale",
-        "encounter": "You come across a(n) tattered tribal totem that bear the mark of roving rabbits.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -211,7 +211,7 @@
         "chunk": 6,
         "pos": 26,
         "terrain": "O",
-        "features": "Cerulean Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -226,9 +226,9 @@
     {
         "chunk": 6,
         "pos": 28,
-        "terrain": "H",
-        "features": "Steep Brae",
-        "encounter": "The zones where only truth can be spoken bear marks of terrace treant elders that are challenging rivals.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "The area is marked by moonlit mermaid meadow, a testament to sea sprites and their tales.",
         "history": []
     },
     {
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "You're intrigued by vortex village that speak of stellar salinity sylphs and their assist a researcher in studying the effects of the moon on tides.",
+        "encounter": "",
         "history": []
     },
     {
@@ -266,9 +266,9 @@
     {
         "chunk": 6,
         "pos": 33,
-        "terrain": "T",
-        "features": "Silverstrand Serenity",
-        "encounter": "A sense of frustration at getting lost in winding lanes washes over you as rooftop runners are exchanging currencies nearby.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -282,33 +282,33 @@
     {
         "chunk": 6,
         "pos": 35,
-        "terrain": "P",
-        "features": "Rural Outwash",
-        "encounter": "You overhear tales of racing roadrunners that are battling the sandstorms that steal memories from old scarecrow's hollowed body.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 36,
-        "terrain": "F",
-        "features": "Mystifying Hollow",
-        "encounter": "Your journey is interrupted by tangled roots, with traces of giant badgers nearby.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 37,
-        "terrain": "P",
-        "features": "Sylvan Vale",
-        "encounter": "As you proceed, prairie prism panthers suddenly seeking the meadow where dreams take root from behind a(n) nomad's nebula notebook.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 38,
-        "terrain": "M",
-        "features": "Silent Foothill",
-        "encounter": "You find a(n) tattered scarf that seems out of place, exuding a sense of respect.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -346,57 +346,57 @@
     {
         "chunk": 6,
         "pos": 43,
-        "terrain": "H",
-        "features": "Quaint Zigzag",
-        "encounter": "A sense of refreshment grips you as you discover a(n) stone of ridgeback flight linked to boulderhide golems.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 44,
-        "terrain": "H",
-        "features": "Wavy Bank",
-        "encounter": "You're captivated by a(n) gem of hillfolk's heart, which seem(s) to have ties with terrace gnome sorcerers.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 45,
-        "terrain": "M",
-        "features": "Gargantuan Notch",
-        "encounter": "Nearby, minotaurs are summoning a sentinel of the peaks around a(n) frozen heart of the yeti.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "You feel loneliness as you spot a(n) lantern of revealing associated with deep-sea traders.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 46,
-        "terrain": "H",
-        "features": "Alive Dell",
-        "encounter": "You're intrigued by the deserted troll bridge that bear the mark of burrow goblin warriors.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 47,
-        "terrain": "M",
-        "features": "Immutable Highland",
-        "encounter": "You spot mountain goats whispering secrets to shadow spirits, casting shadows on a(n) lost locket.",
+        "terrain": "O",
+        "features": "Tempestuous Sound",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 48,
-        "terrain": "M",
-        "features": "Picturesque Foothill",
-        "encounter": "You're intrigued by the abandoned valley of the meteors that bear the mark of miners.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 49,
         "terrain": "O",
-        "features": "Cerulean Narrows",
-        "encounter": "You spot nautical necromancers flaunting finned finery, casting shadows on a(n) abyssal abacus.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -418,64 +418,64 @@
     {
         "chunk": 6,
         "pos": 52,
-        "terrain": "M",
-        "features": "Sacred Dell",
-        "encounter": "Among the edelweiss, a(n) tattered bookmark catch(es) your eye, exuding a sense of freedom.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 53,
-        "terrain": "M",
-        "features": "Exalted Outcrop",
-        "encounter": "The local tales speak of stone spriggans that documenting a journey near underestimated distances.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 54,
-        "terrain": "M",
-        "features": "Elevated Valley",
-        "encounter": "A distant sound suggests merchants are summoning rainbows after storms near the abandoned elemental forge.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "You see the isolated isle inlet suggesting past activities of eels.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 55,
-        "terrain": "M",
-        "features": "Isolated Elevation",
-        "encounter": "You're drawn to a(n) elixir of stoneform by an overwhelming sense of empowerment.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 56,
-        "terrain": "H",
-        "features": "Quiescent Highland",
-        "encounter": "The ruined stone watchtower here tell a tale of hillfolk mystic warriors and their desire to defend a hilltop temple from a serpent seeking the chalice of serpents.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 57,
-        "terrain": "M",
-        "features": "Ethereal Range",
-        "encounter": "A strong scent of scent of mountain lichens suggests recent activity by dimensional driftstone djinni.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 58,
-        "terrain": "P",
-        "features": "Harsh Clearing",
-        "encounter": "Among the joe-pye weed, you find a(n) dagger of venom made from snake fangs that resonate with exhilaration from the gusty winds.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 59,
         "terrain": "O",
-        "features": "Hushed Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -483,7 +483,7 @@
         "chunk": 6,
         "pos": 60,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Trough",
         "encounter": "",
         "history": []
     },
@@ -498,49 +498,49 @@
     {
         "chunk": 6,
         "pos": 62,
-        "terrain": "H",
-        "features": "Gentle Pinnacle",
-        "encounter": "The wild violets hides a(n) stone golem manual buried in a hill, which are said to be linked to stone sentinel spirits and their serenity.You notice stone sentinel spirits that seem to be taming the songs of the sirens.",
+        "terrain": "O",
+        "features": "Tumultuous Vortex",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 63,
-        "terrain": "M",
-        "features": "Icy Trench",
-        "encounter": "The surroundings bear old mountain granary, suggesting tales of alchemists.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 64,
-        "terrain": "M",
-        "features": "Impressive Boulder",
-        "encounter": "Your journey is interrupted by areas of reversed time, with traces of temporal terraform treants nearby.",
+        "terrain": "O",
+        "features": "Sunkissed Riptide",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 65,
-        "terrain": "H",
-        "features": "Scenic Slope",
-        "encounter": "Your journey is interrupted by fields of magnetic anomalies, with traces of hillside satyrs nearby.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 66,
-        "terrain": "H",
-        "features": "Quiescent Mound",
-        "encounter": "You notice a(n) worn leather glove that is oddly placed amongst the sorrel.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 67,
-        "terrain": "P",
-        "features": "Vibrant Basin",
-        "encounter": "You're intrigued by shadow of a city, visible only at noon, that speak of savannah serpents and their investigate the sudden appearance of a massive chasm.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "Your path is marked by forsaken fisherman's fiefdom, a testament to wave wonders who aimed to whispering windward warnings.",
         "history": []
     },
     {
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel freedom as coral colonies are entertaining ethereal entities near a(n) cursed captain's compass.",
         "history": []
     },
     {
@@ -564,7 +564,7 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "Ancient stories speak of dimensional driftwood dryads that once were train with local sailors to improve navigation skills here.",
+        "encounter": "",
         "history": []
     },
     {
@@ -572,55 +572,55 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) barnacle's broomstick among the oceanic orchid, exuding freshly painted ship hull.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 72,
-        "terrain": "H",
-        "features": "Yearning Drumlin",
-        "encounter": "You discover a(n) bottle of hilltop breezes that seems out of place, hinting at boulder beast enchanters.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 73,
-        "terrain": "F",
-        "features": "Shaded Shade",
-        "encounter": "You hear the distant sound of blue jays bathing in enchanted waters.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "Nearby, narwhal dreamweavers are mystifying maritime magicians around a(n) deep-sea divining rod.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 74,
-        "terrain": "F",
-        "features": "Sacrosanct Glen",
-        "encounter": "Whispers suggest newts are storing food for later inside a witch's brew pot.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 75,
-        "terrain": "H",
-        "features": "Shadowed Peak",
-        "encounter": "You're drawn to a(n) necklace of fireballs from a hilltop ritual, only to find signs of bouldershade panthers holding a moonlit ritual.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 76,
-        "terrain": "M",
-        "features": "Distinguished Alp",
-        "encounter": "You're captivated by a(n) old journal among the frozen fire flower, exuding salty mountain streams.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 77,
-        "terrain": "P",
-        "features": "Muted Upland",
-        "encounter": "Your path is marked by silhouette of a tower, visible only at dusk, a testament to wind wyrms that once were training in ancient martial arts.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of cannonball iron leads you to believe sunken scribes were here recently.",
         "history": []
     },
     {
@@ -683,7 +683,7 @@
         "chunk": 6,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Sound",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 6,
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -723,7 +723,7 @@
         "chunk": 6,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Ocean",
         "encounter": "",
         "history": []
     },
@@ -755,7 +755,7 @@
         "chunk": 6,
         "pos": 94,
         "terrain": "O",
-        "features": "Raging Wave",
+        "features": "Eerie Surf",
         "encounter": "",
         "history": []
     },
@@ -764,15 +764,15 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Dolphin's dives, you hear pelagic poets whirling with wave-woven wisps, accompanied by oceanic algae.",
         "history": []
     },
     {
         "chunk": 6,
         "pos": 96,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Blue Strait",
+        "encounter": "Sargasso wanderers have left sunken sorcerer's sanctum isle of illusions.",
         "history": []
     },
     {

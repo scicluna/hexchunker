@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're warned of magnetic anomaly ahead, where pirates often are outwitting oceanic ogres.",
         "history": []
     },
     {
@@ -51,7 +51,7 @@
         "chunk": 14,
         "pos": 6,
         "terrain": "O",
-        "features": "Moonlit Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 14,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Tide-kissed Vents",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 14,
         "pos": 8,
         "terrain": "O",
-        "features": "Lush Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -76,14 +76,14 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The frozen sea patch bear marks of moonlit manticores that are unfurling underwater umbrellas.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 10,
         "terrain": "O",
-        "features": "",
+        "features": "Wild Current",
         "encounter": "",
         "history": []
     },
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of coral colonies that had sought to trade with the elusive underwater market in this region.",
         "history": []
     },
     {
@@ -100,23 +100,23 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The sea of singing serpents bear marks of flying fish that are tranquilizing tidal tricksters.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 13,
         "terrain": "O",
-        "features": "",
+        "features": "Seething Trench",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 14,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Harsh Upland",
+        "encounter": "Your path is marked by abandoned mountain of the fallen stars, a testament to granite genies who aimed to carving into a stone.",
         "history": []
     },
     {
@@ -139,7 +139,7 @@
         "chunk": 14,
         "pos": 17,
         "terrain": "O",
-        "features": "",
+        "features": "Moonlit Trench",
         "encounter": "",
         "history": []
     },
@@ -147,7 +147,7 @@
         "chunk": 14,
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Rippling Salinity",
         "encounter": "",
         "history": []
     },
@@ -178,33 +178,33 @@
     {
         "chunk": 14,
         "pos": 22,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Nestled Declivity",
+        "encounter": "A sense of exhilaration grips you as you discover a(n) orb of hilltop divination linked to boulderbound warlocks.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Alive Terrace",
+        "encounter": "The area is marked by the old kiln, a legacy of harpies and their tales.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 24,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A local speaks of seals that once were help a village set up sea defenses in this region.",
+        "terrain": "M",
+        "features": "Icy Alp",
+        "encounter": "The ground is littered with the deserted alpine fishery, and you can smell damp moss coming from a nearby beneath a veil of mountain rain.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 25,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Blissful Bench",
+        "encounter": "You see the ruins of a temple suggesting past activities of unicorns.",
         "history": []
     },
     {
@@ -218,16 +218,16 @@
     {
         "chunk": 14,
         "pos": 27,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Vivid Ridge",
+        "encounter": "Navigating the a ground that turns to liquid becomes challenging due to coyote conjurers harnessing the power of the plains' ley lines.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 28,
         "terrain": "O",
-        "features": "Azure Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -244,15 +244,15 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by aquatic aqueducts, a legacy of sea lions and their desire to recover the lost pages of the mariner's diary.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 31,
         "terrain": "O",
-        "features": "",
-        "encounter": "You sense desire to explore as you discover a(n) kelpie's kettle drum linked to nebulous nautilus nomads.",
+        "features": "Murky Sound",
+        "encounter": "",
         "history": []
     },
     {
@@ -266,49 +266,49 @@
     {
         "chunk": 14,
         "pos": 33,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Quaint Brush",
+        "encounter": "You feel wonder as giant lynxes are swimming against the current near a(n) talisman of pure good.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 34,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Quaint Plateau",
+        "encounter": "Sounds suggest ridgeback sorcerers are stashing away food, leaving behind the old stone oven.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 35,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Sloping Outcrop",
+        "encounter": "Whispers suggest rockbound sprites are constructing a palace of clouds within the embrace of a moonlit glade.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 36,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Stark Butte",
+        "encounter": "You find a(n) lost traveler's compass nestled within the wild asparagus, surrounded by wild thyme and rosemary.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 37,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Shadowed Plateau",
+        "encounter": "The surroundings bear the mark of bouldershade paladins. They are brewing storms in cauldrons.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 38,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Zigzagging Drumlin",
+        "encounter": "Behind a curtain of cascading hillside blossoms echo with tales of hillcrest druids and their curiosity.",
         "history": []
     },
     {
@@ -340,62 +340,62 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) triton's tape hidden among the lagoon lily, which seems to be lost by coral magicians.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 43,
-        "terrain": "O",
-        "features": "",
-        "encounter": "You find a(n) javelin of lightning nestled within the coral clover, surrounded by lighthouse oil.",
+        "terrain": "P",
+        "features": "Zephyrous Bench",
+        "encounter": "A strong scent of the aroma of a nomad's spices suggests recent activity by joyful jaguars.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 44,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Celestial Peak",
+        "encounter": "Tales speak of the abandoned mountain temple left by rocky rakshasas after they had help the mountain that's slowly turning into a giant creature.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 45,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Vast Flatland",
+        "encounter": "Among the dreamcatcher daisies, you find a(n) time-touched tumbleweed that resonate with loneliness in the sprawling fields.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 46,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Windswept Ravine",
+        "encounter": "You come across a(n) explorer's rope woven with prairie grass that bear the mark of moonlit myrmidons.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 47,
-        "terrain": "O",
-        "features": "Vibrant Thermocline",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Amber Down",
+        "encounter": "The twisted roots bear marks of burrow goblins that are telling stories around a fire.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 48,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Quiescent Bank",
+        "encounter": "You're captivated by a(n) glowing moonstone pendant among the dandelions, exuding aromatic sagebrush.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 49,
         "terrain": "O",
-        "features": "Sparkling Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -412,7 +412,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground bears oceanic obelisk from past encounters with coral carvers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -426,49 +426,49 @@
     {
         "chunk": 14,
         "pos": 53,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Lofty Crag",
+        "encounter": "The ground is littered with the forgotten hilltop shrine, and you can smell distant rainstorm coming from a nearby within the embrace of ivy-covered ruins.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 54,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Craggy Range",
+        "encounter": "The area is marked by decaying tower of the moon mages, a testament to griffins and their tales.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 55,
-        "terrain": "O",
-        "features": "Crashing Current",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Rugged Terrace",
+        "encounter": "You're captivated by a(n) ring of rockslide calling among the wild mint, exuding distant rainstorm.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 56,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Murmuring Jungle",
+        "encounter": "You stumble upon the abandoned warlock's den.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 57,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A trail of fishermen's bait suggests that whales were here recently.",
+        "terrain": "H",
+        "features": "Bare Declivity",
+        "encounter": "The dense broom shrubs seems to whisper tales of rockspire monks and their help a local library recover a book that flies over the hills.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 58,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Fringed Yawn",
+        "encounter": "Among the faerie mushrooms, you find a(n) lost whistle that resonate with wistfulness.",
         "history": []
     },
     {
@@ -483,8 +483,8 @@
         "chunk": 14,
         "pos": 60,
         "terrain": "O",
-        "features": "",
-        "encounter": "You find a(n) zircon's protective amulet that seem to resonate with tales of saltwater wyrms.",
+        "features": "Deep-sea Whirlpool",
+        "encounter": "",
         "history": []
     },
     {
@@ -499,56 +499,56 @@
         "chunk": 14,
         "pos": 62,
         "terrain": "O",
-        "features": "Sundrenched Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 63,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Pleasant Decline",
+        "encounter": "Tales speak of stonebound dwarves that are transforming rocks into living creatures in these parts.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "You're drawn to a(n) pearlescent potion, only to find signs of stellar seagrass specters jubilating with jade jugglers.",
+        "terrain": "M",
+        "features": "Quixotic Arete",
+        "encounter": "Magma sprites carving into a stone are hidden beneath a patch of mushrooms.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "F",
+        "features": "Towering Trail",
+        "encounter": "Your path is marked by abandoned animal den, a testament to dragonflies who aimed to singing trees to life.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 66,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Endless Grassland",
+        "encounter": "A sense of euphoria during a sudden rainstorm grips you as you discover a(n) deserted caravan wagon linked to golden gazelles.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 67,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Soaring Terrace",
+        "encounter": "You're drawn to a(n) stone of good luck, only to find signs of petrified peak phoenixes singing a duet with an echo spirit.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 68,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Jubilant Zigzag",
+        "encounter": "You sense reflection as you discover a(n) talisman of timeless terrain linked to sylphs.",
         "history": []
     },
     {
@@ -563,16 +563,16 @@
         "chunk": 14,
         "pos": 70,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Choppy Maelstrom",
+        "encounter": "Tales speak of the ocean oracle's observatory left by sea sprites' syndicate after they had recover the stolen conch of summoning.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 71,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Picturesque Wold",
+        "encounter": "Tales speak of burrow goblin guardians that are guiding lost members home in these parts.",
         "history": []
     },
     {
@@ -587,24 +587,24 @@
         "chunk": 14,
         "pos": 73,
         "terrain": "O",
-        "features": "Languid Ocean",
-        "encounter": "",
+        "features": "",
+        "encounter": "The path bears marks of marine mystics and their interactions with a(n) coral choker.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 74,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Distant Yawn",
+        "encounter": "You overhear tales of hillfolk alchemists that are conversing with echoes of the past from behind a veil of hanging vines.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 75,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Dappled Barrens",
+        "encounter": "The area is marked by remnants of a fairy's curse, a legacy of prairie phantoms and their desire to aid a prairie guardian in sealing a portal to another realm.",
         "history": []
     },
     {
@@ -618,17 +618,17 @@
     {
         "chunk": 14,
         "pos": 77,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Jagged Bank",
+        "encounter": "You discover a(n) tiara of terraced beauty that seems out of place, hinting at stoneclaw rogues.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 78,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Ochre Clearing",
+        "encounter": "You overhear tales of prairie phantasms that seeking the shrine of the shimmering shadows in this region.",
         "history": []
     },
     {
@@ -650,9 +650,9 @@
     {
         "chunk": 14,
         "pos": 81,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Icy Divide",
+        "encounter": "The path is littered with unpredictable wildlife, a testament to vultures building a shelter.",
         "history": []
     },
     {
@@ -674,40 +674,40 @@
     {
         "chunk": 14,
         "pos": 84,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Serene Eminence",
+        "encounter": "A sudden fulfillment grips you as hillfolk alchemists holding a feast of the galaxies inside a forgotten fairy's dwelling.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 85,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Natural Flatland",
+        "encounter": "The dense ironweed seems to whisper tales of meadow mermaids (in rare ponds) and their locate the rainbow's end, a place of untold treasures.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Silvery Seafloor",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 87,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "P",
+        "features": "Untamed Vista",
+        "encounter": "The surroundings bear ruins of a workshop, suggesting tales of meadow mages.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 88,
         "terrain": "O",
-        "features": "Pearlescent Seafloor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -746,17 +746,17 @@
     {
         "chunk": 14,
         "pos": 93,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "T",
+        "features": "Harborwatch Cove",
+        "encounter": "You discover a(n) quiver of ehlonna concealed by sage plants in herb gardens, hinting at half-elf minstrels.",
         "history": []
     },
     {
         "chunk": 14,
         "pos": 94,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Nurtured Yawn",
+        "encounter": "You hear the distant sound of stone spirits summoning a guardian phoenix.",
         "history": []
     },
     {
@@ -778,9 +778,9 @@
     {
         "chunk": 14,
         "pos": 97,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A strong scent of pirate's tobacco pipe suggests recent activity by brine buccaneers.",
+        "terrain": "M",
+        "features": "Ethereal Ridge",
+        "encounter": "You stumble upon the old mountain stables.",
         "history": []
     },
     {
@@ -795,8 +795,8 @@
         "chunk": 14,
         "pos": 99,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Timeless Strait",
+        "encounter": "Among the derelict driftwood dwelling, you sense a connection to lunar lagoon looters and their joy.",
         "history": []
     }
 ]

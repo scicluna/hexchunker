@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by a(n) harbor's headdress, hinting at the tales of marine memory makers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -36,15 +36,15 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "Legends tell of abyssal adventurers that investigate reports of strange footprints on the beach amidst these eldritch eel enclave.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 7,
         "pos": 5,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Dark Gulf",
+        "encounter": "Giant squids exalting in exotic expanse are hidden lustrous labyrinths.",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 7,
         "pos": 7,
         "terrain": "O",
-        "features": "Choppy Horizon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by guarded grotto, with signs of oceanic outcasts nearby.",
         "history": []
     },
     {
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with siren's silkweed, providing cover for eel enchanters.",
         "history": []
     },
     {
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "You see the zoned-out ziggurat zone suggesting past activities of sunken swindlers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -187,7 +187,7 @@
         "chunk": 7,
         "pos": 23,
         "terrain": "O",
-        "features": "Tumultuous Jetstream",
+        "features": "Hypnotic Surf",
         "encounter": "",
         "history": []
     },
@@ -195,8 +195,8 @@
         "chunk": 7,
         "pos": 24,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sunkissed Cove",
+        "encounter": "You're cautioned about tidal taleweavers that are known to be riding reef ripples near jinxed jellyfish junction.",
         "history": []
     },
     {
@@ -227,7 +227,7 @@
         "chunk": 7,
         "pos": 28,
         "terrain": "O",
-        "features": "Salty Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 7,
         "pos": 31,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Seafloor",
         "encounter": "",
         "history": []
     },
@@ -428,7 +428,7 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "A local speaks of tidal chimera that once were help a local craftsman gather driftwood in this region.",
+        "encounter": "",
         "history": []
     },
     {
@@ -483,7 +483,7 @@
         "chunk": 7,
         "pos": 60,
         "terrain": "O",
-        "features": "Mysterious Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ancient stories speak of sea valkyries whos objective was to assist in a shipwreck salvage operation here.",
         "history": []
     },
     {
@@ -500,7 +500,7 @@
         "pos": 62,
         "terrain": "O",
         "features": "",
-        "encounter": "In the distance, wave wisps are rhapsodizing with reef rangers, surrounded by glowing gorgonian.",
+        "encounter": "",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the ethereal enclave.",
+        "encounter": "",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 7,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Deep-sea Ridge",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 7,
         "pos": 67,
         "terrain": "O",
-        "features": "Turbulent Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -547,7 +547,7 @@
         "chunk": 7,
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Sundrenched Undertow",
         "encounter": "",
         "history": []
     },
@@ -572,14 +572,14 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) quixotic quiver, which seem(s) to have ties with sea sprites.",
         "history": []
     },
     {
         "chunk": 7,
         "pos": 72,
         "terrain": "O",
-        "features": "Calm Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales suggest swordfish once tantalizing tidal tricksters in this vicinity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -659,7 +659,7 @@
         "chunk": 7,
         "pos": 82,
         "terrain": "O",
-        "features": "Tumultuous Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -684,14 +684,14 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by a(n) harbor's hourglass, hinting at the tales of whirlpool witches.",
         "history": []
     },
     {
         "chunk": 7,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Whispering Sound",
         "encounter": "",
         "history": []
     },
@@ -707,7 +707,7 @@
         "chunk": 7,
         "pos": 88,
         "terrain": "O",
-        "features": "Hypnotic Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden sapphire sea freshness alerts you to the presence of mystic mollusk monks.",
         "history": []
     },
     {

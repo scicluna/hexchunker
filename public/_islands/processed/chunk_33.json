@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Atlantean apartments echo with tales of seahorses and their calmness.",
         "history": []
     },
     {
@@ -43,7 +43,7 @@
         "chunk": 33,
         "pos": 5,
         "terrain": "O",
-        "features": "Stormy Thermocline",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -68,7 +68,7 @@
         "pos": 8,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by isolated inlet illusion, with traces of hammerhead sharks nearby.",
         "history": []
     },
     {
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by a(n) cerulean chalice, hinting at the tales of tidal phoenixes.",
+        "encounter": "",
         "history": []
     },
     {
@@ -115,7 +115,7 @@
         "chunk": 33,
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Stormy Thermocline",
         "encounter": "",
         "history": []
     },
@@ -123,7 +123,7 @@
         "chunk": 33,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Dark Vents",
         "encounter": "",
         "history": []
     },
@@ -131,7 +131,7 @@
         "chunk": 33,
         "pos": 16,
         "terrain": "O",
-        "features": "",
+        "features": "Cool Ripple",
         "encounter": "",
         "history": []
     },
@@ -155,7 +155,7 @@
         "chunk": 33,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Billowing Trough",
         "encounter": "",
         "history": []
     },
@@ -179,8 +179,8 @@
         "chunk": 33,
         "pos": 22,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Clear Reef",
+        "encounter": "You feel exhilaration as eel enchanters are nestling in nautical nooks near a(n) barnacle's broomstick.",
         "history": []
     },
     {
@@ -188,7 +188,7 @@
         "pos": 23,
         "terrain": "O",
         "features": "",
-        "encounter": "You're captivated by a(n) tome of leadership and influence among the coral vine, exuding salt-crusted clothing.",
+        "encounter": "",
         "history": []
     },
     {
@@ -203,7 +203,7 @@
         "chunk": 33,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Sprawling Canyon",
         "encounter": "",
         "history": []
     },
@@ -227,7 +227,7 @@
         "chunk": 33,
         "pos": 28,
         "terrain": "O",
-        "features": "",
+        "features": "Seething Seabed",
         "encounter": "",
         "history": []
     },
@@ -243,7 +243,7 @@
         "chunk": 33,
         "pos": 30,
         "terrain": "O",
-        "features": "Vibrant Maelstrom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -252,7 +252,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "In the distance, mermaids are deciphering deep-sea dialects, surrounded by fantasy frond.",
+        "encounter": "",
         "history": []
     },
     {
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "There's a legend about oceanic oathkeepers that investigate the cause of a sudden fish die-off in this area.",
         "history": []
     },
     {
@@ -283,8 +283,8 @@
         "chunk": 33,
         "pos": 35,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Coastal Sound",
+        "encounter": "You're captivated by a(n) atlantean artifact, which seem(s) to have ties with nereids.",
         "history": []
     },
     {
@@ -298,17 +298,17 @@
     {
         "chunk": 33,
         "pos": 37,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Hallowed Arete",
+        "encounter": "You sense reflection as you discover a(n) lantern of eternal frost linked to spirits.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 38,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Alive Upland",
+        "encounter": "The magnetic fields that disrupt compasses bear marks of stoneclaw chimeras that are migrating to a higher peak.",
         "history": []
     },
     {
@@ -339,8 +339,8 @@
         "chunk": 33,
         "pos": 42,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Calm Sound",
+        "encounter": "You feel joy as tsunami titans are unraveling underwater enigmas near a(n) medallion of thoughts.",
         "history": []
     },
     {
@@ -370,25 +370,25 @@
     {
         "chunk": 33,
         "pos": 46,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Imposing Alp",
+        "encounter": "You discover a(n) mystic snow globe that seems out of place, hinting at ash wraiths.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 47,
-        "terrain": "O",
-        "features": "Fathomless Upwelling",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Uplifting Peak",
+        "encounter": "A local speaks of rockbound sprites that had sought to defend a hillside grove from a chimera seeking the tree of life in this region.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 48,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Awed Volcano",
+        "encounter": "The area is marked by ruined tower of the zodiac, a legacy of gargoyles and their desire to help a mountain community with healthcare.",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 33,
         "pos": 50,
         "terrain": "O",
-        "features": "Frothy Salinity",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -427,7 +427,7 @@
         "chunk": 33,
         "pos": 53,
         "terrain": "O",
-        "features": "Sundrenched Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -435,7 +435,7 @@
         "chunk": 33,
         "pos": 54,
         "terrain": "O",
-        "features": "Silvery Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -450,17 +450,17 @@
     {
         "chunk": 33,
         "pos": 56,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Monolithic Foothill",
+        "encounter": "You're intrigued by the deserted miner's cabin that bear the mark of yetis.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 57,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Xenolithic Gorge",
+        "encounter": "You find a(n) mountain spring that seems out of place, exuding a sense of smallness.",
         "history": []
     },
     {
@@ -468,7 +468,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "The saltwater tornado bear marks of nautical navigators that are evoking eldritch entities.",
+        "encounter": "",
         "history": []
     },
     {
@@ -476,7 +476,7 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "Sounds suggest pearlescent pegasi are murmuring maritime myths, leaving behind the yielded yacht yard.",
+        "encounter": "",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the unseen undercurrent undercroft, you sense a connection to saltwater wyrms and their wonder.",
         "history": []
     },
     {
@@ -515,7 +515,7 @@
         "chunk": 33,
         "pos": 64,
         "terrain": "O",
-        "features": "Turbulent Horizon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "The path is littered with signs of reef runners and their interactions with a(n) wave-woven wig.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with reef rose, providing cover for nautical nomads.",
+        "encounter": "",
         "history": []
     },
     {
@@ -619,7 +619,7 @@
         "chunk": 33,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Ripple",
         "encounter": "",
         "history": []
     },
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Legends tell of saltwater sphinxes that escort a merchant ship through pirate-infested waters amidst these sea sprite spiral.",
         "history": []
     },
     {
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A trail of seashell's echo of the deep leads you to believe tidal trolls were here recently.",
         "history": []
     },
     {
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "You come across the exalted exocet estate that speak(s) of reefbound revelers and their tales.",
+        "encounter": "",
         "history": []
     },
     {
@@ -660,14 +660,14 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice a(n) opal of insight that is oddly placed amongst the barnacle bloom.",
+        "encounter": "You're drawn to a(n) starfish scepter, which seem to have a connection with swordfish.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 83,
         "terrain": "O",
-        "features": "Seething Riptide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -676,7 +676,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear abandoned abyssal arcade, suggesting tales of deep-sea diplomats.",
         "history": []
     },
     {
@@ -699,7 +699,7 @@
         "chunk": 33,
         "pos": 87,
         "terrain": "O",
-        "features": "Clear Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -731,16 +731,16 @@
         "chunk": 33,
         "pos": 91,
         "terrain": "O",
-        "features": "Silvery Seabed",
-        "encounter": "",
+        "features": "",
+        "encounter": "You discover a(n) glowing gourd that seems out of place, hinting at tsunami titans.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 92,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Languid Gulf",
+        "encounter": "You're intrigued by lost lunar lagoon that speak of sirens and their help a ship's spirit find its final resting place.",
         "history": []
     },
     {
@@ -771,7 +771,7 @@
         "chunk": 33,
         "pos": 96,
         "terrain": "O",
-        "features": "Azure Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },

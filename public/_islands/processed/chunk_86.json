@@ -12,15 +12,15 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter sea valkyries which are waltzing with wavebound warlocks.",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 2,
         "terrain": "O",
-        "features": "",
-        "encounter": "Coral caverns, you sense the presence of abyssal albatross.",
+        "features": "Ominous Wave",
+        "encounter": "",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the lustrous labyrinths' lounge that hints at the tales of barnacle behemoths.",
         "history": []
     },
     {
@@ -67,7 +67,7 @@
         "chunk": 86,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Frigid Riptide",
         "encounter": "",
         "history": []
     },
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "The tidal temple here tell a tale of luminous lurkers and their desire to assist in setting up a new fishing net system.",
+        "encounter": "",
         "history": []
     },
     {
@@ -148,7 +148,7 @@
         "pos": 18,
         "terrain": "O",
         "features": "",
-        "encounter": "You overhear tales of celestial seahorse guardians that cavorting with coral centaurs in this region.",
+        "encounter": "",
         "history": []
     },
     {
@@ -163,8 +163,8 @@
         "chunk": 86,
         "pos": 20,
         "terrain": "O",
-        "features": "",
-        "encounter": "The dense underwater umber fern seems to whisper tales of mystic mollusk monks and their investigate reports of a glowing sea creature.",
+        "features": "Tide-kissed Riptide",
+        "encounter": "",
         "history": []
     },
     {
@@ -179,7 +179,7 @@
         "chunk": 86,
         "pos": 22,
         "terrain": "O",
-        "features": "Turbulent Canyon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -292,7 +292,7 @@
         "pos": 36,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Stories tell of nautical necromancers that challenge the ghostly captain to a duel for his haunted ship amidst these surroundings.",
         "history": []
     },
     {
@@ -315,7 +315,7 @@
         "chunk": 86,
         "pos": 39,
         "terrain": "O",
-        "features": "Turbid Brine",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -339,7 +339,7 @@
         "chunk": 86,
         "pos": 42,
         "terrain": "O",
-        "features": "",
+        "features": "Fathomless Brine",
         "encounter": "",
         "history": []
     },
@@ -371,8 +371,8 @@
         "chunk": 86,
         "pos": 46,
         "terrain": "O",
-        "features": "Foamy Undertow",
-        "encounter": "Your journey is interrupted by floating stone pillars, with signs of mystical moonjellies nearby.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "In the distance, coral carvers are admiring aqua auroras, surrounded by atlantean anemone.",
         "history": []
     },
     {
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear the mark of eel enchanters. They are exchanging exotic enigmas.",
         "history": []
     },
     {
@@ -419,7 +419,7 @@
         "chunk": 86,
         "pos": 52,
         "terrain": "O",
-        "features": "",
+        "features": "Salty Riptide",
         "encounter": "",
         "history": []
     },
@@ -452,14 +452,14 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of adventurousness washes over you as saltwater wyrms are unveiling underwater utopias nearby.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 57,
         "terrain": "O",
-        "features": "Emerald Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -483,7 +483,7 @@
         "chunk": 86,
         "pos": 60,
         "terrain": "O",
-        "features": "Sunlit Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of the unseen undertow underpass left by nebulous nautilus nomads after they had protect a sacred turtle migration path.",
+        "encounter": "",
         "history": []
     },
     {
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local offers you a quest to investigate the disappearance of a local sailor involving aqua archers.",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "The subdued sea stronghold here tell a tale of wave wranglers and their desire to gather ingredients for a cure from the coral alchemist.",
+        "encounter": "",
         "history": []
     },
     {
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "Legends tell of deep-sea diplomats that investigate reports of a new sea creature sighting amidst these ephemeral echo enclave.",
+        "encounter": "",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of the jellyfish jungle ruins left by crabs after they had help a local family build a sandcastle.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,15 +604,15 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) harmonic harpoon by a peculiar sense of inspiration.",
         "history": []
     },
     {
         "chunk": 86,
         "pos": 76,
         "terrain": "O",
-        "features": "Majestic Inlet",
-        "encounter": "The surroundings bear oceanic oracle's obelisk, suggesting tales of sea shadows.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -644,7 +644,7 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant sound suggests pelagic privateers are nestling in nautical nooks near the jettisoned jade jetty.",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of the reef's ruined cathedral left by tsunami titans after they had protect a rare underwater bloom from poachers.",
+        "encounter": "You're drawn to a(n) jeweled jellyfish figurine by an overwhelming sense of calmness.",
         "history": []
     },
     {
@@ -675,7 +675,7 @@
         "chunk": 86,
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Jeweled Trench",
         "encounter": "",
         "history": []
     },
@@ -684,7 +684,7 @@
         "pos": 85,
         "terrain": "O",
         "features": "",
-        "encounter": "The path reveals sea shadows that seem to be swaying to siren serenades in order to help a local beachgoer find a lost item in the sand.",
+        "encounter": "",
         "history": []
     },
     {
@@ -723,7 +723,7 @@
         "chunk": 86,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Roaring Ridge",
         "encounter": "",
         "history": []
     },
@@ -756,7 +756,7 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A strong scent of starboard spices suggests recent activity by barnacle behemoths.",
         "history": []
     },
     {
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're intrigued by the tidal temple that bear the mark of triton's envoys.",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "Your feel apprehension when you see anglerfish near a(n) necklace of fireballs.",
+        "encounter": "",
         "history": []
     }
 ]

@@ -59,8 +59,8 @@
         "chunk": 42,
         "pos": 7,
         "terrain": "O",
-        "features": "Rippling Narrows",
-        "encounter": "Legends tell of seals that help a stranded kraken find its family amidst these abyssal trench.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -76,7 +76,7 @@
         "pos": 9,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You hear the distant sound of mystic mollusk monks questioning quokka quartermasters.",
         "history": []
     },
     {
@@ -99,7 +99,7 @@
         "chunk": 42,
         "pos": 12,
         "terrain": "O",
-        "features": "Gentle Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -107,7 +107,7 @@
         "chunk": 42,
         "pos": 13,
         "terrain": "O",
-        "features": "Crystal Brine",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -116,7 +116,7 @@
         "pos": 14,
         "terrain": "O",
         "features": "",
-        "encounter": "Leviathan lairs echo with tales of lagoon lorekeepers and their resilience.",
+        "encounter": "",
         "history": []
     },
     {
@@ -140,14 +140,14 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "There's a legend about tuna shoals that investigate the sudden drop in fish populations in this area.",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Ethereal Eddy",
         "encounter": "",
         "history": []
     },
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You stumble upon the wave-washed warren that hints at the tales of marine minotaurs.",
         "history": []
     },
     {
@@ -179,7 +179,7 @@
         "chunk": 42,
         "pos": 22,
         "terrain": "O",
-        "features": "Luminous Passage",
+        "features": "Reflective Thermocline",
         "encounter": "",
         "history": []
     },
@@ -187,7 +187,7 @@
         "chunk": 42,
         "pos": 23,
         "terrain": "O",
-        "features": "Cool Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -243,8 +243,8 @@
         "chunk": 42,
         "pos": 30,
         "terrain": "O",
-        "features": "Blue Chasm",
-        "encounter": "You notice a(n) coral-covered casket that is oddly placed amongst the yawning yarrow.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -259,7 +259,7 @@
         "chunk": 42,
         "pos": 32,
         "terrain": "O",
-        "features": "Tropical Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -284,14 +284,14 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) marine mirror hidden among the coral clover, which seems to be lost by seals.",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 36,
         "terrain": "O",
-        "features": "Rippling Upwelling",
+        "features": "Marine Fjord",
         "encounter": "",
         "history": []
     },
@@ -363,15 +363,15 @@
         "chunk": 42,
         "pos": 45,
         "terrain": "O",
-        "features": "Briny Current",
-        "encounter": "",
+        "features": "",
+        "encounter": "Cursed coves, you sense the presence of kelpies.",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Frigid Surf",
         "encounter": "",
         "history": []
     },
@@ -403,7 +403,7 @@
         "chunk": 42,
         "pos": 50,
         "terrain": "O",
-        "features": "Foamy Islet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -411,7 +411,7 @@
         "chunk": 42,
         "pos": 51,
         "terrain": "O",
-        "features": "Raging Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -451,7 +451,7 @@
         "chunk": 42,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Trench",
         "encounter": "",
         "history": []
     },
@@ -459,7 +459,7 @@
         "chunk": 42,
         "pos": 57,
         "terrain": "O",
-        "features": "Windy Tide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of the becalmed barnacle bay left by abyssal albatross after they had recover the helm of the wind controller.",
         "history": []
     },
     {
@@ -507,7 +507,7 @@
         "chunk": 42,
         "pos": 63,
         "terrain": "O",
-        "features": "",
+        "features": "Enigmatic Cove",
         "encounter": "",
         "history": []
     },
@@ -539,15 +539,15 @@
         "chunk": 42,
         "pos": 67,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground is littered with the withered wave-washed wharf, and you can smell seahorse's gentle currents coming from a nearby mystical meanders.",
+        "features": "Muted Brine",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Passage",
         "encounter": "",
         "history": []
     },
@@ -563,7 +563,7 @@
         "chunk": 42,
         "pos": 70,
         "terrain": "O",
-        "features": "Silvery Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -596,14 +596,14 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with coral clover, providing cover for wave walkers.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 75,
         "terrain": "O",
-        "features": "Crystal Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -612,7 +612,7 @@
         "pos": 76,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by a(n) seaglass amulet, hinting at the tales of marine maelstrom mages.",
+        "encounter": "",
         "history": []
     },
     {
@@ -627,7 +627,7 @@
         "chunk": 42,
         "pos": 78,
         "terrain": "O",
-        "features": "Coastal Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -651,7 +651,7 @@
         "chunk": 42,
         "pos": 81,
         "terrain": "O",
-        "features": "Tide-kissed Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -668,7 +668,7 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The glowing plankton bush hides a(n) ethereal eyepiece, which are said to be linked to lagoon lorekeepers and their sorrow.You notice lagoon lorekeepers that seem to be luring leviathan lords.",
         "history": []
     },
     {
@@ -691,7 +691,7 @@
         "chunk": 42,
         "pos": 86,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Basin",
         "encounter": "",
         "history": []
     },
@@ -716,14 +716,14 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "The scent of lifeguard's zinc sunscreen fills the air, making you feel isolation.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 42,
         "pos": 90,
         "terrain": "O",
-        "features": "Coastal Brine",
+        "features": "",
         "encounter": "",
         "history": []
     },
