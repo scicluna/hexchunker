@@ -13,8 +13,8 @@
 /out/
 
 #islands
-/public/public/processed/*.json
-/public/public/raw/*.txt
+/public/generator/processed/*.json
+/public/generator/raw/*.txt
 
 # production
 /build
