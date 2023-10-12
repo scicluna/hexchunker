@@ -36,7 +36,7 @@ To get HEXCHUNKER running locally on your machine, please follow the steps below
 
 7. Visit localhost:3000 in your browser to view the application.
 
-8. Zoom out and enjoy (reccomend 25%)
+8. Zoom out and enjoy (recommend 25%)
 
 ## Contributions
 I welcome all kinds of contributions! Please feel free to contribute by opening issues, suggesting features, updating documentation, or even fixing bugs.
