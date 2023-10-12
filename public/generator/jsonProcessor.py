@@ -5,9 +5,11 @@ from processes.randomFeature import random_feature
 from processes.randomEncounter import random_encounter
 
 def text_to_json():
+    # Set the raw and processed directory
     raw_directory = "./public/generator/raw/"
     processed_directory = "./public/generator/processed/"
     
+    # Clear out the processed folder or make it if it doesn't exist
     if os.path.exists(processed_directory):
         for file in os.listdir(processed_directory):
             os.remove(os.path.join(processed_directory, file))
@@ -17,11 +19,12 @@ def text_to_json():
     # List all text files in raw directory
     files = [f for f in os.listdir(raw_directory) if f.endswith(".txt")]
     
+    # Process each file
     for x,file in enumerate(files):
         # Extract the number from the filename using regex
         chunk_number = int(re.search(r'(\d+)(?=.txt)', file).group(1))
         
-        
+        # Open the file
         with open(raw_directory + file, 'r') as f:
             lines = f.readlines()
 
@@ -29,6 +32,7 @@ def text_to_json():
             chunk_width = len(lines[0].strip())
             
             # Process each line to generate the JSON structure
+            # and call the random feature and encounter functions
             json_content = []
             for j,line in enumerate(lines):
                 for i, char in enumerate(line.strip()):

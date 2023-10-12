@@ -12,14 +12,16 @@ def generate_random_chunks(chunkNo, chunkSize, chunkType):
     else:
         os.makedirs(directory)
 
+    # Generate chunks
     for i in range(chunkNo):
         chunk = generate_random_chunk(chunkSize, chunkType)
         filename = f"{directory}chunk_{i+1}.txt"
         save_to_file(chunk, filename)
         print(f"Saved chunk_{i+1} to {filename}")
         
-
+# Generate a random chunk
 def generate_random_chunk(chunkSize, chunkType):
+    # chunk land/sea ratios
     chunk_ratio = {
        "island": ['ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'land'],
        "flat": ['land', 'land', 'land', 'land', 'land', 'land', 'land'],
@@ -27,6 +29,8 @@ def generate_random_chunk(chunkSize, chunkType):
        "mountainous": ['land', 'land', 'land', 'land', 'land', 'land', 'land']
     }
     selected_chunk = random.choice(chunk_ratio[chunkType])
+
+    # generate land or ocean
     if selected_chunk == 'ocean':
         return generate_ocean_with_island(chunkSize, chunkType)
     else:
