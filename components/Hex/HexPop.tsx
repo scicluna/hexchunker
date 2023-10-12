@@ -15,9 +15,10 @@ type HexPopProps = {
     chunkno: number
     size: number
     hexImage: StaticImageData
+    biome: string
 }
 
-export default function HexPop({ tile, adjHexes, chunkno, size, hexImage }: HexPopProps) {
+export default function HexPop({ tile, adjHexes, chunkno, size, hexImage, biome }: HexPopProps) {
     const terrainDict = {
         O: "Ocean",
         P: "Plains",
@@ -39,7 +40,7 @@ export default function HexPop({ tile, adjHexes, chunkno, size, hexImage }: HexP
                     <p>Terrain: {`${terrainDict[tile.terrain]}`}</p>
                     <p>{tile.terrain === "T" ? `Name: ${tile.features}` : `Feature: ${tile.features || "None"}`}</p>
                     <p>Encounter: {tile.encounter || "None"}</p>
-                    <HexWindow tile={tile} adjHexes={adjHexes} />
+                    <HexWindow tile={tile} adjHexes={adjHexes} biome={biome} />
                 </div>
             </PopoverContent>
         </Popover>

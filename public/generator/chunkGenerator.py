@@ -4,18 +4,18 @@ from processes.landMapGenerator import generate_land
 from processes.oceanMapGenerator import generate_ocean_with_island
 
 def generate_random_chunks(chunkNo, chunkSize, chunkType):
-    directory = "./public/generator/raw/"
+    raw_directory = "./public/generator/raw/"
     # Clear out the raw folder
-    if os.path.exists(directory):
-        for file in os.listdir(directory):
-            os.remove(os.path.join(directory, file))
+    if os.path.exists(raw_directory):
+        for file in os.listdir(raw_directory):
+            os.remove(os.path.join(raw_directory, file))
     else:
-        os.makedirs(directory)
+        os.makedirs(raw_directory)
 
     # Generate chunks
     for i in range(chunkNo):
         chunk = generate_random_chunk(chunkSize, chunkType)
-        filename = f"{directory}chunk_{i+1}.txt"
+        filename = f"{raw_directory}chunk_{i+1}.txt"
         save_to_file(chunk, filename)
         print(f"Saved chunk_{i+1} to {filename}")
         
@@ -36,6 +36,7 @@ def generate_random_chunk(chunkSize, chunkType):
     else:
         return generate_land(chunkSize, chunkType)
     
+# Save the given island map to a file
 def save_to_file(map, filename):
     """
     Save the given island map to a file.
@@ -44,7 +45,9 @@ def save_to_file(map, filename):
         for row in map:
             f.write(''.join(row) + '\n')
         
+# Main function
 def main():
+    processed_directory = "./public/generator/processed/"
     # Get user input
     try:
         print("Choose a biome type:")
@@ -60,10 +63,10 @@ def main():
             '4': 'mountainous'
         }
         chunkType = chunkTypeDict.get(chunkType, 'island')
-        
         chunkNo = int(input("How many chunks? (default 100): ") or 100)
         chunkSize = int(input("Chunk size? (default 10): ") or 10)
 
+        filename = f"{processed_directory}biome.txt"
         # Add warnings
         if chunkNo > 100:
             print("Warning: Generating more than 100 chunks may affect performance.")
@@ -71,8 +74,15 @@ def main():
             print("Warning: A chunk size greater than 10 may affect performance.")
 
         generate_random_chunks(chunkNo, chunkSize, chunkType)
+
+        with open(filename, 'w') as f:
+            f.write(chunkType)
+            print(f"Saved biome to {filename}")
+        
     except ValueError:
         print("Please enter a valid number.")
+
+        
 
 if __name__ == "__main__":
     main()

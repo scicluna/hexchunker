@@ -11,9 +11,10 @@ type HexProps = {
     chunkSize: number
     adjHexes: AdjacentHexes
     image: StaticImageData
+    biome: string
 }
 
-export default function Hex({ tile, chunkno, size, chunkSize, adjHexes, image }: HexProps) {
+export default function Hex({ tile, chunkno, size, chunkSize, adjHexes, image, biome }: HexProps) {
     return (
         <div style={{
             "--hex-size": `${size}rem`, marginBottom: `${-size * .25}rem`,
@@ -23,7 +24,7 @@ export default function Hex({ tile, chunkno, size, chunkSize, adjHexes, image }:
             className={`relative ${style.hexagon}`} >
             <div className='relative h-full w-full point cursor-pointer hover:scale-105 hover:animate-pulse transition-all'>
                 <Image src={image} alt={'map tile'} height={(size) * 17} width={(size * (1.732 / 2)) * 17} unoptimized className='w-auto h-full aspect-auto absolute bottom-0 cursor-pointer pointer-events-none' />
-                <HexPop tile={tile} adjHexes={adjHexes} hexImage={image} chunkno={chunkno} size={size} />
+                <HexPop tile={tile} adjHexes={adjHexes} hexImage={image} chunkno={chunkno} size={size} biome={biome} />
             </div>
         </div>
     )

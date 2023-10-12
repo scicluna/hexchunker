@@ -12,7 +12,8 @@ def text_to_json():
     # Clear out the processed folder or make it if it doesn't exist
     if os.path.exists(processed_directory):
         for file in os.listdir(processed_directory):
-            os.remove(os.path.join(processed_directory, file))
+            if file.endswith('.json'):
+                os.remove(os.path.join(processed_directory, file))
     else:
         os.makedirs(processed_directory)
     

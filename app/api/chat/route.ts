@@ -33,6 +33,7 @@ export async function POST(req: NextRequest) {
     const body = await req.json();
     const details = body.details
     const adjacent = body.adjacent
+    const meta = body.biome
     const messages = body.messages ?? [];
     const formattedPreviousMessages = messages.slice(0, -1).map(formatMessage);
     const currentMessageContent = messages[messages.length - 1].content;
@@ -49,11 +50,9 @@ export async function POST(req: NextRequest) {
 
     let ruleSet = "Craft a narrative linking the current hex with its adjacent hexes (pointy end on top). Think like a creative DM's Assistant embracing the unusual and aiding the DM (me, the User). Connect, describe, and surprise. Keep answers terse and formatted with bullet points (seperated by \n). Use adjacent hex information when appropriate"
 
-    let metaNarrative = 'This chain of islands was once a continent of magical power and splendor, rendered apart by a grand catastrophy.'
-
     const stream = await chain.stream({
         rules: ruleSet,
-        meta_narrative: metaNarrative,
+        meta_narrative: meta,
         adjacent: adjacent,
         details: details,
         chat_history: formattedPreviousMessages.join('\n'),
