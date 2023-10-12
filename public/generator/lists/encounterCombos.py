@@ -34,7 +34,7 @@ encounter_templates = [
     "A trail of [smells] suggests that [entities] were here recently.",
     "You're filled with [feelings] upon finding the [remnants] linked to [entities].",
     "You're warned of [obstacles] ahead, where [entities] often are [actions].",
-    "Among the [vegetation], you find a(n) [objects] that resonate with [feelings].",
+    "Among the [vegetation], you find a(n) [objects] that resonates with [feelings].",
     "Sounds of [entities] [actions] emerge from (a) [hidingplaces].",
     "You're guided by [smells], leading to a site with [remnants] of [entities].",
     "A sense of [feelings] washes over you as [entities] are [actions] nearby.",

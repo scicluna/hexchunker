@@ -19,6 +19,7 @@ Backend: The backend is powered by NextJS 13
 Generators: The generators are built with Python
 
 ## Getting Started
+**First install nodeJS and Python**
 To get HEXCHUNKER running locally on your machine, please follow the steps below:
 
 1. Clone the repository to your local machine.
