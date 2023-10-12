@@ -1,9 +1,9 @@
 import random
 import os
-from processes.islandMapGenerator import generate_island
+from processes.landMapGenerator import generate_land
 from processes.oceanMapGenerator import generate_ocean_with_island
 
-def generate_random_chunks(chunkNo, chunkSize):
+def generate_random_chunks(chunkNo, chunkSize, chunkType):
     directory = "./public/generator/raw/"
     # Clear out the raw folder
     if os.path.exists(directory):
@@ -13,19 +13,24 @@ def generate_random_chunks(chunkNo, chunkSize):
         os.makedirs(directory)
 
     for i in range(chunkNo):
-        chunk = generate_random_chunk(chunkSize)
+        chunk = generate_random_chunk(chunkSize, chunkType)
         filename = f"{directory}chunk_{i+1}.txt"
         save_to_file(chunk, filename)
         print(f"Saved chunk_{i+1} to {filename}")
         
 
-def generate_random_chunk(chunkSize):
-    chunk_type = ['ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'island']
-    selected_chunk = random.choice(chunk_type)
+def generate_random_chunk(chunkSize, chunkType):
+    chunk_ratio = {
+       "island": ['ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'ocean', 'land'],
+       "flat": ['land', 'land', 'land', 'land', 'land', 'land', 'land'],
+       "hilly": [ 'land', 'land', 'land', 'land', 'land', 'land', 'land'],
+       "mountainous": ['land', 'land', 'land', 'land', 'land', 'land', 'land']
+    }
+    selected_chunk = random.choice(chunk_ratio[chunkType])
     if selected_chunk == 'ocean':
-        return generate_ocean_with_island(chunkSize,chunkSize)
+        return generate_ocean_with_island(chunkSize, chunkType)
     else:
-        return generate_island(chunkSize,chunkSize)
+        return generate_land(chunkSize, chunkType)
     
 def save_to_file(map, filename):
     """
@@ -38,6 +43,20 @@ def save_to_file(map, filename):
 def main():
     # Get user input
     try:
+        print("Choose a biome type:")
+        print("1. Island (default)")
+        print("2. Flat")
+        print("3. Hilly")
+        print("4. Mountainous")
+        chunkType = input("Enter the number corresponding to your choice: ")
+        chunkTypeDict = {
+            '1': 'island',
+            '2': 'flat',
+            '3': 'hilly',
+            '4': 'mountainous'
+        }
+        chunkType = chunkTypeDict.get(chunkType, 'island')
+        
         chunkNo = int(input("How many chunks? (default 100): ") or 100)
         chunkSize = int(input("Chunk size? (default 10): ") or 10)
 
@@ -47,7 +66,7 @@ def main():
         if chunkSize > 10:
             print("Warning: A chunk size greater than 10 may affect performance.")
 
-        generate_random_chunks(chunkNo, chunkSize)
+        generate_random_chunks(chunkNo, chunkSize, chunkType)
     except ValueError:
         print("Please enter a valid number.")
 

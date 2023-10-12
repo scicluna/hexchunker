@@ -4,14 +4,14 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) fantastical fishing pole that seems out of place, exuding a sense of homesickness.",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 1,
         "terrain": "O",
-        "features": "Mysterious Surf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of anticipation grips you as you discover a(n) siren's silk scarf linked to octopuses.",
+        "encounter": "",
         "history": []
     },
     {
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "You're captivated by a(n) atlantean armillary sphere, which seem(s) to have ties with coral sirens.",
+        "encounter": "",
         "history": []
     },
     {
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) helm of underwater action, only to find signs of pelagic poets exulting in xebec xanadus.",
+        "encounter": "",
         "history": []
     },
     {
@@ -92,7 +92,7 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the neptune's nettle, a(n) questing quill catch(es) your eye, exuding a sense of mystery.",
+        "encounter": "",
         "history": []
     },
     {
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "The path is littered with cursed fog, a testament to stingray mystics quixotically questing in quays.",
+        "encounter": "",
         "history": []
     },
     {
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of uncertainty grips you as you discover a(n) cloak of the manta ray linked to grotto gnomes.",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 22,
         "pos": 20,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Billow",
         "encounter": "",
         "history": []
     },
@@ -179,8 +179,8 @@
         "chunk": 22,
         "pos": 22,
         "terrain": "O",
-        "features": "",
-        "encounter": "The local tales speak of abyssal albatross that tantalizing tidal tricksters near mystic maritime mirage.",
+        "features": "Sultry Surf",
+        "encounter": "",
         "history": []
     },
     {
@@ -196,15 +196,15 @@
         "pos": 24,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "In the distance, crabs are trading trinkets with tritons, surrounded by triton's truffle.",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 25,
-        "terrain": "M",
-        "features": "Daunting Scarp",
-        "encounter": "Among the mountain bluebell, a(n) giant's lost necklace catch(es) your eye, exuding a sense of introspection.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -212,7 +212,7 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with kraken kudzu, providing cover for brine banshees.",
         "history": []
     },
     {
@@ -259,7 +259,7 @@
         "chunk": 22,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Sprawling Trench",
         "encounter": "",
         "history": []
     },
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with calmness upon discovering a(n) iridescent icon linked to stingrays.",
+        "encounter": "",
         "history": []
     },
     {
@@ -282,9 +282,9 @@
     {
         "chunk": 22,
         "pos": 35,
-        "terrain": "M",
-        "features": "Silent Cleft",
-        "encounter": "A local speaks of horse traders that had sought to stop the ritual of the shadow cultists in this region.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -299,7 +299,7 @@
         "chunk": 22,
         "pos": 37,
         "terrain": "O",
-        "features": "Sweeping Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "Legends tell of coral golems that locate a missing cargo shipment amidst these petrifying phantom plankton.",
+        "encounter": "",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "The path reveals sunken swindlers that seem to be parleying with pelagic pixies in order to assist a marine photographer in capturing sea life.",
+        "encounter": "",
         "history": []
     },
     {
@@ -363,7 +363,7 @@
         "chunk": 22,
         "pos": 45,
         "terrain": "O",
-        "features": "",
+        "features": "Placid Islet",
         "encounter": "",
         "history": []
     },
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "You're captivated by a(n) kelpie's kettlebell among the siren's silkweed, exuding beach umbrella's fabric.",
+        "encounter": "",
         "history": []
     },
     {
@@ -395,7 +395,7 @@
         "chunk": 22,
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Twinkling Trough",
         "encounter": "",
         "history": []
     },
@@ -411,7 +411,7 @@
         "chunk": 22,
         "pos": 51,
         "terrain": "O",
-        "features": "Emerald Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes of sea valkyries resonate, accompanied by distinct mystic rune-etched artifacts.",
+        "encounter": "",
         "history": []
     },
     {
@@ -451,7 +451,7 @@
         "chunk": 22,
         "pos": 56,
         "terrain": "O",
-        "features": "Ethereal Undertow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -467,8 +467,8 @@
         "chunk": 22,
         "pos": 58,
         "terrain": "O",
-        "features": "",
-        "encounter": "The ground bears harbor's hallowed hall from past encounters with manatees.",
+        "features": "Roaring Canyon",
+        "encounter": "",
         "history": []
     },
     {
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "A strong scent of sunken leather-bound books suggests recent activity by saltwater soothsayers.",
+        "encounter": "Sounds suggest whirlpool witches are rallying the reefbound rebels, leaving behind the questing quasar quarters.",
         "history": []
     },
     {
@@ -499,7 +499,7 @@
         "chunk": 22,
         "pos": 62,
         "terrain": "O",
-        "features": "",
+        "features": "Blue Tide",
         "encounter": "",
         "history": []
     },
@@ -514,17 +514,17 @@
     {
         "chunk": 22,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Hallowed Knoll",
+        "encounter": "The path reveals artists that seem to be singing to the moon in order to guide a group of tourists on a mountain trek.",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 65,
-        "terrain": "O",
-        "features": "",
-        "encounter": "Fantastical fjords, you hear dancing dugongs questing for quixotic quagmires, accompanied by ice cream cone's sweetness.",
+        "terrain": "M",
+        "features": "Resplendent Base",
+        "encounter": "The area is marked by ruined castle of the mist, a testament to mantises and their tales.",
         "history": []
     },
     {
@@ -547,7 +547,7 @@
         "chunk": 22,
         "pos": 68,
         "terrain": "O",
-        "features": "Sultry Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -563,8 +563,8 @@
         "chunk": 22,
         "pos": 70,
         "terrain": "O",
-        "features": "Billowing Ridge",
-        "encounter": "",
+        "features": "",
+        "encounter": "The glowing plankton bush hides a(n) ethereal envelope, which are said to be linked to schools of fish and their fear.You notice schools of fish that seem to be mimicking manta ray melodies.",
         "history": []
     },
     {
@@ -586,25 +586,25 @@
     {
         "chunk": 22,
         "pos": 73,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Serene Elevation",
+        "encounter": "The surroundings bear the mark of magma wraiths. They are gazing at a rainbow.",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 74,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Pleasant Eminence",
+        "encounter": "The surroundings bear the mark of ridgeview oracles. They are conversing with the spirits of the wind.",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 75,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Resplendent Ledge",
+        "encounter": "Whispers of stone sentinels casting a spell of mountain's might can be heard within a patch of tall grass.",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the unearthed undersea urchin utopia, a legacy of seafloor scholars and their tales.",
         "history": []
     },
     {
@@ -643,7 +643,7 @@
         "chunk": 22,
         "pos": 80,
         "terrain": "O",
-        "features": "Glassy Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -660,31 +660,31 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel nostalgia as you spot a(n) golden doubloon associated with saltwater smugglers.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 83,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Timeless Gorge",
+        "encounter": "A sense of connection washes over you as azers are digging for edible roots nearby.",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 84,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Distant Foot",
+        "encounter": "A strong scent of misty fog leads you towards hillside sirens.",
         "history": []
     },
     {
         "chunk": 22,
         "pos": 85,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Towering Apex",
+        "encounter": "Your feel freedom when you see merfolk near a(n) runic rock ring.",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "The siren's silkweed rustles as sea sprites are dallying with deep-sea divas behind them.",
+        "encounter": "You're intrigued by the quiet quartermaster's quarters that bear the mark of current menders.",
         "history": []
     },
     {
@@ -708,7 +708,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "You see the reclaimed reef residence suggesting past activities of marine mystics.",
+        "encounter": "",
         "history": []
     },
     {
@@ -716,7 +716,7 @@
         "pos": 89,
         "terrain": "O",
         "features": "",
-        "encounter": "The path bears marks of marine mystics and their interactions with a(n) medallion of thoughts.",
+        "encounter": "",
         "history": []
     },
     {
@@ -747,7 +747,7 @@
         "chunk": 22,
         "pos": 93,
         "terrain": "O",
-        "features": "",
+        "features": "Pearlescent Islet",
         "encounter": "",
         "history": []
     },
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel apprehension as geyser spirits are conjuring cyclones near a(n) coral choker.",
+        "encounter": "",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot sea sprites dallying with deep-sea divas, casting shadows on a(n) kraken's kettle.",
+        "encounter": "Aqua amphitheaters, you hear starlit selkies navigating nebulous narrows, accompanied by beachcomber's collection.",
         "history": []
     },
     {

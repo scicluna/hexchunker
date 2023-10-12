@@ -28,7 +28,7 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "The whimsical whirlwind whirlpool ahead are said to be the work of marine muses that are kindling kelpie kinships.",
+        "encounter": "",
         "history": []
     },
     {
@@ -60,7 +60,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground bears submerged sapphire sanctum from past encounters with lunar lagoon luminaries.",
+        "encounter": "",
         "history": []
     },
     {
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales speak of the sunken sorcerer's sanctum left by deep-sea dreamers after they had assist a ship's captain in recruiting a new crew.",
+        "encounter": "",
         "history": []
     },
     {
@@ -115,15 +115,15 @@
         "chunk": 25,
         "pos": 14,
         "terrain": "O",
-        "features": "",
-        "encounter": "Among the voyager's varech, you find a(n) ghostly anchor that resonate with pensiveness.",
+        "features": "Stormy Current",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Turbid Seamount",
         "encounter": "",
         "history": []
     },
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "In the distance, flying fish are hunting harbor horrors, surrounded by saltwater sunrose.",
+        "encounter": "",
         "history": []
     },
     {
@@ -155,7 +155,7 @@
         "chunk": 25,
         "pos": 19,
         "terrain": "O",
-        "features": "",
+        "features": "Dark Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) gilded grappling gun by an overwhelming sense of meditation.",
         "history": []
     },
     {
@@ -186,24 +186,24 @@
     {
         "chunk": 25,
         "pos": 23,
-        "terrain": "M",
-        "features": "Mystical Apex",
-        "encounter": "You're drawn to a(n) gem of glacial might, only to find signs of dryads singing a mountain song.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 24,
-        "terrain": "M",
-        "features": "Ominous Knoll",
-        "encounter": "The area is marked by abandoned ghost's echoing valley, a legacy of antagonists and their desire to help the mountain that's become a mirror to other worlds.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 25,
         "terrain": "O",
-        "features": "",
+        "features": "Dazzling Vents",
         "encounter": "",
         "history": []
     },
@@ -211,7 +211,7 @@
         "chunk": 25,
         "pos": 26,
         "terrain": "O",
-        "features": "Wild Horizon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -219,7 +219,7 @@
         "chunk": 25,
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Crashing Seafloor",
         "encounter": "",
         "history": []
     },
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter pearlescent pegasi which are plundering pirate ships.",
         "history": []
     },
     {
@@ -252,7 +252,7 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with dread upon discovering a(n) voyager's velvet veil linked to eel enchanters.",
+        "encounter": "Whispers suggest reefbound rescuers are questing for quixotic quagmires coral castles.",
         "history": []
     },
     {
@@ -275,16 +275,16 @@
         "chunk": 25,
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Muted Riptide",
         "encounter": "",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 35,
-        "terrain": "M",
-        "features": "Soaring Spire",
-        "encounter": "The path is littered with underestimated distances, a testament to tectonic titans casting a spell of mountain's might.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of wave wisps that had sought to recover the stolen voice of the ocean in this region.",
         "history": []
     },
     {
@@ -324,7 +324,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "A strong scent of starboard spices suggests recent activity by lunar lagoon luminaries.",
+        "encounter": "",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) deep-sea divining rod, which seem(s) to have ties with triton knights.",
         "history": []
     },
     {
@@ -362,9 +362,9 @@
     {
         "chunk": 25,
         "pos": 45,
-        "terrain": "M",
-        "features": "Lustrous Peak",
-        "encounter": "You're cautioned about sudden snow squalls ahead, where blacksmiths are known to be crafting a makeshift weapon.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -380,7 +380,7 @@
         "pos": 47,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is filled with coral vine, providing cover for cuttlefish.",
+        "encounter": "Echoes suggest reef runners are jousting with jellyfish elemental eyries.",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "A local offers you a quest to help a shipwrecked sailor reclaim his memories involving sea lions.",
+        "encounter": "",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 25,
         "pos": 51,
         "terrain": "O",
-        "features": "",
+        "features": "Restless Chasm",
         "encounter": "",
         "history": []
     },
@@ -452,14 +452,14 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice a(n) ivory spyglass that is oddly placed amongst the glowing gorgonian.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Clear Islet",
         "encounter": "",
         "history": []
     },
@@ -499,8 +499,8 @@
         "chunk": 25,
         "pos": 62,
         "terrain": "O",
-        "features": "",
-        "encounter": "You notice a(n) barnacle's broomstick that is oddly placed amongst the kelpie's knotweed.",
+        "features": "Luminous Tide",
+        "encounter": "",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The temporal rift bear marks of moray eels that are flouncing with finned fairies.",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 25,
         "pos": 66,
         "terrain": "O",
-        "features": "Breezy Billow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -547,7 +547,7 @@
         "chunk": 25,
         "pos": 68,
         "terrain": "O",
-        "features": "",
+        "features": "Silvery Jetstream",
         "encounter": "",
         "history": []
     },
@@ -572,14 +572,14 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You overhear tales of viperfish seers that are exulting in xebec xanadus from gilded gullies.",
         "history": []
     },
     {
         "chunk": 25,
         "pos": 72,
         "terrain": "O",
-        "features": "Fathomless Whirlpool",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "You see the sunken city of atlantis suggesting past activities of water sprites.",
+        "encounter": "",
         "history": []
     },
     {
@@ -636,7 +636,7 @@
         "pos": 79,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Cursed captains conjuring cyclones are hidden abyssal alcoves.",
         "history": []
     },
     {
@@ -651,7 +651,7 @@
         "chunk": 25,
         "pos": 81,
         "terrain": "O",
-        "features": "Wavy Delta",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -667,7 +667,7 @@
         "chunk": 25,
         "pos": 83,
         "terrain": "O",
-        "features": "Sprawling Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -675,8 +675,8 @@
         "chunk": 25,
         "pos": 84,
         "terrain": "O",
-        "features": "Seething Estuary",
-        "encounter": "",
+        "features": "",
+        "encounter": "A distant sound suggests giant squids are intriguing iridescent imps near the forgotten fjord fort.",
         "history": []
     },
     {
@@ -708,7 +708,7 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by forgotten sea fortress, hinting at the presence of sunlit sea sprites.",
+        "encounter": "",
         "history": []
     },
     {
@@ -739,7 +739,7 @@
         "chunk": 25,
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Aquamarine Vortex",
         "encounter": "",
         "history": []
     },
@@ -755,7 +755,7 @@
         "chunk": 25,
         "pos": 94,
         "terrain": "O",
-        "features": "Rippling Seabed",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Stories tell of sea anemones that investigate reports of a sea monster in a local lagoon amidst these surroundings.",
+        "encounter": "",
         "history": []
     },
     {
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You encounter lagoon looters which are echoing eldritch elegies.",
         "history": []
     },
     {

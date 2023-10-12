@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You discover a(n) medallion of thoughts that seems out of place, hinting at sea urchins.",
         "history": []
     },
     {
@@ -51,7 +51,7 @@
         "chunk": 92,
         "pos": 6,
         "terrain": "O",
-        "features": "Azure Atoll",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -60,7 +60,7 @@
         "pos": 7,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by abandoned anchor atoll, a legacy of saltwater soothsayers and their desire to gather a rare type of seaweed for a local chef.",
         "history": []
     },
     {
@@ -83,8 +83,8 @@
         "chunk": 92,
         "pos": 10,
         "terrain": "O",
-        "features": "",
-        "encounter": "The zephyr's zinnia hides a(n) quiver of ehlonna, which are said to be linked to mystic mollusk monks and their serenity.You notice mystic mollusk monks that seem to be weaving water spells.",
+        "features": "Undulating Abyss",
+        "encounter": "",
         "history": []
     },
     {
@@ -115,7 +115,7 @@
         "chunk": 92,
         "pos": 14,
         "terrain": "O",
-        "features": "Restless Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -171,7 +171,7 @@
         "chunk": 92,
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Jetstream",
         "encounter": "",
         "history": []
     },
@@ -220,7 +220,7 @@
         "pos": 27,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is filled with coral vine, providing cover for current menders.",
         "history": []
     },
     {
@@ -259,7 +259,7 @@
         "chunk": 92,
         "pos": 32,
         "terrain": "O",
-        "features": "Eerie Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -267,7 +267,7 @@
         "chunk": 92,
         "pos": 33,
         "terrain": "O",
-        "features": "Marine Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Navigating the triton's trickster trap becomes challenging due to current menders weaving water spells.",
         "history": []
     },
     {
@@ -308,7 +308,7 @@
         "pos": 38,
         "terrain": "O",
         "features": "",
-        "encounter": "Ghostly galleons, you sense the presence of abyssal adventurers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -340,22 +340,22 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Echoes of lunar lagoon luminaries resonate, accompanied by distinct beach umbrella's fabric.",
         "history": []
     },
     {
         "chunk": 92,
         "pos": 43,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Stormy Canyon",
+        "encounter": "Navigating the luminous liquid labyrinth becomes challenging due to aqua elementals tantalizing tidal tricksters.",
         "history": []
     },
     {
         "chunk": 92,
         "pos": 44,
         "terrain": "O",
-        "features": "",
+        "features": "Serene Gulf",
         "encounter": "",
         "history": []
     },
@@ -372,7 +372,7 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "A strong scent of surfer's waxed board leads you towards marine mystics.",
+        "encounter": "The path bears marks of whales and their interactions with a(n) quixotic quiver.",
         "history": []
     },
     {
@@ -395,7 +395,7 @@
         "chunk": 92,
         "pos": 49,
         "terrain": "O",
-        "features": "",
+        "features": "Sunkissed Whirlpool",
         "encounter": "",
         "history": []
     },
@@ -403,7 +403,7 @@
         "chunk": 92,
         "pos": 50,
         "terrain": "O",
-        "features": "",
+        "features": "Golden Upwelling",
         "encounter": "",
         "history": []
     },
@@ -451,7 +451,7 @@
         "chunk": 92,
         "pos": 56,
         "terrain": "O",
-        "features": "Turbulent Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -459,8 +459,8 @@
         "chunk": 92,
         "pos": 57,
         "terrain": "O",
-        "features": "",
-        "encounter": "Sounds of seashell sorcerers weaving water spells emerge from (a) island inlets.",
+        "features": "Hypnotic Basin",
+        "encounter": "",
         "history": []
     },
     {
@@ -499,7 +499,7 @@
         "chunk": 92,
         "pos": 62,
         "terrain": "O",
-        "features": "Muted Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by a(n) yawning abyss yoyo, hinting at the tales of starfish clusters.",
         "history": []
     },
     {
@@ -524,15 +524,15 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Legends tell of lunar lagoon looters that challenge the abyssal lord for control of a sea trench amidst these glowing ghostly gulf.",
         "history": []
     },
     {
         "chunk": 92,
         "pos": 66,
         "terrain": "O",
-        "features": "Briny Eddy",
-        "encounter": "",
+        "features": "Moonlit Swell",
+        "encounter": "Your path is marked by pearlescent pagoda, a testament to tidal trolls who aimed to yearning for yawning yonders.",
         "history": []
     },
     {
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of awe grips you as you discover a(n) tome of leadership and influence linked to oceanic orators.",
+        "encounter": "You find a(n) seaglass amulet hidden among the zephyr's zinnia, which seems to be lost by sea valkyries.",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the nereid's neglected nest, you sense a connection to nautical nomads and their hopefulness.",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "Your surroundings become dense with luminous algae, perfect for manta protectors wrestling with wave wraiths.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,7 +604,7 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sense of restlessness washes over you as reefbound revelers are flirting with fathomless fiends nearby.",
         "history": []
     },
     {
@@ -676,7 +676,7 @@
         "pos": 84,
         "terrain": "O",
         "features": "",
-        "encounter": "The area is marked by a(n) pendant of the siren, hinting at the tales of sargasso wanderers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -779,8 +779,8 @@
         "chunk": 92,
         "pos": 97,
         "terrain": "O",
-        "features": "",
-        "encounter": "Among the island ivy, you find a(n) knot of binding that resonate with wanderlust.",
+        "features": "Sprawling Seabed",
+        "encounter": "",
         "history": []
     },
     {

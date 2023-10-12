@@ -4,14 +4,14 @@
         "pos": 0,
         "terrain": "O",
         "features": "",
-        "encounter": "The surroundings bear unseen undercurrent undercroft, suggesting tales of sunken spirits.",
+        "encounter": "You find a(n) ewer of endless water that seems out of place, exuding a sense of restlessness.",
         "history": []
     },
     {
         "chunk": 80,
         "pos": 1,
         "terrain": "O",
-        "features": "",
+        "features": "Placid Ocean",
         "encounter": "",
         "history": []
     },
@@ -20,7 +20,7 @@
         "pos": 2,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with fear upon spotting a(n) pendant of the siren.",
         "history": []
     },
     {
@@ -43,7 +43,7 @@
         "chunk": 80,
         "pos": 5,
         "terrain": "O",
-        "features": "",
+        "features": "Sparkling Basin",
         "encounter": "",
         "history": []
     },
@@ -115,7 +115,7 @@
         "chunk": 80,
         "pos": 14,
         "terrain": "O",
-        "features": "",
+        "features": "Twinkling Eddy",
         "encounter": "",
         "history": []
     },
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes of anglerfish resonate, accompanied by distinct sunken leather-bound books.",
+        "encounter": "",
         "history": []
     },
     {
@@ -132,7 +132,7 @@
         "pos": 16,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear triton's tower, suggesting tales of abyssal alchemists.",
         "history": []
     },
     {
@@ -140,7 +140,7 @@
         "pos": 17,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) anchor of holding that seems out of place, exuding a sense of adventurousness.",
         "history": []
     },
     {
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "Mystic mirages, you sense the presence of tidal timekeepers.",
+        "encounter": "You see the kept-away kraken keep suggesting past activities of starfish sages.",
         "history": []
     },
     {
@@ -211,8 +211,8 @@
         "chunk": 80,
         "pos": 26,
         "terrain": "O",
-        "features": "Blue Ridge",
-        "encounter": "",
+        "features": "",
+        "encounter": "Your path is blocked by eldritch energy eddy, guarded by aqua archers.",
         "history": []
     },
     {
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "A local speaks of nudibranch warlocks that had sought to help a local tribe perform a sea ritual in this region.",
+        "encounter": "",
         "history": []
     },
     {
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're warned of forbidden fathom fountain ahead, where seals often are yodeling to yawning yales.",
         "history": []
     },
     {
@@ -275,7 +275,7 @@
         "chunk": 80,
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Sundrenched Estuary",
         "encounter": "",
         "history": []
     },
@@ -284,7 +284,7 @@
         "pos": 35,
         "terrain": "O",
         "features": "",
-        "encounter": "Among the overgrown ocean observatory, you sense a connection to seahorses and their awe.",
+        "encounter": "",
         "history": []
     },
     {
@@ -300,7 +300,7 @@
         "pos": 37,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path reveals seafloor scholars that seem to be nurturing nautical nymphs in order to discover the truth of the vanishing islands.",
         "history": []
     },
     {
@@ -316,7 +316,7 @@
         "pos": 39,
         "terrain": "O",
         "features": "",
-        "encounter": "Maelstrom mages swaying to siren serenades are hidden nautical nests.",
+        "encounter": "",
         "history": []
     },
     {
@@ -340,7 +340,7 @@
         "pos": 42,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground bears kept-away kraken keep from past encounters with reefbound rescuers.",
+        "encounter": "",
         "history": []
     },
     {
@@ -355,8 +355,8 @@
         "chunk": 80,
         "pos": 44,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Sundrenched Passage",
+        "encounter": "The area is marked by leviathan's lair, a testament to lunar lagoon luminaries and their tales.",
         "history": []
     },
     {
@@ -372,15 +372,15 @@
         "pos": 46,
         "terrain": "O",
         "features": "",
-        "encounter": "You stumble upon the yawning yacht yard.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 80,
         "pos": 47,
         "terrain": "O",
-        "features": "",
-        "encounter": "The path is littered with signs of abyssal alchemists and their interactions with a(n) zircon's protective amulet.",
+        "features": "Twinkling Chasm",
+        "encounter": "",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "Seafloor sanctums, you hear aqua elementals swooning in sea sprite symphonies, accompanied by sunken treasure chests.",
+        "encounter": "",
         "history": []
     },
     {
@@ -396,7 +396,7 @@
         "pos": 49,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Rumors speak of narwhal dreamweavers that assist a ship's captain in navigating tricky waters in this vicinity.",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 80,
         "pos": 51,
         "terrain": "O",
-        "features": "Sundrenched Brine",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of connectedness washes over you as tritons are jesting with jellyfish jokers nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -451,7 +451,7 @@
         "chunk": 80,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Choppy Fathom",
         "encounter": "",
         "history": []
     },
@@ -459,7 +459,7 @@
         "chunk": 80,
         "pos": 57,
         "terrain": "O",
-        "features": "",
+        "features": "Expansive Narrows",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 80,
         "pos": 59,
         "terrain": "O",
-        "features": "Tranquil Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "The dense underwater umber fern seems to whisper tales of moonlit manticores and their assist a marine conservationist in setting up a new sanctuary.",
+        "encounter": "",
         "history": []
     },
     {
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "You're filled with mystery upon finding the secluded surf sanctuary linked to sea sprites' syndicate.",
+        "encounter": "Wave-woven warrens, you hear ocean oracles dreaming in deep-sea domains, accompanied by volcanic steam from islets.",
         "history": []
     },
     {
@@ -523,7 +523,7 @@
         "chunk": 80,
         "pos": 65,
         "terrain": "O",
-        "features": "Fathomless Seamount",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -531,7 +531,7 @@
         "chunk": 80,
         "pos": 66,
         "terrain": "O",
-        "features": "Sunkissed Swell",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -539,7 +539,7 @@
         "chunk": 80,
         "pos": 67,
         "terrain": "O",
-        "features": "",
+        "features": "Sunkissed Maelstrom",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 80,
         "pos": 69,
         "terrain": "O",
-        "features": "Majestic Inlet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "As you proceed, mystic mollusk monks suddenly preening with pirate parrots from behind a(n) deep-sea divining rod.",
+        "encounter": "",
         "history": []
     },
     {
@@ -620,7 +620,7 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with sorrow upon spotting a(n) gem of seeing.",
         "history": []
     },
     {
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "Rumors speak of marine mystics that discover the truth behind the ocean's lullaby in this vicinity.",
+        "encounter": "Tales speak of the nautical necropolis left by flying fish after they had assist a cartographer in updating sea charts.",
         "history": []
     },
     {
@@ -660,7 +660,7 @@
         "pos": 82,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) oceanic onyx, which seem to have a connection with mercurial merchants.",
+        "encounter": "",
         "history": []
     },
     {
@@ -708,22 +708,22 @@
         "pos": 88,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes suggest abyssal shade anglers are jesting with jellyfish jokers lustrous labyrinths.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 80,
         "pos": 89,
         "terrain": "O",
-        "features": "",
-        "encounter": "A distant sound suggests pearl protectors are venturing through vortex vales near the isolated isle inlet.",
+        "features": "Glistening Fjord",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 80,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Tropical Fjord",
         "encounter": "",
         "history": []
     },
@@ -739,7 +739,7 @@
         "chunk": 80,
         "pos": 92,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Strait",
         "encounter": "",
         "history": []
     },
@@ -780,7 +780,7 @@
         "pos": 97,
         "terrain": "O",
         "features": "",
-        "encounter": "Pearlescent palaces, you hear whirlpool spirits yodeling to yawning yales, accompanied by sargasso seaweed.",
+        "encounter": "",
         "history": []
     },
     {
@@ -788,7 +788,7 @@
         "pos": 98,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) sapphire-studded sextant hidden among the harbor hyacinth, which seems to be lost by manatees.",
         "history": []
     },
     {

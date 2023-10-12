@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "In the distance, narwhals are yielding to yonder yearnings, surrounded by kraken kudzu.",
+        "encounter": "",
         "history": []
     },
     {
@@ -52,7 +52,7 @@
         "pos": 6,
         "terrain": "O",
         "features": "",
-        "encounter": "You're cautioned about petrified sea forest ahead, where wave wisps are known to be sailing sunlit sanctuaries.",
+        "encounter": "You're warned of mystical vortex ahead, where mystic merrow often are exalting xebec xanadus.",
         "history": []
     },
     {
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) harbor horn, which seem to have a connection with tidal trolls.",
         "history": []
     },
     {
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by zoned-out zenith zendo, a testament to shoal shamans and their tales.",
         "history": []
     },
     {
@@ -171,7 +171,7 @@
         "chunk": 4,
         "pos": 21,
         "terrain": "O",
-        "features": "",
+        "features": "Calm Seabed",
         "encounter": "",
         "history": []
     },
@@ -180,7 +180,7 @@
         "pos": 22,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Ancient stories speak of narwhal dreamweavers whos objective was to assist a marine researcher in studying ocean salinity here.",
         "history": []
     },
     {
@@ -202,33 +202,33 @@
     {
         "chunk": 4,
         "pos": 25,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Harsh Crag",
+        "encounter": "You're drawn to a(n) abandoned tent by an overwhelming sense of inspiration.",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 26,
-        "terrain": "O",
-        "features": "",
-        "encounter": "A strong scent of lighthouse oil suggests recent activity by stingray mystics.",
+        "terrain": "M",
+        "features": "Overwhelming Col",
+        "encounter": "Yaks making a snow shelter are hidden under a pile of firewood.",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 27,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Formidable Valley",
+        "encounter": "You stumble upon the deserted alpine barn.",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 28,
         "terrain": "O",
-        "features": "Expansive Atoll",
-        "encounter": "Your path is marked by nautical niches' nave, a testament to neptune's nymphs who aimed to unveiling underwater utopias.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -244,7 +244,7 @@
         "pos": 30,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers suggest pufferfish are invoking iridescent idols oracle's ombres.",
         "history": []
     },
     {
@@ -260,7 +260,7 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "Stories tell of sea spriggans that assist a marine conservationist in a beach cleanup amidst these surroundings.",
+        "encounter": "",
         "history": []
     },
     {
@@ -282,25 +282,25 @@
     {
         "chunk": 4,
         "pos": 35,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Towering Apex",
+        "encounter": "You overhear tales of ember elementals that are listening to mountain tales from within a dense thicket.",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 36,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Jovian Col",
+        "encounter": "You spot artisans fishing in a mountain stream, casting shadows on a(n) glowing mountain moss.",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 37,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Legendary Elevation",
+        "encounter": "You're guided by scent of mountain juniper, leading to a site with decaying mountain of dreams of granite gryphons.",
         "history": []
     },
     {
@@ -331,7 +331,7 @@
         "chunk": 4,
         "pos": 41,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Vents",
         "encounter": "",
         "history": []
     },
@@ -355,7 +355,7 @@
         "chunk": 4,
         "pos": 44,
         "terrain": "O",
-        "features": "Crystal Shoal",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -371,7 +371,7 @@
         "chunk": 4,
         "pos": 46,
         "terrain": "O",
-        "features": "",
+        "features": "Pacific Gulf",
         "encounter": "",
         "history": []
     },
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "You see the cursed cove's coliseum suggesting past activities of abyssal leviathans.",
+        "encounter": "",
         "history": []
     },
     {
@@ -411,7 +411,7 @@
         "chunk": 4,
         "pos": 51,
         "terrain": "O",
-        "features": "Hypnotic Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -419,7 +419,7 @@
         "chunk": 4,
         "pos": 52,
         "terrain": "O",
-        "features": "Thundering Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -468,7 +468,7 @@
         "pos": 58,
         "terrain": "O",
         "features": "",
-        "encounter": "You're cautioned about voyager's void ahead, where barnacle behemoths are known to be lamenting lost lagoon lore.",
+        "encounter": "",
         "history": []
     },
     {
@@ -476,15 +476,15 @@
         "pos": 59,
         "terrain": "O",
         "features": "",
-        "encounter": "The path bears marks of maelstrom mages and their interactions with a(n) leviathan's locket.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 60,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Wavy Current",
+        "encounter": "Your path is blocked by petrifying phantom plankton, guarded by hammerhead sharks.",
         "history": []
     },
     {
@@ -532,7 +532,7 @@
         "pos": 66,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Among the island ivy, you find a(n) harmonic harpoon that resonate with serenity.",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "Fantasy-filled fissures echo with tales of coral colonies and their uncertainty.",
+        "encounter": "",
         "history": []
     },
     {
@@ -563,7 +563,7 @@
         "chunk": 4,
         "pos": 70,
         "terrain": "O",
-        "features": "Breezy Islet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -595,7 +595,7 @@
         "chunk": 4,
         "pos": 74,
         "terrain": "O",
-        "features": "Glistening Thermocline",
+        "features": "Sapphire Trench",
         "encounter": "",
         "history": []
     },
@@ -603,7 +603,7 @@
         "chunk": 4,
         "pos": 75,
         "terrain": "O",
-        "features": "",
+        "features": "Tranquil Trench",
         "encounter": "",
         "history": []
     },
@@ -635,7 +635,7 @@
         "chunk": 4,
         "pos": 79,
         "terrain": "O",
-        "features": "Briny Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -644,14 +644,14 @@
         "pos": 80,
         "terrain": "O",
         "features": "",
-        "encounter": "The surroundings hold (a) harbor's harmonica, which (are/is) said to be linked to octopuses.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 4,
         "pos": 81,
         "terrain": "O",
-        "features": "Sunlit Riptide",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -699,7 +699,7 @@
         "chunk": 4,
         "pos": 87,
         "terrain": "O",
-        "features": "Clear Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -748,7 +748,7 @@
         "pos": 93,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A distant sound suggests anglerfish are guiding ghostly galleons near the withered wave-washed wharf.",
         "history": []
     },
     {
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with reverence upon finding the derelict driftwood dwelling linked to pelagic peacekeepers.",
         "history": []
     },
     {
@@ -796,7 +796,7 @@
         "pos": 99,
         "terrain": "O",
         "features": "",
-        "encounter": "You notice a(n) periapt of wound closure that is oddly placed amongst the underwater umber fern.",
+        "encounter": "The sunken sailor's sanctuary here tell a tale of sea nymphs and their desire to investigate the cause of a mysterious whirlpool.",
         "history": []
     }
 ]

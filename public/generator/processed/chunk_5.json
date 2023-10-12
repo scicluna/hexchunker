@@ -3,8 +3,8 @@
         "chunk": 5,
         "pos": 0,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Crashing Abyss",
+        "encounter": "You feel calmness as current menders are orchestrating orca overtures near a(n) dolphin's drum.",
         "history": []
     },
     {
@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "Your surroundings become dense with pearlescent pondweed, perfect for brine banshees dreaming in deep-sea domains.",
+        "encounter": "You spot ocean oracles imbibing in inky inlets, casting shadows on a(n) dolphin's dirk.",
         "history": []
     },
     {
@@ -51,7 +51,7 @@
         "chunk": 5,
         "pos": 6,
         "terrain": "O",
-        "features": "",
+        "features": "Timeless Inlet",
         "encounter": "",
         "history": []
     },
@@ -59,7 +59,7 @@
         "chunk": 5,
         "pos": 7,
         "terrain": "O",
-        "features": "",
+        "features": "Restless Inlet",
         "encounter": "",
         "history": []
     },
@@ -67,7 +67,7 @@
         "chunk": 5,
         "pos": 8,
         "terrain": "O",
-        "features": "",
+        "features": "Tumultuous Eddy",
         "encounter": "",
         "history": []
     },
@@ -75,7 +75,7 @@
         "chunk": 5,
         "pos": 9,
         "terrain": "O",
-        "features": "",
+        "features": "Seething Thermocline",
         "encounter": "",
         "history": []
     },
@@ -92,23 +92,23 @@
         "pos": 11,
         "terrain": "O",
         "features": "",
-        "encounter": "Whispers suggest maelstrom mages are lingering with lagoon luminaries harbor hideouts.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 5,
         "pos": 12,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Quaint Crest",
+        "encounter": "The area is marked by decaying animal pen, hinting at the presence of hillshade guardians.",
         "history": []
     },
     {
         "chunk": 5,
         "pos": 13,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Zenithal Declivity",
+        "encounter": "Your path is blocked by fields of whispering winds that share secrets, guarded by stone whisperers.",
         "history": []
     },
     {
@@ -139,8 +139,8 @@
         "chunk": 5,
         "pos": 17,
         "terrain": "O",
-        "features": "Raging Estuary",
-        "encounter": "",
+        "features": "",
+        "encounter": "The area is marked by the quiet quasar quarters, a legacy of nautical druids and their tales.",
         "history": []
     },
     {
@@ -163,7 +163,7 @@
         "chunk": 5,
         "pos": 20,
         "terrain": "O",
-        "features": "Shadowy Seafloor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -171,24 +171,24 @@
         "chunk": 5,
         "pos": 21,
         "terrain": "O",
-        "features": "Azure Thermocline",
-        "encounter": "",
+        "features": "",
+        "encounter": "The marine mausoleum here tell a tale of manta protectors and their desire to investigate the disappearance of a local sailor.",
         "history": []
     },
     {
         "chunk": 5,
         "pos": 22,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "H",
+        "features": "Majestic Heath",
+        "encounter": "Within the embrace of ivy-covered ruins, you hear stone sentinel spirits practicing their calls and songs, accompanied by damp ferns.",
         "history": []
     },
     {
         "chunk": 5,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Mystical Cliff",
+        "encounter": "Among the ruined mountain citadel, you sense a connection to vibrating volcanic valkyries and their fear.",
         "history": []
     },
     {
@@ -219,7 +219,7 @@
         "chunk": 5,
         "pos": 27,
         "terrain": "O",
-        "features": "Sapphire Basin",
+        "features": "Thundering Seafloor",
         "encounter": "",
         "history": []
     },
@@ -251,7 +251,7 @@
         "chunk": 5,
         "pos": 31,
         "terrain": "O",
-        "features": "Jeweled Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -260,14 +260,14 @@
         "pos": 32,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The surroundings bear nautical nexus, suggesting tales of sea serpents.",
         "history": []
     },
     {
         "chunk": 5,
         "pos": 33,
         "terrain": "O",
-        "features": "Foamy Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -275,7 +275,7 @@
         "chunk": 5,
         "pos": 34,
         "terrain": "O",
-        "features": "",
+        "features": "Sultry Lagoon",
         "encounter": "",
         "history": []
     },
@@ -331,7 +331,7 @@
         "chunk": 5,
         "pos": 41,
         "terrain": "O",
-        "features": "Marine Seafloor",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across a(n) zircon's protective amulet that bear the mark of quillback sentinels.",
         "history": []
     },
     {
@@ -395,7 +395,7 @@
         "chunk": 5,
         "pos": 49,
         "terrain": "O",
-        "features": "Timeless Salinity",
+        "features": "Wavy Trough",
         "encounter": "",
         "history": []
     },
@@ -428,14 +428,14 @@
         "pos": 53,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Tales speak of the derelict driftwood dwelling left by oceanic oathkeepers after they had assist a researcher in studying the effects of the moon on tides.",
         "history": []
     },
     {
         "chunk": 5,
         "pos": 54,
         "terrain": "O",
-        "features": "Briny Fathom",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -444,7 +444,7 @@
         "pos": 55,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by hidden hull hollow, with signs of sea shadows nearby.",
         "history": []
     },
     {
@@ -459,7 +459,7 @@
         "chunk": 5,
         "pos": 57,
         "terrain": "O",
-        "features": "Cool Lagoon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -475,8 +475,8 @@
         "chunk": 5,
         "pos": 59,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Clear Ocean",
+        "encounter": "Rumors speak of stingray mystics that help a prince transform back from his shark form in this vicinity.",
         "history": []
     },
     {
@@ -484,7 +484,7 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're filled with hopefulness upon finding the underwater volcanic ruins linked to marine maelstrom mages.",
         "history": []
     },
     {
@@ -516,7 +516,7 @@
         "pos": 64,
         "terrain": "O",
         "features": "",
-        "encounter": "You spot whirlpool witches heralding hypnotic harmonies, casting shadows on a(n) opal of insight.",
+        "encounter": "",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 5,
         "pos": 66,
         "terrain": "O",
-        "features": "Hushed Fjord",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "The quiet quartermaster's quarters here tell a tale of reef rocs and their desire to capture the essence of a moonlit wave for a sorcerer.",
+        "encounter": "",
         "history": []
     },
     {
@@ -564,14 +564,14 @@
         "pos": 70,
         "terrain": "O",
         "features": "",
-        "encounter": "The path reveals pufferfish that seem to be rallying the reefbound rebels in order to challenge the tide controllers to restore balance.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 5,
         "pos": 71,
         "terrain": "O",
-        "features": "",
+        "features": "Coastal Delta",
         "encounter": "",
         "history": []
     },
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "Your journey is interrupted by zoned-out ziggurat zone, with signs of nautical druids nearby.",
+        "encounter": "",
         "history": []
     },
     {
@@ -588,7 +588,7 @@
         "pos": 73,
         "terrain": "O",
         "features": "",
-        "encounter": "Your feel fulfillment when you see celestial seahorse guardians near a(n) ship's logbook.",
+        "encounter": "",
         "history": []
     },
     {
@@ -596,7 +596,7 @@
         "pos": 74,
         "terrain": "O",
         "features": "",
-        "encounter": "Echoes of ocean oracles resonate, accompanied by distinct seashell's echo of the deep.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,14 +604,14 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The atlantean anemone rustles as geyser spirits are orchestrating oceanic overtures behind them.",
         "history": []
     },
     {
         "chunk": 5,
         "pos": 76,
         "terrain": "O",
-        "features": "Pristine Gulf",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -619,7 +619,7 @@
         "chunk": 5,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Frigid Inlet",
         "encounter": "",
         "history": []
     },
@@ -628,7 +628,7 @@
         "pos": 78,
         "terrain": "O",
         "features": "",
-        "encounter": "You see the ghostly pirate cove suggesting past activities of sea turtles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -692,7 +692,7 @@
         "pos": 86,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A sudden peacefulness grips you as starlit selkies weaving water spells tidal trenches.",
         "history": []
     },
     {
@@ -707,7 +707,7 @@
         "chunk": 5,
         "pos": 88,
         "terrain": "O",
-        "features": "Roaring Vortex",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -732,7 +732,7 @@
         "pos": 91,
         "terrain": "O",
         "features": "",
-        "encounter": "Rumors speak of maelstrom mages that investigate the sudden change in sea currents in this vicinity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -764,7 +764,7 @@
         "pos": 95,
         "terrain": "O",
         "features": "",
-        "encounter": "You discover a(n) rune-etched rudder that seems out of place, hinting at sea turtles.",
+        "encounter": "",
         "history": []
     },
     {
@@ -787,7 +787,7 @@
         "chunk": 5,
         "pos": 98,
         "terrain": "O",
-        "features": "Sundrenched Basin",
+        "features": "",
         "encounter": "",
         "history": []
     },

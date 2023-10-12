@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) whale's wishbone hidden among the coral clover, which seems to be lost by barnacle behemoths.",
         "history": []
     },
     {
@@ -43,7 +43,7 @@
         "chunk": 33,
         "pos": 5,
         "terrain": "O",
-        "features": "Azure Horizon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -75,8 +75,8 @@
         "chunk": 33,
         "pos": 9,
         "terrain": "O",
-        "features": "Choppy Whirlpool",
-        "encounter": "The area is marked by a(n) kelp-woven belt, hinting at the tales of guppy enchanters.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -91,7 +91,7 @@
         "chunk": 33,
         "pos": 11,
         "terrain": "O",
-        "features": "",
+        "features": "Lush Abyss",
         "encounter": "",
         "history": []
     },
@@ -100,7 +100,7 @@
         "pos": 12,
         "terrain": "O",
         "features": "",
-        "encounter": "Sounds of benevolent brine beasts unraveling underwater enigmas emerge from (a) island inlets.",
+        "encounter": "",
         "history": []
     },
     {
@@ -123,7 +123,7 @@
         "chunk": 33,
         "pos": 15,
         "terrain": "O",
-        "features": "",
+        "features": "Whispering Islet",
         "encounter": "",
         "history": []
     },
@@ -156,7 +156,7 @@
         "pos": 19,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The scent of freshly painted ship hull fills the air, making you feel connectedness.",
         "history": []
     },
     {
@@ -171,7 +171,7 @@
         "chunk": 33,
         "pos": 21,
         "terrain": "O",
-        "features": "Ethereal Eddy",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -187,8 +187,8 @@
         "chunk": 33,
         "pos": 23,
         "terrain": "O",
-        "features": "Choppy Whirlpool",
-        "encounter": "",
+        "features": "",
+        "encounter": "The path reveals seahorses that seem to be pirouetting on pirate planks in order to help a merchant sell exotic goods from distant lands.",
         "history": []
     },
     {
@@ -212,14 +212,14 @@
         "pos": 26,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Your journey is interrupted by timeless tidal tear, with traces of marine memory makers nearby.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 27,
         "terrain": "O",
-        "features": "Sunlit Current",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -227,8 +227,8 @@
         "chunk": 33,
         "pos": 28,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Hypnotic Ocean",
+        "encounter": "You're drawn to a(n) coral choker, only to find signs of pelagic pixies unfurling underwater umbrellas.",
         "history": []
     },
     {
@@ -251,7 +251,7 @@
         "chunk": 33,
         "pos": 31,
         "terrain": "O",
-        "features": "Misty Wave",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -259,7 +259,7 @@
         "chunk": 33,
         "pos": 32,
         "terrain": "O",
-        "features": "",
+        "features": "Azure Ocean",
         "encounter": "",
         "history": []
     },
@@ -339,7 +339,7 @@
         "chunk": 33,
         "pos": 42,
         "terrain": "O",
-        "features": "Lush Islet",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -356,7 +356,7 @@
         "pos": 44,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Whispers suggest tuna shoals are imbibing in inky inlets island inlets.",
         "history": []
     },
     {
@@ -387,7 +387,7 @@
         "chunk": 33,
         "pos": 48,
         "terrain": "O",
-        "features": "Vast Chasm",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -404,7 +404,7 @@
         "pos": 50,
         "terrain": "O",
         "features": "",
-        "encounter": "You hear the distant sound of nautical navigators parleying with pelagic pixies.",
+        "encounter": "",
         "history": []
     },
     {
@@ -420,7 +420,7 @@
         "pos": 52,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You see the nautical nexus suggesting past activities of giant squids.",
         "history": []
     },
     {
@@ -434,9 +434,9 @@
     {
         "chunk": 33,
         "pos": 54,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Gargantuan Alp",
+        "encounter": "The path is littered with frozen river crossing, a testament to gravity-defying rock floaters observing animal tracks.",
         "history": []
     },
     {
@@ -475,7 +475,7 @@
         "chunk": 33,
         "pos": 59,
         "terrain": "O",
-        "features": "Shimmering Deep",
+        "features": "Turbid Fathom",
         "encounter": "",
         "history": []
     },
@@ -484,14 +484,14 @@
         "pos": 60,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're guided by sapphire sea freshness, leading to traces of sunlit seekers.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 61,
         "terrain": "O",
-        "features": "",
+        "features": "Shadowy Ocean",
         "encounter": "",
         "history": []
     },
@@ -499,24 +499,24 @@
         "chunk": 33,
         "pos": 62,
         "terrain": "O",
-        "features": "Breezy Estuary",
-        "encounter": "",
+        "features": "Crashing Ridge",
+        "encounter": "Rumors speak of oceanic orators that escort a merchant ship through pirate-infested waters in this vicinity.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 63,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Quaint Range",
+        "encounter": "You're captivated by a(n) worn-out shoe sole, which seem(s) to have ties with minotaurs.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 64,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Boundless Spire",
+        "encounter": "The area is marked by deserted alpine bakery, a legacy of hydras and their desire to help the mountain that's started to dream.",
         "history": []
     },
     {
@@ -524,7 +524,7 @@
         "pos": 65,
         "terrain": "O",
         "features": "",
-        "encounter": "The path is littered with signs of sea urchins and their interactions with a(n) reef's ring.",
+        "encounter": "",
         "history": []
     },
     {
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "You're drawn to a(n) lantern of tracking, which seem to have a connection with mystic merrow.",
+        "encounter": "",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "You find a(n) jug of alchemy that seems out of place, exuding a sense of humility.",
+        "encounter": "",
         "history": []
     },
     {
@@ -595,7 +595,7 @@
         "chunk": 33,
         "pos": 74,
         "terrain": "O",
-        "features": "Reflective Vents",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -611,7 +611,7 @@
         "chunk": 33,
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Raging Basin",
         "encounter": "",
         "history": []
     },
@@ -619,7 +619,7 @@
         "chunk": 33,
         "pos": 77,
         "terrain": "O",
-        "features": "",
+        "features": "Ominous Channel",
         "encounter": "",
         "history": []
     },
@@ -635,7 +635,7 @@
         "chunk": 33,
         "pos": 79,
         "terrain": "O",
-        "features": "",
+        "features": "Windy Brine",
         "encounter": "",
         "history": []
     },
@@ -643,7 +643,7 @@
         "chunk": 33,
         "pos": 80,
         "terrain": "O",
-        "features": "Twinkling Ripple",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -668,14 +668,14 @@
         "pos": 83,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) brinebound bracelet hidden among the glowing plankton bush, which seems to be lost by walruses.",
         "history": []
     },
     {
         "chunk": 33,
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Whispering Bight",
         "encounter": "",
         "history": []
     },
@@ -755,7 +755,7 @@
         "chunk": 33,
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Gulf",
         "encounter": "",
         "history": []
     },
@@ -772,7 +772,7 @@
         "pos": 96,
         "terrain": "O",
         "features": "",
-        "encounter": "Your surroundings become dense with lagoon lily, perfect for dolphins bargaining with brinebound beings.",
+        "encounter": "",
         "history": []
     },
     {
@@ -787,7 +787,7 @@
         "chunk": 33,
         "pos": 98,
         "terrain": "O",
-        "features": "Bubbling Atoll",
+        "features": "Muted Seabed",
         "encounter": "",
         "history": []
     },

@@ -12,7 +12,7 @@
         "pos": 1,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Echoes suggest wave wranglers are flirting with fathomless fiends poseidon's pantries.",
         "history": []
     },
     {
@@ -36,7 +36,7 @@
         "pos": 4,
         "terrain": "O",
         "features": "",
-        "encounter": "Your feel anxiety when you see lagoon looters near a(n) rod of rulership.",
+        "encounter": "",
         "history": []
     },
     {
@@ -44,7 +44,7 @@
         "pos": 5,
         "terrain": "O",
         "features": "",
-        "encounter": "The surroundings bear the mark of seashell sorcerers. They are cavorting with coral centaurs.",
+        "encounter": "",
         "history": []
     },
     {
@@ -59,7 +59,7 @@
         "chunk": 51,
         "pos": 7,
         "terrain": "O",
-        "features": "Nautical Ocean",
+        "features": "Ethereal Ridge",
         "encounter": "",
         "history": []
     },
@@ -84,14 +84,14 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "You feel respect as narwhal dreamweavers are outshining oceanic opulence near a(n) gloves of swimming and climbing.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 51,
         "pos": 11,
         "terrain": "O",
-        "features": "Languid Jetstream",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -147,7 +147,7 @@
         "chunk": 51,
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Windy Vortex",
         "encounter": "",
         "history": []
     },
@@ -171,8 +171,8 @@
         "chunk": 51,
         "pos": 21,
         "terrain": "O",
-        "features": "Cool Seamount",
-        "encounter": "",
+        "features": "",
+        "encounter": "You discover a(n) vexing voodoo doll concealed by pearlescent pondweed, hinting at seafloor scholars.",
         "history": []
     },
     {
@@ -186,14 +186,22 @@
     {
         "chunk": 51,
         "pos": 23,
-        "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "terrain": "M",
+        "features": "Dramatic Ledge",
+        "encounter": "You hear the distant sound of eagles crafting a crown of constellations.",
         "history": []
     },
     {
         "chunk": 51,
         "pos": 24,
+        "terrain": "M",
+        "features": "Majestic Volcano",
+        "encounter": "You stumble upon the deserted pottery workshop that hints at the tales of stone sphinxes.",
+        "history": []
+    },
+    {
+        "chunk": 51,
+        "pos": 25,
         "terrain": "O",
         "features": "",
         "encounter": "",
@@ -201,33 +209,25 @@
     },
     {
         "chunk": 51,
-        "pos": 25,
-        "terrain": "M",
-        "features": "Unyielding Watershed",
-        "encounter": "A sense of vulnerability washes over you as rock behemoths are reading ancient inscriptions nearby.",
-        "history": []
-    },
-    {
-        "chunk": 51,
         "pos": 26,
-        "terrain": "M",
-        "features": "Kaleidoscopic Elevation",
-        "encounter": "You find a(n) yklwa of thunder that seems out of place, exuding a sense of contemplation.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "You stumble upon the jade jetty.",
         "history": []
     },
     {
         "chunk": 51,
         "pos": 27,
-        "terrain": "M",
-        "features": "Serene Escarpment",
-        "encounter": "You stumble upon the decaying labyrinth of echoes.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "You stumble upon the hidden hull haven that hint at luminous lanternfish lords and their quest to help a local fisherman find a new fishing spot.",
         "history": []
     },
     {
         "chunk": 51,
         "pos": 28,
         "terrain": "O",
-        "features": "Ominous Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -236,7 +236,7 @@
         "pos": 29,
         "terrain": "O",
         "features": "",
-        "encounter": "Navigating the petrified pelagic portal becomes challenging due to luminous lanternfish lords chasing celestial currents.",
+        "encounter": "",
         "history": []
     },
     {
@@ -252,15 +252,15 @@
         "pos": 31,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're cautioned about nautical navigators that are known to be wandering wave-washed wastelands near atlantean astral anomaly.",
         "history": []
     },
     {
         "chunk": 51,
         "pos": 32,
         "terrain": "O",
-        "features": "Wavy Seabed",
-        "encounter": "You discover a(n) eldritch map that seems out of place, hinting at giant squids.",
+        "features": "",
+        "encounter": "A sudden harbor hustle and bustle alerts you to the presence of kelp krakens.",
         "history": []
     },
     {
@@ -274,6 +274,22 @@
     {
         "chunk": 51,
         "pos": 34,
+        "terrain": "M",
+        "features": "Thrusting Range",
+        "encounter": "A sudden respect grips you as ravens observing animal tracks beneath a blanket of wildflowers.",
+        "history": []
+    },
+    {
+        "chunk": 51,
+        "pos": 35,
+        "terrain": "M",
+        "features": "Jovian Crest",
+        "encounter": "You're filled with admiration upon finding the abandoned griffin knight's keep linked to foxes.",
+        "history": []
+    },
+    {
+        "chunk": 51,
+        "pos": 36,
         "terrain": "O",
         "features": "",
         "encounter": "",
@@ -281,26 +297,10 @@
     },
     {
         "chunk": 51,
-        "pos": 35,
-        "terrain": "M",
-        "features": "Thrusting Knoll",
-        "encounter": "Tales speak of alpine ibexes that are grazing livestock in these parts.",
-        "history": []
-    },
-    {
-        "chunk": 51,
-        "pos": 36,
-        "terrain": "M",
-        "features": "Lofty Foothill",
-        "encounter": "You're warned of hidden crevasses ahead, where aristocrats often are praying to mountain deities.",
-        "history": []
-    },
-    {
-        "chunk": 51,
         "pos": 37,
-        "terrain": "M",
-        "features": "Stark Elevation",
-        "encounter": "Your path is marked by decaying tower of the moon mages, a testament to minotaurs who aimed to telling tales that shape the future.",
+        "terrain": "O",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -323,8 +323,8 @@
         "chunk": 51,
         "pos": 40,
         "terrain": "O",
-        "features": "Crystal Riptide",
-        "encounter": "The path reveals pearlescent pegasi that seem to be nurturing nautical novelties in order to collect rare luminescent algae for a potion.",
+        "features": "",
+        "encounter": "",
         "history": []
     },
     {
@@ -332,7 +332,7 @@
         "pos": 41,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Navigating the wave-woven web becomes challenging due to krakens illuminating inky illusions.",
         "history": []
     },
     {
@@ -348,7 +348,7 @@
         "pos": 43,
         "terrain": "O",
         "features": "",
-        "encounter": "You discover a(n) harbor's harmonium that seems out of place, hinting at viperfish seers.",
+        "encounter": "Among the sea sprite sprout, you find a(n) fantastical fishing net that resonate with desolation.",
         "history": []
     },
     {
@@ -388,7 +388,7 @@
         "pos": 48,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) whirlpool whistle nestled within the nautical nectar bush, surrounded by deep abyssal brine.",
         "history": []
     },
     {
@@ -403,7 +403,7 @@
         "chunk": 51,
         "pos": 50,
         "terrain": "O",
-        "features": "Foamy Undertow",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -451,7 +451,7 @@
         "chunk": 51,
         "pos": 56,
         "terrain": "O",
-        "features": "",
+        "features": "Undulating Ocean",
         "encounter": "",
         "history": []
     },
@@ -459,7 +459,7 @@
         "chunk": 51,
         "pos": 57,
         "terrain": "O",
-        "features": "Twinkling Passage",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -475,7 +475,7 @@
         "chunk": 51,
         "pos": 59,
         "terrain": "O",
-        "features": "",
+        "features": "Hushed Chasm",
         "encounter": "",
         "history": []
     },
@@ -508,7 +508,7 @@
         "pos": 63,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The path bears marks of sea serpents and their interactions with a(n) lunar lantern.",
         "history": []
     },
     {
@@ -539,7 +539,7 @@
         "chunk": 51,
         "pos": 67,
         "terrain": "O",
-        "features": "Jeweled Trough",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -555,7 +555,7 @@
         "chunk": 51,
         "pos": 69,
         "terrain": "O",
-        "features": "Lush Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -572,7 +572,7 @@
         "pos": 71,
         "terrain": "O",
         "features": "",
-        "encounter": "A sense of serenity washes over you as marine mystics are swaying to siren serenades nearby.",
+        "encounter": "A sudden pirate's tobacco pipe alerts you to the presence of coral corsairs.",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You notice a(n) vortex violin that is oddly placed amongst the marine marjoram.",
         "history": []
     },
     {
@@ -620,14 +620,14 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "Mystic mirages, you hear tidal treants kneeling to kelpie knights, accompanied by palm leaf's greenness.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 51,
         "pos": 78,
         "terrain": "O",
-        "features": "",
+        "features": "Bubbling Undertow",
         "encounter": "",
         "history": []
     },
@@ -691,7 +691,7 @@
         "chunk": 51,
         "pos": 86,
         "terrain": "O",
-        "features": "Raging Narrows",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -715,7 +715,7 @@
         "chunk": 51,
         "pos": 89,
         "terrain": "O",
-        "features": "",
+        "features": "Infinite Riptide",
         "encounter": "",
         "history": []
     },
@@ -756,15 +756,15 @@
         "pos": 94,
         "terrain": "O",
         "features": "",
-        "encounter": "Nearby, anglerfish are illuminating inky illusions around a(n) tidal tome.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 51,
         "pos": 95,
         "terrain": "O",
-        "features": "Emerald Shoal",
-        "encounter": "",
+        "features": "",
+        "encounter": "You're captivated by a(n) mermaid's comb, which seem(s) to have ties with swordfish.",
         "history": []
     },
     {

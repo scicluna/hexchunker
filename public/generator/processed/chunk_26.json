@@ -28,14 +28,14 @@
         "pos": 3,
         "terrain": "O",
         "features": "",
-        "encounter": "The ground is littered with the tucked-away tidal trench, and you can smell sandcastle's earthiness coming from a nearby seashell shelters.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 26,
         "pos": 4,
         "terrain": "O",
-        "features": "",
+        "features": "Haunting Atoll",
         "encounter": "",
         "history": []
     },
@@ -84,7 +84,7 @@
         "pos": 10,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the sunken sorcerer's sanctum, a legacy of wave wranglers and their tales.",
         "history": []
     },
     {
@@ -107,7 +107,7 @@
         "chunk": 26,
         "pos": 13,
         "terrain": "O",
-        "features": "Wavy Upwelling",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -115,8 +115,8 @@
         "chunk": 26,
         "pos": 14,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Whispering Reef",
+        "encounter": "You're intrigued by neglected nautical niche that speak of strange fisherman and their deliver a message in a bottle to its intended recipient.",
         "history": []
     },
     {
@@ -124,7 +124,7 @@
         "pos": 15,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "Kelp-covered keeps, you hear mystical moonjellies navigating the nebulous narrows, accompanied by suntan lotion from beachgoers.",
         "history": []
     },
     {
@@ -147,7 +147,7 @@
         "chunk": 26,
         "pos": 18,
         "terrain": "O",
-        "features": "",
+        "features": "Turbulent Swell",
         "encounter": "",
         "history": []
     },
@@ -163,7 +163,7 @@
         "chunk": 26,
         "pos": 20,
         "terrain": "O",
-        "features": "Undulating Estuary",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -172,7 +172,7 @@
         "pos": 21,
         "terrain": "O",
         "features": "",
-        "encounter": "There's a legend about maritime mummies that challenge the abyssal lord for control of a sea trench in this area.",
+        "encounter": "",
         "history": []
     },
     {
@@ -219,7 +219,7 @@
         "chunk": 26,
         "pos": 27,
         "terrain": "O",
-        "features": "",
+        "features": "Deep Current",
         "encounter": "",
         "history": []
     },
@@ -235,7 +235,7 @@
         "chunk": 26,
         "pos": 29,
         "terrain": "O",
-        "features": "Tropical Thermocline",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -243,7 +243,7 @@
         "chunk": 26,
         "pos": 30,
         "terrain": "O",
-        "features": "Murky Ocean",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -268,7 +268,7 @@
         "pos": 33,
         "terrain": "O",
         "features": "",
-        "encounter": "You discover a(n) siren's sundial that seems out of place, hinting at brine banshees.",
+        "encounter": "",
         "history": []
     },
     {
@@ -276,7 +276,7 @@
         "pos": 34,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel uncertainty as you spot a(n) barnacle's brush associated with driftwood dryads.",
         "history": []
     },
     {
@@ -299,7 +299,7 @@
         "chunk": 26,
         "pos": 37,
         "terrain": "O",
-        "features": "Lush Cove",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -324,7 +324,7 @@
         "pos": 40,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You find a(n) xebec's blade nestled within the xanadu xerophyte, surrounded by sapphire sea freshness.",
         "history": []
     },
     {
@@ -347,7 +347,7 @@
         "chunk": 26,
         "pos": 43,
         "terrain": "O",
-        "features": "",
+        "features": "Whispering Trough",
         "encounter": "",
         "history": []
     },
@@ -371,8 +371,8 @@
         "chunk": 26,
         "pos": 46,
         "terrain": "O",
-        "features": "",
-        "encounter": "",
+        "features": "Expansive Whirlpool",
+        "encounter": "A local offers you a quest to help a local teacher educate children about the sea involving whirlpool witches.",
         "history": []
     },
     {
@@ -412,7 +412,7 @@
         "pos": 51,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're drawn to a(n) reef rune by a peculiar sense of pensiveness.",
         "history": []
     },
     {
@@ -452,14 +452,14 @@
         "pos": 56,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) lunar lute, which seem(s) to have ties with water sprites.",
         "history": []
     },
     {
         "chunk": 26,
         "pos": 57,
         "terrain": "O",
-        "features": "Choppy Trench",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -492,7 +492,7 @@
         "pos": 61,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A local speaks of seashell sorcerers that had sought to collect rare oceanic herbs for a healer in this region.",
         "history": []
     },
     {
@@ -531,7 +531,7 @@
         "chunk": 26,
         "pos": 66,
         "terrain": "O",
-        "features": "",
+        "features": "Wild Abyss",
         "encounter": "",
         "history": []
     },
@@ -540,7 +540,7 @@
         "pos": 67,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "The area is marked by the quiet quay quarry, a legacy of ocean oracles and their tales.",
         "history": []
     },
     {
@@ -548,7 +548,7 @@
         "pos": 68,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "A strong scent of fishermen's bait leads you towards tidal trolls.",
         "history": []
     },
     {
@@ -556,7 +556,7 @@
         "pos": 69,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You come across the kelp-covered kingdom that speak(s) of deep-sea djinns and their tales.",
         "history": []
     },
     {
@@ -580,7 +580,7 @@
         "pos": 72,
         "terrain": "O",
         "features": "",
-        "encounter": "Tales suggest tsunami titans once wandering wave-washed wastelands in this vicinity.",
+        "encounter": "",
         "history": []
     },
     {
@@ -604,14 +604,14 @@
         "pos": 75,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You're captivated by a(n) starboard shield, which seem(s) to have ties with dolphins.",
         "history": []
     },
     {
         "chunk": 26,
         "pos": 76,
         "terrain": "O",
-        "features": "",
+        "features": "Vast Horizon",
         "encounter": "",
         "history": []
     },
@@ -620,14 +620,14 @@
         "pos": 77,
         "terrain": "O",
         "features": "",
-        "encounter": "Sapphire sanctuaries, you sense the presence of lagoon lightweavers.",
+        "encounter": "",
         "history": []
     },
     {
         "chunk": 26,
         "pos": 78,
         "terrain": "O",
-        "features": "Dazzling Reef",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -675,7 +675,7 @@
         "chunk": 26,
         "pos": 84,
         "terrain": "O",
-        "features": "",
+        "features": "Pacific Ridge",
         "encounter": "",
         "history": []
     },
@@ -683,7 +683,7 @@
         "chunk": 26,
         "pos": 85,
         "terrain": "O",
-        "features": "",
+        "features": "Fathomless Shoal",
         "encounter": "",
         "history": []
     },
@@ -723,7 +723,7 @@
         "chunk": 26,
         "pos": 90,
         "terrain": "O",
-        "features": "",
+        "features": "Majestic Channel",
         "encounter": "",
         "history": []
     },
@@ -740,7 +740,7 @@
         "pos": 92,
         "terrain": "O",
         "features": "",
-        "encounter": "",
+        "encounter": "You feel adventurousness as you spot a(n) vortex vase associated with seafloor scholars.",
         "history": []
     },
     {
@@ -755,7 +755,7 @@
         "chunk": 26,
         "pos": 94,
         "terrain": "O",
-        "features": "",
+        "features": "Breezy Undertow",
         "encounter": "",
         "history": []
     },
@@ -763,7 +763,7 @@
         "chunk": 26,
         "pos": 95,
         "terrain": "O",
-        "features": "Shimmering Horizon",
+        "features": "",
         "encounter": "",
         "history": []
     },
@@ -771,7 +771,7 @@
         "chunk": 26,
         "pos": 96,
         "terrain": "O",
-        "features": "",
+        "features": "Glassy Trough",
         "encounter": "",
         "history": []
     },
@@ -795,7 +795,7 @@
         "chunk": 26,
         "pos": 99,
         "terrain": "O",
-        "features": "",
+        "features": "Cool Narrows",
         "encounter": "",
         "history": []
     }
