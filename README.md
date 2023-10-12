@@ -16,6 +16,8 @@ Frontend: The user interface of HEXCHUNKER is handled with NextJS 13
 
 Backend: The backend is powered by NextJS 13
 
+Generators: The generators are built with Python
+
 ## Getting Started
 To get HEXCHUNKER running locally on your machine, please follow the steps below:
 
